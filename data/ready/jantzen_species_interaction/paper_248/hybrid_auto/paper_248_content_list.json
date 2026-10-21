@@ -1,0 +1,1798 @@
+[
+    {
+        "type": "text",
+        "text": "Article ",
+        "bbox": [
+            57,
+            122,
+            105,
+            135
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spotted Fever Group Rickettsiae in Ticks and Small Mammals from Grassland and Forest Habitats in Central Germany ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            137,
+            915,
+            184
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Charlotte Arz 1, Nina Król $\\mathbf { 1 } _ { \\textcircled { 1 0 } }$ , Christian Imholt 2, Kathrin Jeske 3, Zaida Rentería-Solís 4, Rainer G. Ulrich 3 , Jens Jacob 2, Martin Pfeffer $\\mathbf { 1 } _ { \\textcircled { 1 } }$ and Anna Obiegala 1,* ",
+        "bbox": [
+            57,
+            197,
+            899,
+            228
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 Institute of Animal Hygiene and Veterinary Public Health, Faculty of Veterinary Medicine, University of Leipzig, An den Tierkliniken 1, 04103 Leipzig, Germany; c.arz@studserv.uni-leipzig.de (C.A.); nina.krol@vetmed.uni-leipzig.de (N.K.); pfeffer@vetmed.uni-leipzig.de (M.P.) ",
+            "2 Institute for Epidemiology and Pathogen Diagnostics, Julius Kühn-Institute, Toppheideweg 88, 48161 Münster, Germany; christian.imholt@julius-kuehn.de (C.I.); jens.jacob@julius-kuehn.de (J.J.) ",
+            "3 Institute of Novel and Emerging Infectious Diseases, Friedrich-Loeffler-Institut, Südufer 10, 17493 Greifswald, Germany; kathrin.jeske@gmx.de (K.J.); rainer.ulrich@fli.de (R.G.U.) ",
+            "4 Institute for Parasitology, Centre for Infectious Diseases, Faculty of Veterinary Medicine, University of Leipzig, An den Tierkliniken 35, 04103 Leipzig, Germany; zaida_melina.renteria_solis@uni-leipzig.de ",
+            "* Correspondence: anna.obiegala@vetmed.uni-leipzig.de "
+        ],
+        "bbox": [
+            273,
+            253,
+            934,
+            395
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bfdea8ebd04eede9d53a46b40621efc7bd340acf95e9983651c32aa29928def.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            512,
+            146,
+            533
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Arz, C.; Król, N.; Imholt, C.; Jeske, K.; Rentería-Solís, Z.; Ulrich, R.G.; Jacob, J.; Pfeffer, M.; Obiegala, A. Spotted Fever Group Rickettsiae in Ticks and Small Mammals from Grassland and Forest Habitats in Central Germany. Pathogens 2023, 12, 933. https://doi.org/10.3390/ pathogens12070933 ",
+        "bbox": [
+            57,
+            539,
+            253,
+            664
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editors: Borawski Karol and Anna Moniuszko-Malinowska ",
+        "bbox": [
+            57,
+            674,
+            238,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 25 April 2023 ",
+        "bbox": [
+            57,
+            709,
+            181,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Revised: 5 July 2023 ",
+        "bbox": [
+            57,
+            724,
+            161,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: 7 July 2023 ",
+        "bbox": [
+            57,
+            739,
+            169,
+            750
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: 12 July 2023 ",
+        "bbox": [
+            57,
+            753,
+            179,
+            764
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e429e919f1f3ef4c97ee7fad1f360b6824bf960bb43e8bf2dc479976402e1a59.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            777,
+            154,
+            803
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). ",
+        "bbox": [
+            57,
+            808,
+            255,
+            917
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Rickettsiae of the spotted fever group (SFG) are zoonotic tick-borne pathogens. Small mammals are important hosts for the immature life stages of two of the most common tick species in Europe, Ixodes ricinus and Dermacentor reticulatus. These hosts and vectors can be found in diverse habitats with different vegetation types like grasslands and forests. To investigate the influence of environmental and individual factors on Rickettsia prevalence, this study aimed to analyse the prevalence of SFG rickettsiae in ticks and small mammals in different small-scale habitats in central Germany for the first time. Small mammals of ten species and ticks of two species were collected from grasslands and forests in the Hainich-Dün region, central Germany. After species identification, DNA samples from 1098 ticks and ear snips of 1167 small mammals were screened for Rickettsia DNA by qPCR targeting the gltA gene. Positive samples were retested by conventional PCR targeting the ompB gene and sequencing. Rickettsia DNA was detected in eight out of ten small mammal species. Small mammal hosts from forests $( 1 4 . 0 \\% )$ were significantly more often infected than those from grasslands $( 4 . 4 \\% )$ ) $( p < 0 . 0 0 1 )$ ). The highest prevalence was found in the mostly forest-inhabiting genus Apodemus $( 1 4 . 8 \\% )$ and the lowest in Microtus $( 6 . 6 \\% )$ , which inhabits grasslands. The prevalence was higher in D. reticulatus $( 4 6 . 3 \\% )$ than in the I. ricinus complex $( 8 . 6 \\% )$ . Adult ticks were more often infected than nymphs $( p = 0 . 0 1 9 9 )$ ). All sequenced rickettsiae in I. ricinus complex ticks were R. helvetica, and the ones in D. reticulatus were R. raoultii. Unlike adults, questing nymphs have had only one blood meal, which explains the higher prevalence in I. ricinus adults. Interestingly, habitat type did influence infection probability in small mammals, but did not in ticks. A possible explanation may be the high prevalence in Apodemus flavicollis and A. sylvaticus which were more abundant in the forest. ",
+        "bbox": [
+            273,
+            411,
+            939,
+            717
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ixodes; Dermacentor; Apodemus; Sorex; Microtus; Clethrionomys; season; life stage; ecotone; Borrelia ",
+        "bbox": [
+            275,
+            734,
+            939,
+            760
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            277,
+            806,
+            393,
+            818
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hard ticks are haematophagous arthropods that can be found in diverse habitats with different kinds of vegetation. While feeding, they may serve as vectors for multiple tick-borne pathogens (TBPs) like protozoan parasites, bacteria, and viruses. The most common tick species in central Europe is the castor bean tick Ixodes ricinus [1]. It can be found in various environments, from forests over grasslands to urban areas [2]. As three-host non-nidicolous ectoparasites, immature I. ricinus ticks (larvae and nymphs) feed ",
+        "bbox": [
+            275,
+            824,
+            939,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            57,
+            57,
+            115,
+            99
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "pathogens ",
+        "bbox": [
+            119,
+            67,
+            278,
+            93
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "MDPI ",
+        "bbox": [
+            865,
+            64,
+            937,
+            98
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Pathogens 2023, 12, 933. https://doi.org/10.3390/pathogens12070933 ",
+        "bbox": [
+            57,
+            965,
+            465,
+            977
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "https://www.mdpi.com/journal/pathogens ",
+        "bbox": [
+            670,
+            965,
+            937,
+            977
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "on small and medium-sized mammals, birds, and reptiles, while adult ticks rather feed on larger mammals such as roe deer (Capreolus capreolus) and wild boar (Sus scrofa) [3]. The geographical movement of the hosts is essential for the distribution of ticks and their carried pathogens [4]. The ornate dog tick, Dermacentor reticulatus, is also a commonly found tick species in Germany and is linked to many TBPs [1]. Its immature life stages are nidicolous and feed on small mammals, while non-nidicolous adults usually feed on larger mammals [5]. ",
+        "bbox": [
+            273,
+            112,
+            941,
+            216
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In general, small mammals act as reservoirs for many vector-borne pathogens such as tick-borne alpha proteobacteria belonging to the order Rickettsiales or spirochaetes from genus Borrelia [6]. Thus, the composition of the natural habitat plays an important role in the occurrence and diversity of small mammal species [7], and in turn, may have an impact on the occurrence and density of hard ticks and their TBPs [8]. ",
+        "bbox": [
+            273,
+            217,
+            941,
+            291
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rickettsia spp. are obligate intracellular bacteria and can be divided into four groups: the spotted fever group (SFG), the typhus group (TG), the R. canadensis group, and the R. bellii group [9]. Rickettsiae have been detected on all continents except Antarctica [9] and are mostly transmitted to mammals, including humans, reptiles, and birds, by haematophagous arthropods like fleas, lice, ticks, and other mites through blood meals or contaminated faeces [10]. Forming the most numerous group within the genus, the SFG is the most widespread in Europe and almost exclusively tick-borne, with only two exceptions: R. felis and R. acari [11]. Rickettsia spp. transmission between ticks has been confirmed for transstadial, sexual, and transovarial pathways, and also, but rather rarely, through co-feeding of I. ricinus ticks [12–15]. Even though different transmission paths exist within a population of ticks, reservoir hosts seem to play an important role in maintaining the life cycle and distribution of the bacteria as well. DNA of R. helvetica was detected in roe deer and wild boar, and therefore these mammal species are handled as potential reservoir hosts [16]; however, small mammals are assumed to be the main reservoir hosts [17]. ",
+        "bbox": [
+            273,
+            291,
+            941,
+            499
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Both R. helvetica and R. monacensis are part of the SFG and are associated with I. ricinus. Rickettsia helvetica is the most commonly found Rickettsia species in Germany [18–21] and is considered pathogenic due to multiple reports of clinical symptoms like fever, headaches, and myalgia in connection with R. helvetica infections in humans [9,22]. Rickettsia monacensis may rarely cause a rickettsiosis [23]. ",
+        "bbox": [
+            273,
+            500,
+            941,
+            574
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rickettsia raoultii, also part of the SFG, is usually found in D. reticulatus and D. marginatus and has been detected in small mammals as well [20]. This species is associated with a syndrome called “SENLAT”, which stands for scalp eschars and neck lymphadenopathy after tick bite [1,9,24]. The syndrome has been diagnosed in various countries across Europe, including Germany; however, not in all cases R. raoultii has been confirmed as the causative agent [24–26]. Likewise, R. slovaca may cause these symptoms and is transmitted by the same vectors [27]. Studies on co-infections of Rickettsia spp. and Borrelia spp.—causing the most common tick-borne disease in Europe, Lyme disease—in ticks and especially in small mammals are rare [28]. Rickettsia spp. prevalence in ticks has been analysed earlier regarding different factors like season, tick life stage, and multiple landscape factors [29–31]. However, observations of Rickettsia prevalence in ticks, including other demographic factors such as habitat and small mammal species composition, plus Rickettsia prevalence in small mammals in the context of habitat structure are scarce in Europe. To fill these knowledge gaps, in this study, we (1) analysed questing ticks and small mammals at differently structured study sites around the Hainich-Dün National Park in central Germany, (2) investigated their SFG Rickettsia prevalence, (3) identified the Rickettsia species, (4) analysed co-infection rates of Rickettsia spp. and Borrelia spp. in ticks and small mammals, and (5) investigated the influence of environmental and individual host and vector factors like habitat, species of small mammals and ticks, ticks’ life stage, and season on Rickettsia prevalence. ",
+        "bbox": [
+            273,
+            574,
+            941,
+            872
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            57,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 of 18 ",
+        "bbox": [
+            897,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            112,
+            477,
+            124
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Study Sites, Sample Collection, and DNA Extraction ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            128,
+            670,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1. Study Sites ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            143,
+            406,
+            159
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In total, 21 study sites surrounding the Hainich-Dün National Park in Thuringia, central Germany were examined. The area is one of the largest continuous deciduous forests in Germany, with European beech (Fagus sylvatica) being the dominant tree species. The region is characterised by forest and agricultural areas which are cultivated to different extents. While some forests and grasslands are extensively managed, the forests of the National Park itself are protected (https://www.biodiversity-exploratories.de/en/regions/ hainich-duen/, accessed on 25 April 2023). A more detailed description of the study area was given in Król et al. [32]. ",
+        "bbox": [
+            272,
+            162,
+            944,
+            282
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2. Tick Collection ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            293,
+            433,
+            307
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A total of 1115 questing ticks were collected for a previous study by flagging $1 0 0 \\mathrm { m } ^ { 2 }$ simultaneously with small mammal trapping at 17 of the 21 sites, once per season (spring, summer, and autumn) in 2018 and 2019 [32] (Figure A1). The study sites for ticks were composed of one plot in the forest and one in the bordering grassland–forest ecotone, as described before [32]. Collected ticks were specified for sex, life stage, and species under a light microscope (Motic® SMZ–171, Moticeurope, S.L.U., Barcelona, Spain) according to taxonomic keys [33,34]. DNA was extracted using a QIAmp DNA Mini Kit (Qiagen, Hilden, Germany) according to the manufacturer’s instructions for DNA isolation. Extracted DNA of 1094 ticks was available from the study of Król et al., where further details of tick handling, taxonomic identification, and DNA extraction procedure are described [32]. In addition to the given dataset, four ticks (three nymphs and one female of I. ricinus) that were all collected in spring 2019 were processed after the same protocol. Seventeen individuals (four I. ricinus nymphs and thirteen D. reticulatus adults) had to be excluded from further molecular biological analyses due to insufficient material conservation. Data on I. ricinus and I. inopinatus (presumably 16 individuals) were merged under the terminus $^ { \\prime \\prime } I .$ . ricinus complex” [35]. ",
+        "bbox": [
+            272,
+            311,
+            944,
+            549
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In total, 1115 ticks belonging to 2 species were collected (Table A1). The most prevalent species was the I. ricinus complex $( 9 1 . 7 \\% )$ , followed by $D$ . reticulatus $( 8 . 3 \\% )$ . The most frequently found life stages were the nymphs of the I. ricinus complex $( 7 4 . 9 \\% )$ ). Most ticks were flagged in spring $( 7 4 . 1 \\% )$ in comparison to summer $( 1 8 . 3 \\% )$ and autumn $( 7 . 6 \\% )$ . In ecotones less ticks $( 3 5 . 2 \\% )$ were flagged than in forests $( 6 4 . 8 \\% )$ . After excluding the abovementioned ticks, 1018 ticks of the I. ricinus complex and 80 individuals of $D$ . reticulatus were further processed (Table 1). ",
+        "bbox": [
+            272,
+            551,
+            944,
+            656
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5215bd0aa8f28ff826dd0c9c6766042136e23e486dd4afbfe1883f79db115c5d.jpg",
+        "table_caption": [
+            "Table 1. Rickettsia spp. prevalence in ticks tested per habitat. "
+        ],
+        "table_footnote": [
+            "No.: number. 1 Ixodes ricinus and Ixodes inopinatus. "
+        ],
+        "table_body": "<table><tr><td>Tick Species</td><td>No. of Individuals in Ecotone Positive/Total (%)</td><td>No. of Individuals in Forest Positive/Total (%)</td><td>Total No. of Positive Individuals/Total (%)</td></tr><tr><td>Ixodes ricinus complex1</td><td>28/304 (9.2)</td><td>60/714 (8.4)</td><td>88/1018 (8.6)</td></tr><tr><td>Dermacentor reticulatus</td><td>34/74 (45.3)</td><td>3/6 (50.0)</td><td>37/80 (46.3)</td></tr><tr><td>Total</td><td>62/378 (16.4)</td><td>63/720 (8.8)</td><td>125/1098 (11.4)</td></tr></table>",
+        "bbox": [
+            57,
+            693,
+            942,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3. Small Mammal Collection ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            806,
+            517,
+            820
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Extracted DNA derived from small mammal skin samples was available from a former study [32]. The samples were taken from about $0 . 5 \\mathrm { c m } \\times 0 . 5 \\mathrm { c m }$ ear tissue. DNA extraction was performed using the same methodology as for the ticks. Small mammals were trapped at 21 study sites, each in a paired system of a forest plot and an adjacent grassland plot per site [32] (Figure A1). ",
+        "bbox": [
+            272,
+            824,
+            941,
+            900
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Snap trapping of small mammals took place in spring, summer, and autumn in 2017–2019. Trapping procedures, dissections, and further processing of samples have been ",
+        "bbox": [
+            272,
+            900,
+            941,
+            932
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 of 18 ",
+        "bbox": [
+            895,
+            64,
+            941,
+            76
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "published elsewhere [36,37]. For the current study, 1167 DNA samples that were randomly picked from 1945 individuals were available from summer 2017 and spring and summer 2018 and 2019 [32]. Extracted DNA belonged to 10 small mammal species of the families Soricidae, Cricetidae, and Muridae. The species collected most often was the common vole (Microtus arvalis) $n = 4 0 7$ ; $3 4 . 9 \\%$ ), followed by the bank vole (Clethrionomys glareolus) $n = 2 7 8$ ; 23.8%), the yellow-necked mouse (Apodemus flavicollis) $n = 2 4 0$ ; $2 0 . 6 \\%$ ), the longtailed field or wood mouse (Apodemus sylvaticus) $n = 1 0 8 .$ ; $9 . 3 \\%$ ), and the striped field mouse (Apodemus agrarius) $( n = 9 0 ; 7 . 7 \\% )$ ). Individuals belonging to the following species were rather occasionally captured (all $\\leq 2 0$ individuals): the common shrew (Sorex araneus), the field vole (Microtus agrestis), the European water vole (Arvicola amphibius), the Eurasian pygmy shrew (Sorex minutus), and the greater white-toothed shrew (Crocidura russula) [32] (Table 2). ",
+        "bbox": [
+            272,
+            112,
+            939,
+            292
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6bb37a5fee8c47ba9910a427c1571e22dc1c0b6349c3f36d7ea8bc4cb8be9f98.jpg",
+        "table_caption": [
+            "Table 2. Rickettsia prevalence in small mammal individuals per species, per habitat, and in total. "
+        ],
+        "table_footnote": [
+            "No.: Number. "
+        ],
+        "table_body": "<table><tr><td>Small Mammal Species</td><td>No. of Individuals in Grassland Positive/Total (%)</td><td>No. of Individuals in Forest Positive/Total (%)</td><td>Total No. of Positive Individuals/Total (%)</td></tr><tr><td>Microtus arvalis</td><td>19/377 (5.0)</td><td>7/30 (23.3)</td><td>26/407 (6.4)</td></tr><tr><td>Clethrionomys glareolus</td><td>1/8 (12.5)</td><td>18/270 (6.7)</td><td>19/278 (6.8)</td></tr><tr><td>Apodemus flavicollis</td><td>0/20 (0)</td><td>37/220 (16.8)</td><td>37/240 (15.4)</td></tr><tr><td>Apodemus sylvaticus</td><td>1/28 (3.6)</td><td>19/80 (23.8)</td><td>20/108 (18.5)</td></tr><tr><td>Apodemus agrarius</td><td>1/46 (2.2)</td><td>7/44 (15.9)</td><td>8/90 (8.9)</td></tr><tr><td>Sorex araneus</td><td>0/11 (0)</td><td>2/9 (22.2)</td><td>2/20 (10.0)</td></tr><tr><td>Microtus agrestis</td><td>0/8 (0)</td><td>2/7 (28.6)</td><td>2/15 (13.3)</td></tr><tr><td>Arvicola amphibius</td><td>0/3 (0)</td><td>0/1 (0)</td><td>0/4 (0)</td></tr><tr><td>Sorex minutus</td><td>0/2 (0)</td><td>1/2 (50.0)</td><td>1/4 (25.0)</td></tr><tr><td>Crocidura russula</td><td>0/1 (0)</td><td>0</td><td>0/1 (0)</td></tr><tr><td>Total</td><td>22/504 (4.4)</td><td>93/663 (14.0)</td><td>115/1167 (9.9)</td></tr></table>",
+        "bbox": [
+            57,
+            326,
+            942,
+            518
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2. Real-Time PCR, Conventional PCR and Sequencing ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            543,
+            663,
+            558
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Quantitative real-time PCR (qPCR) was used to screen all tick and small mammal samples for a 70 base pair (bp)-sized region of the citrate synthase gene (gltA) of Rickettsia spp. The mix was prepared as described previously [38] using the LightCycler® FastStart DNA Master HybProbe (Roche Diagnostics GmbH, Mannheim, Germany). The cycling protocol for the Thermocycler (Stratagene Mx3000P, Agilent, Santa Clara, CA, USA) included $9 5 ^ { \\circ } \\mathrm { C }$ for 10 min followed by 45 cycles of denaturation at $9 5 ^ { \\circ } \\mathrm { C }$ for $2 5 \\mathrm { s } ,$ annealing at $5 5 ~ ^ { \\circ } \\mathrm { C }$ for ${ 3 0 } \\thinspace s ,$ and extension at $7 2 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { s }$ . ",
+        "bbox": [
+            272,
+            562,
+            941,
+            665
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tick samples tested with a cycle threshold (ct) < 36 and small mammal samples tested with a ct < 35 were subsequently examined by conventional PCR targeting a fragment of the gene encoding for the outer membrane protein B (ompB, 811bp) of the SFG rickettsiae. A previously described protocol [39] was followed with the primers $^ { \\prime \\prime } 1 2 0 { - } 2 7 8 8 ^ { \\prime \\prime }$ and $^ { \\prime \\prime } 1 2 0 { - } 3 5 9 9 ^ { \\prime \\prime }$ with one adjustment of the initial denaturation temperature of $9 4 ^ { \\circ } \\mathrm { C }$ . ",
+        "bbox": [
+            272,
+            665,
+            941,
+            740
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For visualisation of the PCR products, gel electrophoresis was performed— $- 8 \\mu \\mathrm { L }$ of the samples were mixed with $2 \\mu \\mathrm { L }$ of loading dye (TriTrack DNA Loading Dye $( 6 \\times )$ , Thermo Scientific™, Waltham, MA, USA) and separated on a $1 . 5 \\%$ agarose gel. ",
+        "bbox": [
+            272,
+            741,
+            939,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PCR products were prepared for sequencing using the NucleoSpin® Gel and PCR Clean-up kit (Macherey-Nagel GmbH & Co. KG, Düren, Germany) according to the protocol recommended by the manufacturer. Sequencing was performed commercially by Eurofins Genomics Germany GmbH (Ebersberg, Germany). After editing and aligning the sequences with Bionumerics (Applied Maths NV, Sint-Martens-Latem, Belgium), a comparison was conducted to sequences present in GenBank on the Basic Local Alignment Tool (BLAST; https://blast.ncbi.nlm.nih.gov/Blast.cgi, accessed on 9 March 2023). Two obtained sequences from small mammals and 49 obtained sequences from ticks from 2019 were submitted to GenBank under the accession numbers OQ694692–OQ694742. ",
+        "bbox": [
+            272,
+            785,
+            941,
+            919
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 of 18 ",
+        "bbox": [
+            897,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3. Statistical Analysis ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            112,
+            440,
+            126
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For Rickettsia spp. prevalence of ticks and small mammals, a confidence interval $( 9 5 \\%$ CI) was formulated using the Clopper and Pearson method with Graph Pad software (GraphPad Software, San Diego, CA, USA). For small mammals, a generalised linear mixed model (GLMM) with binomial error distribution was computed with R software (version 4.1.2. for Windows; RStudio, Boston, MA, USA) and the lme4 package. It was used to investigate the dependence of individual Rickettsia infection status (dependent binary variable; Rickettsia spp. positive $= 1$ ; Rickettsia spp. negative $= 0$ ) in relation to season (independent binary variable: summer vs. spring), habitat (independent binary variable: forest vs. grassland), and small mammal species (independent categorical variable) [40]. Because of low numbers of trapped individuals, the following five species were excluded from GLMM analysis: M. agrestis, A. amphibius, S. araneus, S. minutus, and C. russula. ",
+        "bbox": [
+            273,
+            130,
+            942,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition, GLMMs were generated for A. flavicollis, Cl. glareolus, and M. arvalis separately. Independent variables were sex of the individual (independent binary variable: female vs. male), habitat (see above), and season (see above). ",
+        "bbox": [
+            273,
+            294,
+            941,
+            338
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For ticks, a slightly different model was calculated. The dependent variable was the binominal “presence of Rickettsia”. The independent variables were (i) developmental stage (binary: adult vs. nymph), (ii) habitat (binary: forest vs. ecotone), (iii) season (three stages: autumn, spring, and summer), and (iv) tick species (binary: I. ricinus complex vs. D. reticulatus). The first three independent variables were used for a model with exclusively I. ricinus complex ticks. Due to the low number of individuals collected, the model was not carried out for D. reticulatus ticks. ",
+        "bbox": [
+            273,
+            338,
+            942,
+            443
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The interaction term for the GLMM included three and four independent variables with at least two levels each for small mammals and I. ricinus complex ticks, and ticks, respectively. To state potential differences of all variables separately, marginal means accessing the emmeans package within R and a post hoc test were computed. The significance threshold for $p$ was set at $\\le 0 . 0 5$ . ",
+        "bbox": [
+            273,
+            443,
+            942,
+            518
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4. Co-Infections of Borrelia spp. and Rickettsia spp. in Ticks and Small Mammals ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            530,
+            840,
+            545
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results of detection of Borrelia spp. DNA in small mammals (1167 individuals) and tick samples (1094 individuals) that were also investigated in this study have been published in an earlier study [32]. In the current study, co-infections of Borrelia spp. (previous study) with Rickettsia spp. (current study) were analysed. To investigate the degree of cooccurrence, the approach proposed by Malini et al. was applied [41]. Here, the R package CooccurrenceAffinity was applied to calculate a maximum likely estimator to evaluate whether or not the pairing of Rickettsia spp. and Borrelia spp. was more or less likely than the expected prevalence [42]. Seasonal analyses were made for ticks and small mammals separately, and all trapped individuals regardless of species were taken into account. ",
+        "bbox": [
+            273,
+            548,
+            942,
+            683
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            695,
+            354,
+            707
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1. Rickettsia spp. Detection in Ticks ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            709,
+            534,
+            725
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Positively tested individuals were from both the I. ricinus complex and D. reticulatus (Table 1). Samples of D. reticulatus $( n = 3 7$ ; $4 6 . 3 \\%$ ; $9 5 \\%$ CI: 35.0–57.8) were significantly more often infected than I. ricinus complex samples $( n = 8 8$ ; $8 . 6 \\%$ ; $9 5 \\%$ CI: 7.0–10.5) $( p < 0 . 0 0 1 )$ ) (Table A2). Per tick species, females had the highest prevalence $( 2 1 . 1 \\%$ ; $9 5 \\%$ CI: 12.5–32.0 in I. ricinus complex and $5 2 . 9 \\%$ ; $9 5 \\%$ CI: 38.5–67.1 in $D$ . reticulatus), followed by males $( 8 . 1 \\%$ ; $9 5 \\%$ CI: 3.8–14.8 in I. ricinus complex and $3 4 . 5 \\%$ ; $9 5 \\%$ CI: 17.9–54.3 in D. reticulatus) and nymphs $( 7 . 6 \\%$ ; $9 5 \\%$ CI: 5.9–9.6). Consequently, adults were significantly more often carriers of Rickettsia DNA than immatures, overall $( p = 0 . 0 2 )$ and regarding only the I. ricinus complex $( p = 0 . 0 0 5 )$ . The prevalence in the forest $( 8 . 8 \\%$ ; 63/720; $9 5 \\%$ CI: 6.79–11.06) was similar to the ecotone $1 6 . 4 \\%$ ; 62/378; $9 5 \\%$ CI: 12.8–20.5) $( p = 0 . 7 1 1 )$ . In spring the prevalence was the highest with $1 2 . 5 \\%$ (103/826; $9 5 \\%$ CI: 10.3–14.9), followed by summer with $9 . 4 \\%$ (19/203; $9 5 \\%$ CI: 5.7–14.2) and autumn with $4 . 3 \\%$ (3/69; $9 5 \\%$ CI: 0.9–12.2). Ticks in spring ",
+        "bbox": [
+            273,
+            728,
+            942,
+            908
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            57,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 of 18 ",
+        "bbox": [
+            897,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and summer were both more often infected than in autumn (spring: $p < 0 . 0 0 1 $ ; summer: $p < 0 . 0 0 1 )$ (Table A2). ",
+        "bbox": [
+            272,
+            112,
+            941,
+            140
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Out of all qPCR-tested ticks, 125 yielded a ct-value $< 3 6$ , 87 were positive in conventional PCR, and 86 could be sequenced and identified as R. helvetica $( 8 6 . 0 \\%$ ; $n = 7 4 _ { \\scriptscriptstyle }$ , all I. ricinus complex) and R. raoultii $( 1 4 . 0 \\%$ ; $n = 1 2 .$ , all $D$ . reticulatus) (Table 3). Most Rickettsiapositive I. ricinus complex samples showed $9 9 . 5 \\mathrm { - } 1 0 0 \\%$ identity with the same accession number as the small mammal samples (see below) [43]. One sample from I. ricinus was $1 0 0 \\%$ identical to R. helvetica isolate Komi (GenBank accession number: KP866151), sequenced from Ixodes persulcatus ticks from the Komi Republic in Russia [44]. Most rickettsiae of D. reticulatus ticks showed $9 9 . 9 \\mathrm { - } 1 0 0 \\%$ identity with R. raoultii Xinjiang-CP13RP (GenBank accession number: MG811717) from China. One $D$ . reticulatus tick-derived Rickettsia sequence was $9 9 . 9 \\%$ identical to the R. raoultii clone ALSK081 (GenBank accession number KU723537) from Xinjiang, China, and two were $9 9 . 9 \\%$ and $1 0 0 \\%$ identical to the R. raoultii isolate Xinjiang-JMN (GenBank accession number: MF002526) from China. ",
+        "bbox": [
+            272,
+            142,
+            944,
+            322
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f83d938cb74ffcc03a4ccafd15a08c31c52c50cb7a4cdf548795471179c9da7.jpg",
+        "table_caption": [
+            "Table 3. Sequencing results of PCR products of the ompB gene in ticks and small mammal samples. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Habitat</td><td>Host Species</td><td>Sex /Life Stage</td><td>Rickettsia Species</td><td>Study Site1</td><td>No. of Individuals</td><td>Maximal Identity (%)</td><td>GenBank ID</td></tr><tr><td rowspan=\"24\">ecotone</td><td rowspan=\"20\">Ixodes ricinus</td><td rowspan=\"8\">F</td><td rowspan=\"20\">Rickettsia helvetica</td><td rowspan=\"2\">S17</td><td>1</td><td>100</td><td rowspan=\"20\">MF163037</td></tr><tr><td>1</td><td>99.9</td></tr><tr><td>S16</td><td>1</td><td>100</td></tr><tr><td>S7</td><td>1</td><td>100</td></tr><tr><td>S8</td><td>1</td><td>99.9</td></tr><tr><td>S12</td><td>1</td><td>100</td></tr><tr><td>S9</td><td>1</td><td>100</td></tr><tr><td>S5</td><td>1</td><td>100</td></tr><tr><td rowspan=\"4\">M</td><td>S16</td><td>1</td><td>100</td></tr><tr><td rowspan=\"2\">S9</td><td>1</td><td>100</td></tr><tr><td>1</td><td>100</td></tr><tr><td>S5</td><td>1</td><td>100</td></tr><tr><td rowspan=\"8\">N</td><td>S10</td><td>1</td><td>100</td></tr><tr><td rowspan=\"4\">S9</td><td>1</td><td>99.9</td></tr><tr><td>1</td><td>100</td></tr><tr><td>1</td><td>99.75</td></tr><tr><td>1</td><td>100</td></tr><tr><td rowspan=\"2\">S7</td><td>1</td><td>100</td></tr><tr><td>1</td><td>99.9</td></tr><tr><td>S5</td><td>2</td><td>100</td></tr><tr><td rowspan=\"4\">Dermacentor reticulatus</td><td rowspan=\"3\">F</td><td rowspan=\"4\">Rickettsia raoultii</td><td rowspan=\"4\">S2</td><td>1</td><td>99.9</td><td>KU723537</td></tr><tr><td>5</td><td>99.9</td><td rowspan=\"2\">MG811717</td></tr><tr><td>3</td><td>100</td></tr><tr><td>M</td><td>1</td><td>99.9</td><td>MF002526</td></tr></table>",
+        "bbox": [
+            57,
+            357,
+            944,
+            864
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 of 18 ",
+        "bbox": [
+            897,
+            64,
+            941,
+            76
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e71215ef443f43359eac84f69bb5af8161267da6e41074c01f012f7eac52091e.jpg",
+        "table_caption": [
+            "Table 3. Cont. "
+        ],
+        "table_footnote": [
+            "No.: Number; ID: Identification; F: Female; M: Male; N: Nymph; and na: not available. 1 Map of study sites with Rickettsia positive samples is available in Appendix (Figure A1). "
+        ],
+        "table_body": "<table><tr><td>Habitat</td><td>Host Species</td><td>Sex /Life Stage</td><td>Rickettsia Species</td><td>Study Site1</td><td>No. of Individuals</td><td>Maximal Identity (%)</td><td>GenBank ID</td></tr><tr><td></td><td></td><td rowspan=\"5\">F</td><td></td><td rowspan=\"2\">S9</td><td>1</td><td>99.8</td><td rowspan=\"2\">MF163037</td></tr><tr><td></td><td></td><td></td><td>1</td><td>100</td></tr><tr><td></td><td></td><td></td><td>S8</td><td>1</td><td>100</td><td>KP866151</td></tr><tr><td></td><td></td><td></td><td>S3</td><td>1</td><td>99.5</td><td></td></tr><tr><td></td><td></td><td></td><td>S14</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td rowspan=\"10\">M</td><td></td><td rowspan=\"2\">S9</td><td>1</td><td>99.8</td><td></td></tr><tr><td></td><td></td><td></td><td>2</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>S3</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td rowspan=\"2\">S14</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>1</td><td>98</td><td></td></tr><tr><td></td><td></td><td></td><td rowspan=\"2\">S12</td><td>1</td><td>99.9</td><td></td></tr><tr><td></td><td></td><td></td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td>R. helvetica</td><td>S10</td><td>1</td><td>99.8</td><td>MF163037</td></tr><tr><td></td><td></td><td></td><td rowspan=\"2\">S9</td><td>3</td><td>99.8</td><td></td></tr><tr><td></td><td></td><td></td><td>15</td><td>100</td><td></td></tr><tr><td></td><td></td><td rowspan=\"9\">N</td><td></td><td>S7</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>S8</td><td>3</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>S5</td><td>2</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td rowspan=\"3\">S3</td><td>1</td><td>99.7</td><td></td></tr><tr><td></td><td></td><td></td><td>9</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>1</td><td>99.9</td><td></td></tr><tr><td></td><td></td><td></td><td>S15</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>S13</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td></td><td></td><td>S6</td><td>1</td><td>100</td><td></td></tr><tr><td></td><td>D. reticulatus</td><td>F</td><td rowspan=\"2\">R. raoultii</td><td>S2</td><td>1</td><td>100</td><td>MF002526</td></tr><tr><td></td><td></td><td>M</td><td>S3</td><td>1</td><td>99.9</td><td>MG811717</td></tr><tr><td>forest</td><td>Apodemus flavicollis</td><td rowspan=\"2\">na</td><td>R. helvetica</td><td>S15</td><td>1</td><td>100</td><td>MF163037</td></tr><tr><td></td><td></td><td></td><td>S13</td><td>1</td><td>100</td><td></td></tr></table>",
+        "bbox": [
+            57,
+            134,
+            942,
+            694
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2. Rickettsia spp. Detection in Small Mammals ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            732,
+            613,
+            747
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rickettsia spp. DNA was detected in 8 out of 10 small mammal species (A. flavicollis, $n = 3 7 .$ ; M. arvalis, $n = 2 6$ ; A. sylvaticus, $n = 2 0$ ; Cl. glareolus, $n = 1 9$ ; A. agrarius, $n = 8$ ; S. araneus, $n = 2 .$ ; and M. agrestis, $n = 2 ; S$ . minutus, $n = 1$ ) (Table 2). ",
+        "bbox": [
+            272,
+            751,
+            942,
+            796
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summer $1 0 . 2 \\%$ ; $n = 1 0 2$ ; $9 5 \\%$ CI: 8.4–12.3) prevalence was similar to spring $( 7 . 7 \\%$ ; $n = 1 3$ ; $9 5 \\%$ CI: 4.2–12.9) $( p = 0 . 1 0 6 )$ . Individuals from forests ${ \\bf \\dot { \\rho } } _ { n } = 9 3 $ ; $1 4 . 0 \\%$ ; $9 5 \\%$ CI: 11.5–16.9) were more often infected than individuals from grassland $n = 2 2$ ; $4 . 4 \\%$ ; $9 5 \\%$ CI: 2.7–6.5) $( p < 0 . 0 0 1 )$ . Apodemus sylvaticus had the highest prevalence of $1 8 . 5 \\%$ $\\mathbf { \\nabla } \\cdot \\mathbf { n } = 2 0$ ; $9 5 \\%$ CI: 11.7–27.1). ",
+        "bbox": [
+            272,
+            796,
+            942,
+            869
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The GLMM with the factors of season and habitat (Table A3) revealed statistical significance for the lower probability of infection of an individual of Cl. glareolus compared to A. agrarius $( p = 0 . 0 3 4 )$ . No statistical significance was observed when only the two species were compared and no other factors were taken into account $( p = 0 . 2 0 6 )$ ). Clethrionomys ",
+        "bbox": [
+            272,
+            870,
+            941,
+            932
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 of 18 ",
+        "bbox": [
+            895,
+            64,
+            939,
+            74
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "glareolus was less often infected with Rickettsia spp. than both A. flavicollis $( p = 0 . 0 0 7 )$ and A. sylvaticus $( p < 0 . 0 0 1 )$ . ",
+        "bbox": [
+            272,
+            112,
+            939,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the GLMMs computed individually for the three most abundant species, sex and season did not influence the prevalence in M. arvalis, Cl. glareolus and A. flavicollis (Table A3). Out of these three species, habitat mattered only for M. arvalis. The prevalence was higher in forests, but $9 2 . 6 \\%$ of the animals of that species were trapped in grasslands $( p < 0 . 0 0 1 )$ (Table 2). ",
+        "bbox": [
+            272,
+            142,
+            941,
+            214
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Although excluded from the analysis with GLMM, this is the first detection of Rickettsia spp. DNA in S. minutus in Germany to our knowledge. ",
+        "bbox": [
+            272,
+            216,
+            941,
+            246
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Of the 115 individuals that were tested positive in qPCR, 24 yielded a ct-value ${ < } 3 5$ . Only two of them (both A. flavicollis) yielded a result in the ompB gene. Both amplicons could be sequenced and were $1 0 0 \\%$ identical to R. helvetica strain AS819 (deposited in GenBank: MF163037), which was isolated from an I. ricinus tick [43] (Table 3). ",
+        "bbox": [
+            272,
+            247,
+            941,
+            306
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3. Co-Infection with Rickettsia spp. and Borrelia spp. in Ticks and Small Mammals ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            317,
+            853,
+            332
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In nine ticks, both Rickettsia DNA and Borrelia DNA were detected (9/1094; $0 . 8 \\%$ ). All sample derived from the I. ricinus complex (9/1014; $0 . 9 \\%$ ). The only Rickettsia spp. detected was R. helvetica. Borrelia valaisiana and Borrelia afzelii were detected in two samples each. In five tick samples, Borrelia species could not be determined (Table A4). In small mammals, DNA of both bacteria were also found in nine samples (9/1167; $0 . 8 \\%$ ). Co-infections were detected in M. arvalis $( n = 3 ; 0 . 7 \\%$ ), Cl. glareolus $( n = 3 ; 1 . 1 \\%$ ), S. araneus ( $n = 2$ ; $1 0 . 0 \\%$ ), and A. flavicollis $( n = 1 ; 0 . 4 \\% )$ ). No PCR products of small mammal samples could be analysed to the species level of Rickettsia spp. and Borrelia spp. (Table A5) [32]. ",
+        "bbox": [
+            272,
+            335,
+            941,
+            455
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Co-occurrence analysis revealed that Rickettsia spp. prevalence in ticks from spring had a slightly negative tendency with Borrelia spp. occurrence (Alpha MLE: −0.72, Blaker CI (−1.60–0.004), $p = 0 . 0 6 $ ). In all other scenarios, no co-occurrence trends were observed (Table A6). ",
+        "bbox": [
+            272,
+            456,
+            941,
+            514
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            527,
+            381,
+            541
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rickettsiae of the SFG are pathogens of public health concern. Studies, including analyses of Rickettsia prevalence in both ticks and small mammal hosts regarding various aspects, like particular habitats and the possible influence on each other, are largely overlooked. This study presents, for the first time, data on Rickettsia species and their prevalence in ticks and small mammals in central Germany with different habitat features. ",
+        "bbox": [
+            272,
+            545,
+            941,
+            619
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the current study, the most prevalent tick species was Ixodes ricinus, which is the most abundant tick species in Germany [45]. Ixodes ricinus ticks in central Europe have a bimodal activity pattern peaking in warm and humid months, with a larger peak in spring and a smaller peak in autumn. In the Mediterranean area, a unimodal activity pattern with one big peak in spring is common, which is now also more often observed in central Europe, as shifts in temperature and precipitation result in a decline in the impact of microclimatic conditions like sufficient humidity [46,47]. In our study, we also did not find an activity peak in autumn, but observed a unimodal activity pattern with a peak in spring for nymphs and adults. The ratio of I. ricinus complex adult ticks collected in ecotones and forests was similar, fitting their described primary habitat of forests and shrubbery [48]. In all three considered seasons, I. ricinus complex nymphs were more often collected in the forest compared to the ecotone. One previous study from southern Germany showed a positive effect of humidity on the occurrence of nymphs [46]. In the forest areas investigated, a base layer with higher humidity serves as protection from desiccation during hotter months, explaining why more ticks were collected in the forest sites compared to the ecotone [2]. ",
+        "bbox": [
+            272,
+            620,
+            941,
+            843
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Less than a tenth of the collected ticks belonged to the species Dermacentor reticulatus [45]. Larvae and nymphs of D. reticulatus commonly show nidicolous behaviour and live in burrows and nests of small mammals [33]. This is why only adult individuals were collected in the current study. Dermacentor reticulatus ticks show a quiescence phase over summer and two activity peaks, one in spring and one in autumn [24,49], which we ",
+        "bbox": [
+            272,
+            844,
+            941,
+            917
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 of 18 ",
+        "bbox": [
+            897,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "observed in our study. Most D. reticulatus ticks $( 9 3 . 6 \\% )$ were flagged in the ecotone which is in concordance with the described natural habitat of bushy pastures, meadows, and open forests [48,49]. ",
+        "bbox": [
+            273,
+            112,
+            939,
+            156
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As expected, most Clethrionomys glareolus $( 9 7 . 1 \\% )$ ) and Apodemus flavicollis $( 9 1 . 7 \\% )$ ) were trapped in the forest. Opposite to that, Microtus arvalis was mostly trapped in grasslands $( 9 2 . 6 \\% )$ . This distribution matches the preference of Cl. glareolus and A. flavicollis for forests and M. arvalis for grasslands [50,51]. Apodemus sylvaticus was trapped with a proportion of $7 4 . 1 \\%$ in forests, which reflects their well-known common habitat shift between forests and grasslands [7,52]. Proportions of trapped A. agrarius, Sorex araneus, and M. agrestis were balanced in forest and grassland. These three species do not show such a strong link to either one of the two considered habitats [7,51,53]. ",
+        "bbox": [
+            273,
+            156,
+            939,
+            275
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Small mammals serve as reservoirs for many zoonotic pathogens including rickettsiae of the SFG group of diverse pathogenicity. In Germany, most known severe human cases were, however, not autochthonous [54]. The two most common species in Germany, Rickettsia helvetica and R. raoultii, are nowadays known to cause clinically unspecific symptoms such as eschars in humans [24,55]. ",
+        "bbox": [
+            273,
+            275,
+            939,
+            350
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In central Europe, DNA of R. helvetica and R. raoultii has been detected in arthropods such as fleas and various tick species like I. ricinus, D. reticulatus, and D. marginatus. Animals in which rickettsial DNA has been detected include rodents, racoons (Procyon lotor), roe deer, wild boars, and lizards [16,20,27,56,57]. ",
+        "bbox": [
+            273,
+            350,
+            939,
+            409
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge, this is the first detection of Rickettsia spp. DNA in S. minutus from Germany. Rickettsia spp. DNA could not be recorded in a former study from Germany, including 72 individuals of S. minutus, of which 16 likewise originated from the state of Thuringia [58]. A study from Norway has shown a lower infestation rate of S. minutus with ticks compared to investigated individuals from the genus Apodemus [59], which has also been displayed for shrews in a study from France [52]. This, in turn, might lead to a lower risk of infection with TBPs. As in our study, Rickettsia spp. DNA has been detected in S. araneus in other studies before [58,60]. ",
+        "bbox": [
+            273,
+            410,
+            939,
+            529
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Interestingly, individuals in forests were more often infected than those in grasslands. Among the investigated genera, Apodemus had the highest prevalence. As described above, the two most abundant species of the genus Apodemus, namely, A. flavicollis and A. sylvaticus, were mostly trapped in the forest. Apodemus spp. showing a higher prevalence than other small mammals has been described before. The prevalence in A. sylvaticus $( 1 8 . 5 \\% )$ ), A. flavicollis $( 1 5 . 4 \\% )$ , and A. agrarius $( 8 . 9 \\% )$ falls in line with previous findings from Germany with prevalence ranges of $0 { - } 1 6 . 2 \\%$ [58,61], $1 3 . 0 { - } 2 3 . 4 \\%$ [58,61,62], and $0 { - } 9 \\%$ [58,62], respectively. A few studies on A. flavicollis from several European countries showed prevalence rates of $0 \\%$ in whole blood, $1 . 7 \\%$ in organ samples, $5 . 7 \\%$ in whole blood, and $2 9 . 4 \\%$ in spleens in Poland [63], Croatia [64], Slovakia [65], and Lithuania [60], respectively. One study from Italy found a prevalence of $6 \\%$ in ear pinna samples without distinguishing between Apodemus species [66]. ",
+        "bbox": [
+            273,
+            530,
+            939,
+            708
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Difficulties in sequencing of Rickettsia spp. DNA in material of small mammal origin due to poor sensitivity of conventional PCR has been described before [58]. In our investigations, only two out of one hundred and fifteen small mammal samples positive in qPCR (24 of which had a ct $< 3 5$ ) could be sequenced. Both were from A. flavicollis samples and showed the highest similarity to R. helvetica strain AS819, which has been isolated from I. ricinus ticks before. Rickettsia helvetica has been found in A. flavicollis in several studies from Germany before [20,58]. One study from the Netherlands found R. helvetica in small rodents [16]. Rickettsia raoultii, on the other hand, seems to be rather rare in small mammal samples [58]. One study found R. raoultii in Cl. glareolus which were all infested with D. reticulatus [62]. A larger number of sequencing results in our study could have added more certainty as to whether small mammals, in particular Apodemus spp., take a less essential part in the life cycle of R. raoultii. One study from southern Germany investigated Dermacentor ticks and mainly voles without detecting any Rickettsia spp. DNA in rodent samples [67]. Two studies from China examined other mammals as potential ",
+        "bbox": [
+            273,
+            709,
+            939,
+            917
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            57,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 of 18 ",
+        "bbox": [
+            897,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "reservoirs of R. raoultii and detected R. raoultii in horses (Equus ferus) and red foxes (Vulpes vulpes) [68,69]. Rickettsia helvetica in roe deer and wild boar and R. slovaca in wild boar were found in studies from the Netherlands [16] and Algeria [70], respectively. ",
+        "bbox": [
+            278,
+            112,
+            939,
+            156
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rickettsia spp. prevalence in tick species differed from $8 . 6 \\%$ in the I. ricinus complex and $4 6 . 3 \\%$ in D. reticulatus. Dermacentor reticulatus often shows a higher infection rate with Rickettsia than I. ricinus [71]. For example, a study from northeast Germany noted a prevalence of $6 4 . 0 \\%$ in D. reticulatus [49]. The determined prevalence in the I. ricinus complex in our study conforms to prevalences described in other studies on I. ricinus from Germany [21,72,73]. However, the methods and life stages of ticks differed among the published studies; therefore, direct comparison of prevalence has to be regarded with caution. Adult ticks showed a statistically higher infection risk than nymphs, which have had only one blood meal as larvae. Nevertheless, it has to be noted that we only analysed nymphs from the I. ricinus complex and no immature stages from D. reticulatus. In a study also analysing feeding immatures, it has been proposed that transovarial transmission of Rickettsia spp. in ticks plays a more important role in D. reticulatus than in I. ricinus [20]. Success of transovarial and transstadial transmission of R. raoultii in D. reticulatus have been presented to be $9 0 . 0 \\%$ and $9 8 . 0 \\%$ , respectively [74]. This supports the observation in our study that D. reticulatus has a higher prevalence than I. ricinus. Also, their preference for voles as hosts, which had a comparably low prevalence in our study, might reinforce this approach. ",
+        "bbox": [
+            278,
+            156,
+            939,
+            409
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Regarding only I. ricinus ticks, the infection risk was higher in adults than in nymphs. This has been observed in most but not all studies examining exclusively I. ricinus [31,72,75]. In spring and summer, ticks were significantly more often infected than in autumn. In the statistical analysis regarding solely I. ricinus ticks, no seasonal influence could be noted. In other European studies, in which only I. ricinus ticks were considered, the seasonal influence differed. Overall, no pattern can be noted as in some studies from Germany ticks collected in summer and autumn had higher infection rate than in spring [19,76], and in another study ticks collected in summer had a higher infection rate than in autumn and spring [72]. In opposite to that stands the finding from a study from Denmark in which ticks flagged in spring were significantly more often infected than ticks from summer and autumn [77]. In one study analysing only D. reticulatus from northeast Germany, no seasonal influence on prevalence was recognised [49]. ",
+        "bbox": [
+            278,
+            411,
+            939,
+            589
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Habitat type did not influence the prevalence of Rickettsia in ticks in our study. Other studies in Europe also did not find any statistical effect of different landscapes on Rickettsia prevalence in I. ricinus ticks [29–31]. It seems that microclimatic factors may play a more important role for Rickettsia abundance in ticks than the habitat itself. A study design of field and experimental studies taking the microclimate into account could be useful to identify additional driving parameters for tick infection. ",
+        "bbox": [
+            278,
+            589,
+            939,
+            678
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Numbers of co-infections with both Borrelia spp. and Rickettsia spp. in small mammal species were low, except in S. araneus $( 1 0 \\% )$ . The co-infection rates in ticks with these two bacteria were low in our study but have been shown to correlate positively before [78]. Another study with a higher prevalence of both bacteria than in our study did not show this positive association [79]. In our study, the only observed effect was a slight tendency of a negative association of Rickettsia spp. infection with Borrelia spp. occurrence in ticks in spring. Studies investigating co-infections in small mammals are scarce. As S. araneus was the only small mammal species with a high co-infection rate in our study and was rarely regarded in previous studies, further research focusing on this correlation should be considered. ",
+        "bbox": [
+            278,
+            678,
+            939,
+            826
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our study, $6 8 . 8 \\%$ of the tick samples that were positive in qPCR could be amplified by conventional PCR, sequenced and identified as either R. helvetica or R. raoultii. Rickettsia helvetica is the most abundant Rickettsia species in Germany, as in our study. Interestingly, it was the only I. ricinus associated Rickettsia species that was determined. Even though R. monacensis detection is not that rare in Germany, it seems to occur more often in southern Germany [31,72,73,76]. The R. helvetica sequences from our study were identical to those ",
+        "bbox": [
+            278,
+            827,
+            939,
+            917
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            57,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 of 18 ",
+        "bbox": [
+            890,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "previously found in I. persulcatus from Russia and in I. ricinus from Germany. Rickettsia raoultii sequences found here had been detected in China earlier. Compared to other tick species, R. raoultii has a strong link to D. reticulatus [9] and was also the only Rickettsia species we could detect in D. reticulatus in our study. As I. ricinus and D. reticulatus are the two most common tick species in central Europe, their monitoring is one important tool to gain knowledge about risk factors for human and animal infections. ",
+        "bbox": [
+            278,
+            112,
+            939,
+            200
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            214,
+            391,
+            227
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The prevalence of Rickettsia spp. in small mammals and ticks determined in this study falls in line with previous studies from Germany. Adult ticks had a statistically higher infection risk than nymphs. Dermacentor reticulatus showed a significantly higher prevalence than I. ricinus ticks. In our study, we found R. raoultii and R. helvetica, which are both associated with cases of human illness. Interestingly, this study showed no influence of habitat type on the prevalence of Rickettsia in ticks but in small mammals, which were significantly more often infected in forests than in grasslands. A possible explanation may be the high prevalence in small mammals of the genus Apodemus, which are more abundant in forests. Nevertheless, habitat type should always be considered in a one health perspective, as it has a massive impact on the abundance of potential pathogen reservoirs. ",
+        "bbox": [
+            278,
+            231,
+            939,
+            380
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions: Conceptualization, N.K., C.I., R.G.U., J.J., M.P. and A.O.; methodology, N.K., C.I. and A.O.; sample collection, N.K., C.I., K.J. and A.O.; validation, C.A. and A.O.; formal analysis, C.A., C.I. and A.O.; investigation, C.A., N.K., Z.R.-S. and A.O.; data curation, C.A., N.K., C.I. and A.O.; writing—original draft preparation, C.A.; writing—review and editing, N.K., C.I., K.J., Z.R.-S., R.G.U., J.J., M.P. and A.O.; visualization, C.A.; supervision, M.P. and A.O.; project administration, N.K., C.I. and A.O.; funding acquisition, N.K., R.G.U. and J.J. All authors have read and agreed to the published version of the manuscript. ",
+        "bbox": [
+            278,
+            394,
+            941,
+            492
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Funding: The small mammal trapping was commissioned and funded by the Federal Environment Agency within the Environment Research Plan of the German Federal Ministry for the Environment, Nature Conservation, Building, and Nuclear Safety (grant number 3716484310 to JJ) and partially supported by the Bundesministerium für Bildung und Forschung through the research net Zoonotic Infectious Diseases (consortium RoBoPub; grant number 01KI1721A/01KI2004A to RGU and 01KI1721E/01KI2004E to JJ). This study was also partially funded by the Veterinarian Faculty of the University of Leipzig through the Young Scientists Award (to NK). ",
+        "bbox": [
+            278,
+            499,
+            939,
+            596
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Institutional Review Board Statement: Permits for small mammal trapping were approved by the Thuringia State Office of Consumer Protection (protocol code 22-2684-04-15-105/16). ",
+        "bbox": [
+            278,
+            604,
+            939,
+            631
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Informed Consent Statement: Not applicable. ",
+        "bbox": [
+            278,
+            639,
+            586,
+            652
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Data Availability Statement: The dataset generated and analysed during the current study is available from the corresponding author. ",
+        "bbox": [
+            278,
+            659,
+            939,
+            687
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments: The publication fee of this paper was covered by The Open Access (OA) Publication Fund of the University of Leipzig. The authors would like to thank Dana Rüster and Evelin Brumme for their excellent technical assistance and lab work. ",
+        "bbox": [
+            278,
+            695,
+            939,
+            734
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results. ",
+        "bbox": [
+            278,
+            743,
+            939,
+            785
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            57,
+            65,
+            191,
+            76
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 of 18 ",
+        "bbox": [
+            890,
+            65,
+            939,
+            74
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            112,
+            376,
+            128
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcb74a0983c7fb7fde988121d795c88f7989755b85d98cf4a95b9e7dc36585d5.jpg",
+        "table_caption": [
+            "Table A1. Flagged tick individuals per species, per season, and in total, including larvae, nymphs, and adults. "
+        ],
+        "table_footnote": [
+            "1 Ixodes ricinus and Ixodes inopinatus. "
+        ],
+        "table_body": "<table><tr><td colspan=\"5\">Absolute Number of Ticks (Percentage in Each Season)</td></tr><tr><td>Tick Species</td><td>Spring</td><td>Summer</td><td>Autumn</td><td>Total</td></tr><tr><td>Ixodes ricinus complex1</td><td>789 (77.2%)</td><td>203 (19.9%)</td><td>30 (2.9%)</td><td>1022 (100%)</td></tr><tr><td>Dermacentor reticulatus</td><td>37 (39.8%)</td><td>1 (1.1%)</td><td>55 (59.1%)</td><td>93 (100%)</td></tr><tr><td>Total</td><td>826 (74.1%)</td><td>204 (18.3%)</td><td>85 (7.6%)</td><td>1115 (100%)</td></tr></table>",
+        "bbox": [
+            57,
+            178,
+            939,
+            271
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc518e7ec1a1b5c0307de79ec16eea679b7a775ba88049f0bff09db1f96428e9.jpg",
+        "table_caption": [
+            "Table A2. Results of a generalised linear mixed model for effects of tick species, life stage, habitat, and season on Rickettsia spp. infection probability in tick samples in total and in Ixodes ricinus complex ticks. "
+        ],
+        "table_footnote": [
+            "Significance codes: ***—<0.001; **—0.001; *—0.01. "
+        ],
+        "table_body": "<table><tr><td>Factor</td><td>Estimate</td><td>Standard Error</td><td>Z Value</td><td>Probability (&gt;|z|)</td></tr><tr><td colspan=\"5\">Total</td></tr><tr><td>Intercept</td><td>-2.64</td><td>0.66</td><td>-4.03</td><td>5.67 × 10-05***</td></tr><tr><td>D. reticulatus vs. I. ricinus complex</td><td>-3.96</td><td>0.64</td><td>-6.17</td><td>6.69 × 10-10***</td></tr><tr><td>Adult vs. Nymph</td><td>-0.63</td><td>0.27</td><td>-2.33</td><td>0.02*</td></tr><tr><td>Ecotone vs. Forest</td><td>-0.10</td><td>0.26</td><td>-0.37</td><td>0.71</td></tr><tr><td>Autumn vs. Spring</td><td>4.75</td><td>0.80</td><td>5.93</td><td>3.05 × 10-09***</td></tr><tr><td>Autumn vs. Summer</td><td>4.79</td><td>0.86</td><td>5.57</td><td>2.57 × 10-08***</td></tr><tr><td colspan=\"5\">Ixodes ricinus</td></tr><tr><td>Intercept</td><td>-1.74</td><td>0.79</td><td>-2.19</td><td>0.03*</td></tr><tr><td>Adult vs. Nymph</td><td>-0.79</td><td>0.27</td><td>-2.79</td><td>0.01**</td></tr><tr><td>Ecotone vs. Forest</td><td>-0.15</td><td>0.28</td><td>-0.53</td><td>0.59</td></tr><tr><td>Autumn vs. Spring</td><td>-0.18</td><td>0.77</td><td>-0.24</td><td>0.81</td></tr><tr><td>Autumn vs. Summer</td><td>0.23</td><td>0.78</td><td>0.29</td><td>0.77</td></tr></table>",
+        "bbox": [
+            57,
+            349,
+            941,
+            577
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f14f1f92fc79d76148b587e866a4cbcf3e04c2bc00dcbc91e45cebb8ba9c63e5.jpg",
+        "table_caption": [
+            "Table A3. Results of a generalised linear mixed model with binomial error distribution for effects of habitat, season, sex, and small mammal species on Rickettsia spp. infection probability in small mammals in total and in the three most abundant small mammal species (Apodemus flavicollis, Clethrionomys glareolus, and Microtus arvalis). NA: not available. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Factor</td><td>Estimate</td><td>Standard Error</td><td>Z Value</td><td>Probability (&gt;|z|)</td></tr><tr><td colspan=\"5\">Total</td></tr><tr><td>Intercept</td><td>-4.09</td><td>0.66</td><td>-6.20</td><td>5.78 × 10-10***</td></tr><tr><td>Grassland vs. Forest</td><td>1.83</td><td>0.40</td><td>4.56</td><td>5.22 × 10-06***</td></tr><tr><td>Spring vs. summer</td><td>0.55</td><td>0.34</td><td>1.62</td><td>0.11</td></tr><tr><td>A. agrarius vs. A. flavicollis</td><td>0.00</td><td>0.46</td><td>0.01</td><td>1.00</td></tr><tr><td>A. agrarius vs. A. sylvaticus</td><td>0.70</td><td>0.50</td><td>1.38</td><td>0.17</td></tr><tr><td>A. agrarius vs. M. arvalis</td><td>0.44</td><td>0.53</td><td>0.83</td><td>0.41</td></tr><tr><td>A. agrarius vs. Cl. glareolus</td><td>-1.046</td><td>0.49</td><td>-2.12</td><td>0.03*</td></tr><tr><td colspan=\"5\">Apodemus flavicollis</td></tr><tr><td>Intercept</td><td>-17.73</td><td>223.46</td><td>-0.08</td><td>0.94</td></tr><tr><td>Female vs. Male</td><td>-0.10</td><td>0.63</td><td>-0.17</td><td>0.87</td></tr><tr><td>Grassland vs. Forest</td><td>16.58</td><td>223.46</td><td>0.07</td><td>0.94</td></tr><tr><td>Spring vs. Summer</td><td>-0.37</td><td>0.58</td><td>-0.64</td><td>0.52</td></tr></table>",
+        "bbox": [
+            57,
+            670,
+            941,
+            887
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 of 18 ",
+        "bbox": [
+            890,
+            64,
+            939,
+            74
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/29fdd2f90b389f416e2d9565ca16a2faeb8a9414b8539f55f489ad3919d06cf2.jpg",
+        "table_caption": [
+            "Table A3. Cont. "
+        ],
+        "table_footnote": [
+            "Significance codes: ***—<0.001; *—0.01 "
+        ],
+        "table_body": "<table><tr><td>Factor</td><td>Estimate</td><td>Standard Error</td><td>Z Value</td><td>Probability (&gt;|z|)</td></tr><tr><td colspan=\"5\">Clethrionomys glareolus</td></tr><tr><td>Intercept</td><td>-1.32</td><td>1.70</td><td>-0.78</td><td>0.44</td></tr><tr><td>Female vs. Male</td><td>-0.42</td><td>1.00</td><td>-0.42</td><td>0.67</td></tr><tr><td>Grassland vs. Forest</td><td>-0.66</td><td>1.42</td><td>-0.47</td><td>0.64</td></tr><tr><td>Spring vs. Summer</td><td>-0.17</td><td>0.75</td><td>-0.23</td><td>0.82</td></tr><tr><td colspan=\"5\">Microtus arvalis</td></tr><tr><td>Intercept</td><td>-5.20</td><td>1.30</td><td>-3.98</td><td>6.8 × 10-05***</td></tr><tr><td>Female vs. Male</td><td>1.06</td><td>0.86</td><td>1.23</td><td>0.22</td></tr><tr><td>Grassland vs. Forest</td><td>1.97</td><td>0.60</td><td>3.31</td><td>0.000948***</td></tr><tr><td>Spring vs. Summer</td><td>1.28</td><td>1.09</td><td>1.18</td><td>0.24</td></tr></table>",
+        "bbox": [
+            57,
+            134,
+            942,
+            311
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/49b17abd329aefb653edbfa48a2c1a7306c5af6016b36ac6c36dffd9ddf8f767.jpg",
+        "table_caption": [
+            "Table A4. Co-infections of Borrelia spp. and Rickettsia spp. in I. ricinus ticks. Data of Borrelia spp. investigation were available from Król et al. [32]. No.: Number; F: female; M: male; and N: nymph. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Species \nNo. of Co-Infected \nTicks/Total (%)</td><td>Year \nNo. of Co-Infected \nTicks/Total (%)</td><td>Season \nNo. of Co-Infected \nTicks/Total (%)</td><td>Habitat \nNo. of Co-Infected \nTicks/Total (%)</td><td>Borrelia spp.</td><td>Rickettsia spp.</td></tr><tr><td rowspan=\"8\">I. ricinus complex 9/1094 (0.8)</td><td rowspan=\"5\">2018 \n5/565 (0.9)</td><td rowspan=\"5\">spring \n5/436 (1.1)</td><td rowspan=\"3\">ecotone \n3/201 (1.5)</td><td>B. valaisiana</td><td rowspan=\"5\">R. helvetica</td></tr><tr><td>B. afzelii</td></tr><tr><td>Borrelia spp.</td></tr><tr><td rowspan=\"2\">forest \n2/235 (0.9)</td><td>B. valaisiana</td></tr><tr><td>B. afzelii</td></tr><tr><td rowspan=\"3\">2019 \n4/529 (0.8)</td><td rowspan=\"2\">spring \n3/386 (0.8)</td><td>ecotone \n1/101 (1.0)</td><td rowspan=\"3\" colspan=\"2\">Borrelia spp.</td></tr><tr><td>forest \n2/285 (0.7)</td></tr><tr><td>summer \n1/141 (0.7)</td><td>forest \n1/22 (4.5)</td></tr></table>",
+        "bbox": [
+            57,
+            373,
+            941,
+            588
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/66b7f703548b1b086533d014dd88c686f75faedbd23097317baf522d11b85a5c.jpg",
+        "table_caption": [
+            "Table A5. Co-infections of Borrelia spp. and Rickettsia spp. in small mammals. Data of Borrelia spp. investigation were available from Król et al. [32]. No.: Number. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>No. of Co-Infected Animals/Total (%)</td><td>Year No. of Co-Infected Animals/Total (%)</td><td>Season No. of Co-Infected Animals/Total (%)</td><td>Habitat No. of Co-Infected Animals/Total (%)</td><td>Species No. of Co-Infected Animals/Total (%)</td><td>Borrelia spp.</td><td>Rickettsia spp.</td></tr><tr><td rowspan=\"6\">9/1167 (0.8)</td><td>2017 1/290 (0.3)</td><td>Summer 1/290 (0.3)</td><td>Forest 1/152 (0.7)</td><td>A. flavicollis 1/72 (1.4)</td><td></td><td></td></tr><tr><td rowspan=\"3\">2018 6/94 (6.4)</td><td>Spring 1/23 (4.3)</td><td>Grassland 1/12 (8.3)</td><td>M. arvalis 1/12 (8.3)</td><td></td><td></td></tr><tr><td rowspan=\"2\">Summer 5/71 (7.0)</td><td>Grassland 1/40 (2.5)</td><td>M. arvalis 1/33 (3.0)</td><td rowspan=\"2\">Borrelia spp.</td><td rowspan=\"2\">Rickettsia spp.</td></tr><tr><td>Forest 4/31 (12.9)</td><td>S. araneus 2/7 (28.6)</td></tr><tr><td rowspan=\"2\">2019 2/783 (0.3)</td><td rowspan=\"2\">Summer 2/638 (0.3)</td><td rowspan=\"2\">Forest 2/372 (0.5)</td><td>Cl. glareolus 1/172 (0.6)</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>M. arvalis 1/19 (5.3)</td></tr></table>",
+        "bbox": [
+            57,
+            640,
+            941,
+            883
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 of 18 ",
+        "bbox": [
+            890,
+            64,
+            939,
+            74
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/92c2ee8029e7c91bd2d63b6349dc5e24cbfd8b38fbc074ec17397145a0dbd1c0.jpg",
+        "table_caption": [
+            "Table A6. Results from the co-occurrence seasonal analysis for all trapped ticks and mammals. Alpha maximum likelihood estimator (MLE) can be interpreted as an odds ratio for co-occurrence. The accompanying confidence interval (CI) was calculated according to Blaker [80]. "
+        ],
+        "table_footnote": [
+            "1 ND: not determined; no determination possible due to low numbers of ticks in autumn. "
+        ],
+        "table_body": "<table><tr><td>Class</td><td>Season</td><td>Alpha MLE</td><td>Blaker CI (Lower)</td><td>Blaker CI (Upper)</td><td>p-Value</td></tr><tr><td rowspan=\"3\">Arachnida ( ticks)</td><td>Spring</td><td>-0.72</td><td>-1.60</td><td>0.00</td><td>0.06</td></tr><tr><td>Summer</td><td>-0.54</td><td>-3.62</td><td>1.39</td><td>1.00</td></tr><tr><td>Autumn</td><td>ND1</td><td>ND1</td><td>ND1</td><td>ND1</td></tr><tr><td rowspan=\"2\">Mammalia (Small mammals)</td><td>Spring</td><td>0.09</td><td>-3.05</td><td>2.05</td><td>1.00</td></tr><tr><td>Summer</td><td>0.32</td><td>-0.55</td><td>1.11</td><td>0.51</td></tr></table>",
+        "bbox": [
+            57,
+            164,
+            939,
+            265
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/130e490c8fc5f84d3aeeef094a8f25cc662059f1da967f4401ad676196f616b1.jpg",
+        "image_caption": [
+            "Figure A1. (A) Location of study sites in Germany (inset). (B) Study sites with Rickettsia DNA positive © 2023samples. $\\mathbf { S } =$ gle, Image Landsat/Copernicus © 2023 GeoBasis-DE/BKG. Study site. The image was created using Google Earth Pro, Map: Google Earth $\\textcircled { \\mathbb { C } } 2 0 2 3$ Google, Image Landsat/Copernicus $\\textcircled { \\mathbb { C } } 2 0 2 3$ GeoBasis-DE/BKG. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            121,
+            294,
+            875,
+            875
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 of 18 ",
+        "bbox": [
+            890,
+            64,
+            939,
+            74
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            112,
+            144,
+            124
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Petney, T.N.; Pfäffle, M.P.; Skuballa, J.D. An annotated checklist of the ticks (Acari: Ixodida) of Germany. Syst. Appl. Acarol. 2012, 17, 115–170. [CrossRef] ",
+            "2. Gray, J.; Kahl, O.; Zintl, A. What do we still need to know about Ixodes ricinus? Ticks Tick-Borne Dis. 2021, 12, 101682. [CrossRef] [PubMed] ",
+            "3. Stanko, M.; Derdáková, M.; Špitalská, E.; Kazimírová, M. Ticks and their epidemiological role in Slovakia: From the past till present. Biologia 2021, 77, 1575–1610. [CrossRef] [PubMed] ",
+            "4. Medlock, J.M.; Hansford, K.M.; Bormane, A.; Derdakova, M.; Estrada-Peña, A.; George, J.-C.; Golovljova, I.; Jaenson, T.G.T.; Jensen, J.-K.; Jensen, P.M.; et al. Driving forces for changes in geographical distribution of Ixodes ricinus ticks in Europe. Parasites Vectors 2013, 6, 1. [CrossRef] ",
+            "5. Drehmann, M.; Springer, A.; Lindau, A.; Fachet, K.; Mai, S.; Thoma, D.; Schneider, C.R.; Chitimia-Dobler, L.; Bröker, M.; Dobler, G.; et al. The Spatial Distribution of Dermacentor Ticks (Ixodidae) in Germany—Evidence of a Continuing Spread of Dermacentor reticulatus. Front. Veter-Sci. 2020, 7, 578220. [CrossRef] ",
+            "6. Burri, C.; Schumann, O.; Schumann, C.; Gern, L. Are Apodemus spp. mice and Myodes glareolus reservoirs for Borrelia miyamotoi, Candidatus Neoehrlichia mikurensis, Rickettsia helvetica, R. monacensis and Anaplasma phagocytophilum? Ticks Tick-Borne Dis. 2014, 5, 245–251. [CrossRef] ",
+            "7. Kraft, R. Mäuse und Spitzmäuse in Bayern Verbreitung, Lebensraum, Bestandssituation; Ulmer: Stuttgart, Germany, 2008. ",
+            "8. Krawczyk, A.I.; van Duijvendijk, G.L.A.; Swart, A.; Heylen, D.; Jaarsma, R.I.; Jacobs, F.H.H.; Fonville, M.; Sprong, H.; Takken, W. Effect of rodent density on tick and tick-borne pathogen populations: Consequences for infectious disease risk. Parasites Vectors 2020, 13, 34. [CrossRef] ",
+            "9. Parola, P.; Paddock, C.D.; Socolovschi, C.; Labruna, M.B.; Mediannikov, O.; Kernif, T.; Abdad, M.Y.; Stenos, J.; Bitam, I.; Fournier, P.-E.; et al. Update on Tick-Borne Rickettsioses around the World: A Geographic Approach. Clin. Microbiol. Rev. 2013, 26, 657–702. [CrossRef] ",
+            "10. Kim, H.K. Rickettsia-Host-Tick Interactions: Knowledge Advances and Gaps. Infect. Immun. 2022, 90, e00621. [CrossRef] ",
+            "11. Merhej, V.; Raoult, D. Rickettsial evolution in the light of comparative genomics. Biol. Rev. Camb. Philos. Soc. 2010, 86, 379–405. [CrossRef] ",
+            "12. Hauck, D.; Jordan, D.; Springer, A.; Schunack, B.; Pachnicke, S.; Fingerle, V.; Strube, C. Transovarial transmission of Borrelia spp., Rickettsia spp. and Anaplasma phagocytophilum in Ixodes ricinus under field conditions extrapolated from DNA detection in questing larvae. Parasites Vectors 2020, 13, 176. [CrossRef] ",
+            "13. Raoult, D.; Roux, V. Rickettsioses as paradigms of new or emerging infectious diseases. Clin. Microbiol. Rev. 1997, 10, 694–719. [CrossRef] [PubMed] ",
+            "14. Socolovschi, C.; Mediannikov, O.; Raoult, D.; Parola, P. The relationship between spotted fever group Rickettsiae and Ixodid ticks. Veter-Res. 2009, 40, 34. [CrossRef] [PubMed] ",
+            "15. Karbowiak, G.; Biernat, B.; Sta ´nczak, J.; Szewczyk, T.; Werszko, J. The role of particular tick developmental stages in the circulation of tick-borne pathogens affecting humans in Central Europe. 3. Rickettsiae. Ann. Parasitol. 2016, 62, 89–100. [CrossRef] [PubMed] ",
+            "16. Sprong, H.; Wielinga, P.R.; Fonville, M.; Reusken, C.; Brandenburg, A.H.; Borgsteede, F.; Gaasenbeek, C.; van der Giessen, J.W. Ixodes ricinus ticks are reservoir hosts for Rickettsia helvetica and potentially carry flea-borne Rickettsia species. Parasites Vectors 2009, 2, 41. [CrossRef] [PubMed] ",
+            "17. Galfsky, D.; Król, N.; Pfeffer, M.; Obiegala, A. Long-term trends of tick-borne pathogens in regard to small mammal and tick populations from Saxony, Germany. Parasites Vectors 2019, 12, 131. [CrossRef] ",
+            "18. Wölfel, R.; Terzioglu, R.; Kiessling, J.; Wilhelm, S.; Essbauer, S.; Pfeffer, M.; Dobler, G. Rickettsia spp. in Ixodes ricinus Ticks in Bavaria, Germany. Ann. N. Y. Acad. Sci. 2006, 1078, 509–511. [CrossRef] ",
+            "19. May, K.; Strube, C. Prevalence of Rickettsiales (Anaplasma phagocytophilum and Rickettsia spp.) in hard ticks (Ixodes ricinus) in the city of Hamburg, Germany. Parasitol. Res. 2014, 113, 2169–2175. [CrossRef] ",
+            "20. Obiegala, A.; Oltersdorf, C.; Silaghi, C.; Kiefer, D.; Kiefer, M.; Woll, D.; Pfeffer, M. Rickettsia spp. in small mammals and their parasitizing ectoparasites from Saxony, Germany. Veter-Parasitol. Reg. Stud. Rep. 2016, 5, 19–24. [CrossRef] ",
+            "21. Tappe, J.; Strube, C. Anaplasma phagocytophilum and Rickettsia spp. infections in hard ticks (Ixodes ricinus) in the city of Hanover (Germany): Revisited. Ticks Tick-Borne Dis. 2013, 4, 432–438. [CrossRef] ",
+            "22. Azagi, T.; Hoornstra, D.; Kremer, K.; Hovius, J.W.R.; Sprong, H. Evaluation of Disease Causality of Rare Ixodes ricinus-Borne Infections in Europe. Pathogens 2020, 9, 150. [CrossRef] [PubMed] ",
+            "23. de Sousa, R.; dos Santos, M.L.; Cruz, C.; Almeida, V.; Garrote, A.R.; Ramirez, F.; Seixas, D.; Manata, M.J.; Maltez, F. Rare Case of Rickettsiosis Caused by Rickettsia monacensis, Portugal, 2021. Emerg. Infect. Dis. 2022, 28, 1068–1071. [CrossRef] [PubMed] ",
+            "24. Buczek, W.; Koman-Izko, A.; Buczek, A.; Bartosik, K.; Kulina, D.; Ciura, D. Spotted fever group rickettsiae transmitted by ˙ Dermacentor ticks and determinants of their spread in Europe. Ann. Agric. Environ. Med. 2020, 27, 505–511. [CrossRef] [PubMed] ",
+            "25. Parola, P.; Rovery, C.; Rolain, J.M.; Brouqui, P.; Davoust, B.; Raoult, D. Rickettsia slovaca and R. raoultii in Tick-borne Rickettsioses. Emerg. Infect. Dis. 2009, 15, 1105–1108. [CrossRef] ",
+            "26. Rieg, S.; Schmoldt, S.; Theilacker, C.; de With, K.; Wölfel, S.; Kern, W.V.; Dobler, G. Tick-borne lymphadenopathy (TIBOLA) acquired in Southwestern Germany. BMC Infect. Dis. 2011, 11, 167. [CrossRef] "
+        ],
+        "bbox": [
+            55,
+            129,
+            941,
+            910
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            76
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "15 of 18 ",
+        "bbox": [
+            890,
+            64,
+            941,
+            74
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "27. Špitalská, E.; Štefanidesová, K.; Kocianová, E.; Boldiš, V. Rickettsia slovaca and Rickettsia raoultii in Dermacentor marginatus and Dermacentor reticulatus ticks from Slovak Republic. Exp. Appl. Acarol. 2012, 57, 189–197. [CrossRef] ",
+            "28. Rizzoli, A.; Hauffe, H.C.; Carpi, G.; Vourc’h, G.I.; Neteler, M.; Rosà, R. Lyme borreliosis in Europe. Eurosurveillance 2011, 16, 19906. [CrossRef] ",
+            "29. Reye, A.L.; Hübschen, J.M.; Sausy, A.; Muller, C.P. Prevalence and Seasonality of Tick-Borne Pathogens in Questing Ixodes ricinus Ticks from Luxembourg. Appl. Environ. Microbiol. 2010, 76, 2923–2931. [CrossRef] ",
+            "30. Špitalská, E.; Boldiš, V.; Derdáková, M.; Selyemová, D.; Taragel’ová, V.R. Rickettsial infection in Ixodes ricinus ticks in urban and natural habitats of Slovakia. Ticks Tick-Borne Dis. 2014, 5, 161–165. [CrossRef] ",
+            "31. Knoll, S.; Springer, A.; Hauck, D.; Schunack, B.; Pachnicke, S.; Strube, C. Regional, seasonal, biennial and landscape-associated distribution of Anaplasma phagocytophilum and Rickettsia spp. infections in Ixodes ticks in northern Germany and implications for risk assessment at larger spatial scales. Ticks Tick-Borne Dis. 2021, 12, 101657. [CrossRef] ",
+            "32. Król, N.; Obiegala, A.; Imholt, C.; Arz, C.; Schmidt, E.; Jeske, K.; Ulrich, R.G.; Rentería-Solís, Z.; Jacob, J.; Pfeffer, M. Diversity of Borrelia burgdorferi sensu lato in ticks and small mammals from different habitats. Parasites Vectors 2022, 15, 195. [CrossRef] [PubMed] ",
+            "33. Estrada-Peña, A.; Mihalca, A.D.; Petney, T.N. Ticks of Europe and North Africa: A guide to species identification; Springer: Cham, Switzerland, 2017. ",
+            "34. Siuda, K. Kleszcze Polski (Acari: Ixodida): Systematyka i Rozmieszczenie; Polskie Towarzystwo Parazytologiczne: Warszawa, Poland, 1993. ",
+            "35. Estrada-Peña, A.; Nava, S.; Petney, T. Description of all the stages of Ixodes inopinatus n. sp. (Acari: Ixodidae). Ticks Tick-Borne Dis. 2014, 5, 734–743. [CrossRef] [PubMed] ",
+            "36. Jeske, K.; Weber, S.; Pfaff, F.; Imholt, C.; Jacob, J.; Beer, M.; Ulrich, R.G.; Hoffmann, D. Molecular Detection and Characterization of the First Cowpox Virus Isolate Derived from a Bank Vole. Viruses 2019, 11, 1075. [CrossRef] [PubMed] ",
+            "37. Jeske, K.; Jacob, J.; Drewes, S.; Pfeffer, M.; Heckel, G.; Ulrich, R.G.; Imholt, C. Hantavirus–Leptospira coinfections in small mammals from central Germany. Epidemiol. Infect. 2021, 149, e97. [CrossRef] [PubMed] ",
+            "38. Wölfel, R.; Essbauer, S.; Dobler, G. Diagnostics of tick-borne rickettsioses in Germany: A modern concept for a neglected disease. Int. J. Med. Microbiol. 2008, 298, 368–374. [CrossRef] ",
+            "39. Roux, V.; Raoult, D. Phylogenetic analysis of members of the genus Rickettsia using the gene encoding the outer-membrane protein rOmpB (ompB). Int. J. Syst. Evol. Microbiol. 2000, 50 Pt 4, 1449–1455. [CrossRef] ",
+            "40. Bates, D.; Mächler, M.; Bolker, B.; Walker, S. Fitting Linear Mixed-Effects Models Using lme4. J. Stat. Softw. 2015, 67, 48. [CrossRef] ",
+            "41. Mainali, K.P.; Slud, E.; Singer, M.C.; Fagan, W.F. A better index for analysis of co-occurrence and similarity. Sci. Adv. 2022, 8, eabj9204. [CrossRef] ",
+            "42. Mainali, K.P.; Slud, E.; Mainali, M.K. Package ‘CooccurrenceAffinity’. Available online: https://cran.r-project.org/web/ /packages/CooccurrenceAffinity/CooccurrenceAffinity.pdf (accessed on 30 June 2023). ",
+            "43. Speck, S.; Kern, T.; Aistleitner, K.; Dilcher, M.; Dobler, G.; Essbauer, S. In vitro studies of Rickettsia-host cell interactions: Confocal laser scanning microscopy of Rickettsia helvetica-infected eukaryotic cell lines. PLoS Neglected Trop. Dis. 2018, 12, e0006151. [CrossRef] ",
+            "44. Kartashov, M.Y.; Glushkova, L.I.; Mikryukova, T.P.; Korabelnikov, I.V.; Egorova, Y.I.; Tupota, N.L.; Protopopova, E.V.; Konovalova, S.N.; Ternovoi, V.A.; Loktev, V.B. Detection of Rickettsia helvetica and Candidatus R. tarasevichiae DNA in Ixodes persulcatus ticks collected in Northeastern European Russia (Komi Republic). Ticks Tick-Borne Dis. 2017, 8, 588–592. [CrossRef] ",
+            "45. Rubel, F.; Brugger, K.; Chitimia-Dobler, L.; Dautel, H.; Meyer-Kayser, E.; Kahl, O. Atlas of ticks (Acari: Argasidae, Ixodidae) in Germany. Exp. Appl. Acarol. 2021, 84, 183–214. [CrossRef] [PubMed] ",
+            "46. Schulz, M.; Mahling, M.; Pfister, K. Abundance and seasonal activity of questing Ixodes ricinus ticks in their natural habitats in southern Germany in 2011. J. Vector Ecol. 2014, 39, 56–65. [CrossRef] ",
+            "47. Cern ˇ ý, J.; Lynn, G.; Hrnková, J.; Golovchenko, M.; Rudenko, N.; Grubhoffer, L. Management Options for Ixodes ricinus-Associated Pathogens: A Review of Prevention Strategies. Int. J. Environ. Res. Public Health 2020, 17, 1830. [CrossRef] [PubMed] ",
+            "48. Nowak-Chmura, M.; Siuda, K. Ticks of Poland. Review of contemporary issues and latest research. Ann. Parasitol. 2012, 58, 125–155. [PubMed] ",
+            "49. Kohn, M.; Krücken, J.; McKay-Demeler, J.; Pachnicke, S.; Krieger, K.; von Samson-Himmelstjerna, G. Dermacentor reticulatus in Berlin/Brandenburg (Germany): Activity patterns and associated pathogens. Ticks Tick-Borne Dis. 2018, 10, 191–206. [CrossRef] ",
+            "50. Von Blanckenhagen, F.; Städtler, T. Small mammal communities in agricultural landscapes in Germany: Review of field data over the last decade. Julius-Kühn-Archiv 2011, 432, 75. [CrossRef] ",
+            "51. Hotopp, I.; Walther, B.; Fuelling, O.; Reil, D.; Hesse, C.; Below, D.A.; Imholt, C.; Jacob, J. Habitat and Season Effects on Small Mammal Bycatch in Live Trapping. Biology 2022, 11, 1806. [CrossRef] ",
+            "52. Boyard, C.; Vourc’h, G.; Barnouin, J. The relationships between Ixodes ricinus and small mammal species at the woodland–pasture interface. Exp. Appl. Acarol. 2008, 44, 61–76. [CrossRef] ",
+            "53. Hauer, S.; Ansorge, H.; Zöphel, U. Atlas der Säugetiere Sachsens: Naturschutz und Landschaftspflege; Zentraler Broschürenversand der Sächsischen Staatsregierung; Sächsisches Landesamt für Umwelt, Landschaft und Geologie: Dresden, Germany, 2009. ",
+            "54. Dobler, G.; Wölfel, R. Typhus and Other Rickettsioses: Emerging infections in Germany. Dtsch Arztebl. Int. 2009, 106, 348–354. [CrossRef] "
+        ],
+        "bbox": [
+            53,
+            112,
+            941,
+            920
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "16 of 18 ",
+        "bbox": [
+            890,
+            64,
+            941,
+            76
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "55. Nilsson, K. Septicaemia with Rickettsia helvetica in a patient with acute febrile illness, rash and myasthenia. J. Infect. 2009, 58, 79–82. [CrossRef] ",
+            "56. Hildebrand, J.; Perec-Matysiak, A.; Popiołek, M.; Merta, D.; My´sliwy, I.; Bu ´nkowska-Gawlik, K. A molecular survey of spotted fever group rickettsiae in introduced raccoons (Procyon lotor). Parasites Vectors 2022, 15, 162. [CrossRef] [PubMed] ",
+            "57. Mendoza-Roldan, J.A.; Manoj, R.R.S.; Latrofa, M.S.; Iatta, R.; Annoscia, G.; Lovreglio, P.; Stufano, A.; Dantas-Torres, F.; Davoust, B.; Laidoudi, Y.; et al. Role of reptiles and associated arthropods in the epidemiology of rickettsioses: A one health paradigm. PLOS Neglected Trop. Dis. 2021, 15, e0009090. [CrossRef] [PubMed] ",
+            "58. Fischer, S.; Spierling, N.G.; Heuser, E.; Kling, C.; Schmidt, S.; Rosenfeld, U.M.; Reil, D.; Imholt, C.; Jacob, J.; Ulrich, R.G.; et al. High prevalence of Rickettsia helvetica in wild small mammal populations in Germany. Ticks Tick-Borne Dis. 2018, 9, 500–505. [CrossRef] [PubMed] ",
+            "59. Mysterud, A.; Byrkjeland, R.; Qviller, L.; Viljugrein, H. The generalist tick Ixodes ricinus and the specialist tick Ixodes trianguliceps on shrews and rodents in a northern forest ecosystem– a role of body size even among small hosts. Parasites Vectors 2015, 8, 639. [CrossRef] ",
+            "60. Mardosaite-Busaitien ˙ e, D.; Radzijevskaja, J.; Balˇciauskas, L.; Paulauskas, A. First detection of ˙ Rickettsia helvetica in small mammals in Lithuania. New Microbes New Infect. 2018, 22, 19–23. [CrossRef] ",
+            "61. Schex, S.; Dobler, G.; Riehm, J.; Müller, J.; Sormunen, J.J.; Penttinen, R.; Klemola, T.; Hänninen, J.; Vuorinen, I.; Laaksonen, M.; et al. Rickettsia spp. in Wild Small Mammals in Lower Bavaria, South-Eastern Germany. Vector-Borne Zoonotic Dis. 2011, 11, 493–502. [CrossRef] ",
+            "62. Obiegala, A.; Król, N.; Oltersdorf, C.; Nader, J.; Pfeffer, M. The enzootic life-cycle of Borrelia burgdorferi (sensu lato) and tick-borne rickettsiae: An epidemiological study on wild-living small mammals and their ticks from Saxony, Germany. Parasites Vectors 2017, 10, 115. [CrossRef] ",
+            "63. Sta ´nczak, J.; Racewicz, M.; Michalik, J.; Cieniuch, S.; Sikora, B.; Skoracki, M. Prevalence of infection with Rickettsia helvetica in feeding ticks and their hosts in western Poland. Clin. Microbiol. Infect. 2009, 15 (Suppl. 2), 328–329. [CrossRef] ",
+            "64. Svoboda, P.; Dobler, G.; Markoti´c, A.; Kurolt, I.-C.; Speck, S.; Habuš, J.; Vucelja, M.; Krajinovi´c, L.C.; Tadin, A.; Margaleti´c, J.; et al. Survey for Hantaviruses, Tick-Borne Encephalitis Virus, and Rickettsia spp. in Small Rodents in Croatia. Vector-Borne Zoonotic Dis. 2014, 14, 523–530. [CrossRef] ",
+            "65. Mit’ková, K.; Berthová, L.; Kalúz, S.; Kazimírová, M.; Burdová, L.; Kocianová, E. First detections of Rickettsia helvetica and R. monacensis in ectoparasitic mites (Laelapidae and Trombiculidae) infesting rodents in south-western Slovakia. Parasitol. Res. 2015, 114, 2465–2472. [CrossRef] ",
+            "66. Martello, E.; Mannelli, A.; Grego, E.; Ceballos, L.A.; Ragagli, C.; Stella, M.C.; Tomassone, L. Borrelia burgdorferi sensu lato and spotted fever group rickettsiae in small rodents and attached ticks in the Northern Apennines, Italy. Ticks Tick-Borne Dis. 2019, 10, 862–867. [CrossRef] [PubMed] ",
+            "67. Pluta, S.; Hartelt, K.; Oehme, R.; Mackenstedt, U.; Kimmig, P. Prevalence of Coxiella burnetii and Rickettsia spp. in ticks and rodents in southern Germany. Ticks Tick-Borne Dis. 2010, 1, 145–147. [CrossRef] [PubMed] ",
+            "68. Chang, Q.-C.; Hu, Y.; Wu, T.-T.; Ma, X.-X.; Jiang, B.-G.; Jia, N.; Wang, A.-Q.; Jiang, J.-F. The Role of Ranged Horses in Eco-Epidemiology of Rickettsia raoultii Infection in China. Front. Microbiol. 2022, 12, 795500. [CrossRef] [PubMed] ",
+            "69. Liu, G.; Zhao, S.; Tan, W.; Hornok, S.; Yuan, W.; Mi, L.; Wang, S.; Liu, Z.; Zhang, Y.; Hazihan, W.; et al. Rickettsiae in red fox (Vulpes vulpes), marbled polecat (Vormela peregusna) and their ticks in northwestern China. Parasites Vectors 2021, 14, 204. [CrossRef] [PubMed] ",
+            "70. Zeroual, F.; Leulmi, H.; Bitam, I.; Benakhla, A. Molecular evidence of Rickettsia slovaca in spleen of wild boars in northeastern Algeria. New Microbes New Infect. 2018, 24, 17–20. [CrossRef] [PubMed] ",
+            "71. Sta ´nczak, J.; Biernat, B.; Racewicz, M.; Zalewska, M.; Matyjasek, A. Prevalence of different Rickettsia spp. in Ixodes ricinus and Dermacentor reticulatus ticks (Acari: Ixodidae) in north-eastern Poland. Ticks Tick-Borne Dis. 2017, 9, 427–434. [CrossRef] ",
+            "72. Schorn, S.; Pfister, K.; Reulen, H.; Mahling, M.; Silaghi, C. Occurrence of Babesia spp., Rickettsia spp. and Bartonella spp. in Ixodes ricinus in Bavarian public parks, Germany. Parasites Vectors 2011, 4, 135. [CrossRef] ",
+            "73. Silaghi, C.; Gilles, J.; Höhle, M.; Pradel, I.; Just, F.T.; Fingerle, V.; Küchenhoff, H.; Pfister, K. Prevalence of spotted fever group rickettsiae in Ixodes ricinus (Acari: Ixodidae) in southern Germany. J. Med. Entomol. 2008, 45, 948–955. [CrossRef] ",
+            "74. Samoylenko, I.; Shpynov, S.; Raoult, D.; Rudakov, N.; Fournier, P.-E. Evaluation of Dermacentor species naturally infected with Rickettsia raoultii. Clin. Microbiol. Infect. 2009, 15, 305–306. [CrossRef] ",
+            "75. Hildebrandt, A.; Krämer, A.; Sachse, S.; Straube, E. Detection of Rickettsia spp. and Anaplasma phagocytophilum in Ixodes ricinus ticks in a region of Middle Germany (Thuringia). Ticks Tick-Borne Dis. 2010, 1, 52–56. [CrossRef] ",
+            "76. Blazejak, K.; Janecek, E.; Strube, C. A 10-year surveillance of Rickettsiales (Rickettsia spp. and Anaplasma phagocytophilum) in the city of Hanover, Germany, reveals Rickettsia spp. as emerging pathogens in ticks. Parasites Vectors 2017, 10, 588. [CrossRef] [PubMed] ",
+            "77. Kantsø, B.; Svendsen, C.B.; Jensen, P.M.; Vennestrøm, J.; Krogfelt, K.A. Seasonal and habitat variation in the prevalence of Rickettsia helvetica in Ixodes ricinus ticks from Denmark. Ticks Tick-Borne Dis. 2010, 1, 101–103. [CrossRef] ",
+            "78. Raulf, M.-K.; Jordan, D.; Fingerle, V.; Strube, C. Association of Borrelia and Rickettsia spp. and bacterial loads in Ixodes ricinus ticks. Ticks Tick-Borne Dis. 2018, 9, 18–24. [CrossRef] [PubMed] "
+        ],
+        "bbox": [
+            53,
+            112,
+            941,
+            906
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "17 of 18 ",
+        "bbox": [
+            890,
+            64,
+            941,
+            76
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "79. Knoll, S.; Springer, A.; Hauck, D.; Schunack, B.; Pachnicke, S.; Fingerle, V.; Strube, C. Distribution of Borrelia burgdorferi s.l. and Borrelia miyamotoi in Ixodes tick populations in Northern Germany, co-infections with Rickettsiales and assessment of potential influencing factors. Med. Veter-Èntomol. 2021, 35, 595–606. [CrossRef] ",
+            "80. Blaker, H. Confidence curves and improved exact confidence intervals for discrete distributions. Can. J. Stat. 2000, 28, 783–798. [CrossRef] "
+        ],
+        "bbox": [
+            53,
+            112,
+            941,
+            181
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. ",
+        "bbox": [
+            53,
+            198,
+            942,
+            241
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "Pathogens 2023, 12, 933 ",
+        "bbox": [
+            55,
+            64,
+            193,
+            77
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "18 of 18 ",
+        "bbox": [
+            890,
+            64,
+            939,
+            76
+        ],
+        "page_idx": 17
+    }
+]

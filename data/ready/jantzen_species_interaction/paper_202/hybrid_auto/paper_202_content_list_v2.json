@@ -1,0 +1,1933 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Evidence for the Presence of Two Distinct Hantaviruses Associated With Apodemus Mice in Croatia and Analysis of Local Strains "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                87,
+                155,
+                883,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Angelina Plyusnina,1 Lidija Cvetko Krajinovic´, 2 Josip Margaletic´, 3 Jukka Niemimaa,4 Kirill Nemirov,5 A˚ ke Lundkvist,5 Alemka Markotic´, 2 Marica Miletic´-Medved,6 Tatjana Avsˇicˇ-Zˇ upanc,7 Heikki Henttonen,4 and Alexander Plyusnin1 * "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                255,
+                915,
+                297
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 Department of Virology, Infection Biology Research Program, Haartman Institute, University of Helsinki, Helsinki, Finland "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 University Hospital for Infectious Diseases, Zagreb, Croatia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 Faculty of Forestry, University of Zagreb, Zagreb, Croatia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 Finnish Forest Research Institute, Vantaa Research Unit, Vantaa, Finland "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5 Swedish Institute for Infectious Disease Control, Stockholm, Sweden "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6 Public Health Institute, Brodsko-posavska County, Slavonski Brod, Croatia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7 Medical School, University of Ljubljana, Ljubljana, Slovenia "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                300,
+                831,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Europe, Dobrava-Belgrade (DOBV), Saaremaa (SAAV), and Puumala (PUUV) viruses are known to cause hemorrhagic fever with renal syndrome (HFRS). All three hantaviruses are now found in Croatia. Lung tissue samples of 315 Apodemus mice trapped in 2003–2004 were screened for the presence of hantaviral N-Ag and 20 mice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 3 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were found either strongly positive or weak/ suspected-positive. Partial sequences of hantavirus M and S segments were recovered by RT-PCR from six mice and subjected to (phylo)genetic analysis that revealed the presence of four novel strains of DOBV and one of SAAV. Curiously, one of the newly described DOBV strains was found in Apodemus agrarius mouse, that is, not in the traditional host, A. flavicollis mice, suggesting a spillover event. S segment sequences recovered previously from HFRS cases [Markotic´ et al., 2002] were confirmed as DOBV sequences; one of which appeared particularly close to the prototype Slovenian DOBV isolate. Taken together with earlier data on PUUV in Croatia, these results show a co-circulation of three European hantavirus pathogens in this country. So far, not a single SAAV sequence has been recovered from HFRS patients either in Croatia or neighboring Slovenia and Hungary nor in Slovakia suggesting a somewhat lower fequency of acute SAAV infection in humans in this part of Europe than for example in the Baltics. J. Med. "
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                441,
+                476,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Virol. 83:108–114, 2011. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2010 Wiley-Liss, Inc. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                858,
+                473,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "KEY WORDS: HFRS; hantavirus; Dobrava virus, Saaremaa virus "
+                    }
+                ]
+            },
+            "bbox": [
+                106,
+                878,
+                473,
+                907
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                639,
+                441,
+                784,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantaviruses constitute the Hantavirus genus in the family Bunyaviridae [Nichol et al., 2005]. They are enveloped viruses with tri-segmented RNA genome of negative polarity. Small (S), medium (M), and large (L) RNA segments encode, respectively, nucleocapsid (N) protein, a precursor for two surface glycoproteins Gn and Gc, and the RNA-dependent RNA polymerase (L protein). In some hantaviruses, the S segment encodes also the non-structural protein NSs. The function(s) of this protein in the virus replication cycle remain to be determined but there is an evidence that it can counteract an interferon response [Ja¨a¨skela¨inen et al., 2007]. In nature, hantaviruses are maintained in rodents or insectivores infected persistently. When transmitted to humans, usually via aerosolized excreta, some rodent-borne hantaviruses can cause disease. In Europe, Dobrava-Belgrade (DOBV), Saaremaa (SAAV), and Puumala (PUUV) viruses cause hemorrhagic fever with renal syndrome (HFRS) of varying severity. In Asia, the main causative agents of HFRS are Hantaan and Seoul (SEOV) viruses. In the Americas, Sin Nombre, "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                462,
+                917,
+                755
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal of Medical Virology 83:108–114 (2011) "
+                    }
+                ]
+            },
+            "bbox": [
+                552,
+                70,
+                917,
+                85
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Grant sponsor: The Academy of Finland; Grant sponsor: Sigrid Juselius Foundation (Finland); Grant numbers: 143-1430115- 0103, 068-1430115-2119, J-29-2007; Grant sponsor: The Croatian Ministry of Science; Grant sponsor: EU Grant; Grant number: GOCE-2003-010284 EDEN. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                779,
+                917,
+                835
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "*Correspondence to: Alexander Plyusnin, Department of Virology, Haartman Institute, University of Helsinki, P.O. Box 21, FIN-00014, Finland. E-mail: alexander.plyusnin@helsinki.fi "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                838,
+                917,
+                873
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted 26 July 2010 "
+                    }
+                ]
+            },
+            "bbox": [
+                525,
+                875,
+                666,
+                887
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI 10.1002/jmv.21929 "
+                    }
+                ]
+            },
+            "bbox": [
+                525,
+                888,
+                675,
+                901
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Published online in Wiley Online Library "
+                    }
+                ]
+            },
+            "bbox": [
+                525,
+                902,
+                784,
+                915
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "(wileyonlinelibrary.com). "
+                    }
+                ]
+            },
+            "bbox": [
+                525,
+                915,
+                680,
+                926
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "\u0001 2010 WILEY-LISS, INC. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                936,
+                289,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Andes and related viruses are associated with hantavirus (cardio)pulmonary syndrome (HCPS) [for reviews, see Schmaljohn and Hjelle, 1997; Vapalahti et al., 2003]. Very little is known about hantaviruses in Africa [Klempa et al., 2006, 2007] and nothing is known about these viruses in Australia. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                95,
+                484,
+                178
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOBV, SAAV, PUUV, and SEOV are found in Europe, often in co-circulation, and the first three viruses also in association with human HFRS cases [Vapalahti et al., 2003]. DOBV, harbored by yellow-necked mice (Apodemus flavicollis), is associated with severe HFRS mostly in the Balkans and Alpe-Adrian region [Papa et al., 1998; Avsˇicˇ-Zˇ upanc et al., 1999; Markotic´ et al., 2002; Jakab et al., 2007]. The natural host for SAAV is the striped field mouse (Apodemus agrarius); the virus causes mild HFRS in the Baltics, Central Europe, and the European part of Russia [Lundkvist et al., 1998; Plyusnin et al., 1999; Golovljova et al., 2000; Sibold et al., 2001; Klempa et al., 2004, 2008]. It should be noted that SAAV was considered initially a genetic variant of DOBV carried by A. agrarius [Plyusnin et al., 1997; Nemirov et al., 1999] and for a while there was a controversy in the taxonomy and terminology of SAAV. The virus is now recognized as a distinct species (for the latest taxonomy, see ICTV website: www.ictvonline.org) but, in some publications, it is still named ‘‘DOBV-Aa.’’ "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                179,
+                484,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PUUV is carried by bank voles (Myodes glareolus) and causes HFRS, usualy mild, in Northern and Central Europe, the Baltics, European part of Russia and Alpe-Adria [Settergren et al., 1989; Mustonen et al., 1994; Tkachenko et al., 1999; Golovljova et al., 2000, 2007; Heyman et al., 2001; Markotic´ et al., 2002; Cvetko et al., 2005; Avsˇicˇ-Zˇ upanc et al., 2007; Hofmann et al., 2008]. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                455,
+                484,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The whole of Croatia except costal region and islands is endemic for HFRS. Serological and genetic findings in HFRS patients provided evidence that PUUV and Dobrava virus (DOBV) have been two major pathogenic hantaviruses circulating in Croatia and causing hantavirus infections in humans [Markotic´ et al., 2002; Cvetko et al., 2005]. Apathogenic Tula virus was detected in wild rodents in Croatia as well [Scharninghausen et al., 2002]. Croatia borders Slovenia to the northwest and has an extended border with Bosnia and Herzegovina, one of the largest HFRS regions in Europe [Markotic´ et al., 1996; Hukic´ et al., 2009]. Nowhere else is the co-existence of PUUV and DOBV as obvious as in Croatia, Bosnia and Herzegovina, and Slovenia [Markotic´ et al., 2002; Cvetko et al., 2005; Lundkvist et al., 1997; Avsˇicˇ-Zˇ upanc et al., 2000, 2007]. During the HFRS outbreak in Croatia in 2002 when more than 400 patients were serologically confirmed as HFRS positive, PUUV was shown to be dominant pathogen [Miletic´- Medved et al., 2002; Kuzman et al., 2003]. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                553,
+                484,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phylogenetic analysis of wild-type (wt) PUUV strains from the 2002-outbreak area showed that they clustered together with the strains from Slovenia and Austria forming distinct Alpe-Adrian genetic lineage [Cvetko et al., 2005]. Most recently, Hungarian PUUV strains were added to this lineage [Plyusnina et al., 2009]. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                829,
+                484,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The knowledge on DOBV and SAAV genetic variants in Croatia is still restricted to partial S segment sequences recovered from three HFRS patients [Markotic´ et al., 2002]. To fill this gap, we attempted to recover and analyze DOBV and SAAV sequences from carrier rodents, Apodemus mice, trapped during field expeditions organized by the Faculty of Forestry, University of Zagreb, and the Finnish Forest Research Institute. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                95,
+                907,
+                219
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MATERIALS AND METHODS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                585,
+                239,
+                828,
+                253
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Trapping of Rodents "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                619,
+                260,
+                792,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodents were collected during two expeditions, in north-east Croatia in May 2003 and the south-west parts of Croatia in September, 2004 at the following locations: Migalovci, Merolino, Loze, Nova Gradisˇka, Gracˇac/Mala Kapela, and Delnice/Mala Kapela. Animals were trapped with snap traps, set in the evening and checked early in the morning. Animals were placed in cooler box in the field and kept subsequently in a refrigerator until dissected on the same day. Lung tissue samples were taken from all animals and preserved in RNAlater reagent (Ambion, Applied Biosystems, Carlsbad, CA) for genetic analyses. Also blood and serum samples were taken for further serological/epidemiological analyses by pressing the heart on filter paper. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                280,
+                907,
+                473
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Screening of Rodent Samples "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                585,
+                494,
+                828,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lung tissue samples were screened first for hantavirus nucleocapsid (N) protein antigen (N-Ag) by immuno(Western)blotting (WB) as described earlier [Plyusnin et al., 1995]. In brief, approximately "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { m g }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of tissue was placed into "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 0 { - } 5 0 0 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of Laemmli sample buffer and homogenized by sonication. Aliquots of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were separated by electrophoresis in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sodiumdodecyl sulphate–polyacrylamide gels and then immunoblotted with rabbit polyclonal antibody raised against DOBV. Swine anti-rabbit antibodies conjugated with the horse-radish peroxidase (Dako, Glostrup, Denmark) were used as secondary antibodies. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                513,
+                907,
+                679
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Reverse Transcription—Polymerase Chain Reaction (RT-PCR) and Sequencing "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                528,
+                699,
+                883,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RNA was extracted from lung tissue samples using the Tripure reagent (Boehringer, Mannheim, Germany) following recommendations of the manufacturer. RNA was then subjected to RT-PCR to recover partial M segment and S segment sequences (sequences of primers and other experimental details are available upon request). PCR amplicons were gel-purified with QIAquick Gel Extraction kit (QIAGEN, GmbH, Germany) and sequenced directly using ABI PRISMTM Dye Terminator sequencing kit (Applied Biosystems, Foster City, CA). SAAV and DOBV genome sequences described in this paper have been deposited to the GenBank sequences database under accession numbers FN813291-7. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                732,
+                907,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Dobrava and Saaremaa Hantaviruses in Croatia "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                71,
+                422,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "109 "
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                71,
+                909,
+                82
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Med. Virol. DOI 10.1002/jmv "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                936,
+                907,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mitochondrial DNA (mtDNA) Analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                132,
+                95,
+                449,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mitochondrial DNA (mtDNA) analysis was performed as described earlier [Nemirov et al., 2002]. The analysis was done to confirm the species status, particularly that of A. flavicollis and A. sylvaticus that sometimes are problematic to identify. Briefly, DNA was extracted from lung tissue samples using the Tripure reagent (Behringer). A 427 nt-long PCR-product from the Dloop-encoding region was amplified with primers 5’- CCACCATCAGCACCCAAAGCTG-3’ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 5 } ^ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-CTGAAG-TAAGAACCAGATGTCTG-3’. The product was purified from the gel and subjected to direct sequencing. For comparison, mtDNA sequences of A. agrarius, A. flavicollis, and A. sylvaticus were retrieved from the GenBank nucleotide databases. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                116,
+                491,
+                309
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Phylogenetic Analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                198,
+                325,
+                383,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple nucleotide sequence alignments were prepared manually using the SeqApp 1.9a169 sequenceediting program. Phylogenetic analysis was performed using the PHYLIP program package [Felsenstein, 1993]. Five-hundred bootstrap replicates were generated using the ‘‘Seqboot’’ program and submitted to the distance matrice algorithm (‘‘Dnadist’’ program), with the maximum likelihood model for nucleotide substitutions). The resulting distance matrices were analyzed with either Neighbor-Joining (NJ) or Fitch-Margoliash (FM) tree-fitting algorithms (‘‘Neighbor’’ and ‘‘Fitch’’ programs, respectively). The bootstrap support values were calculated with the ‘‘Consense’’ program. Hantavirus sequences used for comparison were recovered from the GenBank. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                347,
+                491,
+                551
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESULTS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                247,
+                570,
+                331,
+                583
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Screening of Rodents "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                200,
+                590,
+                380,
+                604
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In May 2003, 362 rodents were trapped. Of those, 252 were Apodemus mice. In the field, 18 animals were classified preliminarily as A. agrarius, 66 as A. flavicollis, and 151 as A. sylvaticus. Of 245 small mammals trapped in September 2004, 80 were classified as Apodemus mice. These included 75 yellow-necked mice (A. flavicollis) and five wood mice (A. sylvaticus). All 332 Apodemus mice were subjected to the WB-screening for hantaviral N-Ag and 20 mice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 3 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were found either strongly positive or weak/suspected-positive. These mice, two A. agrarius, six A. flavicollis, and 12 A. sylvaticus, were trapped at four localities: Migalovci, Nova Gradisˇka, Loze, and Mala Kapela. Lung tissue samples of these mice were further tested for the presence of SAAV/DOBV genome by RT-PCR designed to amplify partial M segment sequence, nucleotides (nt) 1673–1989. Six samples, two from A. agrarius and four from A. flavicollis were positive. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                609,
+                491,
+                859
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Analysis of SAAV and DOBV Strains "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                106,
+                878,
+                474,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Six PCR-amplicons, two recovered from A. agrarius mice and four from A. flavicollis mice, were purified and "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                898,
+                491,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sequenced. Hantaviral M segment sequences of all amplicons were recovered successfully and subjected to genetic analyses. Direct sequence comparison revealed that they form two clearly distinct groups. The first group included five sequences originated from samples ##33, 56 (these two sequences were identical and only one, #56, was taken to further analyses), and #64 of the May 2003 set and also samples ##21 and 109 of the September 2004 set. These sequences showed the highest level of identity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 0 - 9 8 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to the corresponding sequences of DOBV strains from Hungary, Slovenia, Greece, and Slovakia suggesting that they belong to this hantavirus species. The sequence identity to SAAV strains was substantially lower: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 1 - 8 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": Consequently, the corresponding wild-type (wt) strains were designated as "
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                95,
+                915,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOBV/Croatia_Nova Gradisˇka/Af56/2003, DOBV/Croatia_Nova Gradisˇka/Aa64/2003, DOBV/Croatia_Gracˇac-MalaKapela/Af21/2004, and DOBV/Croatia_Delnice-MalaKapela/Af109/2004, or DOBV/Croatia56, DOBV/Croatia64, DOBV/Croatia21, and DOBV/Croatia109 for short. "
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                330,
+                915,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The second group was represented by a single sequence recovered from the Sample "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\# 1 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the May 2003 set. This sequence was more closely related to SAAV sequences originated from Hungary, Slovakia, Central Russia, and Estonia (identity of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 0 - 9 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") than to DOBV sequences "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 1 - 8 4 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The corresponding wt strain was designated as SAAV/Croatia_Migalovci/ Aa12/2003, or SAAV/Croatia12 for short. "
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                429,
+                915,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Phylogenetic analysis of the partial M segment sequences confirmed this grouping (Fig. 1). All new Croatian DOBV strains clustered together with other DOBV strains and shared with them a well-supported common ancestor. In contrast, the new Croatian SAAV strain appeared monophyletic with other SAAV strains. Within the SAAV cluster, the Croatian strain shared the most recent common ancestor (TMRCA) with the Hungarian strain and, in turn, these two shared a more anscient common ancestor with the Slovakian strain. Within the DOBV cluster, two strains (Croatia56 and Croatia64) grouped together, strain Croatia109 shared TMRCA with the prototype DOBV strain from Slovenia while the strain Croatia21 did not group with any particular strain. Interestingly, one of four new DOBV strains, DOBV/Croatia64, was found in A. agrarius field mouse, that is, not in the traditional host, suggesting a spillover event. "
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                539,
+                915,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recovery of partial S segment sequences was also attempted on six RT-PCR-positive samples but only two sequences were obtained: the longer (nt 172–1,149), for SAAV strain Croatia12 and the shorter (nt 387–940), for DOBV strain Croatia56. This made possible to compare the M segment- and S segment-based phylogenies and also to compare the newly recovered sequences to the earlier reported DOBV sequences recovered from Croatian HFRS patients: DOBcro100kt, DOBcro126pb, and DOBcro231lm [Markotic´ et al., 2002]. On the "
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                789,
+                915,
+                925
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                89,
+                71,
+                114,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plyusnina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                71,
+                915,
+                84
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Med. Virol. DOI 10.1002/jmv "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                936,
+                284,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9593f623df137699fb2bb99f6a04769f03e35e8bd073c215fff11125f60d0966.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "0.1 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Phylogenetic tree of hantaviruses based on partial M segment sequences (nt 1749–2019). Abbreviations: SNV, Sin Nombre virus, strain NM H10; NYV, New York virus, strain H-NY1; ELMCV, El Moro Canyon virus, strain RM-97; LANV, Laguna Negra virus, strain 510B; BAYV, Bayou virus, strain Louisiana; BCCV, Black Creek Canal virus; SEOV; seoul virus, strain 80-39; THAIV, Thailand virus, strain 741; HTNV, Hantaan virus, strain 76–118; SAAV, Saaremaa virus; DOBV, Dobrava-Belgrade virus; PHV, Prospect Hill virus, strain PH-1; TULV, Tula virus, strain Moravia02v; PUUV, Puumala virus, strain Sotkamo; TOPV, Topografov virus, strain Ls136v; KHAV, Khabarovsk virus, strain MF-43. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                188,
+                93,
+                801,
+                770
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Dobrava and Saaremaa Hantaviruses in Croatia "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                71,
+                422,
+                84
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "111 "
+                    }
+                ]
+            },
+            "bbox": [
+                880,
+                71,
+                907,
+                83
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Med. Virol. DOI 10.1002/jmv "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                936,
+                909,
+                949
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "phylogenetic trees calculated for both longer and shorter regions, the new Croatian DOBV and SAAV strains were located within their respective species clusters (on Fig. 2, the tree calculated for the shorter region, nt 387– 853, to accommodate the above mentioned Croatian and also the Greek HRFS-originated sequencses, is shown). "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                95,
+                491,
+                178
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Thus, the topologies of M- and S-trees were similar. The SAAV strain Croatia12 was situated within SAAV cluster, next to the group of SAAV strains from Slovakia. The newly recovered, rodent-originated DOBV strain Croatia56 was placed within DOBVcluster, together with three sequences described "
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                95,
+                914,
+                178
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/737ca73f5f630c3ec4d62f3d9bc3f9aecb370de5a2f520100098fb89658a348b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Phylogenetic tree of Dobrava, Saaremaa and related hantaviruses based on partial S segment sequences (nt 387–853). ASV, Amur-Soochong virus, strain Soochong1. For other abbreviations, see Figure 1. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                193,
+                195,
+                808,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                89,
+                71,
+                114,
+                82
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plyusnina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                71,
+                914,
+                84
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Med. Virol. DOI 10.1002/jmv "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                936,
+                284,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "previously from Croatian HFRS patients and also with the sequence of prototype DOBV strain from Slovenia. Five DOBV strains from Greece, together with one strain from Slovakia, form another group. It should be noted that he bootstrap support values for both groups were not convincingly high. Interestingly, one of the Croatian sequences derived from a patient, DOBcro100kt, was particularly close to Slovenian sequence and shared with this prototype sequence a reasonably well supported "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(69 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "comon ancestor. Of three DOBV sequences recovered from Greek HFRS cases [Papa et al., 1998], two (Greece-PA and Greece-CG) were placed together with high bootstrap support "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 3 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", while the third sequence, Greece-PR, clustered with two DOBV sequences recovered from A. flavicollis that were trapped in Ano Poroja, northern Greece [Papa et al., 2001]. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                95,
+                484,
+                330
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                227,
+                353,
+                340,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The results of this study confirmed the circulation of DOBV in Croatia and also presented the first evidence for the presence of SAAV in local A. agrarius mice. It was clarified that the sequences described previously from Croatian human HFRS-cases belong to DOBV, not to SAAV. Taken together with the earlier reports on PUUV in Croatia, both in rodents and in association with human HFRS cases [Markotic´ et al., 2002; Cvetko et al., 2005], the data of (phylo)genetic analyses suggested cocirculation of three pathogenic hantaviruses in this country (the evidence of apathogenic Tula virus was earlier recorded as well [Scharninghausen et al., 2002]). Thus, in that respect, Croatia resembles neighboring Slovenia and Hungary and also Slovakia where different hantaviruses have been found within a relatively small territory [Sibold et al., 1999, 2001; Avsˇicˇ-Zˇ upanc et al., 2000, 2007; Plyusnina et al., 2009]. So far, not a single SAAV genome sequence has been recovered from HFRS patients in these countries suggesting a lower fequency of acute SAAV infection in humans in this part of Europe, in contrast to, for example, Estonia where SAAV-infections are more common than DOBV-infections [Golovljova et al., 2000, 2002, 2007]. Croatian HFRS patients exhibit mostly mild to moderate clinical picture of the disease associated with PUUV, and only a few of them have severe clinical picture associated with DOBV [Markotic´ et al., 2002]. However, there are some patients with cross-reactive IgG ELISA antibodies to both PUUV and DOBV and usually with moderate to mild clinical picture, which may be possibly linked to SAAV or some other related, but not-yet discovered hantavirus(es) (A. Markotic´, unpublished results). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                372,
+                484,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recovery of DOBV genome sequences from the tissue sample of A. agrarius mice #64 trapped in Nova Gradisˇka is of special interest. So far, all A. agrarius hantaviral sequences belonged to SAAV species (or, according to another suggested classification, to ‘‘DOB-Aa’’, that is, the subtype of DOBV associated with A. agrarius). All hantavirus-positive rodents analyzed in this study were assigned to A. flavicollis or A. agrarius "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                816,
+                484,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "species using genetic analysis thus leaving no uncertainties. The most likely explanation for finding of DOBV in another rodent species is a spillover of the virus, the phenomenon registered occasionally for other hantaviruses [see, e.g., Klingstro¨m et al., 2002] but, before this study, not for DOBV. Most recently, spillover of SAAV from A. agrarius to A. flavicollis mice was desribed in Germany [Schlegel et al., 2009] thus our data on a spillover of DOBV from A. flavicollis to A. agrarius bring a pleasant symmetry to the case. "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                95,
+                907,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Another interesting fact is the existence of hantaviral sequences originated from Caucasian wood mice A. ponticus and one human HFRS-case from Krasnodar region of Russian Federation [Klempa et al., 2008]. These sequences form a well-supported group (Fig. 2). The A. ponticus-associated isolate Sochi/Ap shows a respectful "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "difference from DOBV and SAAV in GnGc protein sequence and also at least fourfold differences in focus-reduction neutralization titers of some human sera [Klempa et al., 2008]. Should this virus be considered a distinct species? "
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                234,
+                907,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During the last two decades the data on hantaviruses associated with different species of Apodemus mice in Europe have been accumulating with an increasing speed. Further progress in this field is expected. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                387,
+                907,
+                441
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ACKNOWLEDGMENTS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                609,
+                460,
+                803,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This paper was catalogued by the EDEN steering committee as EDEN0213 (http://www.eden-fp6project. net/). "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                479,
+                907,
+                520
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                644,
+                540,
+                767,
+                553
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Avsˇicˇ-Zˇ upanc T, Petrovec M, Furlan P, Kaps R, Elgh F, Lundkvist A˚ . 1999. Hemorrhagic fever with renal syndrome in the Dolenjska region of Slovenia-A 10-year survey. Clin Infect Dis 28:860–865. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Avsˇicˇ-Zˇ upanc T, Nemirov K, Petrovec M, Trilar T, Poljak M, Vaheri A, Plyusnin A. 2000. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: Co-existence of two distinct genetic lineages within the same natural focus. J Gen Virol 81:1747–1755. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Avsˇicˇ-Zˇ upanc T, Petrovec M, Duh D, Plyusnina A, Lundkvist A˚ , Plyusnin A. 2007. Puumala hantavirus in Slovenia: Analyses of S and M segment sequences recovered from patients and rodents. Virus Res 123:204–210. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cvetko L, Markotic´ A, Plyusnina A, Margaletic´ J, Miletic´-Medved M, Turk N, Milas Z, Avsˇic-Zˇ upanc T, Plyusnin A. 2005. HFRS and Puumala virus in Croatia during 2000 outbreak. J Med Virol 77: 290–294. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Felsenstein. 1993. PHYLIP (Phylogeny Inference Package) version 3.5c. Distributed by the author. Seattle: Department of Genetics, University of Washington. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Golovljova I, Vasilenko V, Prukk T, Brus Sjo¨landerK, Plyusnin A, Lundkvist A˚ . 2000. Puumala and Dobrava hantaviruses causing hemorrhagic fever with renal syndrome in Estonia. Eur J Clin Microbiol Infect Dis 19:968–969. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Golovljova I, Brus Sjo¨lander K, Lindegren G, Vene S, Vasilenko V, Plyusnin A, Lundkvist A˚ . 2002. Hantaviruses in Estonia. J Med Virol 68:589–598. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Golovljova I, Vasilenko V, Mittzenkov V, Prukk T, Seppet E, Vene S, Plyusnin A, Lundkvist A˚ . 2007. Characterization of hemorrhagic fever with renal syndrome caused by hantaviruses, Estonia. Emerg Infect Dis 13:1773–1776. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heyman P, Vervoort T, Escutenaire S, Degrave E, Konings J, Vandenvelde C, Verhagen R. 2001. Incidence of hantavirus infections in Belgium. Virus Res 77:71–80. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hofmann J, Meisel H, Klempa B, Vesenbeckh, Beck R, Michel D, Schmidt-Chanasit J, Ulrich RG, Grund S, Enders G, Kru¨ ger DH. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                556,
+                910,
+                926
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Dobrava and Saaremaa Hantaviruses in Croatia "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                71,
+                422,
+                83
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "113 "
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                71,
+                909,
+                83
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Med. Virol. DOI 10.1002/jmv "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                936,
+                907,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2008. Hantavirus outbreak, Germany, 2007. J Med Virol 14:850– 852. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hukic´ M, Nikolic´ J, Valjevac A, Sˇ eremet M, Tesˇic´ G, Markotic´ A. 2009. A serosurvey reveals Bosnia and Herzegovina as a Europe’s hotspot in Hantavirus seroprevalence. Epidemiol Infect 2:1–9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ja¨a¨skela¨inen K, Kaukinen P, Minskaya ES, Plyusnina A, Vapalahti O, Elliott R, Weber F, Vaheri A, Plyusnin A. 2007. Tula and Puumala hantavirus NSs ORFs are functional and the products inhibit activation of the interferon-beta promoter. J Med Virol 79:1527– 1536. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jakab F, Sebok J, Ferenczi E, Horva´th G, Szucs G. 2007. First detection of Dobrava hantavirus from a patient with severe haemorrhagic fever with renal syndrome by SYBR Green-based real time RT-PCR. Scand J Infect Dis 39:902–906. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa B, Schu¨ tt M, Auste B, Labuda M, Ulrich R, Meisel H, Kru¨ ger DH. 2004. First molecular identification of human Dobrava virus infection in Central Europe. J Clin Microbiol 42:1322–1325. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa B, Fichet-Calvet E, Lecompte E, Auste B, Aniskin V, Meisel H, Denys C, Koivogui L, ter MeulenJ, Kru¨ ger DH. 2006. Hantavirus in African wood mouse, Guinea. Emerg Infect Dis 12:838–840. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa B, Fichet-Calvet E, Lecompte E, Auste B, Aniskin V, Meisel H, Barriere P, Koivogui L, ter MeulenJ, Kru¨ ger DH. 2007. Novel hantavirus sequences in schrew, Guinea. Emerg Infect Dis 13:520– 522. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa B, Tkachenko EA, Dzagurova TK, Yunicheva YV, Morozov VG, Okulova NM, Slyusareva GP, Smirnov A, Kruger DH. 2008. Hemorrhagic fever with renal syndrome caused by 2 lineages of Dobrava hantavirus, Russia. Emerg Infect Dis 14:617–625. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klingstro¨m J, Heyman P, Escutenaire S, Sjo¨lander KB, De Jaegere F, Henttonen H, Lundkvist A. 2002. Rodent host specificity of European hantaviruses: Evidence of Puumala virus interspecific spillover. J Med Virol 68:581–588. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kuzman I, Puljiz I, Turcˇinov D, Markotic´ A, Turkovic´ B, Aleraj B, Andric´ Z, Petkovic´ D, Tutek V, Herendic´ B, Iskra M, Pandak N, Misetic´ Z, Peric´ L, Jelaska D, Majetic´-Sekovanic´ M, Ledina D, Misic´-Majerus L, Radonic´ R. 2003. The biggest epidemic of hemorrhagic fever with renal syndrome in Croatia (in Croatian, Abstract—English). Acta Med Croatica 57:337–346. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lundkvist A, Hukic M, Horling J, Gilljam M, Nichol S, Niklasson B. 1997. Puumala and Dobrava viruses cause hemorrhagic fever with renal syndrome in Bosnia-Herzegovina: Evidence of highly crossneutralizing antibody responses in early patient sera. J Med Virol 53:51–59. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lundkvist A˚ , Vasilenko V, Golovljova I, Plyusnin A, Vaheri A. 1998. Human Dobrava hantavirus infections in Estonia. Lancet 352:369. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Markotic´ A, LeDuc JW, Hlacˇa D, Rabatic S, Sˇ arcevic A, Dasˇic´ G, Gagro A, Kuzman I, Barac´ V, Avsˇic´-Zˇ upanc T, Beus I, Dekaris D. 1996. Hantaviruses are a likely threat to NATO forces in Bosnia and Herzegovina and Croatia. Nat Med 2:269–270. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Markotic´ A, Nichol ST, Kuzman I, Sanchez AJ, Ksiazek TG, Gagro A, Rabatic S, Zgorelec R, Avsˇic-Zˇ upanc T, Beus I, Dekaris D. 2002. Characteristics of Puumala and Dobrava infections in Croatia. J Med Virol 66:542–551. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Miletic´-Medved M, Markotic´ A, Cebalo LJ, Turkovic´ B, Avsˇic´-Zˇ upanc T. 2002. Hemorrhagic fever with renal syndrome in Croatia. Lancet 360:415. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mustonen J, Brummer-Korvenkontio M, Hedman K, Pqasternak A, Pietila¨ K, Vaheri A. 1994. Nephropathia epidemica in Finland. A retrospective study of 126 cases. Scand J Infect Dis 26:7–13. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nemirov K, Vapalahti O, Lundkvist A˚ , Vasilenko V, Golovljova I, Plyusnina A, Niemimaa J, Laakkonen J, Henttonen H, Vaheri A, Plyusnin A. 1999. Isolation and characterization of Dobrava "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                98,
+                494,
+                763
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "hantavirus carried by the striped field mouse (Apodemus agrarius) in Estonia. J Gen Virol 80:371–379. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nemirov K, Henttonen H, Vaheri A, Plyusnin A. 2002. Phylogenetic evidence for host switching in the evolution of hantaviruses carried by Apodemus mice. Virus Res 90:207–215, 2002 (Corrigendum: Virus Res 92:125–126, 2003). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nichol ST, Beaty BJ, Elliott RM, Goldbach R, Plyusnin A, Schmaljohn CS, Tesh RB. 2005. Bunyaviridae. In: Fauquet CM, Mayo MA, Maniloff J, Desselberger U, Ball LA, editors. In virus taxonomy. VIIIth report of the International Committee on Taxonomy of Viruses. Amsterdam: Elsevier Academic Press. pp. 695–716. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Papa A, Johnson AM, Stockton PC, Bowen MD, Spiropoulou CF, Alexiou-Daniel S, Ksiazek TG, Nichol ST, Antoniadis A. 1998. Retrospective serologic and genetic study of the distribution of hantaviruses in Greece. J Med Virol 55:321–327. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Papa A, Nemirov K, Henttonen H, Antoniandis A, Vaheri A, Plyusnin A, Vapalahti O. 2001. Isolation of Dobrava virus from A. flavicollis in Greece. J Clin Microbiol 39:2291–2293. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Plyusnin A, Cheng Y, Vapalahti O, Pejcoch M, Unar J, Jelinkova Z, Lehva¨slaiho H, Lundkvist A˚ , Vaheri A. 1995. Genetic variation in Tula hantaviruses; sequence analysis of the S and M segments of strains from Central Europe. Virus Res 39:237–250. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Plyusnin A, Vapalahti O, Vasilenko V, Henttonen H, Vaheri A. 1997. Dobrava hantavirus in Estonia: Does the virus exist throughout Europe? Lancet 349:1369–1370. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Plyusnin A, Nemirov K, Apekina N, Plyusnina A, Lundkvist A˚ , Vaheri A. 1999. Dobrava hantavirus in Russia. Lancet 353:207. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Plyusnina A, Ferenczi E, Racz GR, Nemirov K, Lundkvist A˚ , Vaheri A, Vapalahti O, Plyusnin A. 2009. Co-circulation of three pathogenic hantaviruses: Puumala, Dobrava and Saaremaa hantaviruses in Hungary. J Med Virol 81:2045–2052. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Scharninghausen JJ, Pfeffer M, Meyer H, Davis DS, Honeycutt RL, Faulde M. 2002. Genetic evidence for tula virus in Microtus arvalis and Microtus agrestis populations in Croatia. Vector Borne Zoonotic Dis 2:19–27. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schlegel M, Klempa B, Auste B, Bemmann M, Schmidt-Chanasit J, Bu¨ chner T, Groschup MH, Meier M, Balkema-Buschmann A, Zoller H, Kru¨ ger DH, Ulrich RG. 2009. Dobrava-Belgrade virus spillover infections, Germany. Emerg Infect Dis 15:2017–2020. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schmaljohn CS, Hjelle B. 1997. Hantaviruses: A global disease problem. Emerg Infect Dis 3:95–104. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Settergren B, Juto P, Trollfors B, wadell G, Norrby SR. 1989. Clinical characteristics of nephropathia epidemica in Sweden: Prospective study of 74 cases. Rev Inf Dis 11:921–927. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sibold C, Meisel H, Lundkvist A˚ , Schulz A, Cifire F, Ulrich R, Kozuch O, Labuda M, Kru¨ ger DH. 1999. Short report: Simultaneous occurrence of Dobrava, Puumala, and Tula hantaviruses in Slovakia. Am J Trop Med Hyg 61:409–411. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sibold C, Ulrich R, Labuda M, Lundkvist A˚ , Martens H, Schutt M, Gerke P, Leitmeyer K, Meisel H, Kru¨ ger DH. 2001. Dobrava hantavirus causes hemorrhagic fever with renal syndrome in central Europe and is carried by two different Apodemus mice species. J Med Virol 63:158–167. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tkachenko E, Dekonenko A, Ivanov A, Dzagurova T, Ivanov L, Slonova R, Nirgaleeva R, Stepanenko A, Ivanidze E, Zagidullin I. 1999. Hemorrhagic fever with renal syndrome and hantaviruses in Russia In: Dodet B, Saluzzo J, editors. Emergence and control of rodent-borne viral diseases. Amsterdam: Elsevier. pp. 63–72. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Vapalahti O, Mustonen J, Lundkvist A˚ , Henttonen H, Plyusnin A, Vaheri A. 2003. Hantavirus infections in Europe (Review). Lancet Infect Dis 3:653–661. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                511,
+                98,
+                915,
+                763
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "114 "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                71,
+                116,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Plyusnina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                71,
+                915,
+                85
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "J. Med. Virol. DOI 10.1002/jmv "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                936,
+                284,
+                949
+            ]
+        }
+    ]
+]

@@ -1,0 +1,721 @@
+[
+    {
+        "type": "text",
+        "text": "Dobrava-Belgrade Virus in Apodemus flavicollis and A. uralensis Mice, Turkey ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            89,
+            500,
+            236
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. Mehmet Ali Oktem, Yavuz Uyar, Ender Dincer, Aysegul Gozalan, Mathias Schlegel, Cahit Babur, Bekir Celebi, Mustafa Sozen, Ahmet Karatas, Nuri Kaan Ozkazanc, Ferhat Matur, Gulay Korukluoglu, Rainer G. Ulrich, Mustafa Ertek, and Aykut Ozkul ",
+        "bbox": [
+            84,
+            247,
+            495,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 2009, human Dobrava-Belgrade virus (DOBV) infections were reported on the Black Sea coast of Turkey. Serologic and molecular studies of potential rodent reservoirs demonstrated DOBV infections in Apodemus flavicollis and A. uralensis mice. Phylogenetic analysis of DOBV strains showed their similarity to A. flavicollis mice–borne DOBV in Greece, Slovenia, and Slovakia. ",
+        "bbox": [
+            82,
+            354,
+            499,
+            456
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "he genus Hantavirus, family Bunyaviridae, contains human pathogenic viruses that cause hemorrhagic fever with renal syndrome (HFRS) and hantavirus cardiopulmonary syndrome (1). HFRS in Europe is caused mainly by Puumala virus and different genotypes of Dobrava-Belgrade virus (DOBV) (2). In Asia, Hantaan virus and Seoul virus cause most HFRS cases. Hantaviruses are enveloped viruses with a single-stranded 3-segmented RNA genome of negative polarity. The small (S), medium, and large genome segments encode the nucleocapsid protein, the glycoproteins Gn and Gc, and an RNA-dependent RNA polymerase, respectively. ",
+        "bbox": [
+            82,
+            481,
+            499,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hantaviruses have been detected in various rodent, shrew, mole, and bat species (3). They are transmitted to humans by inhalation of aerosols that are contaminated ",
+        "bbox": [
+            82,
+            671,
+            499,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author affiliations: Faculty of Medicine, Dokuz Eylul University, Izmir, Turkey (I.M.A. Oktem); Cerrahpasa Faculty of Medicine, Istanbul University, Istanbul, Turkey (Y. Uyar); Ankara University, Ankara, Turkey (E. Dincer); Refik Saydam National Public Health Agency, Ankara (A. Gozalan, C. Babur, B. Celebi, G. Korukluoglu, M. Ertek); Friedrich-Loeffler-Institut, Greifswald-Insel Riems, Germany (M. Schlegel, R.G. Ulrich); Karaelmas University, Zonguldak, Turkey (M. Sozen, F. Matur); Nigde University, Nigde, Turkey (A. Karatas); Bartin University, Bartin, Turkey (N.K. Ozkazanc); and Faculty of Veterinary Medicine, Ankara University, Ankara (A. Ozkul) ",
+        "bbox": [
+            82,
+            738,
+            499,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "with urine, feces, and saliva of infected reservoir hosts. The human pathogenic DOBV was first isolated from a yellownecked field mouse (Apodemus flavicollis) and, subsequently, from a striped field mouse (A. agrarius) and a Caucasian wood mouse (A. ponticus) (1). The association of DOBV with these different Apodemus species seems to determine its human pathogenicity, with the A. flavicollis–associated genotype Dobrava being the most life threatening (1). ",
+        "bbox": [
+            518,
+            91,
+            936,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Few reports about hantavirus seroprevalence in human and rodent populations in Turkey occurred before 2009 (4,5). In February 2009, the first hantavirus outbreak among humans in this country was described in 2 provinces in the western Black Sea region (6; Figure 1). DOBV-reactive antibodies were reported for 7 of 200 patients who had renal symptoms in a region near the Aegean Sea (7). In 2010, DOBV RNA was detected by a nucleic acid test in urine from a person in Istanbul Province who was experiencing fatigue, diffuse pain, nausea, and vomiting (8). The reservoir host(s) and virus strain(s) causing human infections on the Black Sea coast of Turkey remained unknown. ",
+        "bbox": [
+            518,
+            219,
+            936,
+            407
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Study ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            424,
+            606,
+            440
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "After the hantavirus outbreak in 2009, a National Hantavirus Study Group was founded in Turkey. Coordinated by this group, in June 2009, a total of 173 rodents and 2 shrews were collected from 7 sites in the rural area of Bartin Province in the western Black Sea Region, where suspected human hantavirus cases had been reported (Figure 1). ",
+        "bbox": [
+            518,
+            441,
+            936,
+            535
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To determine the presence of DOBV in rodent tissue samples, we developed a single tube reverse transcription quantitative PCR (RT-qPCR) using the QuantiTect Probe RT-PCR kit (QIAGEN, Hilden, Germany) and novel primers and probe (online Technical Appendix Table, wwwnc. cdc.gov/EID/article/20/1/12-1024-Techapp1.pdf). For that purpose, spleen, liver, and lung samples from each animal were pooled and homogenized in sterile phosphate-buffered saline (pH 7.0). RNA extraction was performed by using a commercial viral nucleic acid isolation kit (Vivantis, Selangor Darul Ehsan, Malaysia). The reaction mixture (total $2 5 ~ \\mu \\mathrm { L }$ ) of the RT-qPCR assay consisted of $1 . 5 ~ \\mu \\mathrm { m o l / L }$ of each primer, $0 . 8 \\mu \\mathrm { m o l / L }$ of the probe, and $5 \\mu \\mathrm { L }$ of RNA. Positive (100 copies of DOBV genotype Dobrava isolate small (s) segment containing control plasmid) and negative control (ultrapure water) reactions were also included in each test. Thermal cycling was carried out in a RotorGene 6000 (QIAGEN) at $5 0 \\mathrm { { } ^ { \\circ } C }$ for 30 min, $9 5 \\mathrm { { ^ \\circ C } }$ for 15 min, then 45 cycles of 15 s at $9 4 ^ { \\circ } \\mathrm { C }$ , 30 s at $6 0 ^ { \\circ } \\mathrm { C }$ , and 1 min at $7 2 \\mathrm { { } ^ { \\circ } C }$ . ",
+        "bbox": [
+            518,
+            537,
+            936,
+            835
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The RT-qPCR revealed 23 DOBV RNA-positive rodents, including $1 0 \\ A$ . flavicollis mice, $1 2 \\ A$ . uralensis mice, and 1 Rattus rattus rat (Tables 1, 2). The viral RNA load varied from $7 . 2 \\times 1 0 ^ { 2 }$ to $4 . 6 \\times 1 0 ^ { 6 }$ copies/mL. Most DOBV-positive rodents were from neighboring trapping sites in Akbas, Bogaz, and Kumluca Districts of Bartin ",
+        "bbox": [
+            518,
+            837,
+            936,
+            931
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "DOI: http://dx.doi.org/10.3201/eid2001.121024 ",
+        "bbox": [
+            84,
+            923,
+            375,
+            933
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 1, January 2014 ",
+        "bbox": [
+            259,
+            955,
+            756,
+            966
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            911,
+            956,
+            932,
+            966
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/68d7b15843e315f44b9d7afc889ff4dae3879a31de4ac052e2eedd134861bcd8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            59,
+            92,
+            559,
+            305
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/86cc50e05f3a36e62a5a62f5fe628536a1fe3c8efdc0eb348b21f2abe65a1e20.jpg",
+        "image_caption": [
+            "Figure 1. Regional map of Turkey showing the Bartin province $( 4 1 ^ { \\circ } 3 8 ^ { \\prime } 9 ^ { \\prime } \\mathsf { N }$ , 32°20′15′′E), where trapping of small mammals was conducted. Abbreviations indicate locations at which captures were performed: A, Akbas; B, Bogaz; H1, Hanyeri; H2, Hasankadi; G, Guzelcehisar; K, Kumluca; R, Region 49. Panel A corresponds to the region (Bartin Province) indicated by box in panel B. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            567,
+            96,
+            911,
+            284
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Province (Figure 1). The reason hantavirus RNA could not be detected in bank voles (Table 1) might be because a DOBV-specific RT-qPCR was used that is unable to detect bank vole–associated PUUV. ",
+        "bbox": [
+            56,
+            367,
+            481,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Serum samples from all 173 rodents were screened by a commercial enzyme immunoassay (Hantavirus DxSelect; Focus Diagnostic, Cypress, CA, USA) that used antimouse IgG and IgM conjugates (Sigma-Aldrich Chemie, Taufkirchen, Germany). The assay found that 11 $( 6 . 4 \\% )$ and 36 $( 2 0 . 8 \\% )$ animals contained hantavirus-reactive IgM and IgG, respectively (Table 1). Eight $( 4 . 6 \\% )$ serum specimens were positive for both IgM and IgG, whereas 3 $( 1 . 7 \\% )$ and 28 $( 1 6 . 2 \\% )$ samples were positive for either IgM or IgG, respectively. The hantavirus seroprevalence varied between the different trapping sites and rodent species investigated (Table 1). Serologic status of the 23 RT-qPCR positive animals was proven by indirect immunofluorescence assay (IFA) as described by manufacturer (Euroimmune, Lübeck, Germany) except using fluorescein isothiocyanate (FITC)–labeled anti-mouse IgG conjugate (Sigma-Aldrich Chemie). The IgG ELISA ",
+        "bbox": [
+            61,
+            432,
+            479,
+            702
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "results were confirmed for 5 samples, whereas 5 additional samples demonstrated a different reactivity in ELISA and IFA (Table 2). ",
+        "bbox": [
+            492,
+            367,
+            915,
+            414
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All DOBV RT-qPCR positive samples were subjected to conventional S-segment RT-PCR, which produced an amplification product of 790 bp for sequence analysis. After denaturation of RNA at $7 0 \\mathrm { { } ^ { \\circ } C }$ for 5 min, cDNA was synthesized by using Moloney murine leukemia virus RT and random hexamers (MBI Fermentas, Vilnius, Lithuania), by incubating at $2 5 \\mathrm { { ^ \\circ C } }$ for 10 min and thereafter at $3 7 ^ { \\circ } \\mathrm { C }$ for 1 h. PCR amplification was carried out by adding $3 ~ \\mu \\mathrm { L }$ of cDNA into a reaction mix containing $7 5 \\mathrm { m m o l / L }$ Tris-HCl (pH 8.8), 20 mmol/L $\\mathrm { N H } _ { 4 } ( \\mathrm { S O } _ { 4 } ) _ { 2 }$ , 2.4 mmol/L $\\mathrm { M g C l } _ { 2 }$ , 10 pmol of each primer, 0.2 mmol/L dNTP, and 5U Taq DNA polymerase (MBI Fermentas). The initial denaturation for 6 min at $9 4 ^ { \\circ } \\mathrm { C }$ , was followed by 40 cycles each at $9 4 \\mathrm { { } ^ { \\circ } C }$ for 1 min, $5 2 ^ { \\circ } \\mathrm { C }$ for 1 min, $7 2 ^ { \\circ } \\mathrm { C }$ for 2 min, and a final extension at $5 0 \\mathrm { { } ^ { \\circ } C }$ for 1 min and $7 2 \\mathrm { { } ^ { \\circ } C }$ for 10 min. Analysis by agarose gel electrophoresis revealed amplification products of the expected size for 21 samples. The PCR products were purified by using PCR/Gel purification kit (GeneMark ",
+        "bbox": [
+            492,
+            415,
+            915,
+            702
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/08f9f2dc0d41544079a8792c94c35a277f2dd59b1b6576b5f31c18b3c3be1e83.jpg",
+        "table_caption": [
+            "Table\t1.\tDetection\trate\tof\thantavirus-reactive\tIgM\tand\tIgG\tby\tELISA,\tand\thantavirus\tRNA\tby\tRT-qPCR\tin\tsmall\tmammals\tfrom different\ttrapping\tsites,\tTurkey,\t2009* "
+        ],
+        "table_footnote": [
+            "*RT-qPCR, reverse\ttranscription\tquantitative PCR;\t–,\tnot\tfound. ",
+            "†Pitymys spp., Microtus spp., Mus musculus, Crocidura suaveolens. ",
+            "‡Cytochrome b–based\tgenetic\tspecies\tdetermination\twas\tnot\tperformed. ",
+            "§Results\tfrom\tdifferent\tanimals. "
+        ],
+        "table_body": "<table><tr><td rowspan=\"3\">Location (map code/no. rodents)</td><td colspan=\"12\">No. positive animals/total no. animals</td></tr><tr><td colspan=\"3\">Apodemus spp.</td><td colspan=\"3\">Myodes spp.</td><td colspan=\"3\">Rattus rattus</td><td colspan=\"3\">Other†</td></tr><tr><td>IgM</td><td>IgG</td><td>RNA</td><td>IgM</td><td>IgG</td><td>RNA</td><td>IgM</td><td>IgG</td><td>RNA</td><td>IgM</td><td>IgG</td><td>RNA</td></tr><tr><td>Region 49 (R/11)</td><td>0/3</td><td>0/3</td><td>0/3</td><td>1/8</td><td>3/8</td><td>0/8</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Akbas (A/64)</td><td>0/39</td><td>1/39</td><td>8/39</td><td>2/18</td><td>14/18</td><td>0/18</td><td>-</td><td>-</td><td>-</td><td>0/5</td><td>0/5</td><td>1±/5</td></tr><tr><td>Bogaz (B/20)</td><td>0/13</td><td>0/13</td><td>4/13</td><td>-</td><td>-</td><td>-</td><td>0/8</td><td>0/8</td><td>0/8</td><td>0/2</td><td>0/2</td><td>0/2</td></tr><tr><td>Guzelcehisar (G/17)</td><td>0/17</td><td>0/17</td><td>2/17</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Hanyeri (H1/13)</td><td>0/8</td><td>0/8</td><td>2/8</td><td>0/5</td><td>3/5</td><td>0/5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Hasankadi (H2/33)</td><td>1/12</td><td>0/12</td><td>1/12</td><td>6/18</td><td>10/18</td><td>0/18</td><td>0/3</td><td>1/3§</td><td>1/3§</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Kumluca (K/14)</td><td>1/14</td><td>4/14</td><td>5/14</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan=\"2\">Total no. positive/no. tested (%); N = 173</td><td>2/106</td><td>5/106</td><td>22/106</td><td>9/49</td><td>30/49</td><td>0/49</td><td>0/11</td><td>1/11</td><td>1/11(9.1)</td><td>0/7</td><td>0/7</td><td>1/7(14.2)</td></tr><tr><td>(1.9)</td><td>(4.7)</td><td>(20.7)</td><td>(18.3)</td><td>(61.2)</td><td></td><td></td><td>(9.1)</td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            59,
+            740,
+            915,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "DISPATCHES ",
+        "bbox": [
+            59,
+            48,
+            162,
+            60
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "122 ",
+        "bbox": [
+            61,
+            955,
+            86,
+            966
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "Emerging Infectious Diseases $\\cdot$ www.cdc.gov/eid • Vol. 20, No. 1, January 2014 ",
+        "bbox": [
+            238,
+            953,
+            738,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3af3b676b101d3926132bdc4b1fecbd35ddaea5b7478028307fc33773cddaa8b.jpg",
+        "table_caption": [
+            "Table\t2.\tSerologic\treactivity\tof\t23\tDOBV\tRT-qPCR–positive\trodents\tby\tELISA\tand\tIFA,\tTurkey,\t2009* "
+        ],
+        "table_footnote": [
+            "*DOVB,\tDobrava-Belgrade\tvirus;\tRT-qPCR,\treverse\ttranscription\tquantitative\tPCR;\tIFA,\timmunofluorescence\tassay;\tNS,\tno\tserum\tsample\tavailable;\tBL, borderline. ",
+            "†Cytochrome b–based\tgenetic\tspecies\tdetermination\tfollowing\ta\trecently\tpublished\tprotocol\t(9). ",
+            "‡In\talphabetical\torder. "
+        ],
+        "table_body": "<table><tr><td rowspan=\"3\">Animal no.</td><td rowspan=\"3\">Species (cyt b)†</td><td rowspan=\"3\">Location/district‡</td><td colspan=\"3\">Hantavirus serology</td></tr><tr><td colspan=\"2\">ELISA</td><td>IFA</td></tr><tr><td>IgM</td><td>IgG</td><td>IgG</td></tr><tr><td>94-09</td><td>Apodemus uralensis</td><td>Akbas</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>95-09</td><td>A. uralensis</td><td>Akbas</td><td>Neg</td><td>Neg</td><td>NS</td></tr><tr><td>121-09</td><td>A. flavicollis</td><td>Akbas</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>123-09</td><td>A. flavicollis</td><td>Akbas</td><td>Neg</td><td>Neg</td><td>Pos</td></tr><tr><td>124-09</td><td>A. uralensis</td><td>Akbas</td><td>Neg</td><td>Neg</td><td>BL</td></tr><tr><td>130-09</td><td>A. uralensis</td><td>Akbas</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>139-09</td><td>A. flavicollis</td><td>Akbas</td><td>Neg</td><td>Pos</td><td>Pos</td></tr><tr><td>142-09</td><td>A. flavicollis</td><td>Akbas</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>151-09</td><td>A. uralensis</td><td>Bogaz</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>162-09</td><td>A. uralensis</td><td>Bogaz</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>169-09</td><td>A. flavicollis</td><td>Bogaz</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>177-09</td><td>A. uralensis</td><td>Bogaz</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>178-09</td><td>A. uralensis</td><td>Guzelcehisar</td><td>Neg</td><td>Neg</td><td>NS</td></tr><tr><td>180-09</td><td>A. uralensis</td><td>Guzelcehisar</td><td>NS$</td><td>NS</td><td>NS</td></tr><tr><td>100-09</td><td>A. uralensis</td><td>Hanyeri</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>102-09</td><td>A. uralensis</td><td>Hanyeri</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>106-09</td><td>Rattus rattus</td><td>Hasankadi</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>25-09</td><td>A. flavicollis</td><td>Hasankadi</td><td>Pos</td><td>Neg</td><td>Neg</td></tr><tr><td>78-09</td><td>A. flavicollis</td><td>Kumluca</td><td>Neg</td><td>Pos</td><td>Pos</td></tr><tr><td>80-09</td><td>A. uralensis</td><td>Kumluca</td><td>Neg</td><td>Pos</td><td>Pos</td></tr><tr><td>81-09</td><td>A. flavicollis</td><td>Kumluca</td><td>Neg</td><td>Pos</td><td>Pos</td></tr><tr><td>134-09</td><td>A. flavicollis</td><td>Kumluca</td><td>Neg</td><td>Pos</td><td>Pos</td></tr><tr><td>137-09</td><td>A. flavicollis</td><td>Kumluca</td><td>Neg</td><td>Neg</td><td>Pos</td></tr></table>",
+        "bbox": [
+            81,
+            107,
+            936,
+            428
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Technology Co., Taichung City, Taiwan) and cloned into pJet1.2 blunt (MBI Fermentas). Plasmid DNA was directly subjected to sequencing in CEQ 8000 Genetic Analyzer (Beckmann Coulter, Brea, CA, USA) using the Dye Termination Cycle Sequencing Kit (Beckmann Coulter). ",
+        "bbox": [
+            79,
+            480,
+            500,
+            559
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The nucleotide sequence identity among the obtained 21 S-segment sequences (GenBank accession nos. KF615886–KF615906) was very high, reaching $9 9 . 2 ~ \\%$ . For phylogenetic analysis 2 novel DOBV strains found in A. flavicollis (Table 1, number 81/09; accession no. HQ406826) and A. uralensis (Table 1, number 80/09; accession no. HQ406825) were selected that showed a nucleotide sequence identity of $9 9 . 1 \\%$ , whereas the amino acid sequence identity of the corresponding part of the nucleocapsid protein was $9 8 . 7 \\%$ . A phylogenetic analysis of these 2 Apodemus–derived DOBV sequences from Turkey confirmed their strong similarity to A. flavicollis–associated DOBV genotype Dobrava sequences from Greece, Slovenia, and Slovakia (Figure 2). The sequence divergence of the 2 sequences from Turkey to other genotype Dobrava sequences was found to be $3 . 8 \\%$ at nucleotide level $0 . 7 \\%$ at amino acid level). The sequence divergence to DOBV sequences from A. ponticus and A. agrarius mice was found to be much higher, up to $1 5 . 2 \\%$ and $6 \\%$ , respectively. ",
+        "bbox": [
+            79,
+            560,
+            502,
+            863
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            79,
+            876,
+            192,
+            891
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Human infections with members of the A. flavicollis–associated DOBV lineage have been described in ",
+        "bbox": [
+            79,
+            892,
+            500,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Slovenia, Greece, Serbia, Montenegro, the Czech Republic, and Hungary (2). The current study of rodents in Turkey identified DOBV genotype Dobrava (DOBV-Af) as a potential causative agent of the hantavirus outbreak on the Black Sea coast of Turkey. This conclusion is in agreement with previous findings in patients from this region (6,8,10). ",
+        "bbox": [
+            514,
+            480,
+            936,
+            591
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Notably, this study demonstrated closely related DOBV sequences in A. flavicollis and A. uralensis mice and a high DOBV prevalence in both species. This observation might indicate multiple DOBV spillover to A. uralensis mice. In addition, we found a single spillover infection here in rats (R. rattus). Similarly, spillover infections of DOBV genotype Dobrava (DOBV-Af) in Mus musculus and A. sylvaticus mice and of DOBV genotype Kurkino (DOBV-Aa) in A. flavicollis mice have been reported (11,12). Alternatively, the frequent detection of DOBVspecific nucleic acid in A. uralensis mice may indicate that this rodent species functions as a reservoir. Previously, in a study in Czech Republic A. uralensis mice were found to contain hantavirus antigen (13). These findings underline the current problem of identifying hantavirus reservoirs (14) as was recently also observed for European Tula virus (15). The detection of hantavirus-reactive antibodies and the absence of hantavirus RNA in Myodes species might be explained by DOBV spillover infections or, alternatively, by the presence of another hantavirus not detected by the RT-qPCR assay used here. Therefore, future studies ",
+        "bbox": [
+            514,
+            592,
+            938,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Dobrava-Belgrade Virus in Mice, Turkey ",
+        "bbox": [
+            652,
+            48,
+            936,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 1, January 2014 ",
+        "bbox": [
+            259,
+            953,
+            760,
+            969
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "123 ",
+        "bbox": [
+            910,
+            955,
+            934,
+            966
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/46a8660f14de7fb6a92b0a2feb179e3e2cee2c20d2ecc777d4b15bbf78f25955.jpg",
+        "image_caption": [
+            "Figure 2. Bayesian phylogenetic tree, based on an alignment of 450-nt long region of the small segment from various Dobrava-Belgrade virus lineages and other Murinae-associated hantaviruses. Posterior probabilities for Bayesian analysis are given under the branches and bootstrap values above the branches. Values lower than ${ < } 0 . 7 \\%$ and ${ \\tt { < } } 7 0 \\%$ are not shown. The sequences were aligned with ClustalW included in the BioEdit software package version 2.1 (http://www.mbio.ncsu.edu/ bioedit/page2.html). The phylogenetic analyses were performed by using MrBayes 3.1.2 with Bayesian Metropolis-Hastings Markov Chain Monte Carlo (MCMC) tree-sampling methods based on 2 MCMC runs consisting of 4 chains of 2,000,000 with a burn-in of $2 5 \\%$ and second by maximum-likelihood bootstrap analysis with 1,000 pseudoreplicates using MEGA5 (www.megasoftware.net). The Hasegawa-Kishino-Yano model with a discrete gamma distribution, to model evolutionary rate differences among sites (2 categories $[ + \\mathsf { G }$ , parameter = 0.8874]) according to jModeltest (http://code. google.com/p/jmodeltest2/) was used. Af, Apodemus flavicollis; Au, A. uralensis; Ap, A. ponticus; Hu, human; Aa, A. agrarius; SNGV, Sangassou virus; HTNV, Hantaan virus; THAIV, Thailand virus; SEOV, Seoul virus; SK, Slovakia; SLO, Slovenia; GR, Greece; TR, Turkey; RU, Russia; EE, Estonia (island Saaremaa); DE, Germany; HR, Croatia. Scale bar indicates number of nucleotide substitutions per site. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            92,
+            601,
+            609
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "on sympatrically occurring Apodemus species at multiple sites in Turkey along the distribution range of A. uralensis mice need to confirm whether these rodents have a role as a potential reservoir host of DOBV. In addition, a comprehensive study in different rodent and other small mammal species should determine whether hantaviruses other than DOBV are present. ",
+        "bbox": [
+            56,
+            621,
+            481,
+            734
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "bbox": [
+            58,
+            751,
+            197,
+            765
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank the Provinancial Health Directorate in Bartin for their support and help, and thank the laboratory personnel of Virology Laboratory of Refik Saydam National Public Health Agency, Ankara, Turkey, for excellent technical assistance. We also thank Manfred Weidmann (Göttingen) for his kind support by providing the DOBV S-segment–containing plasmid. ",
+        "bbox": [
+            56,
+            767,
+            481,
+            863
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dr Oktem is an associate professor at Dokuz Eylul University in Izmir, Turkey, and a microbiologist in the Department of Medical Microbiology, Faculty of Medicine. His major research interest is virus diseases of medical importance. ",
+        "bbox": [
+            56,
+            870,
+            481,
+            933
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            495,
+            621,
+            585,
+            634
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Krüger DH, Schonrich G, Klempa B. Human pathogenic hantaviruses and prevention of infection. Hum Vaccin. 2011;7:685–93. http:// dx.doi.org/10.4161/hv.7.6.15197 ",
+            "2. Klempa B, Avsic-Zupanc T, Clement J, Dzagurova TK, Henttonen H, Heyman P, et al. Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: definition of genotypes and their characteristics. Arch Virol. 2013;158:521–9. http://dx.doi. org/10.1007/s00705-012-1514-5 ",
+            "3. Guo WP, Lin XD, Wang W, Tian JH, Cong ML, Zhang HL, et al. Phylogeny and origins of hantaviruses harbored by bats, insectivores, and rodents. PLoS Pathog. 2013;9:e1003159. http://dx.doi. org/10.1371/journal.ppat.1003159 ",
+            "4. Laakkonen J, Kallio-Kokko H, Öktem MA, Blasdell K, Plyusnina A, Niemimaa J, et al. Serological survey for viral pathogens in Turkish rodents. J Wildl Dis. 2006;42:672–6. http://dx.doi. org/10.7589/0090-3558-42.3.672 ",
+            "5. Kavukcu S, Turkmen M, Salman S, Soylu A, Camsari T. What is the risk of nephropathy associated with hantavirus in Aegean region? J Turkish Nephrol Assoc. 1997;3–4:131. ",
+            "6. Ertek M, Buzgan T. An outbreak caused by hantavirus in the Black Sea region of Turkey, January–May 2009. Euro Surveill. 2009;14:19214. "
+        ],
+        "bbox": [
+            502,
+            654,
+            915,
+            933
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "DISPATCHES ",
+        "bbox": [
+            59,
+            48,
+            162,
+            60
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "124 ",
+        "bbox": [
+            61,
+            955,
+            86,
+            966
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 1, January 2014 ",
+        "bbox": [
+            238,
+            953,
+            738,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "7. Oktem MA. Hantavirus and tick-borne encephalitis infections [in Turkish]. Ankem Derg. 2009;23(Suppl 2):245–8. ",
+            "8. Oncul O, Atalay Y, Onem Y, Turhan V, Acar A, Uyar Y, et al. Hantavirus infection in Istanbul, Turkey. Emerg Infect Dis. 2011;17:303– 4. http://dx.doi.org/10.3201/eid1702.100663 ",
+            "9. Schlegel M, Ali HS, Stieger N, Groschup MH, Wolf R, Ulrich RG. Molecular identification of small mammal species using novel cytochrome b gene–derived degenerated primers. Biochem Genet. 2012;50:440–7. http://dx.doi.org/10.1007/s10528-011-9487-8 ",
+            "10. Heyman P, Cochez C, Korukluoglu G, Gozalan A, Uyar Y, Lundkvist A. Bridging continents; Hantaviruses of Europe and Asia Minora; bridging continents. Hantaviruses of Europe and Asia Minor. Turk Hij Den Biyol Derg. 2011;68:41–8. http://dx.doi. org/10.5505/TurkHijyen.2011.33254 ",
+            "11. Weidmann M, Schmidt P, Vackova M, Krivanec K, Munclinger P, Hufert FT. Identification of genetic evidence for Dobrava virus spillover in rodents by nested reverse transcription (RT)-PCR and TaqMan RT-PCR. J Clin Microbiol. 2005;43:808–12. http://dx.doi. org/10.1128/JCM.43.2.808-812.2005 "
+        ],
+        "bbox": [
+            82,
+            91,
+            502,
+            333
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "12. Schlegel M, Klempa B, Auste B, Bemmann M, Schmidt-Chanasit J, Buchner T, et al. Dobrava-Belgrade virus spillover infections, Germany. Emerg Infect Dis. 2009;15:2017–20. http://dx.doi. org/10.3201/eid1512.090923 ",
+            "13. Heroldová M, Pejcoch M, Bryja J, Janova E, Suchomel J, Tkadlec E. Tula virus in populations of small terrestrial mammals in a rural landscape. Vector Borne Zoonotic Dis. 2010;10:599–603. http:// dx.doi.org/10.1089/vbz.2009.0211 ",
+            "14. Hjelle B, Yates T. Modeling hantavirus maintenance and transmission in rodent communities. Curr Top Microbiol Immunol. 2001;256:77–90. http://dx.doi.org/10.1007/978-3-642-56753-7_5 ",
+            "15. Schlegel M, Kindler E, Essbauer SS, Wolf R, Thiel J, Groschup MH, et al. Tula virus infections in the Eurasian water vole in Central Europe. Vector Borne Zoonotic Dis. 2012; 12:503–13. http://dx.doi. org/10.1089/vbz.2011.0784 "
+        ],
+        "bbox": [
+            518,
+            91,
+            936,
+            281
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Address for correspondence: Aykut Ozkul, Ankara University, Faculty of Veterinary Medicine, Department of Virology, Irfan Bastug Cad. Diskapi, Ankara 06110, Turkey; email: ozkul@ankara.edu.tr ",
+        "bbox": [
+            516,
+            289,
+            936,
+            335
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Get the content you want delivered to your inbox. ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            414,
+            867,
+            494
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sign up to receive emailed announcements when new podcasts or articles on topics you select are posted on our website. ",
+        "text_level": 1,
+        "bbox": [
+            123,
+            527,
+            890,
+            634
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table of contents ",
+        "bbox": [
+            215,
+            670,
+            458,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Podcasts ",
+        "bbox": [
+            215,
+            698,
+            343,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ahead of Print ",
+        "bbox": [
+            215,
+            726,
+            419,
+            750
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CME ",
+        "bbox": [
+            215,
+            753,
+            283,
+            777
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Specialized topics ",
+        "bbox": [
+            215,
+            781,
+            467,
+            808
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e80b9b09897d138b1ca34f3b0aa93e06a3aa27a13fa9dcb65e720e31cf40657.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            537,
+            695,
+            760,
+            818
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://wwwnc.cdc.gov/eid/subscribe.htm ",
+        "bbox": [
+            236,
+            850,
+            779,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Dobrava-Belgrade Virus in Mice, Turkey ",
+        "bbox": [
+            652,
+            48,
+            936,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 1, January 2014 ",
+        "bbox": [
+            259,
+            953,
+            760,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "125 ",
+        "bbox": [
+            910,
+            955,
+            936,
+            966
+        ],
+        "page_idx": 4
+    }
+]

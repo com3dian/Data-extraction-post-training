@@ -1,0 +1,240 @@
+# New Records of Bartonella Spp. And Rickettsia Spp. In Lice Collected From Small Rodents
+
+Asta Aleksandravičienė
+
+Vytautas Magnus University
+
+Algimantas Paulauskas (  algimantas.paulauskas@vdu.lt )
+
+Vytautas Magnus University
+
+Michal Stanko
+
+Institute of Parazitology, Slovack Academy of Sciences
+
+Jana Fričová
+
+Institute of Parasitology, Slovak Academy of Sciences
+
+Jana Radzijevskaja
+
+Vytautas Magnus University
+
+Research
+
+Keywords: lice, rodents, Bartonella, Rickettsia, Slovakia
+
+Posted Date: August 28th, 2020
+
+DOI: https://doi.org/10.21203/rs.3.rs-66143/v1
+
+License: $\textcircled{6}$ This work is licensed under a Creative Commons Attribution 4.0 International License. Read Full License
+
+Version of Record: A version of this preprint was published at Vector-Borne and Zoonotic Diseases on May 1st, 2021. See the published version at https://doi.org/10.1089/vbz.2020.2722.
+
+# Abstract
+
+Background: Lice are blood-sucking insects that are of medical and veterinary signifi cance as parasites and vectors for various infectious agents. More than half of described blood-sucking lice species are found on rodents. Rodents are important hosts of several Bartonella and Rickettsia species and some of these pathogens are characterised as human pathogens in Europe. Rodent ectoparasites, such as fl eas and ticks, are important vectors of Bartonella spp. and Rickettsia bacteria in lice collected from rodents in Slovakia.
+
+Methods: The ectoparasites were collected from small rodents captured from 2010 to 2015 at four different sites in eastern Slovakia. The presence of of the Bartonella strains was based on sequence analysis of partial rpoB and ITS genes, and of the Rickettsia species on sequence analysis of the gltA gene.
+
+Results: A total of 1074 lice of seven species were collected from six rodent species in Slovakia from 2010 to 2015. Bartonella DNA was detected in three species of lice Hoplopleura affinis (collected from Apodemus agrarius, A. flavicollis and Myodes glareolus), Polyplax serrata (from A. agrarius) and genogroups. Rickettsia DNR was detected in H. affinis and P. serrata lice collected from A. agrarius. Sequence analysis revealed the presence of two Rickettsia species: R. helvetica and Rickettsia sp.
+
+Conclusions: To the best of the authors’ knowledge, this is the fi rst report on the occurrence and diversity of Bartonella spp. and Rickettsia spp. in lice collected from small rodents in Europe. This study is also the fi rst to detect B. coopersplainsensis in Slovakia.
+
+# Background
+
+Small rodents are important hosts of ectoparasites such as fl eas, ticks, mites and lice and are reservoir hosts or carriers of medically important pathogens [1]. Rodent ectoparasites (fl eas and ticks) are vectors of Bartonella spp. and Rickettsia spp. [1–3].
+
+and three subspecies have been identifi ed [6]. Small rodents represent an important group of potential reservoirs for many Bartonella infections. More than 20 illnesses [2]. Bartonella spp. have been reported in rodents and their ectoparasites (ticks, mites, and fl eas) in Sweden [7], Denmark [8], Poland [9], Spain [10], Lithuania [11, 12], Slovakia [13, 14] and Germany [15].
+
+Thirty-one Rickettsia species and two subspecies have been validated and published [16]. Members of the Rickettsia genus are divided into four groups: spotted fever group (SFG), typhus group (TG), ancestral group (AG) and transitional group (TRG) [17]. SFG rickettsia are widespread in Europe and are currently recognised as human and animal pathogens [5]. Several molecular studies conducted in Germany [18], Slovakia [3, 19, 20, 21], Hungary [22], Croatia [23], Poland [17] and Lithuania [24, 25] have demonstrated the presence of rickettsial DNA in small rodents and their ectoparasites (such as ticks, mites and fl eas).
+
+Sucking lice (Phthiraptera: Anoplura) are obligate blood-feeding insects and permanent ectoparasites of eutherian mammals. All their life cycle stages are closely related with their vertebrate hosts and they cannot survive without them. More than 540 species of blood-sucking lice have been described that parasitise over 840 mammal species belonging to 12 mammalian orders [26, 27]. Small rodents are the most common hosts of sucking lice: about $67 \%$ of the described sucking lice species are found on rodents [28]. The sucking lice are of medical and veterinary signifi cance as vectors of louse-borne pathogens (viruses, bacteria, fungi and protozoa) to vertebrate hosts [29]. Blood-sucking lice are highly host-specifi c and each species of sucking louse parasitises a single host species or only a few closely related host species [26, 30]. In Europe, reports of pathogens in lice are scarce. Hornok et al. [29] were the fi rst to report Rickettsia spp. in lice from livestock animals and proved that lice could be potential vectors of arthropod-borne pathogens. However, there is limited information available with regard to Bartonella spp. and Rickettsia in lice collected from rodents in Europe. The role of lice in the life cycles of Rickettsia and Slovakia.
+
+# Methods
+
+# Sample collection and identifi cation
+
+Small mammals were live-captured between 2010 and 2015 using Swedish bridge metal traps baited with sunfl ower seeds at four different sites in eastern Slovakia: two with mixed forest vegetation with a predominance of beech, hornbeam and spruce [Čermeľ (208-600 m a.s.l.; 48°45′46·67″N; 21°8′8·17″E) and Hýľov (500-750 m a.s.l.; 48°44′22·80″ N; 21°4′18·90″ E)], and two with deciduous forest vegetation [the Botanical garden in Košice (208 m a.s.l.; $4 8 ^ { \circ } 4 4 ^ { \prime } 6 { \cdot } 8 4 ^ { \prime \prime } \mathsf { N } ;$ $2 1 ^ { \circ } 1 4 ^ { \prime } 1 6 { \cdot } 1 4 ^ { \prime \prime } \mathsf { E }$ ) with a predominance of hornbeam, and the Rozhanovce game reserve (215 m a.s.l.; 48°45′36″N; 21°21′30″E), an ecotone of oak-hornbeam forest and pasture in a menagerie] (collection sites are more described in 3, 13, 31, 32).
+
+At each site, 50 traps were placed 5 m apart in transects (approximately ${ 2 5 0 } \mathrm { m }$ in length) for two consecutive nights. Captured animals were transported to the laboratory where they were determined to species level and euthanised under licenses from the Ministry of Environment of the Slovak Republic No. 4874/2011-2·2.
+
+The ectoparasites (ticks, fl eas, mites and lice) were collected and placed in $70 \%$ ethanol until determination. Lice were then determined by species and sex using light microscopy according to Smetana [33] and Wegner [34].
+
+# Molecular analyses
+
+Lice from each rodent host were grouped in pools by species, life stage and sex. A total of 275 sample pools (between one and ten lice per pool): 38 pools of larvae, 151 pools of females and 86 pools of males were analysed. DNA from lice was extracted using $2 . 5 \%$ ammonium hydroxide solution [35]. Bartonella and Rickettsia DNA in samples was detected using a duplex TaqMan real-time PCR targeting 124 bp fragment of ssrA and 103 bp fragment of citrate synthase (gltA) genes respectively. The qPCR amplifi cations were carried out in a $1 5 - \mu \mu$ fi nal volume consisting of $1 \mu |$ of extracted DNA, (1x) SensiMix™ II Probe No-ROX Kit (Bioline Reagents Ltd, UK), $1 \mu \mathsf { M }$ of each primer and $0 . 5 \mu \mathsf { M }$ of each probe. The reaction was carried out in a real-time thermocycler Rotor-Gene Q 5plex model with software version 1.7 (Qiagen GmbH, Germany). The optimised thermal cycler programme was $9 5 ^ { \circ } \mathrm { C }$ for 10 minutes (1 cycle), followed by 50 cycles of denaturation at $9 5 ~ ^ { \circ } \mathrm { C }$ for 20 seconds, annealing at $5 0 ~ ^ { \circ } \mathrm { C }$ for 1 minute, and extension at $7 2 ^ { \circ } \mathrm { C }$ for 10 seconds. Results that satisfi ed the amplifi cation cut-offs below $4 0 \ \mathrm { { C t } }$ (cycle threshold) when the threshold was 0.10101 indicated positive samples. Bartonella-positive samples were tested further in two PCRs using a set of genus-specifi c primers targeting the 795 bp fragment of the RNA polymerase $\beta \cdot$ -subunit (rpoB) gene [36] and primers targeting the 16S-23S rRNA gene intergenic species region (ITS) (0.9–1.6 kb) [37, 38]. A nested PCR that targeted the partial gltA gene (338 bp fragment) [19] was used for amplifi cation of Rickettsia spp. The primer sequences and target genes used in this study are presented in Table 1. Negative (dH2O) and positive controls (DNA of Bartonella-infected rodents and the DNA of Rickettsia-infected ticks, confi rmed by sequencing) were included in real-time PCR, conventional and nested PCRs runs. Products of amplifi cation were identifi ed in $1 . 5 \%$ agarose gel after undergoing electrophoresis under standard conditions and staining with ethidium bromide solution $( 2 \mu \ g / \mathsf { m l } )$ , and then visualised using the UV transilluminator (EASY Win32, Herolab, Germany).
+
+Representative positive PCR products were extracted from the agarose gel and purifi ed using the GeneJET Gel Extraction Kit (ThermoFisher Scientifi c, Lithuania) according to the manufacturer’s instructions (Macrogen Europe, Netherlands). The obtained sequences were edited, aligned with one other and compared with the sequence data available from NCBI GenBank, using the Mega X program and the NCBI BLAST $\textcircled{8}$ blastn suite applet. The most appropriate model of nucleotide substitution for each alignment dataset was determined according to the Bayesian information criterion (BIC). Phylogenetic trees were constructed using the maximum-likelihood (ML) method with the Tamura-Nei model. Bootstrap support was calculated by means of 1,000 replicates. B (Bartonella ITS region), MT876371 - MT876377, MT833866 (BartonellarpoB gene) and MT876378 - MT876382 (RickettsiagltA gene).
+
+# Statistical analysis
+
+The prevalence of pathogens in lice was calculated as a minimum infection rate (MIR) with $9 5 \%$ confi dence intervals (CI). MIR was calculated as the ratio of the number of positive pools to the total number of lice tested. The underlying MIR assumption was that only one infected individual exists in a positive pool [39].
+
+# Results
+
+A total of 1074 lice belonging to seven species (28 Hoplopleura acanthopus, 732 Hoplopleura affinis, 1 Hoplopleura edentula, 7 Hoplopleura sp., 225 Polyplax $\mathsf { n } = 1 5 \mathsf { 1 }$ , Apodemus flavicollis ${ \mathsf { n } } = 3 5 ,$ Microtus arvalis $^ { 1 = 1 3 }$ , Microtus subterraneus r ${ \mathfrak { \alpha } } = 2 ,$ Myodes glareolus $n = 7 7$ and Rattus norvegicus ${ \mathsf n } = 4$ Both sexes of lice and larvae were found on the rodents (Table 2).
+
+# Bartonella infection in lice
+
+Based on real-time PCR analysis, a total of 32 lice DNA pools (1 $1 . 6 \% ;$ 32/275 pools) were found to be positive for Bartonella spp. with an overall MIR of $3 . 0 \%$ (32/1074; $9 5 \%$ CI: $2 . 0 { - } 4 . 2 \%$ ) and six lice pools were positive for Rickettsia spp. $( 2 . 2 \%$ ; 6/275 pools) with an overall MIR of $0 . 6 \%$ (6/1074; $9 5 \%$ CI: $0 . 2 \mathrm { - } 1 . 2 \%$ ) (Table 2). Positive samples had Ct values of between 18 and 39.
+
+and Hoplopleura sp. (collected from A. flavicollis). All three live stages of lice were found to be infected with Bartonella spp.: larvae ( $1 3 . 2 \%$ positive pools out of 38), males ( $8 . 1 \%$ out of 86) and females ( $1 3 . 3 \%$ out of 151). A higher prevalence of Bartonella spp. was detected in H. affinis ( $1 6 . 2 \%$ positive pools out of 148; MIR of $3 . 3 \%$ 24/732; $9 5 \%$ CI: $2 . 1 - 4 . 8 \%$ ), followed by P. serrata $7 . 7 \%$ positive pools out of 91; MIR of $3 . 1 \%$ 7/225; $9 5 \%$ CI: $1 . 3 \substack { - 6 . 3 \% }$ ). One single specimen of seven tested for Hoplopleura sp. was positive.
+
+$( n = 8 )$ gene and ITS region $( n = 6 )$ ) were obtained and analysed. The ITS region sequences of Bartonella derived from lice were $100 \%$ identical to each other and $9 8 \mathrm { - } 1 0 0 \%$ identical to Bartonella coopersplainsensis and Bartonella tribocorum sequences deposited in GenBank (Fig. 1). Sequences (samples MT840662, MT840663, MT840664) derived from H. affinis (two pools of females and one pool of larvae collected from two A. agrarius rodents) were $100 \%$ identical to each other, $100 \%$ identical to B. coopersplainsensis sequences detected in A. agrarius from Lithuania (GenBank: MH547343) and $9 8 \%$ identical to B. coopersplainsensis sequences detected in rats from Italy (GenBank: MK562489) and Australia (GenBank: EU111770) (Fig. 1). Sequences (samples MT840518, MT840519, MT840520) derived from H. affinis (two different pools of females collected from a single A. flavicollis and a single M. glareolus) and P. serrata (one pool of males collected from a single A. agrarius) were $100 \%$ identical to each other and with B. tribocorum sequences detected in A. agrarius rodents from Lithuania (GenBank: MH687379) and South Korea (GenBank JN810856) (Fig. 1).
+
+The rpoB gene sequences (samples MT876371, MT876372, MT876373, MT876374, MT876375, MT876376 and MT876377) derived from H. affinis (fi ve pools of females and two pools of larvae from A. agrarius $( n = 3 )$ ) were $100 \%$ identical to each other and to B. coopersplainsensis sequences detected in A. agrarius from Lithuania (GenBank: MH547343). These sequences showed $9 8 \%$ similarity to B. coopersplainsensis sequences detected in rats from Australia (GenBank: EU111792) and Thailand (GenBank: MF105907) (Fig. 2). One BartonellarpoB sequence (sample MT833866) derived from H. affinis (one pool of females from a single A. flavicollis) was $100 \%$ identical to the B. taylorii strain detected in A. flavicollis from Turkey (GenBank: MH932636) (Fig. 2).
+
+# Rickettsia infection in lice
+
+Six lice pools of H. affinis (four pools) and P. serrata (two pools) collected from A. agrarius (n=6) were found to be positive for Rickettsia spp. Rickettsia pathogens were detected in males $2 . 3 \%$ positive pools out of 86) and females $2 . 7 \%$ out of 151). A total of fi ve good-quality sequences of Rickettsia gltA gene were obtained and analysed. Sequence analysis of the partial gltA gene revealed the presence of two Rickettsia species: Rickettsia helvetica (n=4) and unrecognised Rickettsia sp. $( n = 7$ ).Rickettsia sequences (samples MT876379, MT876380, MT876381 and MT876382) derived from H. affinis (three pools of females) and P. serrata (one pool of males) shared $9 9 \%$ identity (with one nucleotide difference) and were $100 \%$ identical to the gltA sequence of R. helvetica detected in A. flavicollis from Lithuania (GenBank: MF491764) and R. helvetica sequences detected in fl eas from Slovakia (GenBank: MN276064, MK85717) and in Ixodes ricinus ticks from Slovakia (GenBank: MK85717), Poland (GenBank: EY779822) and Italy (GenBank: MN226407). The Rickettsia sequence (sample MT876378) isolated from H. affinis (one pool of males) was $100 \%$ identical to the closely phylogenetically related sequences deposited in GenBank for R. raoultii (GenBank: MN550895; MH064450; MK875750; MK792599), R. aeschlimann (GenBank: JF803905) and R. heilongjiangensis (GenBank: JX945522).
+
+# Discussion
+
+In Europe, lice collected from rodents have never been examined before for the presence of these bacteria. This study is the fi rst report on the prevalence and diversity of Bartonella and Rickettsia species in lice collected from rodents in Slovakia. Phylogenetic analysis based on the Bartonella rpoB gene and ITS region and the Rickettsia gltA gene revealed the presence of B. tribocorum, B. coopersplainsensis, B. taylorii, R. helvetica and Rickettsia sp. in rodent lice.
+
+In this study, B. taylorii was detected in H. affinis lice collected from A. flavicollis. In previous studies, B. taylorii has been confi rmed in the small mammals A. been reported in several studies conducted in Europe, including in Germany [15], England [40], Lithuania [11, 12], Slovenia [41], Poland [9] and Spain [10]. B. Myodes and Microtus voles [2]. The pathogenic potential of B. taylorii is as yet unknown [11, 40].
+
+In this study, the B. tribocorum infection was detected in $P$ serrata and H. affinis lice collected from A. flavicollis, A. agrarius and M. glareolus. This Bartonella species is pathogenic to humans [2]. Previous studies have strongly supported the association of B. tribocorum with rats of the genus Rattus. B. tribocorum has been detected in rats and their fl eas in Thailand [42] and Bartonella strain closely related to B. tribocorum has been detected in louse (adult P. spinulosa) collected from rats in Egypt [43]. In the striped fi eld mouse A. agrarius, B. tribocorum was detected for the fi rst time in South Korea [44] and closely related strains were later confi rmed in A. agrarius from Slovakia [13] and Lithuania [12].
+
+The present study is the fi rst to detect the B. coopersplainsensis infection in Slovakia in H. affinis lice collected from A. agrarius. Previously, B. Thailand [42]. B. coopersplainsensis has also been reported in A. agrarius in Lithuania [12]. There is a lack of information on B. coopersplainsensis, therefore the public health impact of this bacteria is unknown [46].
+
+The present study is also the fi rst to demonstrate the presence of R. helvetica and Rickettsia sp. in lice collected from rodents in Slovakia. Two R. helvetica strains were detected in H. affinis and P. serrata lice collected from A. agrarius. R. helvetica are considered to be agents of human rickettsioses [17]. In recent studies conducted in Slovakia, R. helvetica has been identifi ed in rodents and in fl eas, mites and ticks collected from rodents [3, 19, 20, 21]. R. helvetica has also been reported in rodents and their ectoparasites in other European countries, such as the Netherlands [47], Hungary [22], Germany [18], Poland [17] and Lithuania [24, 25].
+
+Based only on sequence analysis of the gltAgene, the Rickettsia sp. detected in this study in H. affinis lice pool collected from A. agrarius was not identifi ed to species level. The obtained gltA sequence showed $100 \%$ identity with the corresponding sequences of R. aeschlimann, R. heilongjiangensis and R. raoultii in the GenBank database.
+
+The presence of Bartonella spp. and Rickettsia spp. in lice may result from the acquisition of these bacteria via blood meals from infected rodents. Bartonella spp. are transmitted via horizontal transmission: arthropod vectors become infected with Bartonella bacteria while feeding on infected hosts, including rodents, and can then transfer the bacteria to another host [42]. Worldwide, the prevalence of Bartonella spp. in rodents ranges from 25 to $80 \%$ , which suggests a reciprocal adaptation between the bacteria and their reservoirs [1]. As a result of their blood-feeding habits, lice could transfer disease agents between closely-related host species [26, 29] and physical contact between individual rodents may promote the transmission of different Bartonella species [1].
+
+Some SFG rickettsiae are thought to circulate in enzootic or epizootic cycles between wild vertebrates and arthropod vectors. The high prevalence of R.
+
+The rodents from which the lice were collected have previously been tested for the presence of Bartonella and Rickettsia pathogens [3, 13, 14]. However, almost all the Bartonella-infected and Rickettsia-infected lice were derived from non-infected rodent hosts (except for two specimens of A. agrarius; data not
+
+shown). In this case, lice could become infected by parasitising on other infected hosts. Examined small rodents infested with lice also harbour other ectoparasites species such as mites, fl eas and I. ricinus ticks [3, 20]. The presence of Bartonella pathogens in lice may also result from acquisition pathogens by co-feeding with Bartonella-infected fl eas. Fleas are the main vectors for the maintenance and transmission of B. grahamii, B. taylorii and B. rochalimae among populations of small mammals [2]. B. tribocorum has been detected in fl eas and B. coopersplainsensis in ticks and lice [42]. Lice that infest rodents could acquire Rickettsia pathogens by co-feeding with infected I. ricinus ticks, fl eas and mites. Horizontal transmission through a shared blood meal has been demonstrated for some rickettsial pathogens [48]. In a previous study conducted in Slovakia, Rickettsia spp. was detected in four species of mites, I. ricinus ticks and four fl ea species, with an overall prevalence of $9 . 3 \% , 1 7 . 2 \%$ $9 . 3 \% _ { i }$ and $3 . 5 \%$ respectively [3]. R. helvetica has been identifi ed in fl eas, ticks and mites [3, 21].
+
+Although, the results of the present study confi rm the circulation of Bartonella spp. and Rickettsia spp. in lice, the role of lice in the transmission of Bartonella and Rickettsia species remains unknown. Thus, future studies should be performed to determine the specifi c roles of different species of lice parasitising small rodents in the transmission of Bartonella spp. and Rickettsia spp. bacteria in order to estimate the potential risks for other mammals (e.g. cats) and humans.
+
+# Conclusions
+
+To the best of the authors’ knowledge, this is the fi rst report on the occurrence and diversity of Bartonella spp. and Rickettsia spp. in lice collected from small rodents in Europe. The data presented in this paper add to knowledge about the distribution of Bartonella spp. and Rickettsia spp. in rodent ectoparasites, and demonstrate the presence of Bartonella pathogens in three species of lice – H. affinis, P. serrata and Hoplopleura sp. – and of Rickettsia pathogens in two lice species – H. affinis and P. serrata. This study is also the fi rst to detect B. coopersplainsensis in Slovakia.
+
+# Abbreviations
+
+SFG
+
+Spotted fever group; TG:Typhus group; AG:ancestral group; TRG:transitional group, MIR:Minimum infection rate; CI:confi dence interval; ML:maximumlikelihood method; BIC:Bayesian information criterion.
+
+# Declarations
+
+# Ethics approval and consent to participate
+
+All procedures performed in studies involving animals were in accordance with the ethical standards of the institution or practice at which the studies were conducted. Small mammals were euthanized according to the laws of the Slovak Republic under the licences of the Ministry of Environment of the Slovak Republic No. 297/108/06–3.1 and No. 6743/2008–2.1.
+
+# Consent for publication
+
+Not applicable.
+
+# Availability of data and materials
+
+The datasets used and/or analysed during the current study are available from the corresponding author upon reasonable request. Representative sequences were submitted to the GenBank database under the accession numbers MT840662 - MT840520, MT876371 - MT876377, MT833866, MT876378 - MT876382.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Funding
+
+The study was supported by the project VEGA 1/0084/18 and APVV-15-0134.
+
+# Authors’contributions
+
+MS, AA, AP and JR designed the study data, participated in manuscript preparation, review & editing. MS and JF collected specimens for the study and performed the morphological description of specimens. AA and JR performed the experiments. AA, JR and AP conducted the data analysis. All authors read and approved the fi nal manuscript.
+
+# Acknowledgements
+
+The authors would like to thank Dr. L. Mošanský, Dr. J. Kraljik, Dr. L. Blaňarová, Dr. D. Miklisová and Mrs. M. Onderová for their assistance in the fi eld and in the laboratory. We are grateful to Dr. Maksim Bratchikov for design of primers for real-time PCR.
+
+# References
+
+1. Gutiérrez R, Krasnov B, Morick D, Gottlieb Y, Khokhlova IS, Harrus S. Bartonella infection in rodents and their fl ea ectoparasites: an overview. Vector Borne Zoonotic Dis. 2015;15:27-39.
+
+2. Buffet JP, Kosoy M, Vayssier-Taussat M. Natural history of Bartonella-infecting rodents in light of new knowledge on genomics, diversity and evolution. Future Microbiol. 2013;8:1117-28.   
+3. Špitalská E, Kraljik J, Miklisová D, Boldišová E, Sparagano OAE, Stanko M. Circulation of Rickettsia species and rickettsial endosymbionts among small mammals and their ectoparasites in Eastern Slovakia. Parasitol Res. 2020;119:2047-57.   
+4. Breitschwerdt EB, Kordick DL. Bartonella infection in animals: carrier ship, reservoir potential, pathogenicity, and zoonotic potential for human infection. Clin Microbiol Rev. 2000;13:428-38.   
+5. Parola P, Paddock CD, Socolovschi C, Labruna MB, Mediannikov O, Kernif T, et al. Update on tick-borne rickettsioses around the world: a geographic approach. Clin Microbiol Rev. 2013;26:657-702.   
+6. List of prokaryotic names with standing in nomenclature. 2014. http://www.bacterio.net/bartonella.html. Accessed 20 August 2020.   
+7. Holmberg M, Mills JN, McGill S, Benjamin G, Ellis BA. Bartonella infection in sylvatic small mammals of central Sweden. Epidemiol Infect. 2003;130:149- 57.   
+8. Engbaek K, Lawson PA. Identifi cation of Bartonella species in rodents, shrews and cats in Denmark: detection of two henselae variants, one in cats and the other in the long-tailed fi eld mouse. APMIS. 2004;112:336-41.   
+9. Welc-Falęciak R, Paziewska A, Bajer A, Behnke JM, Siński E. Bartonella infection in rodents from different habitats in the Mazury Lake District, Northeast Poland. Vector Borne Zoonotic Dis 2008;8:467-74.   
+10. Gil H, García-Esteban C, Barandika JF, Peig J, Toledo A, Escudero R, et al. Variability of Bartonella genotypes among small mammals in Spain. Appl Environ Microbiol. 2010;76:8062-70.   
+11. Lipatova I, Paulauskas A, Puraitė I, Radzijevskaja J, Balčiauskas L, Gedimas V. Bartonella infection in small mammals and their ectoparasites in Lithuania. Microbes Infect. 2015;17:884-88   
+12. Mardosaitė-Busaitienė D, Radzijevskaja J, Balčiauskas L. Bratchikov M, Jurgelevičius V, Paulauskas A. Prevalence and diversity of Bartonella species in small rodents from coastal and continental areas. Sci Rep. 2019;9:12349.   
+13. Kraljik J, Paziewska-Harris A, Miklisová D, Blaňarová L, Mošanský L, Bona M, Stanko M. Genetic diversity of Bartonella genotypes found in the striped fi eld mouse (Apodemus agrarius) in Central Europe. Parasitology. 2016;143:1437-42.   
+14. Špitalská E, Minichová L, Kocianová E, Škultéty L, Mahríková L, Hamšíková Z, et al. Diversity and prevalence of Bartonella species in small mammals from Slovakia, Central Europe. Parasitol Res. 2017;116:3087-95.   
+15. Silaghi C, Pfeffer M, Kiefer D, Kiefer M, Obiegala A. Bartonella, rodents, fl eas and ticks: a molecular fi eld study on host-vector-pathogen associations in Saxony, Eastern Germany. Microb Ecol. 2016;72:965-74.   
+16. List of prokaryotic names with standing in nomenclature. 2014. https://lpsn.dsmz.de/genus/rickettsia. Accessed 20 August 2020.   
+17. Gajda E, Hildebrand J, Sprong H, Buńkowska-Gawlik K, Perec-Matysiak A, Coipan EC. Spotted fever rickettsiae in wild-living rodents from south-western Poland. Parasit Vectors. 2017;10:413.   
+18. Obiegala A, Oltersdorf C, Silaghi C, Kiefer D, Kiefer M, Woll D, Pfeffera M. Rickettsia in small mammals and their parasitizing ectoparasites from Saxony, Germany. Vet Parasitol. 2016;5:19-24.   
+19. Miťková K, Berthová L, Kalúz S, Kazimírová M, Burdová L, Kocianová E. First detections of Rickettsia helvetica and monacensis in ectoparasitic mites (Laelapidae and Trombiculidae) infesting rodents in south-western Slovakia. Parasitol Res. 2015;114:2465-2472.   
+20. Špitalská E, Boldiš V, Mošanský L, Sparagano O, Stanko M. Rickettsia species in fl eas collected from small mammals in Slovakia. Parasitol Res. 2015;114:4333-9.   
+21. Heglasová I, Víchová B, Stanko M. Detection of Rickettsia in fl eas collected from small mammals in Slovakia, Central Europe. Vector Borne Zoonotic Dis. 2020; doi:10.1089/vbz.2019.2567.   
+22. Hornok S, Földvári G, Rigó K, Meli ML, Gönczi E, Répási A, et al. Synanthropic rodents and their ectoparasites as carriers of a novel haemoplasma and vector-borne, zoonotic pathogens indoors. Parasit Vectors. 2015;8:27.   
+23. Svoboda P, Dobler G, Markotić A, Kurolt IC, Speck S, Habuš J, et al. Survey for hantaviruses, tick-borne encephalitis virus, and Rickettsia in small rodents in Croatia. Vector Borne Zoonotic Dis. 2014;14:523-30.   
+24. Radzijevskaja J, Kaminskienė E, Lipatova I. Mardosaitė-Busaitienė D, Balčiauskas L, Stanko M, Paulauskas A. Prevalence and diversity of Rickettsia species in ectoparasites collected from small rodents in Lithuania. Parasit Vectors. 2018;11:375.   
+25. Mardosaitė-Busaitienė D, Radzijevskaja J, Balčiauskas L, Paulauskas A. First detection of Rickettsia helvetica in small mammals in Lithuania. New Microbes New Infect. 2018;22:19-23.   
+26. Light JE, Smith VS, Allen JM, Durden LA, Reed DL. Evolutionary history of mammalian sucking lice (Phthiraptera: Anoplura). BMC Evol Biol 2010;10:292.   
+27. Dong WG, Song S, Jin DC, Guo XG, Shao R. Fragmented mitochondrial genomes of the rat lice, Polyplax asiatica and Polyplax spinulosa: intra-genus variation in fragmentation pattern and a possible link between the extent of fragmentation and the length of life cycle. BMC Genomics. 2014;15:44.   
+28. Wang W, Weaver HJ, Song F, Durden LA, Shao R. A new species of sucking louse Hoplopleura villosissima sp. (Psocodea: Phthiraptera: Hoplopleuridae) and a new host record of the spiny rat louse Polyplax spinulosa Burmeister, 1839 (Psocodea: Phthiraptera: Polyplacidae) from the long-haired rat Rattus villosissimus Waite (Rodentia: Muridae) in Australia. Parasit Vectors. 2018;11:476.   
+29. Hornok S, Hofmann-Lehmann R, de Mera IG, Meli ML, Elek V, Hajtós I, et al. Survey on blood-sucking lice (Phthiraptera: Anoplura) of ruminants and pigs with molecular detection of Anaplasma and Rickettsia Vet Parasitol. 2010; 174:355-58.
+
+30. Martinů J, Hypša V, Štefka J. Host specifi city driving genetic structure and diversity in ectoparasite populations: Coevolutionary patterns in Apodemus mice and their lice. Ecol Evol. 2018;8:10008-22.   
+31. Blaňarová L, Stanko M, Carpi G, Miklisová D, Víchová B, Mošanský L, et al. Distinct Anaplasma phagocytophilum genotypes associated with Ixodes trianguliceps ticks and rodents in Central Europe. Ticks Tick Borne Dis. 2014;5:928-38.   
+32. Stanko M, Fričová J, Miklisová D, Khokhlova IS, Krasnov BR. Environment-related and host-related factors affecting the occurrence of lice on rodents in Central Europe. Parasitology. 2015;142:938-47.   
+33. Smetana A. Lice from the territory of Czechoslovakia, in Czech. Acta Rerum Naturalium Musei Nationalis Slovaci Bratislava.1965;11:30-82.   
+34. Wegner Z. Keys for determinations insects of Poland. Lice – Anoplura. Czesc XVI. Warsaw;1972. p. 90.   
+35. Rijpkema S, Golubić D, Molkenboer M, Verbeek-De Kruif N, Schellekens J. Identifi cation of four genomic groups of Borrelia burgdorferi sensu lato in Ixodes icks colle  Lyme oeloigionorheCoaExp Acar96;20:3   
+36. Renesto P, Gouvernet J, Drancourt M, Roux V, Raoult D. Use of rpoB gene analysis for detection and identifi cation of Bartonella species. J Clin Microbiol. 2001;39:430-37.   
+37. Jensen WA, Fall MZ, Rooney J, Kordick DL, Breitschwerdt EB. Rapid identifi cation and differentiation of Bartonella species using a single-step PCR assay. J Clin Microbiol. 2000;38:1717-22.   
+38. Kaewmongkol, G. Detection and characterization of Bartonella species in Western Australia (Thesis of Doctor of Philosophy). School of Veterinary and Biomedical Sciences, Faculty of Health Sciences, Murdoch University, Perth, Western Australia; 2012.   
+39. Weidong G, Lampman R, Robert J, Novak RJ. Problems in Estimating Mosquito Infection Rates Using Minimum Infection Rate. J. Med. Entomol. 2003;40:595-6.   
+40. Bown KJ, Bennet M, Begon M. Flea-borne Bartonella grahamii and Bartonella taylorii in bank voles. Emerg Infect Dis. 2004;10:684-87.   
+41. Knap N, Duh D, Birtles R, Trilar T, Petrovec M, Avšič-Županc T. Molecular detection of Bartonella species infecting rodents in Slovenia. FEMS Immunol Med Microbiol. 2007;50:45-50.   
+42. Klangthong K, Promsthaporn S, Leepitakrat S, Schuster AL, McCardle PW, Kosoy M, et al. The distribution and diversity of Bartonella species in rodents and their ectoparasites across Thailand. PLoS One. 2015;10:e0140856.   
+43. Reeves WK, Szumlas DE, Moriarity JR, Loftis AD, Abbassy MM, Helmy IM, Dasch GA. Louse-borne bacterial pathogens in lice (Phthiraptera) of rodents and cattle from Egypt. J Parasitol. 2006;92:313-8.   
+44. Ko S, Kang G, Kim HC, Klein TA, Choi KS, Song JW, et al. Prevalence, isolation and molecular characterization of Bartonella species in Republic of Korea. Transbound Emerg Dis. 2016;63:56-67.   
+45. Gundi VA, Taylor C, Raoult D, La Scola B. Bartonella rattaustraliani nov., Bartonella queenslandensis sp. nov. and Bartonella coopersplainsensis sp. nov., identifi ed in Australian rats. Int J Syst Evol Microbiol. 2009; 59:2956-61.   
+46. Helan JVG, Grinberg A, Gedye K, Potter MA, Harrus S. Molecular detection of Bartonella coopersplainsensis and henselae in rats from New Zealand. N Z Vet J. 2018;66:257-60.   
+47. Sprong H, Wielinga PR, Fonville M, Reusken C, Brandenburg AH, Borgsteede F, et al. Ixodes ricinus ticks are reservoir hosts for Rickettsia helvetica and potentially carry fl ea-borne Rickettsia Parasit Vectors. 2009;2:41.   
+48. Brown LD, Christofferson RC, Banajee KH, Del Piero F, Foil LD, Macaluso KR. Cofeeding intra- and interspecifi c transmission of an emerging insect-borne rickettsial pathogen. Mol Ecol. 2015;24:5475-89.   
+49. Diaz MH, Bai Y, Malania L, Winchell JM, Kosoy MY. Development of a novel genus-specifi c real-time PCR assay for detection and differentiation of Bartonella species and genotypes. J Clin Microbiol. 2012;50:1645-49.
+
+# Tables
+
+Table 1. Primers and probes used for real-time PCR, conventional and nested-PCRs.
+
+Table 2 Presence of Bartonella spp. and Rickettsia spp. in lice collected from different species of small rodents.   
+
+<table><tr><td>Primer or probe</td><td>Sequence (5&#x27;-3&#x27;)</td><td>Target in assay</td><td>Reference</td></tr><tr><td>ssrA-F1</td><td>AGTTGCAAATGACAACTATGCGG AAGGCTTCTGTTGCCAGGYG</td><td>Bartonella spp ssrA gene</td><td>[12, 49]</td></tr><tr><td>ssrA-R1</td><td>HEX-ACCCCGCTTAAACCTGCGACGGTT-BHQ1</td><td></td><td></td></tr><tr><td>ssrA-P1a</td><td></td><td></td><td></td></tr><tr><td>RpoB-F</td><td>CGCATTGGYTRCTTCGTATG</td><td>Bartonella spp rpoB gene</td><td>[36]</td></tr><tr><td>RpoB-R</td><td>GTRGAYTGATTRGAACGYTG</td><td></td><td></td></tr><tr><td>WITS-Fb</td><td>ACCTCCTTTCTAAGGATGAT</td><td></td><td>[37, 38]</td></tr><tr><td>WITS-Rb</td><td>CTCTTTCTTCAGATGATGATCC</td><td>Bartonella spp ITS region</td><td></td></tr><tr><td>Bh311-332Fc</td><td>CTCTTTCTTCAGATGATGATCC</td><td></td><td></td></tr><tr><td>Bh473-452Rc</td><td>AACCAACTGAGCTACAAGCCCT</td><td></td><td></td></tr><tr><td>Rick F1</td><td>TGCMGAYCATGAGCACAATGCTTC</td><td>Rickettsia spp. gltA gene</td><td>This study</td></tr><tr><td>Rick R1</td><td>CCCAAGTGAKGCAATACCCGT</td><td></td><td></td></tr><tr><td>Rick P1a</td><td>FAM-TGCCGGCTCATCYGGAGCTAACCC-BHQ1</td><td></td><td></td></tr><tr><td>RpCS.877Pb</td><td>GGGGACCTGCTCACGGCGG</td><td>Rickettsia spp. gltA gene</td><td>[19]</td></tr><tr><td>RpCS.1258nb</td><td>ATTGCAAAAAGTACAGTGAACC</td><td></td><td></td></tr><tr><td>RpCS.896pc</td><td>GGCTAATGAAGCAGTGATAA</td><td></td><td></td></tr><tr><td>RpCS.1233nc</td><td>GCGACGGTATACCCATAGC</td><td></td><td></td></tr></table>
+
+aProbe, bExternal primers, c Internal primers.
+
+<table><tr><td>Rodents species</td><td colspan="3">H. affinis</td><td colspan="3">H. edentula</td><td colspan="3">H. acanthopus</td><td colspan="3">Hoplopleura sp</td><td colspan="3">P. serrata</td><td colspan="3">P. spinulosa</td></tr><tr><td></td><td colspan="3">No. positive pools/no. pools (no. lice in pools); MIR % [95 % CI]</td><td colspan="3">No. positive pools/no. pools (no. lice in pools); MIR % [95 % CI]</td><td colspan="3">No. positive pools/no. pools (no. lice in pools); MIR % [95 % CI]</td><td colspan="3">No. positive pools/no. pools (no. lice in pools) %; MIR [95 % CI]</td><td colspan="3">No. positive pools/no. pools (no. lice in pools) %; MIR [95 % CI]</td><td colspan="3">No. positive pools/no. pools (no. lice in pools); MIR % [95 % CI]</td></tr><tr><td colspan="19">Bartonella spp.</td></tr><tr><td></td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td></tr><tr><td>A. agr</td><td>3/6 (24)</td><td>2/41 (246)</td><td>12/78 (418)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>0/4 (4)</td><td>-</td><td>-</td><td>0/16 (82)</td><td>3/18 (36)</td><td>3/38 (79)</td><td>-</td><td>0/1 (1)</td><td>-</td></tr><tr><td>A. fla</td><td>1/1(2)</td><td>1/6 (16)</td><td>3/7 (16)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1/1 (1)</td><td>-</td><td>-</td><td>0/3 (3)</td><td>0/3 (3)</td><td>1/10 (19)</td><td>-</td><td>0/1 (1)</td><td>0/2 (2)</td></tr><tr><td>M . arv</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/2 (4)</td><td>0/5 (9)</td><td>0/4 (13)</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td></tr><tr><td>M. sub</td><td>-</td><td>-</td><td>0/1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>M. gla</td><td>-</td><td>1/5(6)</td><td>1/3(3)</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td>0/2 (2)</td><td>-</td><td>-</td><td>0/1 (2)</td><td>-</td><td></td></tr><tr><td>R. nor</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (8)</td><td>0/2 (20)</td><td>0/5 (45)</td></tr><tr><td>Total</td><td>4/7 (26); 15.4[4.4-34.9]</td><td>4/52 (268); 1,5[0.4-3.8]</td><td>16/89 (438); 3.7[2.1-5.9]</td><td>-</td><td>0/1 (1)</td><td>0/2 (4)</td><td>0/6 (10)</td><td>0/5 (14)</td><td>1/7 (7); 14.3[0.4-57.9]</td><td>-</td><td>-</td><td>0/19 (85)</td><td>3/23 (41); 7.3 [1.5-19.9]</td><td>4/49 (99); 4.0[1.1-10.0]</td><td>0/1 (8)</td><td>0/5 (24)</td><td>0/7 (47)</td><td></td></tr><tr><td colspan="19">Rickettsia spp.</td></tr><tr><td></td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td><td>L</td><td>□</td><td>□</td></tr><tr><td>A. agr</td><td>0/6 (24)</td><td>1/42 (246)</td><td>3/78 (418)</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>0/4 (4)</td><td>-</td><td>-</td><td>0/16 (82)</td><td>1/15 (24)</td><td>1/40 (91)</td><td>-</td><td>0/1 (1)</td><td>-</td><td></td></tr><tr><td>A. fla</td><td>0/1 (2)</td><td>0/6 (16)</td><td>0/7 (16)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>0/3 (3)</td><td>0/3 (3)</td><td>0/10 (19)</td><td>-</td><td>0/1 (1)</td><td>0/2 (2)</td><td></td></tr><tr><td>M. arv</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/2 (4)</td><td>0/5 (9)</td><td>0/4 (13)</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>M. sub</td><td>-</td><td>-</td><td>0/1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>M. gla</td><td>-</td><td>0/5 (6)</td><td>0/3 (3)</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>0/1 (1)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/2 (2)</td><td>-</td><td>-</td><td>0/1 (2)</td><td>-</td><td></td></tr><tr><td>R. nor</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (8)</td><td>0/2 (20)</td><td>0/5 (45)</td><td></td></tr><tr><td>Total</td><td>0/7 (26)</td><td>1/53 (268); 0.4% [0.0-2.1]</td><td>3/89 (438); 0.7 [0.1-2.0]</td><td>-</td><td>0/1 (1)</td><td>0/2 (4)</td><td>0/6 (10)</td><td>0/5 (14)</td><td>0/7 (7)</td><td>-</td><td>-</td><td>0/19 (85)</td><td>1/20 (29); 3.4[0.0-17.8]</td><td>1/51 (111); 0.9[0.0-4.9]</td><td>0/1 (8)</td><td>0/5 (24)</td><td>0/7 (47)</td><td></td></tr></table>
+
+Abbreviations:A. agr – Apodemus agrarius; A. fla – Apodemus flavicollis; M. arv – Microtus arvalis; M. sub – Microtus subterraneus; M. gla – Myodes glareolus; R. nor. - Rattus norvegicus
+
+![](images/3e429f68c6b26e88fcd1f4a3555cf716a361fa731f2c99d0d7d289da89537319.jpg)  
+Figures   
+Figure 1
+
+Maximum-likelihood phylogenetic tree for the partial ITS region of Bartonella spp. The phylogenetic tree was created using the Tamura-Nei model and bootstrap analysis of 1000 replicates. Samples sequenced in the present study are marked. Abbreviations: A. agr – Apodemus agrarius, M. gla – Myodes glareolus, A.fl a – Apodemus fl avicollis, R. rat – Rattus norvegicus, F – female, M – male, L – larva.
+
+![](images/9c68103fa33a6a3f8d12e4df5d26cdd101bc4daf3bee1ca56fd2b05ccc61a001.jpg)  
+Figure 2
+
+Maximum-likelihood phylogenetic tree for the partial rpoB gene of Bartonella spp. The phylogenetic tree was created using the Tamura-Nei model and bootstrap analysis of 1000 replicates. Samples sequenced in the present study are marked. Abbreviations: A. agr – Apodemus agrarius, M. agr – Microtus agrestis, A.fl a - A. fl avicollis, F – female, M – male, L – larva.
+
+![](images/c054247d47226d61043d8790ed5f16eab91987d222db8333935aa94626a65acd.jpg)
+
+Figure 3
+
+Maximum-likelihood phylogenetic tree for the partial gltA gene of Rickettsia spp. The phylogenetic tree was created using the Tamura-Nei model and bootstrap analysis of 1000 replicates. Samples sequenced in the present study are marked. Abbreviations: A. agr – Apodemus agrarius, A. fl a – Apodemus fl avicollis, F – female, M – male.

@@ -1,0 +1,135 @@
+# Cocirculation of Leptospira spp. and multiple orthohantaviruses in rodents, Lithuania, Northern Europe
+
+Kathrin Jeske<sup>1</sup> | Jana Schulz<sup>2</sup> | Duygu Tekemen<sup>3</sup> | Linas Balčiauskas<sup>4</sup> | Laima Balčiauskiené<sup>4</sup> | Melanie Hiltbrunner<sup>5</sup> | Stephan Drewes<sup>1</sup> | Anne Mayer-Scholl<sup>3</sup> | Gerald Heckel<sup>5,6</sup> | Rainer G. Ulrich<sup>1</sup>
+
+$^{1}$ Institute of Novel and Emerging Infectious Diseases, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Greifswald-Insel Riems, Germany   
+$^{2}$ Institute of Epidemiology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Greifswald-Insel Riems, Germany   
+$^{3}$ Department for Biological Safety, German Federal Institute for Risk Assessment, Berlin, Germany   
+$^{4}$ Nature Research Centre, Vilnius, Lithuania   
+$^{5}$ Institute of Ecology and Evolution, University of Bern, Bern, Switzerland   
+$^{6}$ Swiss Institute of Bioinformatics, Genopode, Lausanne, Switzerland
+
+# Correspondence
+
+Rainer G. Ulrich, Institute of Novel and Emerging Infectious Diseases, Friedrich-Loeffer-Institut, Federal Research Institute for Animal Health, Südufer 10, 17493 Greifswald-Insel Riems, Germany. Email: RainerUlrich@fli.de
+
+# Funding information
+
+German Federal Ministry of Education and Research through the Research Network Zoonotic Infectious Diseases, Grant/Award Number: 01KI903B; Swiss National Science Foundation, Grant/Award Number: 31003A_176209
+
+[Corrections added on 24 March 2022, after first online publication: All the figures in this article have been updated.]
+
+# Abstract
+
+In Europe, zoonotic Leptospira spp. and orthohantaviruses are mainly associated with specific rodent hosts. These pathogens cause febrile human diseases with similar symptoms and disease progression. In Lithuania, the presence of Dobrava-Belgrade orthohantavirus (DOBV), Tula orthohantavirus (TULV) and Leptospira spp. in rodent reservoirs is still unknown, and Puumala orthohantavirus (PUUV) was detected in bank voles (Clethrionomys glareolus) at only one site. Therefore, we collected and screened 1617 rodents and insectivores from Lithuania for zoonotic (re-)emerging Leptospira and orthohantaviruses. We detected Leptospira DNA in six rodent species, namely striped field mouse (Apodemus agrarius), yellow-necked mouse (Apodemus flavicollis), bank vole, common vole (Microtus arvalis), field vole (Microtus agrestis) and root vole (Microtus oeconomus). Leptospira DNA was detected with an overall mean prevalence of $4.4\%$ (range $3.7\% - 7.9\%$ per rodent species). We detected DOBV RNA in $5.6\%$ of the striped field mice, PUUV RNA in $1\%$ of bank voles and TULV RNA in $4.6\%$ of common voles, but no Leptospira DNA in shrews and no hantavirus-Leptospira coinfections in rodents. Based on the complete coding sequences of the three genome segments, two distant DOBV phylogenetic lineages in striped field mice, one PUUV strain in bank voles and two TULV strains in common voles were identified. The Leptospira prevalence for striped field mice and yellow-necked mice indicated a significant negative effect of the distance to water points. The detection of (re-)emerging human pathogenic Leptospira and three orthohantaviruses in rodent reservoirs in Lithuania calls for increased awareness of public health institutions and allows the improvement of molecular diagnostics for pathogen identification.
+
+# KEYWORDS
+
+Dobrava-Belgrade orthohantavirus, Leptospira kirschneri, Puumala orthohantavirus, reservoir, Tula orthohantavirus
+
+# 1 | INTRODUCTION
+
+In Europe, zoonotic Leptospira spp. (e.g. Leptospira interrogans, Leptospira kirschneri and Leptospira borgpetersenii) and orthohantaviruses are mainly associated with specific rodent hosts. These rodents are persistently infected and shed these pathogens by excreta. The pathogens are transmitted to humans indirectly and cause human diseases with similar symptoms and disease progression such as field fever (Leptospira) and haemorrhagic fever with renal syndrome (HFRS) (orthohantaviruses), with case fatality rates up to $5\% - 10\%$ (Drewes et al., 2017; Fischer et al., 2018). Dobrava-Belgrade orthohantavirus (DOBV) is classified into four genotypes, each being associated with different HFRS severity and a specific Apodemus sp. (Klempa et al., 2013). The natural reservoir of Puumala orthohantavirus (PUUV) is the bank vole (Clethrionomys glareolus syn. Myodes glareolus) (Drewes et al., 2017), whereas Tula orthohantavirus (TULV) is harboured by common voles (Microtus arvalis) and related species (Schmidt et al., 2016). Rusne virus, a strain of Tatenale orthohantavirus, was recently identified in root voles (Microtus oeconomus) from Lithuania (Drewes et al., 2021).
+
+In Lithuania, PUUV- and DOBV-reactive antibodies were detected in human serum samples (Sandmann et al., 2005). So far, PUUV was detected only in bank voles at site Lukstas, Eastern Lithuania (Straková et al., 2017); the presence of DOBV, TULV and Leptospira spp. in rodent reservoirs is still unknown. Therefore, we performed a Lithuania wide small mammal screening for Leptospira and orthohantaviruses and evaluated the association between their prevalence and individual and population-based factors.
+
+# 2 MATERIALS AND METHODS
+
+One thousand five hundred twenty-three rodents and 94 shrews were trapped between 2016 and 2018 at 23 sites in Lithuania (Figure 1, Tables S1 and S2). Trapping, dissection, Leptospira PCR and orthohantavirus reverse transcription-polymerase chain reaction (RT-PCR) testing and phylogenetic and statistical analyses followed standard procedures (for details see the Supporting Information and Table S3 for used primers).
+
+# 3 | RESULTS
+
+Leptospira DNA was detected in rodents from all five regions of Lithuania, at 11 of 23 sites, with an overall mean prevalence of $4.4\%$ and mean prevalence for positive sites of $5.7\%$ (range $1.1\% - 27.8\%$ ), but not at all in shrews (Figure 1, Tables S1 and S2). Further characterization revealed L. kirschneri in yellow-necked mouse (Apodemus flavicollis), striped field mouse (Apodemus agrarius), common vole and bank vole, and sequence type 110 in yellow-necked mouse, common vole and bank vole (Table S2). In univariable analyses, several individual and population-based factors were significant (Table S4) and thus, included in generalized logistic regression models for each host species. After stepwise-backward reduction, a significant effect of the region and dis
+
+tance to water points was shown for striped field mouse; for yellow-necked mouse distance to water points and weight (Table S5).
+
+We detected DOBV RNA in $5.6\%$ of the striped field mice. Positive samples originated from four of 19 sites in Lithuania (Tables S2 and S6). At Rusné Island, West Lithuania, DOBV was present during the whole study period 2016-2018 (Table S2). Complete S, M and L segment coding sequences (CDS) and partial S segment sequences revealed the DOBV strains at three sites in Central, North and East Lithuania to be closely related (Figure 1, sites 4, 11 and 19). The complete and partial DOBV CDS from Rusné Island (site 15, Figure 1) is genetically different from the sequences from the more eastern parts of Lithuania (Figure 2a, Figure S1b,c, Table S11). The univariable analysis for DOBV infection in striped field mice revealed several significant factors (Table S4), but the multivariable analysis indicated a significant effect only for the comparison of years 2016 versus 2017 and 2017 versus 2018 (Table S5).
+
+PUUV RNA was detected in four of 418 (1%) bank voles; positive voles originated from two of 13 sites in 2018, one located in the Central and the other in the Eastern part of Lithuania: Dembava (1/6, site 5) and Lukstas (3/77, site 11) (Tables S2 and S6 and Figure 1). PUUV-positive bank voles belonged to the Eastern and Carpathian evolutionary lineages in this species (Table S10). The complete S, M and L segment CDS of PUUV from Dembava and the novel partial S segment sequence from Lukstas clustered with published sequences from Lukstas within the Latvian (LAT) clade (Figure 2b, Figure S2a-c, Table S12).
+
+TULV RNA was detected in seven of 153 (4.6%) common voles, all trapped in 2018, but not in any other Microtus spp. $(n = 79)$ (Tables S1 and S2). TULV-positive common voles originated from three of 16 trapping sites: Kalpokai (1/6, site 8), Mieliūnai (5/29, site 12) and Naradava (1/5, site 13, Tables S2 and S6, Figure S1). Sequencing of the complete CDS of the S, M and L segment of two samples and phylogenetic analyses revealed genetic distinctness from other European phylogenetic clades and closest similarity with strains from Russia, Kazakhstan and China (Figure 2c, Figure S3a-c, Table S13).
+
+# 4 | DISCUSSION
+
+Here, we detected Leptospira in six rodent species in Lithuania, but not in any shrew. Leptospira spp. prevalence in rodents from Lithuania was overall much lower than reported for other parts of Europe (Fischer et al., 2018). This discrepancy might be caused by environmental factors, such as rainfall, ground humidity and temperature, which can influence Leptospira survival outside the host and thereby transmission (Morand et al., 2019; Thibeaux et al., 2018). In our study, yellow-necked mice showed the highest Leptospira prevalence. In contrast, a study in Germany revealed much higher mean prevalence in common voles (Fischer et al., 2018). The significant influence of weight (as proxy for age) for yellow-necked mice (Tables S4 and S5) is in line with previous studies and explained by a persistent infection (Fischer et al., 2018).
+
+We detected here for the first time DOBV in the reservoir in Lithuania; a similar low prevalence of DOBV RNA in striped field mice was previously found in Hungary (6.8%) (Kurucz et al., 2018). The
+
+![](images/f7a223feddee2c6dd5a866926c0ca517d64ca7027d2558143c591c0634eebc80.jpg)  
+FIGURE 1 Map of rodent and shrew trapping locations in Lithuania and results of Leptospira and Dobrava-Belgrade orthohantavirus (DOBV), Puumala orthohantavirus (PUUV) and Tula orthohantavirus (TULV) PCR/RT-PCR screening. Lithuania was divided into five regions according to an earlier publication (Balčiauskas et al., 2019): Central, West, East, South and North. In the lower left part, a map of Europe with the location of Lithuania (highlighted in black) is given. Trapping sites: (1) Aukšikalniai, (2) Čužožeriai, (3) Barčiai, (4) Biržai district, Guodžiai, (5) Dembava, (6) Gauré, (7) Juodkranté, (8) Kalpokai, (9) Kvedarna, (10) Luksnéni, (11) Lukstas, (12) Mieliūnai, (13) Naradava, (14) Nemuno kilpos, (15) Rusné (16) Tauragiré near Bezdonys, (17) Taujénai, (18) Trakai, (19) Tytuvénai, (20) Užpaliai, (21) Užubaliai, (22) Žiegelis lake, (23) Vabalninkas. At site Rusné (15), a previous study detected Rusne virus, a strain of Tatenale orthohantavirus (Drewes et al., 2021)
+
+occurrence of highly divergent DOBV strains in Lithuania might be explained by two separate routes of host-mediated DOBV spread and/or the geographic isolation of striped field mouse populations. Of note, the striped field mouse is a pioneer species in the Nemunas River Delta (Rusné) after annual flooding (Balčiauskas et al., 2012). The significant effect on the DOBV prevalence seen by comparison of years 2016 versus 2017 and 2017 versus 2018 (Table S5) suggests that annual variation of striped field mouse population density influences DOBV prevalence, as shown, for example, for PUUV in bank voles (Khalil et al., 2016).
+
+The detection of PUUV RNA in bank voles in Lukstas in 2018 is in line with its detection at this site in 2015 (Straková et al., 2017). The estimated PUUV RNA prevalence at both sites in 2018, $3.9\%$ and $16.7\%$ , respectively, is similar to that observed for Lukstas in 2015 $(11.1\%)$ (Straková et al., 2017), but rather small in comparison with some endemic sites in Germany with seasonal prevalence of up to $100\%$ (Drewes et al., 2017). The low prevalence and small geographic
+
+spread of PUUV in our study in Lithuania might be due to ecological factors, including the beech distribution (Bolte et al., 2007), that might limit the size of local bank vole populations and in consequence persistence of PUUV over time.
+
+This is the first report of TULV in voles from Lithuania and Northern Europe. The observed mean TULV prevalence of $4.6\%$ (range $14.3\% - 20.0\%$ at positive sites) in common voles is similar to that in other European countries such as Germany $(15.8\%)$ and France $(23.1\%)$ (Schmidt et al., 2016; Saxenhofer et al., 2019). Common voles seem to act as main or even exclusive reservoirs for TULV in Lithuania, although TULV-positive field voles were reported in other European countries before (Schmidt et al., 2016).
+
+In conclusion, we identified Leptospira DNA in various rodent species, two DOBV lineages in striped field mice, a novel PUUV strain in bank voles and three TULV strains in common voles, but no Leptospira DNA in shrews and no hantavirus-Leptospira coinfections in rodents. The determination of complete CDS of Lithuanian DOBV, TULV and
+
+![](images/dd6ddfdc7c12eecb64cdbc04bfac4e98d94b0eac21f8629145a06f886562224d.jpg)
+
+![](images/97c21b7257a5e117bfba821e6845c0cd8c0cd23ddc46f8ae72e6688ff98103c8.jpg)
+
+![](images/eab188d965ec91df877619db1e20cbe1555692a62823e6ce55bacbbf05ef5bd0.jpg)  
+FIGURE 2 Phylogenetic consensus trees of complete coding sequences (CDS) of the S segments of Dobrava-Belgrade orthohantavirus (DOBV, a), Puumala orthohantavirus (PUUV, b) and Tula orthohantavirus (TULV, c). Names in bold indicate newly generated sequences. For identical DOBV, PUUV and TULV sequences see Table S6; for sequences in condensed clades see Tables S7, S8 and S9. Consensus trees are based on Bayesian analyses with $1 \times 10^{7}$ generations and a burn-in phase of $25\%$ , and maximum-likelihood analyses, with 1000 bootstraps and $50\%$ cut-off using the general time reversible (GTR) substitution model with invariant sites and a gamma distributed-shape parameter for both algorithms. Posterior probability values $>95\%/$ bootstrap values $>75$ are given at the supported nodes. See Supporting Information for details of tree reconstruction. *S segment CDS of DOBV strain 2018Rus_2 is identical with 2017_Rus_56 strain (see Table S6). Designation of DOBV genotypes followed a nomenclature previously introduced (Klempa et al., 2013). Outgroups are Sangassou orthohantavirus, Seoul orthohantavirus, Thailand orthohantavirus and Hantaan orthohantavirus. Designation of clades for PUUV were Alpe-Adrian (ALAD), Central European (CE), Danish (DAN), Finnish (FIN), Latvian (LAT), Northern-Scandinavian (N-SCA), Russian (RUS), Southern-Scandinavian (S-SCA) that was used before (Drewes et al., 2017). Tula orthohantavirus was used as an outgroup. Designation of TULV clades Central North (CEN.N), Central South (CEN.S), Eastern North (EST.N) and Eastern South (EST.S) followed the nomenclature of Saxenhofer et al. (2019). Puumala orthohantavirus and Tatenale orthohantavirus were used as outgroup. Abbreviations: Aa, Apodemus agrarius; Af, Apodemus flavicollis
+
+PUUV strains will allow the optimization of molecular diagnostics in human patients. Public health institutions in Lithuania should be aware of the cocirculation of these zoonotic pathogens and develop adequate public health measures. The broad geographic distribution of common voles, bank voles and yellow-necked mice warrants future studies on the influence of environmental factors on orthohantaviruses, Leptospira spp. and other zoonotic pathogens across Europe, particularly in the light of climate change and extreme weather events. Further investigations on orthohantaviruses should focus on the influence of geographic isolation and founder effects, and the importance of evolutionarily divergent lineages of the reservoir hosts for the molecular evolution of orthohantaviruses (Hiltbrunner & Heckel, 2020; Saxenhofer et al., 2019). Finally, the influence of coinfections with other infectious agents, and particularly immunosuppressive agents, as well as the microbiome on the host susceptibility and potential pathogenic consequences of orthohantaviruses and Leptospira should be evaluated.
+
+# ACKNOWLEDGEMENTS
+
+We thank Dörte Kaufmann, Patrick Slowikowski (Institute of Novel and Emerging Infectious Diseases), and Patrick Wysocki (Institute of Epidemiology) for help in preparing samples for extraction and generation of Figure 1, respectively. This study was supported by the German Federal Ministry of Education and Research through the Research Network Zoonotic Infectious Diseases (ZooKolnfekt, FKZ 01KI903B awarded to Rainer G. Ulrich). Gerald Heckel was supported by the Swiss National Science Foundation, grant 31003A_176209.
+
+# CONFLICT OF INTEREST
+
+The authors declare no conflict of interest.
+
+# ETHICS STATEMENT
+
+The authors confirm that the ethical policies of the journal, as noted on the journal's author guidelines page, have been adhered to. All relevant guidelines for the use of animals in scientific studies were followed.
+
+# DATA AVAILABILITY STATEMENT
+
+The entire information on the rodents and shrews investigated here is given in Supporting information Tables. All new orthohantavirus sequences are deposited at GenBank.
+
+# ORCID
+
+Kathrin Jeske https://orcid.org/0000-0001-8573-4588   
+Jana Schulz https://orcid.org/0000-0002-5719-4542   
+Linas Balčiauskas https://orcid.org/0000-0001-9672-5265   
+Laima Balciauskiene https://orcid.org/0000-0002-4641-7675   
+Melanie Hiltbrunner https://orcid.org/0000-0001-8214-9375   
+Stephan Drewes https://orcid.org/0000-0003-1240-147X   
+Anne Mayer-Scholl https://orcid.org/0000-0001-6844-6330   
+Gerald Heckel https://orcid.org/0000-0002-0162-323X   
+Rainer G. Ulrich https://orcid.org/0000-0002-5620-1528
+
+# REFERENCES
+
+Balčiauskas, L., Balčiauskiene, L., & Janonytě, A. (2012). The influence of spring floods on small mammal communities in the Nemunas River Delta, Lithuania. Biologica, 67(6), 1220-1229.   
+Balcauskas, L., Balcauskiené, L., & Stirké, V. (2019). Mow the grass at the mouse's peril: Diversity of small mammals in commercial fruit farms. Animals, 9(6), 334. https://doi.org/10.3390/ani9060334   
+Bolte, A., Czajkowski, T., & Kompa, T. J. F. (2007). The north-eastern distribution range of European beech—A review. Forestry: An International Journal of Forest Research, 80(4), 413-429.   
+Drewes, S., Ali, H. S., Saxenhofer, M., Rosenfeld, U. M., Binder, F., Cuypers, F., Schlegel, M., Röhrs, S., Heckel, G., & Ulrich, R. G. (2017). Host-associated absence of human Puumala virus infections in northern and eastern Germany. Emerging Infectious Diseases, 23(1), 83-86. https://doi.org/10.3201/eid2301.160224   
+Drewes, S., Jeske, K., Straková, P., Balčiauskas, L., Ryll, R., Balčiauskiené, L., Kohlhouse, D., Schnidrig, G.-A., Hiltbrunner, M., Špakova, A., Insodaité, R., Burneikiené, R., Heckel, G., & Ulrich, R. G. (2021). Identification of a novel hantavirus strain in the root vole (Microtus oeconomus) in Lithuania, Eastern Europe. Infection, Genetics and Evolution, 90, 104520. https://doi.org/10.1016/j.meegid.2020.104520   
+Fischer, S., Mayer-Scholl, A., Imholt, C., Spierling, N. G., Heuser, E., Schmidt, S., Reil, D., Rosenfeld, U. M., Jacob, J., Nockler, K., & Ulrich, R. G. (2018). Leptospira genomospecies and sequence type prevalence in small mammal populations in Germany. Vector Borne and Zoonotic Diseases, 18(4), 188-199. https://doi.org/10.1089/vbz.2017.2140   
+Hiltbrunner, M., & Heckel, G. (2020). Assessing genome-wide diversity in european hantaviruses through sequence capture from natural host samples. Viruses, 12(7), 749. https://doi.org/10.3390/v12070749   
+Khalil, H., Ecke, F., Evander, M., Magnusson, M., & Hornfeldt, B. (2016). Declining ecosystem health and the dilution effect. Science Reports, 6, 31314. https://doi.org/10.1038/srep31314   
+Klempa, B., Avsic-Zupanc, T., Clement, J., Dzagurova, T. K., Henttonen, H., Heyman, P., Jakab, F., Kruger, D. H., Maes, P., Papa, A., Tkachenko, E. A., Ulrich, R. G., Vapalahti, O., & Vaheri, A. (2013). Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: Definition of genotypes and their characteristics. Archives of Virology, 158(3), 521-529. https://doi.org/10.1007/s00705-012-1514-5   
+Kurucz, K., Madai, M., Bali, D., Hederics, D., Horvath, G., Kemenesi, G., & Jakab, F. (2018). Parallel survey of two widespread renal syndrome-causing zoonoses: Leptospira spp. and Hantavirus in urban environment, Hungary. Vector Borne and Zoonotic Diseases, 18(4), 200-205. https://doi.org/10.1089/vbz.2017.2204   
+Morand, S., Blasdell, K., Bordes, F., Buchy, P., Carcy, B., Chaisiri, K., Chaval, Y., Claude, J., Cosson, J.-F., Desquesnes, M., Jittapalapong, S., Jiyipong, T., Karnchanabanthoen, A., Pornpan, P., Rolain, J.-M., & Tran, A. (2019). Changing landscapes of Southeast Asia and rodent-borne diseases: Decreased diversity but increased transmission risks. Ecological Applications, 29(4), e01886. https://doi.org/10.1002/eap.1886   
+Sandmann, S., Meisel, H., Razanskiene, A., Wolbert, A., Pohl, B., Krüger, D. H., & Ulrich, R. (2005). Detection of human hantavirus infections in Lithuania. Infection, 33(2), 66-72. https://doi.org/10.1007/s15010-005-4058-8   
+Saxenhofer, M., Schmidt, S., Ulrich, R. G., & Heckel, G. (2019). Secondary contact between diverged host lineages entails ecological speciation in a European hantavirus. PLoS Biology, 17(2), e3000142. https://doi.org/10. 1371/journal.pbio.3000142   
+Schmidt, S., Saxenhofer, M., Drewes, S., Schlegel, M., Wanka, K. M., Frank, R., Klimpel, S., von Blanckenhagen, F., Maaz, D., Herden, C., Freise, J., Wolf, R., Stubbe, M., Borkenhagen, P., Ansorge, H., Eccard, J. A., Lang, J., Jourdain, E., Jacob, J., ... Ulrich, R. G. (2016). High genetic structuring of Tula hantavirus. Archives of Virology, 161(5), 1135-1149. https://doi.org/10.1007/s00705-016-2762-6   
+Straková, P., Jagdmann, S., Balčiauskas, L., Balčiauskiené, L., Drewes, S., & Ulrich, R. G. (2017). Puumala virus in bank voles, Lithuania.
+
+Emerging Infectious Diseases, 23(1), 158-160. https://doi.org/10.3201/eid2301.161400   
+Thibeaux, R., Girault, D., Bierque, E., Soupe-Gilbert, M. E., Rettinger, A., Douyere, A., Douyere, A., Meyer, M., Iraola, G., Picardeau, M., & Goarant, C. (2018). Biodiversity of environmental Leptospira: Improving identification and revisiting the diagnosis. Front Microbiol, 9, 816. https://doi.org/10.3389/fmicb.2018.00816
+
+# SUPPORTING INFORMATION
+
+Additional supporting information may be found in the online version of the article at the publisher's website.
+
+How to cite this article: Jeske, K., Schulz, J., Tekemen, D., Balčiauskas, L., Balčiauskiené, L., Hiltbrunner, M., Drewes, S., Mayer-Scholl, A., Heckel, G., & Ulrich, R. G. (2022).   
+Cocirculation of Leptospira spp. and multiple orthohantaviruses in rodents, Lithuania, Northern Europe. Transboundary and Emerging Diseases, 69, e3196-e3201.   
+https://doi.org/10.1111/tbed.14470

@@ -1,0 +1,155 @@
+# High infection rate of bank voles (Myodes glareolus) with Puumala virus is associated with a winter outbreak of haemorrhagic fever with renal syndrome in Croatia
+
+A. TADIN1 *, L. BJEDOV2 , J. MARGALETIC2 , B. ZIBRAT1 , L. CVETKO KRAJINOVIC1 , P. SVOBODA1 , I. C. KUROLT1 , Z. STRITOF MAJETIC3 , N. TURK3 , O. DAKOVIC RODE1 , R. CIVLJAK1 , I. KUZMAN1 AND A. MARKOTIC1
+
+1 University Hospital for Infectious Diseases ‘Dr. Fran Mihaljevic’, Zagreb, Croatia   
+2 Faculty of Forestry, University of Zagreb, Zagreb, Croatia   
+3 Faculty of Veterinary Medicine, University of Zagreb, Zagreb, Croatia
+
+Received 19 July 2013; Final revision 30 October 2013; Accepted 27 November 2013; first published online 2 January 2014
+
+# SUMMARY
+
+An outbreak of haemorrhagic fever with renal syndrome (HFRS) started on Medvednica mountain near Zagreb in January 2012. In order to detect the aetiological agent of the disease in small rodents and to make the link with the human outbreak, rodents were trapped at four different altitudes. Using nested RT–PCR, Puumala virus (PUUV) RNA was detected in 41/53 $( 7 7 { \cdot } 4 \% )$ bank voles (Myodes glareolus) and Dobrava virus (DOBV) RNA was found in 6/61 $( 9 { \cdot } 8 \% )$ yellow-necked mice (Apodemus flavicollis). Sequence analysis of a 341-nucleotide region of the PUUV S segment, obtained from all infected bank voles and five HFRS patients, showed $9 8 { \cdot } 8 { - } 1 0 0 \%$ sequence similarity, indicating that the patients were probably exposed to PUUV on Medvednica mountain. A very large bank-vole population combined with an extremely high infection rate of PUUV was responsible for this unusual winter outbreak of HFRS in Croatia.
+
+Key words: Hantavirus, outbreaks, rodents.
+
+# INTRODUCTION
+
+Haemorrhagic fever with renal syndrome (HFRS) is an endemic zoonosis in Europe and Asia that affects tens of thousands of individuals each year. The causative agents are viruses of the genus Hantavirus, family Bunyaviridae. Hantavirus infections are widely distributed in Europe with the exception of the far north and the Mediterranean regions [1]. The disease is caused by three hantaviruses: Puumala virus (PUUV), carried by Myodes glareolus (bank vole), Dobrava virus (DOBV), carried by Apodemus flavicollis (yellow-necked mouse) and Saarema virus (SAAV),
+
+carried by Apodemus agrarius (striped field mouse) [2–4]. PUUV is the major causative agent of HFRS in Europe and usually causes mild form of the disease commonly called nephropathia epidemica. The epidemiology of HFRS usually follows the local cycle of bank voles. Irruptions of rodent populations are known to occur in the years following huge seed production in beech and oak forests [5, 6]. The bank-vole population and incidence of HFRS cases are therefore dependent on the abundance of beech and oak seed with irruptions of rodent populations preceded by intense winter reproduction [5]. HFRS cases typically peak during the summer months in Western and Central Europe, and outbreaks occur every few years.
+
+All of Croatia is endemic for hantaviruses except for the coastal region and the islands [7, 8]. PUUV
+
+and DOBV are the main causative viruses of HFRS in Croatia [8–10], while Tula virus and SAAV were also detected in small rodents [11, 12]. The main rodent reservoirs of hantaviruses in Croatia are the yellownecked mouse (A. flavicollis), striped field mouse (A. agrarius) and bank vole (M. glareolus) [9, 13]. Two biggest HFRS outbreaks were recorded in Croatia in 1995 [7, 8, 13] and 2002 [9, 10] with over 150 and 400 HFRS cases, respectively. During the 1995 outbreak, PUUV and DOBV were for the first time molecularly characterized and their co-existence in a narrow region was confirmed [8].
+
+During the winter and spring months of 2012, several European countries reported an increase in the number of hantavirus infections which was very unusual for that part of the year. Between October 2011 and April 2012, 852 human hantavirus infections (likely to be PUUV) were reported in Germany [14]. In Slovenia, 26 cases of HFRS were reported from January to April 2012 compared to 15 reported cases in the entire year for 2011 [15]. The Russian Federation has reported an incidence rate of HFRS in the same period of 1·05/100 000 compared to 0·19/ 100 000 for the same time period in 2011 [16].
+
+From the beginning of January until the end of April 2012, 33 patients, related in some way to Medvednica mountain, were hospitalized at the University Hospital for Infectious Diseases ‘Dr. Fran Mihaljevic’ in Zagreb with a diagnosis of HFRS. All of these individuals were serologically positive for specific antibodies to PUUV. This is an extremely high number of HFRS cases related to one geographically small area and the season of appearance is unusual because HFRS has its peak during the summer months. The aim of this study is to perform a molecular epidemiological analysis of PUUV sequences from HFRS patients and infected bank voles, to ascertain the aetiological link between infection in rodents and disease in humans, and to describe Medvednica mountain as a new epidemic area for hantaviruses in Croatia. We also attempt to explain which ecological conditions may have led to this outbreak. It was expected that comparison of sequences isolated from humans and rodents would reveal the presence of the same sequences.
+
+# METHODS
+
+# Trapping location
+
+Mount Medvednica is situated in the continental part of Croatia, to the north above Zagreb (the Croatian
+
+capital with about 1 million inhabitants), $2 0 \mathrm { k m }$ from the Slovenian and $8 0 \mathrm { k m }$ from the Hungarian borders. The mountain stretches between $1 5 ^ { \circ } \ 4 9 ^ { \prime } \ 4 5 ^ { \prime \prime }$ and $1 6 ^ { \circ } ~ 0 7 ^ { \prime } ~ 4 5 ^ { \prime \prime } ~ \mathrm { E }$ and $4 5 ^ { \circ } 4 9 ^ { \prime } 0 0 ^ { \prime \prime }$ and $4 5 ^ { \circ } 5 9 ^ { \prime } 0 0 ^ { \prime \prime }  N$ , in a SW to NE direction, ${ \sim } 4 0 \mathrm { k m }$ in length and $9 \mathrm { k m }$ in width. The highest peak (Sljeme, at $1 0 3 5 \mathrm { m } )$ is situated in the western part of the massif. The Nature park ‘Medvednica’, covering most of the mountain, has well-preserved forests and forest communities comprising $64 \%$ of the park area.
+
+The trapping locations were chosen in such way as to represent the main vegetation associations distributed on Medvednica mountain. Sessile oak and hornbeam forest community (Epimedio-Carpinetum betuli) occupies the lowest slopes $( 1 5 0 - 3 5 0 \mathrm { m } )$ and surrounds the entire massif. It is dominated by sessile oak (Quercus petraea) with common hornbeam (Carpinus betulus).
+
+Most of the mountain surface $( 3 0 0 - 8 2 0 \mathrm { m } )$ i s covered by beech with a giant dead nettle forest community (Lamio orvale-Fagetum sylvaticae). The main element within is European beech (Fagus sylvatica) with a very rich floristic composition with many trees, shrubs and herbaceous plants (giant dead nettle; Lamium orvala). This forest continues on a very strong vegetation belt of mountain beech forest. The beech-fir forest community (Festuco drymeiae-Abietetum) occupies the top of the mountain (800– $1 0 0 0 \mathrm { m } )$ , but on the northern slopes it descends to $4 0 0 \mathrm { m }$ . The tree layer is dominated by beech and European silver fir (Abies alba) with many tree and shrub species. The layer of ground vegetation is very rich. The main recreational area of Medvednica is precisely in these forests (peak area of mountain lodges and ski trails where the ski competition for the FIS World Ski cup was held).
+
+# Animal samples
+
+Rodents were trapped on four different altitudes on Medvednica mountain (230 m, 650 m, $8 4 0 \mathrm { m }$ and $9 9 0 \mathrm { m }$ above sea level) from March until April 2012 using snap traps. Each altitude included two adjacent trapping sites in the same plant community with 100 traps/site and two trapping nights. Trapping altitudes are characterized by different plant communities, stand age, slope and exposition (Table 1). Animals were labelled, weighed, measured and then aseptically dissected. Species were morphologically determined. Lung tissue was collected from each animal and stored at $- 8 0 { } ^ { \circ } \mathrm { C }$ until processed further.
+
+Table 1. Characteristics of four trapping altitudes   
+
+<table><tr><td>Forest community</td><td>Altitude</td><td>Forest stand age</td><td>Exposition</td><td>Slope</td></tr><tr><td>Epimedio-Carpinetum betuli (Ht. 1938) Borhidi 1963</td><td>230 m</td><td>67 years</td><td>South East</td><td>20–30%</td></tr><tr><td>Lamio orvale-Fagetum sylvatica (Ht. 1938) Borhidi 1963</td><td>650 m</td><td>67 years</td><td>East</td><td>5–15%</td></tr><tr><td>Lamio orvale-Fagetum sylvatica (Ht. 1938) Borhidi 1963</td><td>840 m</td><td>140 years</td><td>East</td><td>5–15%</td></tr><tr><td>Festuco drymeiae-Abietetum Vukelić et Barčević 2007</td><td>990 m</td><td>Selective forest</td><td>South West</td><td>5–15%</td></tr></table>
+
+Animal experimentation guidelines approved by the American Society of Mammalogists (American Society of Mammalogists, Animal Care and Use Committee, 1998) were followed.
+
+The age of each individual was roughly estimated on the basis of body weight and pelage colour. Body weight of $2 0 \ : g$ was taken as a limit for dividing subadult from adult rodents. Sex and reproductive activity were noted for each individual animal (females: pregnancy during dissection; males: testes scrotal).
+
+# Human samples
+
+Whole blood samples for PCR diagnostics were collected from 16 HFRS patients who, according to epidemiological medical history, acquired the disease on Medvednica mountain. All patients were hospitalized at the University Hospital for Infectious Diseases ‘Dr. Fran Mihaljevic’ in Zagreb from January until April 2012. PUUV infection was serologically confirmed by point-of-care test (Reagena, Finland) which detects specific PUUV IgM antibodies. Blood samples were collected 5–11 days after the appearance of disease symptoms.
+
+# Detection of hantavirus RNA
+
+Lung tissue samples of rodents were homogenized in D-MEM medium containing $10 \%$ fetal calf serum and penicillin-streptomycin using TissueLyser II (Qiagen, Germany) and $5 \mathrm { m m }$ steel beads for homogenization (Qiagen). Total RNA was extracted using TriPure Isolation Reagent (Roche Applied Science, USA). PUUV RNA in bank voles and DOBV RNA in yellow-necked mice were detected using nested RT–PCR. For detection of PUUV RNA amplification of a 653-bp fragment of the S segment was performed using primers PPT334C (TAT GGI AAT GTC CTT GAT GT) and PPT986R (GCA CAI GCA AAI ACC CA). Primers PPT376C (CCI AGT GGI CAI ACA GC) and PPT716R (AAI CCI ATI ACI CCC AT) were further used to amplify a
+
+341-bp fragment during nested PCR [17, 18]. For detection of DOBV RNA, amplification of a 490-bp fragment of the M segment was performed using primers MOF103 (GGA CCA GGT GCA GCT TGT GAA GC) and MOR 204 (ACC TCA CAA ACC ATT GAA CC) [19]. Primers DOBG1F (ATG CCA GCG AGT CGA CCA A) and DOBG1R (GAG CTA TTA TGT AAG ATT GC) were further used to amplify a 290-bp fragment during nested PCR [20]. Total RNA was extracted from human samples using TriPure Isolation Reagent and PUUV was detected in the same way as for the rodent samples. PCR products were visualized on $1 \%$ agarose gel and further purified using QIAquick PCR Purification kit (Qiagen). All PUUV PCR products obtained from humans and rodents were sequenced using primer PPT376C. and all DOBV PCR products obtained from rodents were sequenced using primer DOBG1F to confirm the presence of viral nucleic acid. Nucleotide sequences were aligned using Chromas Lite v. 2.01 (Technelysium Pty Ltd, Australia) and analysed in MEGA 5 software.
+
+# RESULTS
+
+A total of 114 rodents were trapped: 53 $( 4 6 \cdot 5 \% )$ were morphologically determined as bank voles (M. glareolus) and 61 rodents $( 5 3 { \cdot } 5 \% )$ were determined as yellow-necked mice (A. flavicollis). Trap success rate was $0 { \cdot } 5 \%$ at $2 3 0 \mathrm { m }$ altitude, $4 { \cdot } 2 5 \%$ at $6 5 0 \mathrm { m }$ altitude, $6 { \cdot } 5 \%$ at $8 4 0 \mathrm { m }$ altitude and $1 7 { \cdot } 2 5 \%$ at $9 9 0 \mathrm { m }$ altitude (all rates are given per trap per night). PUUV infection was detected in 41 $( 7 7 { \cdot } 4 \% )$ bank voles and DOBV infection was detected in six $( 9 { \cdot } 8 \% )$ yellownecked mice. Detailed results according to different trapping sites and rodent species are given in Table 2.
+
+Of the total number of captured bank voles $72 \%$ were males. Overall, both sexes showed a similar percentage of PUUV-positive individuals $80 \%$ infected females and $7 6 { \cdot } 3 \%$ infected males). Yellow-necked mouse males accounted for $56 \%$ of the total number of captured yellow-necked mice and between sexes
+
+Table 2. Number and percentage of PUUV-positive (PUUV+) bank voles (M. glareolus) and DOBV-positive $( D O B V + )$ yellow-necked mice (A. flavicollis) trapped on four altitudes on Medvednica mountain   
+
+<table><tr><td>Altitude</td><td>Date of trapping</td><td>M. glareolusN(PUUV+)/N(total)</td><td>%</td><td>A. flavicollisN(DOBV+)/N(total)</td><td>%</td></tr><tr><td>230 m</td><td>9 March 2012</td><td>0/0</td><td>—</td><td>0/2</td><td>0</td></tr><tr><td>650 m</td><td>21 March 2012</td><td>7/7</td><td>100</td><td>0/10</td><td>0</td></tr><tr><td>840 m</td><td>29 March 2012</td><td>6/10</td><td>60</td><td>1/16</td><td>6.3</td></tr><tr><td>990 m</td><td>26 April 2012</td><td>28/36</td><td>77.8</td><td>5/33</td><td>15.2</td></tr><tr><td>Total</td><td></td><td>41/53</td><td>77.4</td><td>6/61</td><td>9.8</td></tr></table>
+
+we found similar numbers for DOBV-positive individuals $( 1 1 \cdot 1 \%$ infected females and $8 { \cdot } 8 \%$ infected males). In both species sex ratios were mostly biased towards males. Overall, bank-vole sex ratio (female vs. male) was 1:2·5 and for altitudes $6 5 0 \mathrm { m }$ , $8 4 0 \mathrm { m }$ and $9 9 0 \mathrm { m }$ it was 1:6, 1:1·5 and 1:2·6, respectively. Overall sex ratio of the yellow-necked mouse (female vs. male) was 1:1·3 and for altitudes 230 m, $6 5 0 \mathrm { m }$ , $8 4 0 \mathrm { m }$ , and $9 9 0 \mathrm { m }$ , was 1:1, 1·5:1, 1:1·3, and 1:1·5, respectively.
+
+According to body weight there were, in total, only two male bank voles classified as subadults. Overall, $1 9 { \cdot } 6 \%$ of yellow-necked mice were classified as subadults (six males, six females). Reproductive activity of females was low. Only four female yellow-necked mice were found pregnant during dissection (one at $2 3 0 \mathrm { m }$ , one at $6 5 0 \mathrm { m }$ , two at $8 4 0 \mathrm { m }$ , and none at $9 9 0 \mathrm { m } )$ . There were no pregnant female bank voles trapped at any of the four altitudes. Testes were visible in $6 8 \%$ of captured male bank voles and $5 9 \%$ of male yellow-necked mice.
+
+Sequencing was performed on all PCR products obtained from bank voles and PUUV was confirmed in all samples. After analysis of the fragment of S genome segment it was clear that ten different sequences were present in rodents. They were different from each other in a maximum of four bases $( 9 8 { \cdot } 8 { - } 1 0 0 \%$ similarity). All six PCR products obtained from yellow-necked mice were sequenced and DOBV was confirmed in all samples.
+
+Although most of the human samples were collected in the viraemic phase of the disease (until day 9), only five samples were positive by PCR. This could be the result of very low viraemia which is known in PUUV. The five PUUV PCR products were sequenced and found to be different from each other in a maximum of three bases $( 9 9 \cdot 1 - 1 0 0 \%$ similarity). After comparison of PUUV sequences
+
+obtained from humans and rodents it was evident that they were different in maximum of four bases $( 9 8 { \cdot } 8 { - } 1 0 0 \%$ similarity). Four PUUV sequences obtained from humans were identical to some PUUV sequences obtained from rodents.
+
+# DISCUSSION
+
+Although HFRS is a common disease in Croatia and the majority of European countries, outbreaks occurring during the winter months are very rare. The outbreak on Medvednica mountain started in early January 2012 and was linked to an international skiing competition which attracted thousands of people to the area at the top of the mountain, which is also a popular tourist attraction and weekend destination.
+
+Hantavirus infection was confirmed serologically in 33 patients who spent some time on Medvednica mountain from January until April 2012 (according to epidemiological anamnesis, eight patients visited the mountain only during the skiing competition). The majority of people in attendance were simply visitors because very few people live on the mountain.
+
+Clinical manifestations of the disease were mild in the majority of patients, which is common for PUUV infections, although some patients developed moderate and severe disease.
+
+In order to determine the aetiological agent of the disease in small rodents, which are natural reservoirs of hantaviruses, rodents were trapped and tested for the presence of PUUV and DOBV RNA.
+
+A significantly higher number of both rodent species was trapped at higher altitudes. It was only at $9 9 0 \mathrm { m }$ that $5 5 0 \%$ of all rodents were trapped $( 6 7 { \cdot } 9 \%$ of all bank voles and $5 4 { \cdot } 1 \%$ of all yellow-necked mice). The percentage of bank voles infected with PUUV changed from $60 \%$ at $8 4 0 \mathrm { m }$ to $100 \%$ at $6 5 0 \mathrm { m }$ . DOBV was detected in yellow-necked mice
+
+![](images/dc509b55e1e30d93551c4e4432b23a445979e8ec618a056abec30b1db2611241.jpg)
+
+![](images/1e835930ab63377ea9883d4517b767ec0ce8e9d401e1731bfec3cbd5391508ba.jpg)  
+Fig. 1. Daily temperatures on Medvednica mountain from 1 November 2011 to 1 May 2012 compared to the multiannual average temperature (last 30 years).
+
+only at two higher altitudes and the percentage of infection changed from $6 { \cdot } 3 \%$ at $8 4 0 \mathrm { m }$ to $1 5 { \cdot } 2 \%$ at $9 9 0 \mathrm { m }$ . PUUV infection was confirmed in $7 7 { \cdot } 4 \%$ of the total number of bank voles, which is significantly higher than DOBV infection which was confirmed in only $9 { \cdot } 8 \%$ of yellow-necked mice. A possible reason for this high percentage of infection of bank voles might be due to the large population of bank voles, which results in closer contact among animals thereby increasing the possibility of virus transmission between them. This theory, however, does not explain the significantly lower percentage of infection of yellow-necked mice with DOBV. Since only two rodent species were trapped in the area, this high infection percentage is in accordance with the theory that high biodiversity has a diluting effect for pathogen transfer to a single host [21]. High infection rate of hantaviruses in rodents has previously been described in Croatia when DOBV was detected in $71 \%$ of yellow-necked mice captured in Zutica forest [22]. In this case the high infection rate in rodents was not the cause of a human outbreak probably because this area is not visited by many people. A high infection rate of bank voles with PUUV, which caused an outbreak of HFRS in an urban area was described
+
+previously when $6 6 \%$ of bank voles caught in the city park in Cologne were infected with PUUV and 89 cases of HFRS were reported [23]. It is generally assumed that large numbers of infected bank voles with a high proportion of these rodents in the acute phase of virus excretion can lead to a human outbreak [24, 25].
+
+Beech mast occurs irregularly, particularly in the years following warm, dry summers. High yield of beech mast was reported in autumn 2011 on Medvednica mountain (Professor J. Margaletic, personal communication). The trapping site at the lowest altitude is characterized by a plant community of sessile oak and hornbeam (Epimedio-Carpinetum betuli) where no mast was reported. Higher altitudes are characterized by plant communities dominated by beech (Lamio orvale-Fagetum sylvaticae) where beech mast occurred, which explains rodent abundance. Bank voles as well as yellow-necked mice are species which are active during winter and show winter breeding patterns especially after beech mast years which results in irruptions of rodent populations [5]. Although trapping at different altitudes was performed in different months we believe that this did not have an impact on rodent numbers. The main
+
+reason for different numbers of rodents at different altitudes is the difference in beech mast from the previous autumn. Temperatures ${ } ^ { > 1 } { } ^ { \circ } \mathrm { C }$ are seen to be favourable for breeding [26]. November and December in 2011 as well as the beginning of January 2012 were warmer, showing temperatures over $0 \%$ and up to $1 0 ^ { \circ } \mathrm { C }$ (Fig. 1) which probably resulted in greater rodent activity.
+
+Both high yields of beech mast as well as mild winter temperatures could have resulted in an expansion of the rodent population. Moreover, we believe that the very warm beginning of January 2012 resulted in greater rodent activity. The coincidence of the international skiing race, which attracted thousands of visitors to an area with an extremely high number of infected rodents, was probably responsible for the early onset of the HFRS outbreak.
+
+Sequence analysis of a partial PUUV S segment obtained from patients and rodents revealed very close relationship. Sequences were $9 8 { \cdot } 8 { - } 1 0 0 \%$ similar, which is molecular evidence that patients were infected on Medvednica mountain. Compared to the other previously described sequences of partial PUUV S segment, sequences obtained from humans and rodents from Medvednica mountain cluster together with other PUUV sequences from Croatia and are very closely related to sequences from neighbouring Slovenia and Austria. The highest similarity (99·1– $100 \%$ ) was with sequence JF499 663 which was obtained from a patient from Stubica region in 2010, which is in close proximity to Medvednica mountain. The similarity with other Croatian sequences obtained from patients (JF499 659 and JF499 661) in Mala Kapela mountain was $9 4 { \cdot } 7 { - } 9 5 { \cdot } 6 \%$ .
+
+This paper shows how high population numbers of a natural reservoir for a particular pathogen in combination with high infection rate can lead to a human outbreak in a small geographical area, even at the time of year when the appearance of the disease is very rare. Moreover, Medvednica mountain, which attracts numerous national and international tourists, should be considered an important HFRS hotspot and continuous epidemiological and public health measures should be implemented for the area.
+
+# ACKNOWLEDGEMENTS
+
+The work reported here was supported by the Ministry of Science, Education and Sports of the Republic Croatia (grant nos. 143-1430115-0103, 068-1430115-2119 and 053-1430115-2116). We also
+
+acknowledge financial support from the Zagreb City Office for Emergency Management.
+
+# DECLARATION OF INTEREST
+
+None.
+
+# REFERENCES
+
+1. Heyman P, Vaheri A. Situation of hantavirus infections and haemorrhagic fever with renal syndrome in European countries as of December 2006. Eurosurveillance 2008; 13(28): pi $_ { 1 = 1 8 9 2 5 }$ .   
+2. Brummer-Korvenkontio M, Henttonen H, Vaheri A. Hemorrhagic fever with renal syndrome in Finland: ecology and virology of nephropathia epidemica. Scandinavian Journal of Infectious Diseases (Suppl.) 1982; 36: 88–91.   
+3. Avsic-Zupanc T, et al. Characterization of Dobrava virus: a hantavirus from Slovenia, Yugoslavia. Journal of Medical Virology 1992; 38: 132–137.   
+4. Plyusnin A, et al. Dobrava hantavirus in Estonia: does the virus exist throughout Europe? Lancet 1997; 349: 1369–1370.   
+5. Jensen TS. Seed production and outbreaks of non-cyclic rodent populations in deciduous forests. Oecologia (Berlin) 1982; 54: 184–192.   
+6. Wolff JO. Population fluctuations of mast-eating rodents are correlated with production of acorns. Journal of Mammalogy 1996; 77: 850–856.   
+7. Markotic´ A, et al. Hantaviruses are likely threat to NATO forces in Bosnia and Herzegovina and Croatia. Nature Medicine 1996; 2: 269–70.   
+8. Markotic´ A, et al. Characteristics of Puumala and Dobrava infections in Croatia. Journal of Medical Virology 2002; 66: 542–551.   
+9. Cvetko L, et al. Puumala virus in Croatia in the 2002 HFRS outbreak. Journal of Medical Virology 2005; 77: 290–294.   
+10. Miletic´ Medved M, et al. Haemorrhagic fever with renal syndrome in Croatia. Lancet 2002; 360: 415–6.   
+11. Scharninghausen JJ, et al. Genetic evidence for Tula virus in Microtus arvalis and Microtus agrestis populations in Croatia. Vector Borne and Zoonotic Diseases 2002; 2: 19–27.   
+12. Plyusnina A, et al. Genetic evidence for the presence of two distinct hantaviruses associated with Apodemus mice in Croatia and analysis of local strains. Journal of Medical Virology 2011; 83: 108–114.   
+13. Ledina D, et al. Dinara-new natural focus of hemorrhagic fever with renal syndrome in Croatia. Croatian Medical Journal 2002; 43: 576–580.   
+14. Boone I, et al. Rise in the number of notified human hantavirus infections since October 2011 in Baden-Wurttemberg, Germany. Eurosurveillance 2012; 17(21): pi $\dot { \iota } { = } 2 0 1 8 0$ .   
+15. Kraigher A, et al. Increased number of cases of haemorrhagic fever with renal syndrome in Slovenia, January to April 2012. Eurosurveillance 2012; 17(21): pii=20176.
+
+16. Rospotrebnadzor. Press release. The sanitary and epidemiological situation. Infectious diseases in the Russian Federation in January–April 2012 [in Russian].   
+17. Nichol ST, et al. Genetic identification of a hantavirus associated with an outbreak of accute respiratory illness. Science 1993; 262: 914–917.   
+18. Bowen MD, et al. Puumala virus and two genetic variants of Tula virus are present in Austrian rodents. Journal of Medical Virology 1997; 53: 174–181.   
+19. Chu YK, Jennings GB, Schmaljohn CS. A vaccinia virus-vectored Hantaan virus vaccine protects hamsters from challenge with Hantaan and Seoul viruses but not Puumala virus. Journal of Virology 1995; 69: 6417–6423.   
+20. Avsic-Zupanc T, et al. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: co-existence of two distinct genetic lineages within the same natural focus. Journal of General Virology 2000; 81: 1747–1755.
+
+21. Keesing F, et al. Impacts of biodiversity on the emergence and transmission of infectious diseases. Nature 2010; 468: 647–652.   
+22. Tadin A, et al. Multiple co-infections of rodents with hantaviruses, Leptospira, and Babesia in Croatia. Vector Borne and Zoonotic Diseases 2012; 12: 388–392.   
+23. Essbauer S, et al. Nephropathia epidemica in metropolitan area, Germany. Emerging Infectious Diseases 2007; 13: 1271–1273.   
+24. Heyman P, et al. In search for factors that drive hantavirus epidemics. Frontiers in Physiology 2012; 3: 237.   
+25. Salvador AR, et al. Concomitant influence of helminth infection and landscape on the distribution of Puumala hantavirus in its reservoir, Myodes glareolus. BMC Microbiology 2011; 11: 30.   
+26. Pucek Z, et al. Rodent population dynamics in a primeval deciduous forest (Bialowieia National Park) in relation to weather, seed crop, and predation. Acta Theriologica 1993; 38: 199–232.

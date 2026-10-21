@@ -1,0 +1,1997 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantavirus and arenavirus antibody prevalence in rodents and humans in Trentino, Northern Italy "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                121,
+                100,
+                766,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "H. K A L L I O - K O K K O 1,2 *#, J. L A A K K O N E N 1,3 #, A. R I Z Z O L I 4 , V. T A G L I A P I E T R A 4 , I. C A T T A D O R I 5 , S. E. P E R K I N S 5 , P. J. H U D S O N 5 , A. C R I S T O F O L I N I 6 , W. V E R S I N I 6 , O. V A P A L A H T I 1,2,7 , A. VAHERI "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 1 , 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "AND H. HENTTONEN3 "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                230,
+                742,
+                295
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 Department of Virology, Haartman Institute, University of Helsinki, Finland "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 Department of Virology, HUSLAB, The Hospital District of Helsinki and Uusimaa "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 Finnish Forest Research Institute, Vantaa, Finland "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 Centre for Alpine Ecology, Trento, Italy "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5 University of Stirling, Scotland, UK "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6 Occupational Medicine Unit, Trentino Health Administration (APSS), Trento, Italy "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7 Division of Microbiology, Department of Basic Veterinary Sciences, Faculty of Veterinary Medicine, University of Helsinki, Finland "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                304,
+                768,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Accepted 7 September 2005, first published online 22 November 2005) "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                431,
+                620,
+                448
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUMMARY "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                119,
+                469,
+                230,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The spatial and temporal distribution of hantavirus and arenavirus antibody-positive wild rodents in Trentino, Italy, was studied using immunofluorescence assays (IFA) in two long-term sites trapped in 2000–2003, and six other sites trapped in 2002. The overall hantavirus seroprevalence in the bank voles, Clethrionomys glareolus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 2 2 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") screened for Puumala virus (PUUV) antibodies was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and that for Apodemus flavicollis mice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 4 1 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") screened for Dobrava virus (DOBV) antibodies was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Antibodies against lymphocytic choriomeningitis virus (LCMV) were found in 82 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 { \\cdot } 6 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the 1472 tested rodents; the seroprevalence being "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 { \\cdot } 1 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in A. flavicollis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 1 8 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 { \\cdot } 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in C. glareolus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 2 7 6 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 { \\cdot } 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Microtus arvalis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 7 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Of the serum samples of 488 forestry workers studied by IFA, 12 were LCMV-IgG positive "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 { \\cdot } 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and one DOBV-IgG positive "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 { \\cdot } 2 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", however, the latter could not be confirmed DOBV-specific with a neutralization assay. Our results show a widespread distribution but low prevalence of DOBV in Trentino, and demonstrate that the arenavirus antibodies are a common finding in several other rodent species besides the house mouse. "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                493,
+                821,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRODUCTION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                119,
+                734,
+                284,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The occurrence of rodent-borne viruses is not well known in Italy. The ECODIS (Ecology of diseases in wildlife) project was established to study the diseases and parasites in the wildlife, and the circulation of zoonotic infections in the autonomous province of "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                756,
+                510,
+                838
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "* Author for correspondence : Dr H. Kallio-Kokko, Department of Virology, Haartman Institute, POB 21, FIN-00014 University of Helsinki, Finland. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "(Email : Hannimari.Kallio-Kokko@helsinki.fi) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "# These authors contributed equally to this paper. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                855,
+                509,
+                913
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Trentino, Northern Italy. As part of this project, antibodies to hantaviruses and arenaviruses were analysed in wild rodent populations from several sites in Trentino. As human infections can be associated with occupational groups, we also studied the antibody prevalence in forestry workers who often have a high risk of rodent contact. Human infections caused by hantaviruses and arenaviruses are associated with the natural cycle of these viruses, and transmission usually occurs by inhalation of aerosolized rodent excreta. "
+                    }
+                ]
+            },
+            "bbox": [
+                531,
+                735,
+                922,
+                911
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Epidemiol. Infect. (2006), 134, 830–836. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2005 Cambridge University Press doi:10.1017/S0950268805005431 Printed in the United Kingdom "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                51,
+                569,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                972,
+                453,
+                984
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c667e3f52f4e92c09d57984b42a6506cece6350d41f5f44bccffe0a8a3f26dd8.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. Map of trapping sites in Trentino. DG, Dos Gaggio ; LL, Laghi di Limar ; MC, Malga Campo ; MO, Molveno ; VC, Val di Cembra ; VF, Val di Fiemme ; VN, Val di Non ; VS, Val di Sella. The inset shows location of Trentino province in Italy. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                157,
+                84,
+                801,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantaviruses (family Bunyaviridae, genus Hantavirus) and arenaviruses (family Arenaviridae, genus Arenavirus) are enveloped negative-stranded RNA viruses each associated with a particular rodent host species. In Europe, three hantaviruses, Puumala (PUUV), Dobrava (DOBV), and Saaremaa (SAAV) viruses are known to cause haemorrhagic fever with renal syndrome (HFRS) in humans. PUUV, which causes a mild form of HFRS, nephropathia epidemica, is carried by the bank vole (Clethrionomys glareolus), and reported throughout most of Europe. DOBV, which causes a severe form of HFRS, and SAAV, the causative agent of a mild form of HFRS, are carried by the yellow-necked mouse (Apodemus flavicollis), and the striped field mouse (A. agrarius) respectively. DOBV and SAAV have been reported to occur mainly in south-eastern and eastern-central Europe respectively [1]. Antigenically and genetically, PUUV is distinct from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "61 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "nucleocapsid protein amino-acid identity with both) SAAV and DOBV. The latter two, on the other hand, are very closely related "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 6 - 9 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity) and, for example, the serological response towards them can not be differentiated by ordinary serological tests. In addition, another potential hantavirus in Europe, the rat-borne Seoul virus is more closely related to the "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                489,
+                465,
+                914
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Apodemus-borne SAAV and DOBV. In Europe, the reported hantavirus seroprevalences in humans vary from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[1]. "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                489,
+                875,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The only arenavirus reported from Europe is lymphocytic choriomeningitis virus (LCMV). Diseases caused by LCMV in humans are mostly asymptomatic or influenza-like infections but can also be manifested as aseptic meningitis and encephalitis [2, 3]. Congenital infections resulting in chorioretinitis, hydrocephalus, microcephaly or macrocephaly, mental retardation, and fetal death have also been described [3–5]. The major rodent host for LCMV has been believed to be the common house mouse Mus musculus [6, 7]. The reported LCMV prevalence rates detected in Mus spp. in Europe (reports from Germany and Spain) have ranged from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 { \\cdot } 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 { \\cdot } 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[8, 9]. "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                539,
+                877,
+                767
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MATERIALS AND METHODS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                801,
+                764,
+                816
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Study sites and sampling "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                824,
+                668,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The rodents were trapped at eight locations in the autonomous province of Trentino, Northern Italy (Fig.) during 2000–2003 (Tables 1 and 2). A total of 1662 rodents were tested with PUUV "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                848,
+                875,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantavirus and arenavirus antibodies "
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                50,
+                821,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "831 "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                50,
+                873,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                972,
+                453,
+                984
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f734064b5856d7bb0b281e4d1f30dcb7c23bb3c2670f8f97bfd1bc4c1b321064.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. The rodent species and number of animals examined for hantavirus and arenavirus antibodies from the intensive trapping sites in Trentino in 2000–2003 (the number of IFA-positive animals is shown in parentheses) "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "LCMV, Lymphocytic choriomeningitis virus. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Year (rodent species)</td><td colspan=\"4\">Hantavirus IFA tested</td><td colspan=\"4\">LCMV IFA tested</td></tr><tr><td>Dos Gaggio/ Cavedine (DG)</td><td>Laghi di Lamar (LL)</td><td>Total</td><td>% pos.</td><td>Dos Gaggio/ Cavedine (DG)</td><td>Laghi di Lamar (LL)</td><td>Total</td><td>% pos.</td></tr><tr><td colspan=\"9\">2000</td></tr><tr><td>Apodemus flavicollis</td><td>450</td><td>42</td><td>492</td><td>0</td><td>178 (3)</td><td>25</td><td>203 (3)</td><td>1·5</td></tr><tr><td>Apodemus sylvaticus</td><td>2</td><td>6</td><td>8</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Apodemus sp.</td><td>4</td><td>4</td><td>8</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Clethrionomys glareolus</td><td>0</td><td>49</td><td>49</td><td>0</td><td>0</td><td>37 (1)</td><td>37 (1)</td><td>2·7</td></tr><tr><td colspan=\"9\">2001</td></tr><tr><td>Apodemus flavicollis</td><td>143 (2)</td><td>11</td><td>154 (2)</td><td>1·3</td><td>116 (2)</td><td>11</td><td>127 (2)</td><td>1·6</td></tr><tr><td>Clethrionomys glareolus</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td colspan=\"9\">2002</td></tr><tr><td>Apodemus flavicollis</td><td>372</td><td>52 (1)</td><td>424 (1)</td><td>0·2</td><td>375 (28)</td><td>39 (3)</td><td>414 (31)</td><td>7·5</td></tr><tr><td>Clethrionomys glareolus</td><td>28</td><td>32</td><td>60</td><td>0</td><td>25</td><td>26 (1)</td><td>51 (1)</td><td>2</td></tr><tr><td colspan=\"9\">2003</td></tr><tr><td>Apodemus flavicollis</td><td>140</td><td>—</td><td>140</td><td>0</td><td>140 (6)</td><td>—</td><td>140 (6)</td><td>4·3</td></tr><tr><td>Clethrionomys glareolus</td><td>2</td><td>—</td><td>2</td><td>0</td><td>2</td><td>—</td><td>2</td><td>0</td></tr><tr><td>Total</td><td>1142</td><td>196</td><td>1337 (3)</td><td>0·4</td><td>837 (39)</td><td>140 (5)</td><td>977 (44)</td><td>4·5</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                119,
+                115,
+                922,
+                431
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1940670720739dcf0a40d608814024cfd92a8cfca2c1f88effddd12011e190ef.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2. Rodent species and number of animals examined for hantavirus and arenavirus antibodies from the six extensive trapping sites sampled in 2002 (the number of IFA-positive animals is shown in parentheses) "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "LCMV, Lymphocytic choriomeningitis virus. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Site (rodent species)</td><td colspan=\"2\">Hantavirus antibodies</td><td colspan=\"2\">LCMV antibodies</td></tr><tr><td>Number examined</td><td>% pos.</td><td>Number examined</td><td>% pos.</td></tr><tr><td>Malga Campo (MC)</td><td></td><td></td><td></td><td></td></tr><tr><td>Apodemus flavicollis</td><td>124</td><td>0</td><td>120 (9)</td><td>7·5</td></tr><tr><td>Apodemus sylvaticus</td><td>3</td><td>0</td><td>3</td><td>0</td></tr><tr><td>Clethrionomys glareolus</td><td>127</td><td>0</td><td>121 (2)</td><td>1·7</td></tr><tr><td>Microtus arvalis</td><td>2</td><td>0</td><td>2</td><td>0</td></tr><tr><td>Molveno (MO)</td><td></td><td></td><td></td><td></td></tr><tr><td>Apodemus flavicollis</td><td>33</td><td>0</td><td>30 (4)</td><td>13·3</td></tr><tr><td>Clethrionomys glareolus</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Val di Cembra (VC)</td><td></td><td></td><td></td><td></td></tr><tr><td>Apodemus flavicollis</td><td>96</td><td>0</td><td>95 (9)</td><td>9·5</td></tr><tr><td>Apodemus sylvaticus</td><td>4</td><td>0</td><td>4</td><td>0</td></tr><tr><td>Clethrionomys glareolus</td><td>28</td><td>0</td><td>26 (1)</td><td>3·8</td></tr><tr><td>Microtus arvalis</td><td>6</td><td>0</td><td>5 (1)</td><td>20</td></tr><tr><td>Val di Fiemme (VF)</td><td></td><td></td><td></td><td></td></tr><tr><td>Apodemus flavicollis</td><td>11</td><td>0</td><td>11</td><td>0</td></tr><tr><td>Clethrionomys glareolus</td><td>10</td><td>0</td><td>7 (1)</td><td>14·3</td></tr><tr><td>Val di Non (VN)</td><td></td><td></td><td></td><td></td></tr><tr><td>Apodemus flavicollis</td><td>37</td><td>0</td><td>35 (6)</td><td>17·1</td></tr><tr><td>Clethrionomys glareolus</td><td>32 (1)</td><td>3·1</td><td>30 (3)</td><td>10</td></tr><tr><td>Val di Sella (VS)</td><td></td><td></td><td></td><td></td></tr><tr><td>Apodemus flavicollis</td><td>10</td><td>0</td><td>6 (2)</td><td>33·3</td></tr><tr><td>Total</td><td>524 (1)</td><td>0·2</td><td>496 (38)</td><td>7·7</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                119,
+                498,
+                922,
+                900
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "832 "
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                50,
+                152,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Kallio-Kokko and others "
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                50,
+                389,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                972,
+                453,
+                984
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "immunofluorescence assay (IFA) and/or SAAV IFA, and 1472 rodents were tested with LCMV IFA. The difference in the number of samples tested is due to very low serum quantity in some of the samples. In general, the low serum quantity of the rodent samples hindered a more thorough typing of serological responses by, for example, neutralization assays. Most of the material for PUUV/SAAV and LCMV serological studies "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle n = 1 3 3 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 9 7 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "respectively) came from long-term live-trapping studies (capture– marking–recapture, CMR), where blood samples were obtained from the rodent tail tip (intensive trapping sites, Table 1). When there were serial samples from the same individual, only the last one was studied for general prevalence. Some material for PUUV/SAAV and LCMV studies "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 5 2 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 4 9 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "respectively) came from removal live-trappings when samples were obtained from euthanized rodents (extensive trapping sites, Table 2). Sera were separated from blood and kept frozen at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 2 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "until analysis. Samples were shipped frozen to the Department of Virology (Haartman Institute, University of Helsinki, Finland), where all the analyses were done. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                81,
+                463,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During the year 2002, serum samples were also collected from 488 forestry workers (eight females and 480 males, age range 24–64 years) from Trentino with the help and approval of the Health Administration. Samples were stored at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 2 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and shipped frozen to the Department of Virology (Haartman Institute, University of Helsinki, Finland). All human samples were tested with IFA against PUUV, SAAV/ DOBV, and LCMV IgG antibodies as follows. "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                474,
+                463,
+                619
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Serological screening "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                646,
+                231,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PUUV Sotkamo strain-infected and SAAV Saaremaa strain-infected Vero E6 cells were detached with trypsin, mixed with uninfected Vero E6 cells (in a ratio of 1:3), washed with phosphate-buffered saline (PBS) and air-dried on slide spots as described earlier [10, 11]. The LCMV Armstrong strain-infected Vero E6 cells were treated similarily (LCMV strain was generously supplied by Sirkka Vene, SMI, Stockholm, Sweden). As background control uninfected Vero E6 cells were used. After spotting and air-drying the glasses were fixed with acetone and stored dry at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 7 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "until used. Of the rodent material, vole samples (C. glareolus and Microtus arvalis) were screened with PUUV and LCMV slides, and Apodemus mice samples (A. flavicollis and "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                668,
+                465,
+                914
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. sylvaticus) with SAAV and LCMV slides. Human samples were screened with all slides. "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                81,
+                875,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The rodent and human samples were diluted 1: 10 in PBS, added to slides, and incubated in a moist chamber at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 7 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30 min. The slides were washed three times with PBS and once with distilled water, and incubated at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 7 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30 min with either FITCanti-mouse IgG conjugate (Dako A/S, Copenhagen, Denmark) diluted 1:30 in PBS, or FITC-anti-human IgG conjugate (Jackson Immuno Research Laboratories, West Grove, PA, USA) diluted 1 : 100 in PBS. After that the slides were washed three times with PBS and once with distilled water, and studied using a fluorescence microscope. "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                114,
+                875,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantavirus IFA-positive human samples were further verified by immunoblotting and IgG enzyme immunoassay (EIA) [12], and also tested by DOBV (Greece strain) and Hantaan virus (HTNV) IFA performed as described above for PUUV IFA (HTNV slides were kindly provided by H. W. Lee, Korea); and in neutralization assay (assay kindly performed by A˚ . Lundkvist, SMI, Sweden). "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                309,
+                875,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Association test "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\chi ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was used to compare differences in prevalence between species and years (Statistix1 for Windows, Analytical Software, Tallahassee, FL, USA). "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                440,
+                875,
+                505
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESULTS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                540,
+                581,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodent data "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                564,
+                579,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The overall hantavirus seroprevalence among the A. flavicollis screened for DOBV antibodies was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(3/1416), and that for C. glareolus screened for PUUV antibodies was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1/229) (Table 3). One DOBV IFA-positive A. flavicollis was found from Laghi di Lamar and two from Dos Gaggio (Table 1). One PUUV IFA-positive C. glareolus was found from Val di Non (Table 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                588,
+                875,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Antibodies against arenaviruses were found in 82 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 { \\cdot } 6 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the 1472 tested rodents (Table 3). Arenavirus-seropositive animals were found from all rodent species except A. sylvaticus which had a low "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 8 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "sample size (Tables 1 and 2). The difference in the overall prevalence in arenavirus antibodies between A. flavicollis (72/1181, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 { \\cdot } 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and C. glareolus (9/276, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 { \\cdot } 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") was approaching significance "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\chi ^ { 2 } = 3 { \\cdot } 4 3 \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 { \\cdot } 0 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). In A. flavicollis, the only species with a sample size large enough for analysis, the prevalence was significantly higher in 2002 compared to that in 2000 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( P < 0 \\cdot 0 0 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") or 2001 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\left( P = 0 \\cdot 0 3 \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": ") "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                719,
+                875,
+                914
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantavirus and arenavirus antibodies "
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                50,
+                821,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "833 "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                50,
+                873,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                971,
+                453,
+                984
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1eacc52646e97d48015d86a718679b8b4ceece4e9afd76f3475cd034b6f32ba5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3. The overall seroprevalence of the rodents against hantavirus and arenaviruses in the province of Trentino (2000–2003) "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "PUUV, Puumala virus; DOBV, Dobrava virus; LCMV, Lymphocytic choriomeningitis virus. * The seroprevalence variability parameter describes the variation of the seropositivity levels detected in different geographical areas in Trentino. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Species</td><td colspan=\"3\">PUUV/DOBV</td><td colspan=\"3\">LCMV</td></tr><tr><td>No. pos./total</td><td>% pos.</td><td>Seroprevalencevariability*(% pos.)</td><td>No. pos./total</td><td>% pos.</td><td>Seroprevalencervariability*(% pos.)</td></tr><tr><td>Apodemus flavicollis</td><td>1416 (3)</td><td>0·2</td><td>0-1·3</td><td>1181 (72)</td><td>6·1</td><td>1·5-33·3</td></tr><tr><td>Clethrionomys glareolus</td><td>229 (1)</td><td>0·4</td><td>0-3·1</td><td>276 (9)</td><td>3·3</td><td>0-14·3</td></tr><tr><td>Apodemus sylvaticus</td><td>9</td><td>0</td><td></td><td>8</td><td>0</td><td></td></tr><tr><td>Microtus arvalis</td><td>8</td><td>0</td><td></td><td>7 (1)</td><td>14·3</td><td>0-20</td></tr><tr><td>Total</td><td>1662 (4)</td><td>0·2</td><td>0-3·1</td><td>1472 (82)</td><td>5·6</td><td>0-33·3</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                119,
+                115,
+                922,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "but not when compared to that of 2003 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\left( P = 0 \\cdot 2 6 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). LCMV antibody-positive A. flavicollis were found from all but one site (Val di Fiemme), which had a low sample size "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). LCMV antibody-positive C. glareolus were not found from two of the sites with low sample sizes (Tables 1 and 2). The sample sizes of A. sylvaticus and Microtus arvalis were too low for site- or inter-specific comparisons. "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                356,
+                510,
+                488
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Human data "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                119,
+                511,
+                215,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Among forestry workers from Trentino, one tested positive (sample no. 1) with DOBV IgG IFA (prevalence "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and 12 tested positive (sample nos. 2–13) with LCMV IgG IFA (prevalence "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 { \\cdot } 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") (Table 4). Thus, in forestry workers, the overall prevalence of arenavirus antibodies was significantly higher than that of hantavirus antibodies. Moreover, the DOBV IgG antibody-positive result could not be confirmed to be positive with a titre of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\geqslant 4 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "against DOBV, SAAV or PUUV by focus-reduction neutralization test (FRNT), although the serum was clearly positive in addition to the IFA test in an DOBV IgG EIA [12], and by immunoblotting against recombinant DOBV-N protein (data not shown). "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                535,
+                510,
+                765
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DISCUSSION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                119,
+                792,
+                250,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, antibodies to DOBV were found for the first time in Italy in the respective carrier host species, the yellow-necked mouse, suggesting that DOBV is circulating in the Trentino region. DOBV IgG antibodies were detected in a human with a potential professional exposure in the same region, but "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                816,
+                510,
+                916
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/366e25abe3db019c1e995ae015a1efc0f1c5beee97ef0fce84e3c3a46d708445.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4. Seroprevalence among the forestry workers "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "PUUV, Puumala virus; DOBV, Dobrava virus; LCMV, Lymphocytic choriomeningitis virus. "
+                    }
+                ],
+                "html": "<table><tr><td></td><td></td><td colspan=\"2\">Positive</td></tr><tr><td>IFA</td><td>Total (n)</td><td>n</td><td>(%)</td></tr><tr><td>PUUV</td><td>488</td><td>0</td><td>(0)</td></tr><tr><td>DOBV</td><td>488</td><td>1</td><td>(0·2)</td></tr><tr><td>LCMV</td><td>488</td><td>12</td><td>(2·5)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                532,
+                371,
+                921,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "although positive by IFA, EIA and Western blot, this result could not be confirmed with a neutralization assay, suggesting either an unspecific reaction, very old immunity or infection with an as yet unidentified hantavirus. Previously Nuti et al. [13] have reported hantaviral antibodies in humans from North-Eastern Italy, but in that study only HTNV was used as an antigen. Since it is presently known that HTNV occurs only in Far East Asia in the striped field mouse (A. agrarius), we cannot ascertain the specific hantavirus infection from the study by Nuti et al. [13]. Also, the PUUV antibody observation from C. glareolus is the first in Italy. In our study, none of the human samples were PUUV antibody positive. "
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                555,
+                922,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although DOBV antibodies were encountered rarely in A. flavicollis, antibody-positive animals were found at two sites in Trentino, demonstrating there could be widespread distribution of DOBV in Trentino. It should be noted that during the study period there was not any pronounced masting (heavy seed crop of forest trees), and consequently rodent densities remained at a moderate level. Our results "
+                    }
+                ]
+            },
+            "bbox": [
+                529,
+                784,
+                922,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "834 "
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                50,
+                152,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Kallio-Kokko and others "
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                50,
+                389,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                972,
+                455,
+                984
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "indicate that the hantavirus seroprevalence among forest workers in Trentino "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 { \\cdot } 2 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is lower than those (from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { \\cdot } 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") reported from humans elsewhere in Europe [1]. Since DOBV infection is more severe than PUUV infection, further studies on the distribution and prevalence of DOBV in other areas in Italy are warranted to assess the public health significance of this finding. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                81,
+                463,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The earlier LCMV prevalence rates detected in Mus spp. in Europe (reports from Germany and Spain) have ranged from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 { \\cdot } 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 { \\cdot } 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[8, 9], and outside Europe (reports from Japan and the Americas) from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 { \\cdot } 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[7, 14, 15]. Our material did not include Mus spp., but the overall seroprevalence in other mice, A. flavicollis, was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 { \\cdot } 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The arenavirus seroprevalence of bank voles was lower "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 { \\cdot } 3 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "than that of yellow-necked mice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 { \\cdot } 1 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". LCMV has traditionally been associated with Mus spp., but as shown here, and in our other ongoing studies in Europe, LCMV antibodies are commonly found in many rodent species other than the house mouse (Mus musculus) which might indicate the existence of an as yet unknown arenavirus(es) in Europe. There are no earlier reports of arenaviral antibodies in arvicoline rodents (voles). Our finding of arenavirus antibodies in voles, which belong to a different rodent subfamily than the murine mice, raises the question of whether voles carry their own arenaviruses serologically cross-reacting with LCMV, or whether vole infections are a spillover from sympatric mice. Lower prevalence in voles might be an indication of the latter. Evidence of human infections from hamsters (Cricetinae), another subfamily that is not murine, also supports this hypothesis too [16]. Importantly, however, arenaviral antibodies are present in many wild rodent species in Europe without the presence of Mus. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                211,
+                465,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We found significant temporal differences in arenavirus antibody prevalence in A. flavicollis at the study site (Dos Gaggio) with large enough sample sizes for quantitative comparisons. We had, however, several borderline cases of positivity, deemed negative, in the 2000 and 2001 samples which could not be adequately re-tested due to the small quantity of sera available from the live-trapped animals. Further studies on the temporal variation of seroprevalence of arenaviruses in the numerically dominant rodent species of this region (e.g. Apodemus spp.) are warranted. In Europe, there is also a need for characterization of possibly yet unknown arenaviruses other than LCMV. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                685,
+                465,
+                911
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The arenavirus seroprevalence among forest workers from Trentino "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 { \\cdot } 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "resembles the prevalence previously reported from humans from Spain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 \\cdot 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[9]). As LCMV is apparently circulating in Europe, and is capable of causing meningitis, important further studies should include screening for arenavirus antibodies in patients with neurological symptoms. Also the extent of congenital infections caused by this and related viruses should be studied further. "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                81,
+                877,
+                244
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ACKNOWLEDGEMENTS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                274,
+                721,
+                289
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ECODIS project has been financed by grant no. 1060 ECODIS from the Research Fund of the Autonomous Province of Trento. This publication has been partially funded under the EU 6th Framework Program (GECE-CT-2003-010284 EDEN) and is officially catalogued by the EDEN Steering Committee as EDEN0001. Its content does not represent the official position of the European Commission and is entirely the responsibility of the authors. Work in Finland has been supported by European Union grant EU-QLR2-CT-2002-01358. We thank Dr P. Caciagli and Dr M. Frenguelli of S. Chiara Hospital, for their help in collecting the human sera. We thank Professor A˚ . Lundkvist for running neutralization assays. We also thank Tytti Manni and Pirjo Sarjakivi for their superb technical assistance. "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                297,
+                878,
+                574
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DECLARATION OF INTEREST "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                600,
+                774,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "None. "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                624,
+                537,
+                638
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFERENCES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                487,
+                668,
+                623,
+                683
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Vapalahti O, Mustonen J, Lundkvist A˚ , Henttonen H, Plyusnin A, Vaheri A. Hantavirus infections in Europe. Lancet Infect Dis 2003; 3: 653–661. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Vanzee BE, Douglas RG, Betts RF, Bauman AW, Fraser DW, Hinman AR. Lymphocytic choriomeningitis in university hospital personnel. Clinical features. Am J Med 1975; 58: 803–839. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Barton LL, Hyndman NJ. Lymphocytic choriomeningitis virus : reemerging central nervous system pathogen. Pediatrics 2000; 105: E35. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Jahrling PB, Peters CJ. Lymphocytic choriomeningitis virus. A neglected pathogen of man. Arch Pathol Lab Med 1992; 116: 486–488. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Barton LL, Mets MB. Lymphocytic choriomeningitis virus : pediatric pathogen and fetal teratogen. Pediatr Infect Dis J 1999; 18: 540–541. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                692,
+                875,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantavirus and arenavirus antibodies "
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                50,
+                821,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "835 "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                50,
+                875,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                972,
+                453,
+                984
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Armstrong C, Sweet LK. Lymphocytic choriomeningitis. Public Health Rep 1963 ; 54 : 673. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Childs JE, Glass GE, Korch G W, Ksiazek TG, Leduc JW. Lymphocytic choriomeningitis virus infection and house mouse (Mus musculus) distribution in urban Baltimore. Am J Trop Med Hyg 1992; 47: 27–34. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Ackermann R, Bloedhorn H, Kupper B, Winkens I, Scheid W. Spread of the lymphocytic choriomeningitis virus among West German mice. I. Investigations mostly on domestic mice (Mus musculus) [in German]. Zentralbl Bakteriol [Orig] 1964; 194: 407–430. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Lledo L, Gegundez MI, Saz JV, Bahamontes N, Meltran M. Lymphocytic choriomeningitis virus infection in a province of Spain : analysis of sera from the general population and wild rodents. J Med Virol 2003 ; 70: 273–275. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. Hedman K, Vaheri A, Brummer-Korvenkontio M. Rapid diagnosis of hantavirus disease with an IgG-avidity assay. Lancet 1991; 338: 1353–1356. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Kallio-Kokko H, Leveelahti R, Brummer-Korvenkontio M, Lundkvist A˚ , Vaheri A, Vapalahti O. Human immune response to Puumala virus glycoproteins and "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                81,
+                507,
+                400
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "nucleocapsid protein expressed in mammalian cells. J Med Virol 2001; 65: 605–613. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Kallio-Kokko H, Lundkvist A, Plyusnin A, Avsic-Zupanc T, Vaheri A, Vapalahti O. Antigenic properties and diagnostic potential of recombinant dobrava virus nucleocapsid protein. J Med Virol 2000; 61: 266–274. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. Nuti M, Amaddeo D, Autorino GL, et al. Seroprevalence of antibodies to hantaviruses and leptospires in selected Italian population groups. Eur J Epidemiol 1992 ; 8: 98–102. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Emmons RW, Yescott RE, and Dondero DV. A survey for lymphocytic choriomeningitis virus in the San Francisco Bay area. Calif Vector Views 1978 ; 25 : 21–24. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. Morita C, Matsuura Y, Kawashima E, et al. Seroepidemiological survey of lymphocytic choriomeningitis virus in wild house mouse (Mus musculus) in Yokohama Port, Japan. J Vet Med Sci 1991; 53: 219–222. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Rousseau MC, Saron MF, Brouqui P, Bourgeade A. Lymphocytic choriomeningitis virus in southern France : four case reports and a review of the literature. Eur J Epidemiol 1997; 13: 817–823. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                81,
+                921,
+                400
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "836 "
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                50,
+                152,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "H. Kallio-Kokko and others "
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                50,
+                389,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1017/S0950268805005431 Published online by Cambridge University Press "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                972,
+                453,
+                983
+            ]
+        }
+    ]
+]

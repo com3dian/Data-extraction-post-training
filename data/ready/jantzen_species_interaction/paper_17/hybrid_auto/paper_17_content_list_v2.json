@@ -1,0 +1,2944 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Effects of seed quality and seed location on the removal of acorns and beechnuts "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                130,
+                737,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ramo´n Perea "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Alfonso San Miguel "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Marı´a Martı´nez-Jauregui • Marı´a Valbuena-Caraban˜a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Luis Gil "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                196,
+                554,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 9 August 2010 / Revised: 29 April 2011 / Accepted: 20 May 2011 / Published online: 12 June 2011 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "©"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Springer-Verlag 2011 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                305,
+                721,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract We examine whether different guilds of foragers remove seeds differentially according to seed quality (seed size and insect infestation) and seed location (habitat and microhabitat) in a mixed oak-beech forest. Video recordings indicated that the wood mouse (Apodemus sylvaticus) was first to encounter seeds. Foragers preferred acorns to beechnuts, large to small size and sound to infested. Nevertheless, infested seeds were removed by rodents even when sound seeds were present. Seeds that were not preferred by scatter-hoarding rodents remained longer on the ground and were more vulnerable to predation and desiccation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "moisture loss per day). However, seeds that were removed by scatter-hoarders were moved away from their mother trees "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 6 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and cached individually "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 2 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", increasing their moisture content "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "per day). Buried seeds, simulating scatter-hoarding behavior, experienced only a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "17 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "removal after 4 months. Seed removal differences among habitats were not due to habitat attributes but to the spatial distribution of rodent-preferred microhabitats. Thus, a significant lower seed removal was observed under the tree canopy with no shrubs. However, seed removal in forest gaps with deadwood cover was not significantly different from the preferred microhabitat (under shrub cover). In pure beech forests, seed removal by rodents only occurred under Ilex aquifolium (the only perennial cover) and under woody debris. This study concludes that seed quality and seed location determine the "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                354,
+                487,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "contribution of different removers (predators vs. dispersers), their seed selection and their removal speed, leading to different seed fates which will eventually affect tree regeneration. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                354,
+                915,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords Seed size "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Insect infestation - Scatterhoarding "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Apodemus sylvaticus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fagus sylvatica "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Quercus "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                432,
+                915,
+                464
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                496,
+                605,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seeds are the products of sexual reproduction in most vascular plants and are the principal means by which trees move across landscapes (Vander Wall et al. 2005). Seed dispersal is an important component of the regeneration process, frequently mediated by biotic agents (Herrera 2002). Thus, heavy seeds, such as nuts, can only be potentially dispersed if they are moved by animals. However, seed removal is not equal to effective seed dispersal and a high proportion of seeds may be preyed upon by the animals or dispersed to non-favorable microsites (Vander Wall 2001), thus reducing plant reproductive output. Although some guilds of seed foragers only consume the seeds (predators), some others also contribute to seed dispersal (Herrera 2002). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                527,
+                915,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed removal depends on many factors, involving both intrinsic seed characteristics and environmental variables. Seeds that contain more energy (reserves) or are more palatable result more attractive to seed foragers (Pons and Pausas 2007). Larger seeds within a particular species contain more energy and promote higher chances for establishment (Bonal et al. 2007; Perea et al. 2011) and with farther dispersal distances (Xiao et al. 2005; Perea et al. 2011). Thus, seed size is considered the dominant determinant of dispersal effectiveness of many tree species, "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                748,
+                915,
+                905
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 DOI 10.1007/s10342-011-0536-y "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                39,
+                304,
+                67
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL PAPER "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                72,
+                485,
+                100
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Communicated by C. Ammer. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                802,
+                262,
+                816
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "R. Perea - A. San Miguel - M. Martı´nez-Jauregui - M. Valbuena-Caraban˜a - L. Gil "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\boxtimes )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Departamento de Silvopascicultura, ETSI. Montes, Universidad Polite´cnica de Madrid, Ciudad Universitaria s/n, 28040 Madrid, Spain e-mail: luis.gil@upm.es "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                827,
+                443,
+                905
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                842,
+                927,
+                915,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "including Fagaceous species (Xiao et al. 2005). However, other unexplored seed properties may also have strong influences on seed removal and dispersal. Insect infestation of seeds is a common event in many Fagaceous species which can affect a high proportion of the seed crop (Crawley and Long 1995; Branco et al. 2002; Pulido and Dı´az 2005), reducing the amount of seed reserves and seed palatability (Mun˜oz and Bonal 2008). As a result, infested nuts tend to be avoided by seed foragers (Crawley and Long 1995; Steele et al. 1996). In addition, infested seeds present lower germination rates and, therefore, contribute less to plant reproduction in comparison to sound seeds (Bonal et al. 2007). Nevertheless, an important proportion of infested nuts may germinate (Branco et al. 2002) and, thus, secondary dispersal of infested nuts may contribute to natural regeneration. However, previous studies have neglected to explore whether different guilds of foragers treat infested seeds differentially (seed selection and removal speed), which may determine the ability of infested seeds to reach a favorable microsite away from the mother tree. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed removal can also be affected by the spatial scale and structure of the dominant vegetation (Vander Wall 2001; Hulme and Kollmann 2005) since some habitats and microhabitats are more suitable for certain foragers (Janzen 1971; Hulme 1994). Microhabitat effects significantly influences seed encounter rates by seed removers (Hulme 1994), which may have positive or negative relationships with plant cover depending on the guild of seed foragers (Manson and Stiles 1998). But within a microhabitat, foraging on the seed rain and the soil seed bank are recognized as two different processes (Price and Joyner 1997). Beechnuts and acorns are found under the soil surface since they are cached by scatter-hoarding animals (Jensen and Nielsen 1986; Go´mez 2003; Den Ouden et al. 2005; Perea et al. 2011). Removal rate under the soil surface has been quantified at some temperate forests with very different results (Go´mez et al. 2003; Pe´rez–Ramos and Maran˜o´n 2008). Thus, differences in seed removal in the seed bank are not well understood and could vary depending on many factors such as habitat/microhabitat of location, animal community, and foraging behavior. Consequently, habitat and microhabitat may determine the proximity of certain seed removers, which will eventually affect the probability of seed encounter and the speed at which seeds are removed. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                402,
+                485,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tree regeneration will be favored by seed removal only if two requirements are satisfied: first, seeds must be removed by potential dispersers (not predators) and second, seeds must be dispersed to favorable microsites, even though a variable proportion of them will be retrieved and consumed by the dispersers to maintain seed dispersal mutualism (Vander Wall 2001). Favorable microsites "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                794,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "include appropriate moisture conditions, which is an essential requirement for recalcitrant seeds such as acorns. This is because acorns become nonviable when seed moisture content is below certain threshold (Suszka and Tylkowski 1980). However, dispersal studies have not fully addressed the relationship between the hoarding behavior of nut dispersers and the moisture loss/gain in recalcitrant seeds. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                70,
+                912,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The relative contribution of different seed removers may play an important role in forest regeneration since different guilds of animals are likely to differ in their foraging ecology (predation vs. dispersal), in the spatial scales of their effects and their seed preferences (Hulme and Borelli 1999). Therefore, factors such as seed quality and seed location are likely to determine whether the seeds are removed by seed dispersers, by seed predators or even not removed, leading to different potential seed fates that will determine tree regeneration. Hence, the aims of this experimental study are: (1) to estimate the relative contribution of scatter-hoarding rodents to the total removal rate compared to other guilds of foragers; (2) to determine how seed quality (seed size and seed infestation) affect seed choice and seed removal speed; (3) to examine the influence of seed location (habitat and microhabitat) on foraging activities; (4) to quantify the burial effect on seed removal rate for different microhabitats by simulating scatter-hoarding behavior; and (5) to examine the effect of seed removal speed on acorn desiccation. Finally, we integrate all these aspects to analyze the consequences of seed removal (choice and speed) for the regeneration of mixed oak-beech forests. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                198,
+                912,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                592,
+                680,
+                605
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Study area "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                624,
+                586,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study was conducted in a mixed forest comprising three tree species: a sub-Mediterranean oak (Quercus pyrenaica Willd.), a temperate oak (Quercus petraea Matt. (Liebl.)), and the European beech (Fagus sylvatica L.). The study area is located in the Ayllon mountain range in central Spain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { W }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 1 ^ { \\circ } 0 7 ^ { \\prime } \\mathrm { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Madrid province), at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 0 0 \\ \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a.s.l., under a sub-Mediterranean climate with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 8 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "annual rainfall and a 2 month summer dry season. The forest comprises a mosaic of mixed to pure stands of variable density (Pardo et al. 2004) with a large proportion of stems less than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 ~ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dbh. The understory is formed mainly by a few species of evergreen shrubs (Erica arborea L., Juniperus communis L., Ilex aquifolium L., Genista florida L. and Adenocarpus hispanicus (Lam.) DC). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                654,
+                914,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We distinguished three main habitats according to the tree inventory performed in 2000 (Alonso 2001): (1) mixed "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                875,
+                912,
+                903
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "624 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                105,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                692,
+                40,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                929,
+                154,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "oak stands of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". pyrenaica and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". petraea (380 stems "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\ h a } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; basal area of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 2 . 2 ~ \\mathrm { m } ^ { 2 } \\mathrm { { h a } } ^ { - 1 } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ") with scattered beech trees (83 stems "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { h a } } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 8 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { h a } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), containing several shrub species in the understorey (mostly "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". arborea and G. florida); (2) scattered oak forest of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "Q"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". pyrenaica and Q. petraea (74 stems "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { h a } } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 3 ~ \\mathrm { m } ^ { 2 } \\mathrm { h a } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in a matrix of evergreen shrubs (mainly A. hispanicus and J. communis); and (3) pure stand of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". sylvatica (848 stems "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\ h a } ^ { - 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-1 ; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 . 0 \\ \\mathrm { m } ^ { 2 } \\ \\mathrm { h a } ^ { - 1 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") with little ground cover mostly comprising leaf litter and isolated or small clumps of holly trees (I. aquifolium). "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                243
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification of seed removers "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                260,
+                297,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To identify the seed removers, two motion-detection digital video cameras with night vision were used. Cameras were placed at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 5 ~ \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "height on a tree trunk and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 { \\mathrm { - } } 4 { \\mathrm { ~ m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "away from a wood platform containing ten Q. pyrenaica acorns. Cameras were placed within the three habitats (3 sites per habitat) and were rotated every 13–16 days. Cameras were 150–350 m from the seed choice plots (see below) to prevent attracting seed removers to these experiments. Cameras were used during October–December 2007 and November 2008, coinciding with the peak-acorn drop period. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                291,
+                485,
+                463
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed removal experiment "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                482,
+                258,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Three plots were randomly established within each habitat. The distance between plots within the same habitat was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 0 { - } 5 0 0 \\ \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Three microhabitats were considered in each habitat: (1) beneath a tree canopy with no shrubs; (2) beneath a tree and under evergreen shrubs with dense cover; and (3) in a recent forest gap created by tree fall and in which only grasses and deadwood were present. Thus, a total of 27 sample plots were selected (three plots "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "three habitats "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "three microhabitats). In each point, three groups of seeds (units) were placed according to the following: (u1) non-enclosed units, group of seeds placed on the ground available for all foragers; (u2) enclosed units, group of seeds placed on the ground and under a wire mesh (mesh width "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= 1 . 2 ~ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in a cubic shape (50 cm length "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times ~ 5 0 ~ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "width "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times \\ 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cm height) which excluded removers other than small mammals; and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( u 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "buried units, group of seeds under the soil surface (buried "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 { \\mathrm { - } } 6 \\ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Burial points were marked with sticks to easy relocate them. Each group (unit) contained 27 seeds (placed randomly side by side), so that a total of 2,187 seeds was offered to the foragers (81 units "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times ~ 2 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "seeds). Each seeds unit was made up of nine different types of seeds (three seeds per type, see Table 1). Seeds were labeled with a waterproof permanent marker by species (Q. pyrenaica, Q. petraea and F. sylvatica), seed size (large or small), and condition (sound vs. insect "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                512,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "infested). Seed size and seed quality criteria are represented in Table 1. Infested acorns were identified by the combination of both emergence hole and oviposit hole of weevil-larvae (Curculio sp., Col.: Curculionidae) and infested beechnuts were identified by a smaller emergence hole of the larvae of Cydia fagiglandana Zeller (Lep.: Tortricidae). Sound acorns were tested by flotation method and only sunken seeds were chosen. All seeds were collected from the study area or in nearby locations during the first fortnight of October 2008. There was no possibility of offering large and infested seeds due to the lack of them in the field. The experiment took place during the end of October and throughout November 2008, experimental units were checked each day during the first 20 days after seeds were offered. Buried seeds were revisited 4 months later (March 2009). Each day we noted the seeds that foragers removed. In this study, we consider that a seed is removed when the seed is missing in the supply station regardless their fate (predated or dispersed) or when the seed is consumed in situ. Autumn 2008 was a normal seed production season with an average of 11.6 beechnuts per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of ground cover in the beech forest (habitat 3) and 16.7 acorns per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of ground cover (both oak species included) in the mixed oak stand (habitat 1; unpublished data). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                70,
+                914,
+                448
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed fate and desiccation experiment "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                465,
+                768,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In September 2009, we collected "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 0 \\ Q"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". pyrenaica acorns from the study area and stored them inside a plastic bag at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\mathrm { { } ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in a refrigerator for approximately 2 months. Twenty of them were weighed and imbibed in water for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 8 \\ \\mathrm { h }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Then, we weighed the acorns to obtain the acorn weight at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "humidity. Finally, acorns were dried in an oven at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 0 \\mathrm { { } ^ { \\circ } C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 5 days and weighed again to calculate the mean percentage of water content in the acorns. In November 2009, ninety acorns of those 200 were placed on the ground under two oak trees (45 each) for five consecutive days under a wire mesh "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 \\mathrm { ~ m ~ } \\times \\mathrm { ~ 1 ~ m ~ } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", not accessible for foragers. We measured the acorn weight daily using a portable balance. Differences in weight were attributed to acorn water loss or gain. We obtained the mean atmospheric humidity per day from a weather station located at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "height inside the mixed oak-beech forest. Simultaneously, the other ninety sound acorns were weighed, labeled, and offered to the rodents. Acorns were offered to the rodents to examine their natural fates and the effects of rodent acorn burial on seed water content. A wire "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "long and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 6 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "wide) was attached to each acorn by drilling a hole with a needle "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 . 8 ~ \\mathrm { m m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". A "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 . 5 \\ \\mathrm { c m } \\times 1 . 2 \\ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "yellow plastic tag was attached to the wire and numbered with a waterproof permanent marker to easily relocate the acorns (Xiao et al. 2006). We assumed that the effect of the puncture on water loss/gain was negligible since the hole was covered by the "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                496,
+                914,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                304,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "625 "
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                40,
+                912,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                929,
+                914,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3183594c79ef421962934d5ff5c767accd08bb927e5e33e37248c514a520f322.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Seeds types according to tree species, size, and infestation status "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Three seeds per each type were contained in a single unit making a total number of 27 seeds per unit. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the seed length and W is the maximum seed width. Seed quality was defined according to seedling establishment success and attractiveness to foragers "
+                    }
+                ],
+                "html": "<table><tr><td>Tree species</td><td>Size</td><td>Area (mm2)</td><td>Sanitary status</td><td>Seed quality</td></tr><tr><td rowspan=\"3\">Q. petraea</td><td>Large</td><td>375 ≤ W*L ≤ 450</td><td>Sound</td><td>High</td></tr><tr><td>Small</td><td>120 ≤ W*L ≤ 150</td><td>Sound</td><td>Medium</td></tr><tr><td></td><td></td><td>Infested</td><td>Low</td></tr><tr><td rowspan=\"3\">Q. pyrenaica</td><td>Large</td><td>375 ≤ W*L ≤ 450</td><td>Sound</td><td>High</td></tr><tr><td>Small</td><td>120 ≤ W*L ≤ 150</td><td>Sound</td><td>Medium</td></tr><tr><td></td><td></td><td>Infested</td><td>Low</td></tr><tr><td rowspan=\"3\">F. sylvatica</td><td>Large</td><td>120 ≤ W*L ≤ 150</td><td>Sound</td><td>High</td></tr><tr><td>Small</td><td>70 ≤ W*L ≤ 100</td><td>Sound</td><td>Medium</td></tr><tr><td></td><td></td><td>Infested</td><td>Low</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                80,
+                89,
+                915,
+                265
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "wire. Then, we searched for tags, noted the acorn fates (cached, completely predated, partially predated or deposited on the ground) and weighed the acorns that were cached for the same five consecutive days. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                311,
+                485,
+                373
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                389,
+                176,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed removal was analyzed using Generalized Linear Mixed Models with R 2.8.1 software. For all models, we used a binary response variable (seed removed or not). Random effects were always considered in a nested structure (microhabitat nested within plot, and plot nested within habitat). Fixed effects were always the studied factors [tree species, seed quality, habitat, microhabitat, and unit type (enclosed vs. non-enclosed)] and all their possible interactions. We built this model for two different times. First, to analyze the factors affecting seed encounter and seed choice we restricted the data to the first day that units were encountered (model M1) and, second, to analyze whether the studied factors affect overall removal we used the data for the last day of the experiment (20th day; model M2). Finally, we ran a third model to analyze the burial effect after 4 months (M3). To do so, we restricted the data to the buried units "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( u 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In all cases, to choose the best model and obtain the appropriate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values we did model simplification following stepwise procedures and parsimony criteria (Crawley 2007). Thus, the nonsignificant interactions and terms were removed to achieve the minimal adequate model. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                421,
+                485,
+                765
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                800,
+                137,
+                813
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification of seed removers "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                831,
+                297,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eighty-two video samples were taken. Wood mouse (Apodemus sylvaticus) was the main seed remover "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "76 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                863,
+                485,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "videos), followed by European jay (Garrulus glandarius) with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of videos, great tit (Parus major), and nuthatch (Sitta europaea), both with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and finally the roe-deer (Capreolus capreolus) with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                311,
+                912,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Impact of different guilds of seed foragers "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                389,
+                805,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodents were the first guild of seed foragers to encounter the seed sample units. Percentage of seeds removed from enclosed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( u 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and non-enclosed units "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( u 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were not significantly different on the first day after units were encountered (Table 2). Enclosed and non-enclosed units from the same point were discovered simultaneously (the same day) in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "92 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of cases. Three enclosed units were not discovered during the experiment. The proportion of remaining sound seeds after the first day decreased to 0.21 for rodents and to 0.29 for all foragers (Fig. 1). Over the experiment (20 days), the percentage of seeds removed did differ between enclosed (u2) and non-enclosed units (u1) (Table 2), with a higher removal percentage "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the non-enclosed units. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                421,
+                914,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed choice "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                658,
+                594,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed removal throughout the experiment was fastest for Q. pyrenaica acorns, then Q. petraea acorns and finally seeds from F. sylvatica, for both sound and infested seeds and for all possible foragers (Fig. 2). Acorns were clearly preferred over beechnuts regardless the seed quality (Fig. 2). Besides, Q. pyrenaica acorns were preferred over those from Q. petraea (Fig. 2), obtaining significant differences (Table 2). Foragers also preferred large seeds (high quality) over small seeds (medium quality) on the first day (when all seeds were available) but no differences were found between sizes at the end of the experiment (Table 2). Infested seeds (low quality) were removed less for the three tree species (Fig. 2) with significant "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                689,
+                914,
+                892
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "626 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                107,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                39,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                929,
+                154,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3da97584450689a7dd0a25f4124394e48641164fd4be3df1fe683c56b453f7fd.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Summary of the results from the mixed models implemented to analyze seed removal "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "First day refers to the first day that units were encountered by the foragers. Z is the Z-score for normal distribution and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the statistical significant level (referred to the first factor level) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Bold type indicates statistical significance "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( P < 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "M1: AIC 520.4, Deviance 482.8. M2: AIC 484.1, Deviance 450.1, M3: AIC101.7, Deviance 77.7 "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">M1. first day</td><td colspan=\"2\">M2. last day (20th)</td><td colspan=\"2\">M3. burial (4 months)</td></tr><tr><td>Z</td><td>P</td><td>Z</td><td>P</td><td>Z</td><td>P</td></tr><tr><td>Tree species</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Q. petraea</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Q. pyrenaica</td><td>3.22</td><td>0.001</td><td>3.29</td><td>&lt;0.001</td><td>0.97</td><td>0.338</td></tr><tr><td>F. sylvatica</td><td>-6.21</td><td>&lt;0.001</td><td>-5.69</td><td>&lt;0.001</td><td>-2.07</td><td>0.039</td></tr><tr><td>Seed quality</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>High (large &amp; sound)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Medium (small &amp; sound)</td><td>-2.66</td><td>0.007</td><td>-1.84</td><td>0.065</td><td>-0.77</td><td>0.437</td></tr><tr><td>Low (small &amp; infested)</td><td>-10.81</td><td>&lt;0.001</td><td>-10.11</td><td>&lt;0.001</td><td>-1.53</td><td>0.125</td></tr><tr><td>Habitat</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mixed oak forest</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Beech forest</td><td>-2.59</td><td>0.009</td><td>-10.71</td><td>&lt;0.001</td><td>-1.8·10-6</td><td>1.00</td></tr><tr><td>Scattered oak forest</td><td>0.25</td><td>0.800</td><td>-1.87</td><td>0.166</td><td>2.78</td><td>0.005</td></tr><tr><td>Microhabitat</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Under tree</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Under shrub</td><td>3.26</td><td>0.001</td><td>3.23</td><td>0.001</td><td>0.92</td><td>0.358</td></tr><tr><td>Forest gap</td><td>2.07</td><td>0.038</td><td>2.06</td><td>0.039</td><td>0.08</td><td>0.976</td></tr><tr><td>Guild of foragers</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>All foragers (non-enclosed units)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Not applicable</td><td></td></tr><tr><td>Rodents (enclosed units)</td><td>1.20</td><td>0.230</td><td>-3.28</td><td>0.001</td><td></td><td></td></tr><tr><td>Interactions</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Medium quality: rodents foragers</td><td>-</td><td>-</td><td>Not found</td><td></td><td>Not applicable</td><td></td></tr><tr><td>Medium quality: all foragers</td><td>-2.03</td><td>0.042</td><td></td><td></td><td></td><td></td></tr><tr><td>Forest gap: mixed oak forest</td><td>-</td><td>-</td><td>Not found</td><td></td><td>Not found</td><td></td></tr><tr><td>Forest gap: scattered oak forest</td><td>-2.53</td><td>0.011</td><td></td><td></td><td></td><td></td></tr><tr><td>Forest gap: beech forest</td><td>-0.99</td><td>0.317</td><td></td><td></td><td></td><td></td></tr><tr><td>Under tree: mixed oak forest</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Not found</td><td></td></tr><tr><td>Under tree: scattered oak forest</td><td>-2.59</td><td>0.800</td><td>-1.87</td><td>0.062</td><td></td><td></td></tr><tr><td>Under tree: beech forest</td><td>-2.59</td><td>0.009</td><td>-10.71</td><td>&lt;0.001</td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                89,
+                915,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "differences throughout the experiment (Table 2). Seed choice between enclosed and non-enclosed units showed no significant differences except for the first day, when all foragers removed less medium quality seeds (small and sound) in comparison to rodents (Fig. 3a; Table 2). No other significant interactions attending to seed choice were found. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                679,
+                487,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The influence of habitat and microhabitat "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                806,
+                371,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beech forest had the lowest percentage of seed removal for both rodents (Fig. 3a) and all foragers (Fig. 3b) and it was the only habitat with significant differences in seed removal (Table 2). Seeds took longer to be encountered by "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                837,
+                487,
+                900
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "foragers in the forest gaps of scattered oak forest in comparison to the forest gaps of mixed oak and beech forests (Table 2). A lower seed removal (throughout the experiment) was observed under the tree canopy as compared with evergreen shrub land and forest gaps (Fig. 3), with significant differences (Table 2). Although more seeds were removed under shrub cover (Fig. 3), we found no significant differences in seed removal between forest gap and shrub cover throughout the experiment. There was a strong interaction between beech forest habitat and under tree microhabitat since seeds were removed in a lower significant number under beech trees as compared to under oak trees (Fig. 3; Table 2), especially for rodents that did not remove any seeds under beech trees (Fig. 3a). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                679,
+                915,
+                900
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                39,
+                305,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "627 "
+                    }
+                ]
+            },
+            "bbox": [
+                889,
+                40,
+                912,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                842,
+                927,
+                914,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/97d52e78fe51a42f950c021719d44b5fecb6a9b31eae8c5fb11001e194fb6c70.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 Proportion of seeds remaining during the first 20 days after all seeds were offered. Data for sound and infested seeds and both rodents and all foragers. AFSS all foragers sound seeds, AFIS all foragers infested seeds, RSS rodents sound seeds, RIS rodents infested seeds "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                70,
+                480,
+                248
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4ab1893040c168ace0185cbe141d76d8f69254de171c868eb7d3edb71f1bb850.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                341,
+                484,
+                518
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c63b73dfb515870df2ad33f5d62192f8df9e9bc22fd57abc268e3d478a3e4c5e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2 Percentage of seeds removed for enclosed (rodents) and nonenclosed units (all foragers) and for different seed quality and tree species. a Seed removal for the first day that units were encountered and b overall seed removal (last day of the experiment, including encountered and no encountered units). High quality refers to sound large seeds, medium quality to small sound seeds, and low quality to small infested seeds "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                527,
+                482,
+                703
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed fate "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                827,
+                149,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Most tagged acorns were dispersed and only four acorns were predated in situ (Fig. 4). Twenty-eight acorns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 1 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the acorns initially offered) were dispersed and not "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                856,
+                487,
+                905
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f7556a1e8bcc08e78653b10453f2d8c9f5829e83d9c068b72482442b51b0cedd.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                73,
+                910,
+                250
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e87904a06a3b6c5c3ab31de09cb5e0a7fa973c7047dcf4a5f96bbc9cf9d983e2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3 Proportion of seeds that were removed by rodents (a) and by all foragers (b) for different habitats and microhabitats. Data for the first day that seeds were encountered (black bar) and for the rest of the experiment (gray bar). Microhabitats were UT under tree, USC under shrub cover, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F G"
+                    },
+                    {
+                        "type": "text",
+                        "content": "forest gap "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                258,
+                910,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "found. From those 68 acorns that were dispersed and relocated, 22 of them were cached and 8 deposited on the ground (32.3 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the relocated and dispersed acorns, respectively). The rest of acorns were either predated or partially consumed (Fig. 4). All caches contained only one seed. Acorns that were not found were "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                526,
+                915,
+                621
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d8d928858c46c2c961e96556f0bd0c2344482905e72b0c71c4462faec05d803e.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4 Diagram of acorn fate, showing the percentages and number of acorns for each fate category. Bold arrows indicate the best possible acorn fate for tree regeneration "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                665,
+                910,
+                856
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "628 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                105,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                39,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                927,
+                154,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "consistently similar along the seed mass "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 7 . 8 \\pm 2 . 6 \\ \\mathrm { g }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for lost acorns and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 3 \\pm 2 . 3 \\ \\mathrm { g }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the original mean weight). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                70,
+                487,
+                102
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Burial effect "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                118,
+                171,
+                132
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All burial points were reviewed after 4 months and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "17 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( N = 1 2 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the buried seeds had been removed. We found burrows (and no rooting activity) where buried seeds were removed so that seed removal was attributed to wood mice. Beechnuts were less preferred in comparison to acorns and no significant differences were found between levels of seed quality (Table 2). Seeds were removed only in the scattered oak habitat and no differences were found between microhabitats (Table 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                149,
+                485,
+                289
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the laboratory, water accounted for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 6 . 2 \\pm 1 . 9 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( N = 2 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the total acorn weight. Original moisture content of those acorns was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 6 . 4 \\pm 2 . 4 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N = 2 0 "
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Acorns that were not cached by rodents (remained on the ground) lost an average of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 3 \\pm 2 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of their moisture content per day (Fig. 5). In contrast, seeds that were cached by wood mice gained an average of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 0 \\pm 1 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of moisture content per day (Fig. 5; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N = 2 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the fifth day). Mean relative humidity per day varied from 68 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                291,
+                485,
+                432
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                465,
+                161,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Impact of different guilds of seed foragers "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                496,
+                378,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodents were the main guild of seed removers on the ground, as has been recorded for other temperate and Mediterranean ecosystems (Crow 1988; Pons and Pausas 2007). Furthermore, videos and choice experiments reveal that wood mice are the first species to encounter acorns and "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                527,
+                487,
+                606
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fc1a121ea5b7410636b24414848dfd69fbc40a09e896cde705c7b9f6f285d8b2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5 Mean and accumulated moisture loss (negative values) and gain (positive values) for cached and non-cached acorns "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( N = 1 8 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") along the first 5 days after seed offer. Initial moisture content was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 6 . 4 \\pm 2 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", obtained from a sample of 20 acorns. A fully saturated acorn is at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of moisture content. Cached acorns remained cached for 4 days at most since they were encountered by rodents 1 day after seed offer "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                84,
+                632,
+                480,
+                805
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "beechnuts. Thus, scatter-hoarding rodents discover seeds much more rapidly than non-scatter-hoarding mammals or birds. Birds were the second main guild of acorn removers from the soil, exceeding removal rates of ungulates. Birds like jays or nuthatches are considered primary removers since they usually remove seeds from the trees (Hutchins et al. 1996; Go´mez 2003). Nevertheless, birds can make up an important guild of secondary dispersers. The higher removal rate found for all foragers compared to small mammals at the end of the experiment and the video recordings suggest that after small mammals have selected the seeds, seed removal is mostly due to other guilds of foragers such as birds or ungulates. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                70,
+                915,
+                275
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed choice "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                291,
+                596,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wood mice preferred acorns to beechnuts of all sizes and regardless of whether they were infested or not. Large seeds were positively selected, showing that size has a great influence on seed choice. This has been suggested for other oak species, indicating that size plays an important role in natural regeneration with large acorns preferred and farther dispersed (Xiao et al. 2005) and with higher successful establishment (Bonal et al. 2007; Perea et al. 2011). Small acorns and beechnuts were eventually taken after 20 days, indicating that small seeds are more vulnerable than large seeds to consumption by predators or desiccation. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                322,
+                915,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Whether a seed was infested or not was the most relevant characteristic in seed choice and infested seeds from all species were less preferred (Table 2). A relative high removal percentage of infested acorns was observed on the first day. Thus, infested seeds are removed even when sound seeds are available. Weevil-infested acorns are known to germinate and establish (Branco et al. 2002; Bonal et al. 2007; Xiao et al. 2007) and are less likely to be completely consumed by rodents compared to sound acorns (Mun˜oz and Bonal 2008). This together with the fact that rodents rarely damage the embryo when eating the acorns partially (Perea et al. 2011) leads to the possibility that infested acorns could contribute to the natural regeneration, especially in years of high infestation rates when most sound acorns are eaten (Crawley and Long 1995). However, infested beechnuts are much smaller than infested acorns and, thus, have higher probability of embryo damage, with very low germination success (Kelbel 1999). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                512,
+                915,
+                796
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The influence of habitat and microhabitat "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                811,
+                801,
+                825
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No differences in seed removal between oak habitats were found. Pure beech forest was the habitat with significantly lower seed removal. Surprisingly, no seeds were removed by rodents under the beech trees (Fig. 3a). We suggest that "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                843,
+                915,
+                905
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                39,
+                305,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "629 "
+                    }
+                ]
+            },
+            "bbox": [
+                889,
+                40,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                842,
+                927,
+                914,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "this is because there is no ground cover for rodents beneath beech trees. Higher rodent activity (seed removal) was found under shelter in comparison to open. Thus, wood mice populations in dense and pure beech forests are dependent on cover provided by holly trees (I. aquifolium), since this is the only perennial cover provided. Despite open microhabitats are thought to be less preferred by small rodents (Hulme and Kollmann 2005), herein we demonstrate that recently created forest gaps do not show any differences in seed removal in comparison to shrub cover microhabitat. This provides that foraging activity of rodents is not only confined to vegetation cover but also to deadwood cover. Finally, this study indicates seed removal differences among habitats were not due to habitat attributes but to the spatial distribution of rodent-preferred microhabitats. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                321
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Burial effect "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                340,
+                169,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acorn and beechnut burial, simulating the effect of dispersal by scatter-hoarders, significantly reduced the number of seeds removed. Burial decreases the probability that a seed will be discovered by any foragers (Hulme and Borelli 1999). Thus, burial has positive implications for natural regeneration of beeches and oaks since it avoids desiccation (Fig. 5) and stimulates germination and establishment (Sonesson 1994). As acorns are recalcitrant seeds, they become nonviable when moisture content is low, e.g., "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ < } 4 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for the temperate Quercus robur (Suszka and Tylkowski 1980). Thus, acorns that are not removed or hoarded by animals will become unviable, especially under xeric conditions. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                370,
+                485,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Implications of seed removal for forest regeneration "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                577,
+                442,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study shows that seed quality and seed location are important factors to determine whether the seeds are rapidly removed by predators or potential dispersers, leading to different seed fates that will eventually influence tree regeneration. Those seeds that fall into sheltered microhabitats will be rapidly removed and cached by scatterhoarding rodents. This foraging behavior avoids possible predation by ungulates, one the main detrimental fates of acorns (Gosling 1989; Herrera 1995; Pulido and Dı´az 2005). Although this study provides weak information about seed dispersal, other studies show stronger evidence of wood mice as effective dispersers of nuts, contributing to tree regeneration (Pulido and Dı´az 2005; Den Ouden et al. 2005; Go´mez et al. 2008; Perea et al. 2011). This study adds that wood mice cache a high proportion of acorns immediately after removal and in one-seed caches, decreasing possible competition among seedlings and increasing seed moisture content, an important requirement for recalcitrant seeds. Thus, the best possible initial fate for these "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                607,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "recalcitrant seeds is probably to be rapidly removed by scatter-hoarding rodents. Besides, seeds need to be moved away from their parents to decrease density-dependent mortality and to allow gene flow and colonization of new environments (Vander Wall 2001; Valbuena–Caraban˜a et al. 2005). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                70,
+                912,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Whether tree regeneration is favored by those seeds that are preferred by rodents might depend on masting, a common phenomenon in Fagaceous species. In high seed production years, seeds that are removed first (preferred) by rodents (e.g., large and sound seeds) would have higher probability to be effectively dispersed in comparison to non-preferred seeds (small and infested) that will remain longer on the ground. Those effectively dispersed seeds would drive not only tree regeneration but also species composition (Hooper et al. 2004). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                165,
+                912,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study also has implications for forest management since seed removal by scatter-hoarding rodents strongly depends on the presence/absence of their preferred microhabitats. Thus, leaving isolated or small patches of holly trees inside beech forests will favor rapid removal by scatter-hoarding rodents. Besides, woody debris enhances seed removal in forest gaps or edges and serves as a useful complement to perennial shrub cover. Essentially, the conclusion of this study is that seed quality and seed location determine the contribution of different removers (predators vs. dispersers), their seed selection and their removal speed, leading to different seed fates which will eventually affect tree regeneration. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                322,
+                912,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments We would like to thank Steve B. Vander Wall for numerous suggestions and corrections, Christopher Moore for his English corrections and assistance with some of the figures, Mariana Ferna´ndez for valuable comments and help on data analysis and Jesu´s Alonso for his fieldwork assistance. Ramo´n Perea is supported by a PhD grant from Universidad Polite´cnica de Madrid. This study was funded by the project REGENFOR-CM (S2009AMB-1668) of Comunidad Auto´noma de Madrid and the project AGL2006-00813 of the Spanish CICYT. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                543,
+                912,
+                655
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                686,
+                591,
+                700
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Alonso J (2001) Inventario forestal del sitio natural de intere´s nacional Hayedo de Montejo de La Sierra, monte no 89 del C.U.P. El Chaparral y La Solana. Comunidad de Madrid "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bonal R, Mun˜oz A, Dı´az M (2007) Satiation of predispersal seed predators: the importance of considering both plant and seed level. Evol Ecol 21:367–380 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Branco M, Branco C, Merouani H, Almeida MH (2002) Germination success, survival and seedling vigour of Quercus suber acorns in relation to insect damage. For Ecol Manage 166:159–164 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Crawley MJ (2007) The R book. Wiley Editorial, England "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Crawley MJ, Long CR (1995) Alternate bearing, predator satiation and seedling recruitment in Quercus robur L. J Ecol 83:683–696 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Crow TR (1988) Reproductive mode and mechanisms for selfreplacement of northern red oak (Quercus-rubra)—a review. For Sci 34:19–40 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                715,
+                915,
+                903
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "630 "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                40,
+                107,
+                50
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                692,
+                40,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                929,
+                152,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Den Ouden J, Jansen PA, Smit R (2005) Jays, mice and oaks: Predation and dispersal of Quercus robur and Q.petraea in North-western Europe. In: Forget PM, Lambert J, Vander Wall SB (eds) Seed fate. CABI Publishing, Wallingford, pp 223–240 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Go´mez JM (2003) Spatial patterns in long-distance dispersal of Quercus ilex acorns by jays in a heterogeneous landscape. Ecography 26:573–584 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Go´mez JM, Garcı´a D, Zamora R (2003) Impact of vertebrate acornand seedling-predators on a Mediterranean Quercus pyrenaica forest. For Ecol Manage 180:125–134 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Go´mez JM, Puerta-Pin˜eiro C, Schupp EW (2008) Effectiveness of rodents as local seed dispersers of Holm oaks. Oecologia 155:529–537 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gosling PG (1989) The effect of drying Quercus robur acorns to different moisture contents, followed by storage, either with or without imbibition. Forestry 62:41–50 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Herrera CM (2002) Seed dispersal by vertebrates. In: Herrera CM, Pellmyr O (eds) Plant-animal interactions. An evolutionary approach. Blackwell, Oxford, pp 185–208 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Herrera J (1995) Acorn predation and seedling production in a lowdensity population of cork oak (Quercus suber L.). For Ecol Manage 76:197–201 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hooper ER, Legendre P, Condit R (2004) Factors affecting community composition of forest regeneration in deforested, abandoned land in Panama. Ecology 85:3313–3326 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hulme PE (1994) Post-dispersal seed predation in grasslands: its magnitude and sources of variation. J Ecol 82:645–652 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hulme PE, Borelli T (1999) Variability in post-dispersal seed predation in deciduous woodland: relative importance of location, seed species, burial and density. Plant Ecol 145:149–156 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hulme PE, Kollmann J (2005) Seed predator guilds, spatial variation in post-dispersal seed predation and potential effects on plant demography. In: Forget PM, Lambert J, Vander Wall SB (eds) Seed fate. CABI Publishing, Wallingford, pp 9–30 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hutchins HE, Hutchins SA, Liu BW (1996) The role of birds and mammals in Korean pine (Pinus koraensis) regeneration dynamics. Oecologia 107:120–130 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Janzen D (1971) Seed predation by animals. Annu Rev Ecol Syst 2:465–492 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jensen TS, Nielsen OF (1986) Rodents as seed dispersers in a heathoak wood succession. Oecologia 70:214–221 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kelbel P (1999) Results of monitoring of carpophagus fauna on the European beech (Fagus sylvatica) in Slovakia. J For Sci 45:443–448 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Manson RH, Stiles EW (1998) Links between microhabitat preferences and seed predation by small mammals in old fields. Oikos 82:37–50 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                487,
+                662
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mun˜oz A, Bonal R (2008) Seed choice by rodents: learning or inheritance? Behav Ecol Sociobiol 62:913–922 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pardo F, Gil L, Pardos JA (2004) Structure and composition of polestage stands developed in an ancient wood pasture in central Spain. Forestry 77:67–74 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Perea R, San Miguel A, Gil L (2011) Leftovers in seed dispersal: ecological implications of partial seed consumption for oak regeneration. J Ecol 99:194–201 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pe´rez-Ramos IM, Maran˜o´n T (2008) Factors affecting post-dispersal seed predation in two coexisting oak species: microhabitat, burial and exclusion of large herbivores. For Ecol Manage 255:3506–3514 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pons J, Pausas JG (2007) Rodent acorn selection in a Mediterranean oak landscape. Ecol Res 22:535–541 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Price MV, Joyner JW (1997) What resources are available to desert granivores: seed rain or soil seed bank? Ecology 78:764–773 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pulido FJ, Dı´az M (2005) Regeneration of a Mediterranean oak: a whole-cycle approach. Ecoscience 12:92–102 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sonesson LK (1994) Growth and survival after cotyledon removal in Quercus robur seedlings, grown in different natural soil types. Oikos 69:65–70 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Steele MA, Hadj-Chikh LZ, Hazeltine J (1996) Caching and feeding decisions by Sciurus carolinensis: responses to weevil-infested acorns. J Mammal 77:305–314 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Suszka B, Tylkowski T (1980) Storage of acorns of the English oak (Quercus robur L.) over 1–5 winters. Arboretum Ko´rnickie 25:199–229 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Valbuena-Caraban˜a M, Gonza´lez Martı´nez SC, Sork VL, Collada C, Soto A, Goicoechea PG, Gil L (2005) Gene flow and hybridisation in a mixed oak forest (Quercus pyrenaica Willd. and Quercus petraea (Matts.) Liebl. in central Spain. Heredity 95:457–465 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Vander Wall SB (2001) The evolutionary ecology of nut dispersal. Bot Rev 67:74–117 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Vander Wall SB, Kuhn KM, Beck MJ (2005) Seed removal, seed predation, and secondary dispersal. Ecology 86:801–806 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xiao ZS, Zhang ZB, Whang YS (2005) Effects of seed size on dispersal distance in five rodent-dispersed fagaceous species. Acta Oecol 28:221–229 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xiao ZS, Jansen PA, Zhang ZB (2006) Using seed-tagging methods for assessing post-dispersal seed fate in rodent-dispersed trees. For Ecol Manage 223:18–23 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Xiao ZS, Harris MK, Zhang ZB (2007) Acorn defenses to herbivory from insects: Implications for the joint evolution of resistance, tolerance and escape. For Ecol Manage 238:302–308 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                70,
+                914,
+                637
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Eur J Forest Res (2012) 131:623–631 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                305,
+                51
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "631 "
+                    }
+                ]
+            },
+            "bbox": [
+                889,
+                40,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "123 "
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                927,
+                915,
+                944
+            ]
+        }
+    ]
+]

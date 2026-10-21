@@ -1,0 +1,1422 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.873,
+                0.0,
+                0.894,
+                0.017
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.9,
+                0.004,
+                0.998,
+                0.014
+            ],
+            "angle": 0,
+            "content": "Check for updates"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.033,
+                0.229,
+                0.045
+            ],
+            "angle": 0,
+            "content": "Received: 29 November 2021"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.25,
+                0.033,
+                0.386,
+                0.045
+            ],
+            "angle": 0,
+            "content": "Revised: 21 January 2022"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.405,
+                0.034,
+                0.549,
+                0.045
+            ],
+            "angle": 0,
+            "content": "Accepted: 25 January 2022"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.052,
+                0.212,
+                0.063
+            ],
+            "angle": 0,
+            "content": "DOI: 10.1111/tbed.14470"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.084,
+                0.32,
+                0.099
+            ],
+            "angle": 0,
+            "content": "SHORT COMMUNICATION"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.51,
+                0.068,
+                0.764,
+                0.086
+            ],
+            "angle": 0,
+            "content": "Transboundary and Emerging Diseases"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.822,
+                0.074,
+                0.923,
+                0.094
+            ],
+            "angle": 0,
+            "content": "Wiley"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.135,
+                0.92,
+                0.191
+            ],
+            "angle": 0,
+            "content": "Cocirculation of Leptospira spp. and multiple orthohantaviruses in rodents, Lithuania, Northern Europe"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.219,
+                0.841,
+                0.285
+            ],
+            "angle": 0,
+            "content": "Kathrin Jeske<sup>1</sup> | Jana Schulz<sup>2</sup> | Duygu Tekemen<sup>3</sup> | Linas Balčiauskas<sup>4</sup> | Laima Balčiauskiené<sup>4</sup> | Melanie Hiltbrunner<sup>5</sup> | Stephan Drewes<sup>1</sup> | Anne Mayer-Scholl<sup>3</sup> | Gerald Heckel<sup>5,6</sup> | Rainer G. Ulrich<sup>1</sup>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.315,
+                0.304,
+                0.366
+            ],
+            "angle": 0,
+            "content": "\\(^{1}\\) Institute of Novel and Emerging Infectious Diseases, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Greifswald-Insel Riems, Germany"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.371,
+                0.304,
+                0.422
+            ],
+            "angle": 0,
+            "content": "\\(^{2}\\) Institute of Epidemiology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Greifswald-Insel Riems, Germany"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.427,
+                0.305,
+                0.465
+            ],
+            "angle": 0,
+            "content": "\\(^{3}\\) Department for Biological Safety, German Federal Institute for Risk Assessment, Berlin, Germany"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.47,
+                0.303,
+                0.482
+            ],
+            "angle": 0,
+            "content": "\\(^{4}\\) Nature Research Centre, Vilnius, Lithuania"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.488,
+                0.314,
+                0.513
+            ],
+            "angle": 0,
+            "content": "\\(^{5}\\) Institute of Ecology and Evolution, University of Bern, Bern, Switzerland"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.518,
+                0.311,
+                0.543
+            ],
+            "angle": 0,
+            "content": "\\(^{6}\\) Swiss Institute of Bioinformatics, Genopode, Lausanne, Switzerland"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.071,
+                0.315,
+                0.314,
+                0.543
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.56,
+                0.165,
+                0.571
+            ],
+            "angle": 0,
+            "content": "Correspondence"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.573,
+                0.309,
+                0.648
+            ],
+            "angle": 0,
+            "content": "Rainer G. Ulrich, Institute of Novel and Emerging Infectious Diseases, Friedrich-Loeffer-Institut, Federal Research Institute for Animal Health, Südufer 10, 17493 Greifswald-Insel Riems, Germany. Email: RainerUlrich@fli.de"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.664,
+                0.184,
+                0.676
+            ],
+            "angle": 0,
+            "content": "Funding information"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.677,
+                0.296,
+                0.753
+            ],
+            "angle": 0,
+            "content": "German Federal Ministry of Education and Research through the Research Network Zoonotic Infectious Diseases, Grant/Award Number: 01KI903B; Swiss National Science Foundation, Grant/Award Number: 31003A_176209"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.768,
+                0.3,
+                0.807
+            ],
+            "angle": 0,
+            "content": "[Corrections added on 24 March 2022, after first online publication: All the figures in this article have been updated.]"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.348,
+                0.325,
+                0.42,
+                0.34
+            ],
+            "angle": 0,
+            "content": "Abstract"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.346,
+                0.345,
+                0.917,
+                0.763
+            ],
+            "angle": 0,
+            "content": "In Europe, zoonotic Leptospira spp. and orthohantaviruses are mainly associated with specific rodent hosts. These pathogens cause febrile human diseases with similar symptoms and disease progression. In Lithuania, the presence of Dobrava-Belgrade orthohantavirus (DOBV), Tula orthohantavirus (TULV) and Leptospira spp. in rodent reservoirs is still unknown, and Puumala orthohantavirus (PUUV) was detected in bank voles (Clethrionomys glareolus) at only one site. Therefore, we collected and screened 1617 rodents and insectivores from Lithuania for zoonotic (re-)emerging Leptospira and orthohantaviruses. We detected Leptospira DNA in six rodent species, namely striped field mouse (Apodemus agrarius), yellow-necked mouse (Apodemus flavicollis), bank vole, common vole (Microtus arvalis), field vole (Microtus agrestis) and root vole (Microtus oeconomus). Leptospira DNA was detected with an overall mean prevalence of \\(4.4\\%\\) (range \\(3.7\\% - 7.9\\%\\) per rodent species). We detected DOBV RNA in \\(5.6\\%\\) of the striped field mice, PUUV RNA in \\(1\\%\\) of bank voles and TULV RNA in \\(4.6\\%\\) of common voles, but no Leptospira DNA in shrews and no hantavirus-Leptospira coinfections in rodents. Based on the complete coding sequences of the three genome segments, two distant DOBV phylogenetic lineages in striped field mice, one PUUV strain in bank voles and two TULV strains in common voles were identified. The Leptospira prevalence for striped field mice and yellow-necked mice indicated a significant negative effect of the distance to water points. The detection of (re-)emerging human pathogenic Leptospira and three orthohantaviruses in rodent reservoirs in Lithuania calls for increased awareness of public health institutions and allows the improvement of molecular diagnostics for pathogen identification."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.348,
+                0.779,
+                0.434,
+                0.79
+            ],
+            "angle": 0,
+            "content": "KEYWORDS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.347,
+                0.792,
+                0.915,
+                0.819
+            ],
+            "angle": 0,
+            "content": "Dobrava-Belgrade orthohantavirus, Leptospira kirschneri, Puumala orthohantavirus, reservoir, Tula orthohantavirus"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.071,
+                0.895,
+                0.925,
+                0.921
+            ],
+            "angle": 0,
+            "content": "This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.073,
+                0.922,
+                0.533,
+                0.934
+            ],
+            "angle": 0,
+            "content": "© 2022 The Authors. Transboundary and Emerging Diseases published by Wiley-VCH GmbH"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.073,
+                0.949,
+                0.11,
+                0.96
+            ],
+            "angle": 0,
+            "content": "e3196"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.137,
+                0.949,
+                0.323,
+                0.961
+            ],
+            "angle": 0,
+            "content": "wileyonlinelibrary.com/journal/tbed"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.687,
+                0.949,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": "Transbound Emerg Dis. 2022;69:e3196-e3201."
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.139,
+                0.037
+            ],
+            "angle": 0,
+            "content": "JESKE ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.448,
+                0.024,
+                0.703,
+                0.04
+            ],
+            "angle": 0,
+            "content": "Transboundary and Emerging Diseases"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.76,
+                0.03,
+                0.86,
+                0.049
+            ],
+            "angle": 0,
+            "content": "Wiley"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.887,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "e3197"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.059,
+                0.251,
+                0.073
+            ],
+            "angle": 0,
+            "content": "1 | INTRODUCTION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.094,
+                0.486,
+                0.373
+            ],
+            "angle": 0,
+            "content": "In Europe, zoonotic Leptospira spp. (e.g. Leptospira interrogans, Leptospira kirschneri and Leptospira borgpetersenii) and orthohantaviruses are mainly associated with specific rodent hosts. These rodents are persistently infected and shed these pathogens by excreta. The pathogens are transmitted to humans indirectly and cause human diseases with similar symptoms and disease progression such as field fever (Leptospira) and haemorrhagic fever with renal syndrome (HFRS) (orthohantaviruses), with case fatality rates up to \\(5\\% - 10\\%\\) (Drewes et al., 2017; Fischer et al., 2018). Dobrava-Belgrade orthohantavirus (DOBV) is classified into four genotypes, each being associated with different HFRS severity and a specific Apodemus sp. (Klempa et al., 2013). The natural reservoir of Puumala orthohantavirus (PUUV) is the bank vole (Clethrionomys glareolus syn. Myodes glareolus) (Drewes et al., 2017), whereas Tula orthohantavirus (TULV) is harboured by common voles (Microtus arvalis) and related species (Schmidt et al., 2016). Rusne virus, a strain of Tatenale orthohantavirus, was recently identified in root voles (Microtus oeconomus) from Lithuania (Drewes et al., 2021)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.375,
+                0.486,
+                0.505
+            ],
+            "angle": 0,
+            "content": "In Lithuania, PUUV- and DOBV-reactive antibodies were detected in human serum samples (Sandmann et al., 2005). So far, PUUV was detected only in bank voles at site Lukstas, Eastern Lithuania (Straková et al., 2017); the presence of DOBV, TULV and Leptospira spp. in rodent reservoirs is still unknown. Therefore, we performed a Lithuania wide small mammal screening for Leptospira and orthohantaviruses and evaluated the association between their prevalence and individual and population-based factors."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.539,
+                0.345,
+                0.554
+            ],
+            "angle": 0,
+            "content": "2 MATERIALS AND METHODS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.574,
+                0.486,
+                0.687
+            ],
+            "angle": 0,
+            "content": "One thousand five hundred twenty-three rodents and 94 shrews were trapped between 2016 and 2018 at 23 sites in Lithuania (Figure 1, Tables S1 and S2). Trapping, dissection, Leptospira PCR and orthohantavirus reverse transcription-polymerase chain reaction (RT-PCR) testing and phylogenetic and statistical analyses followed standard procedures (for details see the Supporting Information and Table S3 for used primers)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.721,
+                0.192,
+                0.736
+            ],
+            "angle": 0,
+            "content": "3 | RESULTS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.756,
+                0.486,
+                0.936
+            ],
+            "angle": 0,
+            "content": "Leptospira DNA was detected in rodents from all five regions of Lithuania, at 11 of 23 sites, with an overall mean prevalence of \\(4.4\\%\\) and mean prevalence for positive sites of \\(5.7\\%\\) (range \\(1.1\\% - 27.8\\%\\)), but not at all in shrews (Figure 1, Tables S1 and S2). Further characterization revealed L. kirschneri in yellow-necked mouse (Apodemus flavicollis), striped field mouse (Apodemus agrarius), common vole and bank vole, and sequence type 110 in yellow-necked mouse, common vole and bank vole (Table S2). In univariable analyses, several individual and population-based factors were significant (Table S4) and thus, included in generalized logistic regression models for each host species. After stepwise-backward reduction, a significant effect of the region and dis"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.06,
+                0.924,
+                0.09
+            ],
+            "angle": 0,
+            "content": "tance to water points was shown for striped field mouse; for yellow-necked mouse distance to water points and weight (Table S5)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.092,
+                0.925,
+                0.321
+            ],
+            "angle": 0,
+            "content": "We detected DOBV RNA in \\(5.6\\%\\) of the striped field mice. Positive samples originated from four of 19 sites in Lithuania (Tables S2 and S6). At Rusné Island, West Lithuania, DOBV was present during the whole study period 2016-2018 (Table S2). Complete S, M and L segment coding sequences (CDS) and partial S segment sequences revealed the DOBV strains at three sites in Central, North and East Lithuania to be closely related (Figure 1, sites 4, 11 and 19). The complete and partial DOBV CDS from Rusné Island (site 15, Figure 1) is genetically different from the sequences from the more eastern parts of Lithuania (Figure 2a, Figure S1b,c, Table S11). The univariable analysis for DOBV infection in striped field mice revealed several significant factors (Table S4), but the multivariable analysis indicated a significant effect only for the comparison of years 2016 versus 2017 and 2017 versus 2018 (Table S5)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.324,
+                0.926,
+                0.47
+            ],
+            "angle": 0,
+            "content": "PUUV RNA was detected in four of 418 (1%) bank voles; positive voles originated from two of 13 sites in 2018, one located in the Central and the other in the Eastern part of Lithuania: Dembava (1/6, site 5) and Lukstas (3/77, site 11) (Tables S2 and S6 and Figure 1). PUUV-positive bank voles belonged to the Eastern and Carpathian evolutionary lineages in this species (Table S10). The complete S, M and L segment CDS of PUUV from Dembava and the novel partial S segment sequence from Lukstas clustered with published sequences from Lukstas within the Latvian (LAT) clade (Figure 2b, Figure S2a-c, Table S12)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.473,
+                0.926,
+                0.62
+            ],
+            "angle": 0,
+            "content": "TULV RNA was detected in seven of 153 (4.6%) common voles, all trapped in 2018, but not in any other Microtus spp. \\((n = 79)\\) (Tables S1 and S2). TULV-positive common voles originated from three of 16 trapping sites: Kalpokai (1/6, site 8), Mieliūnai (5/29, site 12) and Naradava (1/5, site 13, Tables S2 and S6, Figure S1). Sequencing of the complete CDS of the S, M and L segment of two samples and phylogenetic analyses revealed genetic distinctness from other European phylogenetic clades and closest similarity with strains from Russia, Kazakhstan and China (Figure 2c, Figure S3a-c, Table S13)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.654,
+                0.661,
+                0.669
+            ],
+            "angle": 0,
+            "content": "4 | DISCUSSION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.689,
+                0.925,
+                0.884
+            ],
+            "angle": 0,
+            "content": "Here, we detected Leptospira in six rodent species in Lithuania, but not in any shrew. Leptospira spp. prevalence in rodents from Lithuania was overall much lower than reported for other parts of Europe (Fischer et al., 2018). This discrepancy might be caused by environmental factors, such as rainfall, ground humidity and temperature, which can influence Leptospira survival outside the host and thereby transmission (Morand et al., 2019; Thibeaux et al., 2018). In our study, yellow-necked mice showed the highest Leptospira prevalence. In contrast, a study in Germany revealed much higher mean prevalence in common voles (Fischer et al., 2018). The significant influence of weight (as proxy for age) for yellow-necked mice (Tables S4 and S5) is in line with previous studies and explained by a persistent infection (Fischer et al., 2018)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.888,
+                0.925,
+                0.934
+            ],
+            "angle": 0,
+            "content": "We detected here for the first time DOBV in the reservoir in Lithuania; a similar low prevalence of DOBV RNA in striped field mice was previously found in Hungary (6.8%) (Kurucz et al., 2018). The"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "18651682, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tbed.14470 by Bcu Lausanne, Wiley Online Library on [09/10/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.074,
+                0.027,
+                0.11,
+                0.037
+            ],
+            "angle": 0,
+            "content": "e3198"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.139,
+                0.031,
+                0.239,
+                0.048
+            ],
+            "angle": 0,
+            "content": "Wiley"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.253,
+                0.024,
+                0.503,
+                0.04
+            ],
+            "angle": 0,
+            "content": "Transboundary and Emerging Diseases"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.858,
+                0.026,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "JESKE ET AL."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.073,
+                0.059,
+                0.928,
+                0.489
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.071,
+                0.501,
+                0.925,
+                0.601
+            ],
+            "angle": 0,
+            "content": "FIGURE 1 Map of rodent and shrew trapping locations in Lithuania and results of Leptospira and Dobrava-Belgrade orthohantavirus (DOBV), Puumala orthohantavirus (PUUV) and Tula orthohantavirus (TULV) PCR/RT-PCR screening. Lithuania was divided into five regions according to an earlier publication (Balčiauskas et al., 2019): Central, West, East, South and North. In the lower left part, a map of Europe with the location of Lithuania (highlighted in black) is given. Trapping sites: (1) Aukšikalniai, (2) Čužožeriai, (3) Barčiai, (4) Biržai district, Guodžiai, (5) Dembava, (6) Gauré, (7) Juodkranté, (8) Kalpokai, (9) Kvedarna, (10) Luksnéni, (11) Lukstas, (12) Mieliūnai, (13) Naradava, (14) Nemuno kilpos, (15) Rusné (16) Tauragiré near Bezdonys, (17) Taujénai, (18) Trakai, (19) Tytuvénai, (20) Užpaliai, (21) Užubaliai, (22) Žiegelis lake, (23) Vabalninkas. At site Rusné (15), a previous study detected Rusne virus, a strain of Tatenale orthohantavirus (Drewes et al., 2021)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.637,
+                0.486,
+                0.8
+            ],
+            "angle": 0,
+            "content": "occurrence of highly divergent DOBV strains in Lithuania might be explained by two separate routes of host-mediated DOBV spread and/or the geographic isolation of striped field mouse populations. Of note, the striped field mouse is a pioneer species in the Nemunas River Delta (Rusné) after annual flooding (Balčiauskas et al., 2012). The significant effect on the DOBV prevalence seen by comparison of years 2016 versus 2017 and 2017 versus 2018 (Table S5) suggests that annual variation of striped field mouse population density influences DOBV prevalence, as shown, for example, for PUUV in bank voles (Khalil et al., 2016)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.803,
+                0.486,
+                0.918
+            ],
+            "angle": 0,
+            "content": "The detection of PUUV RNA in bank voles in Lukstas in 2018 is in line with its detection at this site in 2015 (Straková et al., 2017). The estimated PUUV RNA prevalence at both sites in 2018, \\(3.9\\%\\) and \\(16.7\\%\\), respectively, is similar to that observed for Lukstas in 2015 \\((11.1\\%)\\) (Straková et al., 2017), but rather small in comparison with some endemic sites in Germany with seasonal prevalence of up to \\(100\\%\\) (Drewes et al., 2017). The low prevalence and small geographic"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.637,
+                0.925,
+                0.7
+            ],
+            "angle": 0,
+            "content": "spread of PUUV in our study in Lithuania might be due to ecological factors, including the beech distribution (Bolte et al., 2007), that might limit the size of local bank vole populations and in consequence persistence of PUUV over time."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.703,
+                0.926,
+                0.833
+            ],
+            "angle": 0,
+            "content": "This is the first report of TULV in voles from Lithuania and Northern Europe. The observed mean TULV prevalence of \\(4.6\\%\\) (range \\(14.3\\% - 20.0\\%\\) at positive sites) in common voles is similar to that in other European countries such as Germany \\((15.8\\%)\\) and France \\((23.1\\%)\\) (Schmidt et al., 2016; Saxenhofer et al., 2019). Common voles seem to act as main or even exclusive reservoirs for TULV in Lithuania, although TULV-positive field voles were reported in other European countries before (Schmidt et al., 2016)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.836,
+                0.927,
+                0.917
+            ],
+            "angle": 0,
+            "content": "In conclusion, we identified Leptospira DNA in various rodent species, two DOBV lineages in striped field mice, a novel PUUV strain in bank voles and three TULV strains in common voles, but no Leptospira DNA in shrews and no hantavirus-Leptospira coinfections in rodents. The determination of complete CDS of Lithuanian DOBV, TULV and"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "18651682, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tbed.14470 by Bcu Lausanne, Wiley Online Library on [09/10/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.139,
+                0.037
+            ],
+            "angle": 0,
+            "content": "JESKE ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.449,
+                0.024,
+                0.701,
+                0.04
+            ],
+            "angle": 0,
+            "content": "Transboundary and Emerging Diseases"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.76,
+                0.029,
+                0.86,
+                0.048
+            ],
+            "angle": 0,
+            "content": "Wiley"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.887,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "e3199"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.102,
+                0.06,
+                0.496,
+                0.407
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.501,
+                0.066,
+                0.904,
+                0.37
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.092,
+                0.428,
+                0.454,
+                0.684
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.071,
+                0.698,
+                0.925,
+                0.88
+            ],
+            "angle": 0,
+            "content": "FIGURE 2 Phylogenetic consensus trees of complete coding sequences (CDS) of the S segments of Dobrava-Belgrade orthohantavirus (DOBV, a), Puumala orthohantavirus (PUUV, b) and Tula orthohantavirus (TULV, c). Names in bold indicate newly generated sequences. For identical DOBV, PUUV and TULV sequences see Table S6; for sequences in condensed clades see Tables S7, S8 and S9. Consensus trees are based on Bayesian analyses with \\(1 \\times 10^{7}\\) generations and a burn-in phase of \\(25\\%\\), and maximum-likelihood analyses, with 1000 bootstraps and \\(50\\%\\) cut-off using the general time reversible (GTR) substitution model with invariant sites and a gamma distributed-shape parameter for both algorithms. Posterior probability values \\(>95\\%/\\) bootstrap values \\(>75\\) are given at the supported nodes. See Supporting Information for details of tree reconstruction. *S segment CDS of DOBV strain 2018Rus_2 is identical with 2017_Rus_56 strain (see Table S6). Designation of DOBV genotypes followed a nomenclature previously introduced (Klempa et al., 2013). Outgroups are Sangassou orthohantavirus, Seoul orthohantavirus, Thailand orthohantavirus and Hantaan orthohantavirus. Designation of clades for PUUV were Alpe-Adrian (ALAD), Central European (CE), Danish (DAN), Finnish (FIN), Latvian (LAT), Northern-Scandinavian (N-SCA), Russian (RUS), Southern-Scandinavian (S-SCA) that was used before (Drewes et al., 2017). Tula orthohantavirus was used as an outgroup. Designation of TULV clades Central North (CEN.N), Central South (CEN.S), Eastern North (EST.N) and Eastern South (EST.S) followed the nomenclature of Saxenhofer et al. (2019). Puumala orthohantavirus and Tatenale orthohantavirus were used as outgroup. Abbreviations: Aa, Apodemus agrarius; Af, Apodemus flavicollis"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "18651682, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tbed.14470 by Bcu Lausanne, Wiley Online Library on [09/10/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.074,
+                0.027,
+                0.11,
+                0.037
+            ],
+            "angle": 0,
+            "content": "e3200"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.139,
+                0.03,
+                0.239,
+                0.049
+            ],
+            "angle": 0,
+            "content": "Wiley"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.253,
+                0.024,
+                0.504,
+                0.04
+            ],
+            "angle": 0,
+            "content": "Transboundary and Emerging Diseases"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.858,
+                0.026,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "JESKE ET AL."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.06,
+                0.486,
+                0.337
+            ],
+            "angle": 0,
+            "content": "PUUV strains will allow the optimization of molecular diagnostics in human patients. Public health institutions in Lithuania should be aware of the cocirculation of these zoonotic pathogens and develop adequate public health measures. The broad geographic distribution of common voles, bank voles and yellow-necked mice warrants future studies on the influence of environmental factors on orthohantaviruses, Leptospira spp. and other zoonotic pathogens across Europe, particularly in the light of climate change and extreme weather events. Further investigations on orthohantaviruses should focus on the influence of geographic isolation and founder effects, and the importance of evolutionarily divergent lineages of the reservoir hosts for the molecular evolution of orthohantaviruses (Hiltbrunner & Heckel, 2020; Saxenhofer et al., 2019). Finally, the influence of coinfections with other infectious agents, and particularly immunosuppressive agents, as well as the microbiome on the host susceptibility and potential pathogenic consequences of orthohantaviruses and Leptospira should be evaluated."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.372,
+                0.283,
+                0.387
+            ],
+            "angle": 0,
+            "content": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.407,
+                0.486,
+                0.537
+            ],
+            "angle": 0,
+            "content": "We thank Dörte Kaufmann, Patrick Slowikowski (Institute of Novel and Emerging Infectious Diseases), and Patrick Wysocki (Institute of Epidemiology) for help in preparing samples for extraction and generation of Figure 1, respectively. This study was supported by the German Federal Ministry of Education and Research through the Research Network Zoonotic Infectious Diseases (ZooKolnfekt, FKZ 01KI903B awarded to Rainer G. Ulrich). Gerald Heckel was supported by the Swiss National Science Foundation, grant 31003A_176209."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.557,
+                0.258,
+                0.569
+            ],
+            "angle": 0,
+            "content": "CONFLICT OF INTEREST"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.573,
+                0.324,
+                0.586
+            ],
+            "angle": 0,
+            "content": "The authors declare no conflict of interest."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.606,
+                0.226,
+                0.618
+            ],
+            "angle": 0,
+            "content": "ETHICS STATEMENT"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.623,
+                0.486,
+                0.67
+            ],
+            "angle": 0,
+            "content": "The authors confirm that the ethical policies of the journal, as noted on the journal's author guidelines page, have been adhered to. All relevant guidelines for the use of animals in scientific studies were followed."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.689,
+                0.32,
+                0.701
+            ],
+            "angle": 0,
+            "content": "DATA AVAILABILITY STATEMENT"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.706,
+                0.486,
+                0.752
+            ],
+            "angle": 0,
+            "content": "The entire information on the rodents and shrews investigated here is given in Supporting information Tables. All new orthohantavirus sequences are deposited at GenBank."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.074,
+                0.772,
+                0.127,
+                0.784
+            ],
+            "angle": 0,
+            "content": "ORCID"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.787,
+                0.414,
+                0.802
+            ],
+            "angle": 0,
+            "content": "Kathrin Jeske https://orcid.org/0000-0001-8573-4588"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.804,
+                0.404,
+                0.818
+            ],
+            "angle": 0,
+            "content": "Jana Schulz https://orcid.org/0000-0002-5719-4542"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.821,
+                0.433,
+                0.835
+            ],
+            "angle": 0,
+            "content": "Linas Balčiauskas https://orcid.org/0000-0001-9672-5265"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.837,
+                0.448,
+                0.851
+            ],
+            "angle": 0,
+            "content": "Laima Balciauskiene https://orcid.org/0000-0002-4641-7675"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.854,
+                0.448,
+                0.868
+            ],
+            "angle": 0,
+            "content": "Melanie Hiltbrunner https://orcid.org/0000-0001-8214-9375"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.87,
+                0.428,
+                0.884
+            ],
+            "angle": 0,
+            "content": "Stephan Drewes https://orcid.org/0000-0003-1240-147X"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.887,
+                0.442,
+                0.901
+            ],
+            "angle": 0,
+            "content": "Anne Mayer-Scholl https://orcid.org/0000-0001-6844-6330"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.904,
+                0.415,
+                0.918
+            ],
+            "angle": 0,
+            "content": "Gerald Heckel https://orcid.org/0000-0002-0162-323X"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.921,
+                0.423,
+                0.934
+            ],
+            "angle": 0,
+            "content": "Rainer G. Ulrich https://orcid.org/0000-0002-5620-1528"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.074,
+                0.787,
+                0.448,
+                0.934
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.513,
+                0.06,
+                0.612,
+                0.072
+            ],
+            "angle": 0,
+            "content": "REFERENCES"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.077,
+                0.925,
+                0.116
+            ],
+            "angle": 0,
+            "content": "Balčiauskas, L., Balčiauskiene, L., & Janonytě, A. (2012). The influence of spring floods on small mammal communities in the Nemunas River Delta, Lithuania. Biologica, 67(6), 1220-1229."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.118,
+                0.925,
+                0.156
+            ],
+            "angle": 0,
+            "content": "Balcauskas, L., Balcauskiené, L., & Stirké, V. (2019). Mow the grass at the mouse's peril: Diversity of small mammals in commercial fruit farms. Animals, 9(6), 334. https://doi.org/10.3390/ani9060334"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.158,
+                0.926,
+                0.196
+            ],
+            "angle": 0,
+            "content": "Bolte, A., Czajkowski, T., & Kompa, T. J. F. (2007). The north-eastern distribution range of European beech—A review. Forestry: An International Journal of Forest Research, 80(4), 413-429."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.198,
+                0.926,
+                0.262
+            ],
+            "angle": 0,
+            "content": "Drewes, S., Ali, H. S., Saxenhofer, M., Rosenfeld, U. M., Binder, F., Cuypers, F., Schlegel, M., Röhrs, S., Heckel, G., & Ulrich, R. G. (2017). Host-associated absence of human Puumala virus infections in northern and eastern Germany. Emerging Infectious Diseases, 23(1), 83-86. https://doi.org/10.3201/eid2301.160224"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.265,
+                0.926,
+                0.343
+            ],
+            "angle": 0,
+            "content": "Drewes, S., Jeske, K., Straková, P., Balčiauskas, L., Ryll, R., Balčiauskiené, L., Kohlhouse, D., Schnidrig, G.-A., Hiltbrunner, M., Špakova, A., Insodaité, R., Burneikiené, R., Heckel, G., & Ulrich, R. G. (2021). Identification of a novel hantavirus strain in the root vole (Microtus oeconomus) in Lithuania, Eastern Europe. Infection, Genetics and Evolution, 90, 104520. https://doi.org/10.1016/j.meegid.2020.104520"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.345,
+                0.926,
+                0.41
+            ],
+            "angle": 0,
+            "content": "Fischer, S., Mayer-Scholl, A., Imholt, C., Spierling, N. G., Heuser, E., Schmidt, S., Reil, D., Rosenfeld, U. M., Jacob, J., Nockler, K., & Ulrich, R. G. (2018). Leptospira genomospecies and sequence type prevalence in small mammal populations in Germany. Vector Borne and Zoonotic Diseases, 18(4), 188-199. https://doi.org/10.1089/vbz.2017.2140"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.412,
+                0.925,
+                0.451
+            ],
+            "angle": 0,
+            "content": "Hiltbrunner, M., & Heckel, G. (2020). Assessing genome-wide diversity in european hantaviruses through sequence capture from natural host samples. Viruses, 12(7), 749. https://doi.org/10.3390/v12070749"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.452,
+                0.925,
+                0.49
+            ],
+            "angle": 0,
+            "content": "Khalil, H., Ecke, F., Evander, M., Magnusson, M., & Hornfeldt, B. (2016). Declining ecosystem health and the dilution effect. Science Reports, 6, 31314. https://doi.org/10.1038/srep31314"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.492,
+                0.925,
+                0.57
+            ],
+            "angle": 0,
+            "content": "Klempa, B., Avsic-Zupanc, T., Clement, J., Dzagurova, T. K., Henttonen, H., Heyman, P., Jakab, F., Kruger, D. H., Maes, P., Papa, A., Tkachenko, E. A., Ulrich, R. G., Vapalahti, O., & Vaheri, A. (2013). Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: Definition of genotypes and their characteristics. Archives of Virology, 158(3), 521-529. https://doi.org/10.1007/s00705-012-1514-5"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.572,
+                0.925,
+                0.637
+            ],
+            "angle": 0,
+            "content": "Kurucz, K., Madai, M., Bali, D., Hederics, D., Horvath, G., Kemenesi, G., & Jakab, F. (2018). Parallel survey of two widespread renal syndrome-causing zoonoses: Leptospira spp. and Hantavirus in urban environment, Hungary. Vector Borne and Zoonotic Diseases, 18(4), 200-205. https://doi.org/10.1089/vbz.2017.2204"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.639,
+                0.925,
+                0.718
+            ],
+            "angle": 0,
+            "content": "Morand, S., Blasdell, K., Bordes, F., Buchy, P., Carcy, B., Chaisiri, K., Chaval, Y., Claude, J., Cosson, J.-F., Desquesnes, M., Jittapalapong, S., Jiyipong, T., Karnchanabanthoen, A., Pornpan, P., Rolain, J.-M., & Tran, A. (2019). Changing landscapes of Southeast Asia and rodent-borne diseases: Decreased diversity but increased transmission risks. Ecological Applications, 29(4), e01886. https://doi.org/10.1002/eap.1886"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.719,
+                0.925,
+                0.77
+            ],
+            "angle": 0,
+            "content": "Sandmann, S., Meisel, H., Razanskiene, A., Wolbert, A., Pohl, B., Krüger, D. H., & Ulrich, R. (2005). Detection of human hantavirus infections in Lithuania. Infection, 33(2), 66-72. https://doi.org/10.1007/s15010-005-4058-8"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.772,
+                0.925,
+                0.825
+            ],
+            "angle": 0,
+            "content": "Saxenhofer, M., Schmidt, S., Ulrich, R. G., & Heckel, G. (2019). Secondary contact between diverged host lineages entails ecological speciation in a European hantavirus. PLoS Biology, 17(2), e3000142. https://doi.org/10. 1371/journal.pbio.3000142"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.826,
+                0.925,
+                0.905
+            ],
+            "angle": 0,
+            "content": "Schmidt, S., Saxenhofer, M., Drewes, S., Schlegel, M., Wanka, K. M., Frank, R., Klimpel, S., von Blanckenhagen, F., Maaz, D., Herden, C., Freise, J., Wolf, R., Stubbe, M., Borkenhagen, P., Ansorge, H., Eccard, J. A., Lang, J., Jourdain, E., Jacob, J., ... Ulrich, R. G. (2016). High genetic structuring of Tula hantavirus. Archives of Virology, 161(5), 1135-1149. https://doi.org/10.1007/s00705-016-2762-6"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.906,
+                0.925,
+                0.932
+            ],
+            "angle": 0,
+            "content": "Straková, P., Jagdmann, S., Balčiauskas, L., Balčiauskiené, L., Drewes, S., & Ulrich, R. G. (2017). Puumala virus in bank voles, Lithuania."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.513,
+                0.077,
+                0.926,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "1865162, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tbed.14470 by Bcu Lausanne, Wiley Online Library on [09/10/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.139,
+                0.037
+            ],
+            "angle": 0,
+            "content": "JESKE ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.449,
+                0.024,
+                0.701,
+                0.039
+            ],
+            "angle": 0,
+            "content": "Transboundary and Emerging Diseases"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.761,
+                0.03,
+                0.86,
+                0.049
+            ],
+            "angle": 0,
+            "content": "Wiley"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.887,
+                0.027,
+                0.923,
+                0.037
+            ],
+            "angle": 0,
+            "content": "e3201"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.073,
+                0.06,
+                0.486,
+                0.085
+            ],
+            "angle": 0,
+            "content": "Emerging Infectious Diseases, 23(1), 158-160. https://doi.org/10.3201/eid2301.161400"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.076,
+                0.088,
+                0.486,
+                0.152
+            ],
+            "angle": 0,
+            "content": "Thibeaux, R., Girault, D., Bierque, E., Soupe-Gilbert, M. E., Rettinger, A., Douyere, A., Douyere, A., Meyer, M., Iraola, G., Picardeau, M., & Goarant, C. (2018). Biodiversity of environmental Leptospira: Improving identification and revisiting the diagnosis. Front Microbiol, 9, 816. https://doi.org/10.3389/fmicb.2018.00816"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.073,
+                0.06,
+                0.486,
+                0.152
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.174,
+                0.29,
+                0.186
+            ],
+            "angle": 0,
+            "content": "SUPPORTING INFORMATION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.191,
+                0.485,
+                0.221
+            ],
+            "angle": 0,
+            "content": "Additional supporting information may be found in the online version of the article at the publisher's website."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.533,
+                0.074,
+                0.894,
+                0.12
+            ],
+            "angle": 0,
+            "content": "How to cite this article: Jeske, K., Schulz, J., Tekemen, D., Balčiauskas, L., Balčiauskiené, L., Hiltbrunner, M., Drewes, S., Mayer-Scholl, A., Heckel, G., & Ulrich, R. G. (2022)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.534,
+                0.124,
+                0.903,
+                0.169
+            ],
+            "angle": 0,
+            "content": "Cocirculation of Leptospira spp. and multiple orthohantaviruses in rodents, Lithuania, Northern Europe. Transboundary and Emerging Diseases, 69, e3196-e3201."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.535,
+                0.174,
+                0.751,
+                0.187
+            ],
+            "angle": 0,
+            "content": "https://doi.org/10.1111/tbed.14470"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.533,
+                0.074,
+                0.903,
+                0.187
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "18651682, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tbed.14470 by Bcu Lausanne, Wiley Online Library on [09/10/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ]
+]

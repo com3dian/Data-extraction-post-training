@@ -1,0 +1,256 @@
+# Multiple Infections of Rodents with Zoonotic Pathogens in Austria
+
+Sabrina Schmidt<sup>1</sup>, Sandra S. Essbauer,<sup>2</sup>, Anne Mayer-Scholl,<sup>3</sup>, Sven Poppert,<sup>4</sup>, Jonas Schmidt-Chanasit,<sup>5</sup>, Boris Klempa,<sup>6</sup>, Klaus Henning,<sup>7</sup>, Gereon Schares,<sup>8</sup>, Martin H. Groschup,<sup>1</sup>, Friederike Spitzenberger,<sup>9</sup>, Dania Richter,<sup>10</sup>, Gerald Heckel,<sup>11</sup> and Rainer G. Ulrich<sup>1</sup>
+
+# Abstract
+
+Rodents are important reservoirs for a large number of zoonotic pathogens. We examined the occurrence of 11 viral, bacterial, and parasitic agents in rodent populations in Austria, including three different hantaviruses, lymphocytic choriomeningitis virus, orthopox virus, Leptospira spp., Borrelia spp., Rickettsia spp., Bartonella spp., Coxiella burnetii, and Toxoplasma gondii. In 2008, 110 rodents of four species (40 Clethrionomys glareolus, 29 Apodemus flavicollis, 26 Apodemus sylvaticus, and 15 Microtus arvalis) were trapped at two rural sites in Lower Austria. Chest cavity fluid and samples of lung, spleen, kidney, liver, brain, and ear pinna skin were collected. We screened selected tissue samples for hantaviruses, lymphocytic choriomeningitis virus, orthopox viruses, Leptospira, Borrelia, Rickettsia, Bartonella spp., C. burnetii, and T. gondii by RT-PCR/PCR and detected nucleic acids of Tula hantavirus, Leptospira spp., Borrelia afzelii, Rickettsia spp., and different Bartonella species. Serological investigations were performed for hantaviruses, lymphocytic choriomeningitis virus, orthopox viruses, and Rickettsia spp. Here, Dobrava-Belgrade hantavirus-, Tula hantavirus-, lymphocytic choriomeningitis virus-, orthopox virus-, and rickettsia-specific antibodies were demonstrated. Puumala hantavirus, C. burnetii, and T. gondii were neither detected by RT-PCR/PCR nor by serological methods. In addition, multiple infections with up to three pathogens were shown in nine animals of three rodent species from different trapping sites. In conclusion, these results show that rodents in Austria may host multiple zoonotic pathogens. Our observation raises important questions regarding the interactions of different pathogens in the host, the countermeasures of the host's immune system, the impact of the host-pathogen interaction on the fitness of the host, and the spread of infectious agents among wild rodents and from those to other animals or humans.
+
+Key Words: Rodents—Rodent-borne pathogens—Tick-borne pathogens—Austria—Multiple infections.
+
+# Introduction
+
+IN THE LAST DECADES, the incidence of human diseases caused by zoonotic viruses, bacteria, and parasites that are associated with small mammal reservoirs appears to
+
+have increased (Meerburg et al. 2009). In Europe bank vole-associated Puumala virus (PUUV), different genotypes of Dobrava-Belgrade virus (DOBV) hosted by various Apodemus species and perhaps Tula virus (TULV) cause hemorrhagic fever with renal syndrome (HFRS) of different severity
+
+(Heyman et al. 2011, Klempa et al. 2013). For some other viral agents, such as lymphocytic choriomeningitis virus (LCMV) and cowpox virus (CPXV), a member of the genus Orthopoxvirus (OPV), the role of rodent reservoirs in Central Europe is unknown. LCMV causes infections in humans of varying severity from asymptomatic disease to severe meningitis (Emonet et al. 2007, Ceianu et al. 2008, Pérez-Ruiz et al. 2012), and sporadic CPXV infections have been described in humans, domestic, and zoo animals (Essbauer et al. 2010).
+
+For bacterially induced zoonoses, leptospirosis is an emerging disease of global importance with a variation in the severity of symptoms (Bharti et al. 2003). Outbreaks are often associated with agricultural work or leisure activities involving exposure to freshwater (Desai et al. 2009). Bartonella henselae is the most important pathogenic Bartonella species in Europe. It is transmitted by cats and causes cat scratch disease and more rarely endocarditis, bacillary angiomatosis, and peliosis hepatitis in immunodeficient patients (Kaiser et al. 2011). For many Bartonella spp., the pathogenicity is not known (e.g., B. taylorii, B. doshiae, B. birtesii), but some have been proven to cause endocarditis, bacterimia, and neuroretinitis (B. grahamii, B. tamiae) (Breitschwerdt et al. 2013). Coxiella burnetii may cause severe infections, i.e., Q fever with pneumonia as typical symptom. The main sources for these infections are infected ruminants in which the agent may cause abortion and infertility. But other mammals, including rodents, are susceptible to infection with C. burnetii and may contribute to its transmission (Meerburg and Reusken 2011).
+
+Rodents are also considered important reservoirs for different arthropod-borne bacteria (Hoogstraal 1967, Stanek and Strle 2003). Borrelia afzelii, the most prevalent spirochete causing Lyme disease in Europe, is perpetuated in a cycle involving rodents and Ixodes ricinus ticks (Richter et al. 2004a). Borrelia Bavariensis, B. spielmanii, and B. burgdorferi sensu stricto (s.s.) are also associated with rodents, but generally infect fewer questing ticks (Richter et al. 2004b, Margos et al. 2009). Rickettsiosis is an increasing health problem in Europe (Parola and Raoult 2001), but studies in rodents as reservoirs are rare (Spitalska et al. 2008). Recently, a rodent survey identified Rickettsia felis and R. helvetica in rodents in southeastern Germany (Schex et al. 2011).
+
+Rodents are also involved in the transmission cycles of endoparasites, such as Toxoplasma gondii (Mills and Childs 1998). Ingestion of $T.$ gondii-infected tissues by felids, e.g., domestic cats, may result in shedding of high numbers of environmentally resistant oocysts, from which infection is passed orally to humans (Dubey et al. 2004). Prenatal infections may cause abortion, and postnatal infections of immune-suppressed persons cause serious and occasionally fatal illness.
+
+Here, we describe a survey for selected viruses, bacteria, and parasites in rodents captured in two areas in Lower Austria.
+
+# Materials and Methods
+
+# Rodent trapping and necropsy
+
+In October, 2008, rodents were trapped in 565 snap traps during one night at five rural sites in the municipality of Laa an der Thaya and two rural sites in the municipality of Altenburg, northern Lower Austria, near the Czech border (Table 1, Fig. 1). Rodent necropsy and collection of chest cavity fluid (CCF) and tissue samples followed previously
+
+established standard protocols. Morphological species determination was confirmed by PCR and sequencing of the partial mitochondrial cytochrome $b$ (cyt $b$ ) gene (Fink et al. 2010, Schlegel, et al. 2012b). Rodent species and genetic affiliations within species were determined by sequence comparisons against GenBank entries using the BLAST algorithm (www.ncbi.nlm.nih.gov) and against species-specific cyt $b$ datasets covering all genetic lineages within these rodents (Michaux et al. 2003, Heckel et al. 2005, Michaux et al. 2005, Dubey et al. 2009, Wojcik et al. 2010, Sutter et al. 2013).
+
+# Serology
+
+Serological investigations of CCF samples were performed using previously published protocols (Table 2).
+
+# Nucleic acid isolation
+
+DNA and RNA were extracted from tissue samples using commercial kits (Qiagen Tissue Kit, QIAamp DNA Mini Kit, Qiagen, Hilden, Germany; Nucleospin DNA Tissue Kit, Macherey-Nagel, Duren, Germany; RTP DNA/RNA Virus Mini Kit, Invitek, Berlin, Germany) according to the manufacturers' instructions. Alternatively, RNA extraction was performed using a modified QIAzol extraction protocol (Schlegel et al. 2012a).
+
+# RT-PCR, PCR, and sequence analysis
+
+Various published real-time and conventional RT-PCR/ PCR and standard sequencing protocols were used for screening for viral, bacterial, and parasite-derived nucleic acids (Table 3). In addition, a conventional Toxoplasma-specific PCR and a novel Bartonella-specific real-time PCR targeting a fragment of the $\beta$ -subunit of bacterial RNA polymerase were performed (for details, see Table 3).
+
+# Results
+
+# Rodent trapping
+
+A total of 110 rodents were captured including 29 Apodemus flavicollis, 26 A. sylvaticus, 40 Clethrionomys glareolus (for the valid generic name of the bank vole, see Tesakov et al. 2010), and 15 Microtus arvalis (Table 1). The capture of 19.5 rodents consisting of only four species per 100 trap nights indicates a very high abundance of relatively low rodent diversity. According to the cyt $b$ sequences, all rodents belonged to a single genetic lineage per species, each with large geographic distribution. Bank voles belonged to the Carpathian lineage (distribution, Eastern Europe/Balkans; Wojcik et al. 2010) and all common voles to the Eastern lineage (Eastern Europe; Heckel et al. 2005). Yellow-necked field mice and wood mice were represented by the clade C (Western Palaearctic distribution; Michaux et al. 2005) and the subclade 2b (Western/Central/Northern Europe; Michaux et al. 2003), respectively.
+
+# Detection of viral infections
+
+Serological screening of bank voles for hantavirus (PUUV)-specific antibodies and PUUV/TULV S-specific RT-PCR revealed no positive animal (Table 1). One of the 29 $(3.4\%)$ yellow-necked field mice was seropositive in the DOBV-immunoglobulin G (IgG) enzyme-linked immunosorbent assay (ELISA) (Table 1), whereas none of the wood
+
+TABLE 1. DESCRIPTION OF TRAPPING SITES, RODENTS TRAPPED, AND PATHOGENS FOUND   
+
+<table><tr><td rowspan="2">Trapping locality</td><td rowspan="2">Site</td><td rowspan="2">Vegetation</td><td rowspan="2">Species</td><td rowspan="2">No. of trapped animals</td><td colspan="2">Pathogen detection (no. of positive animals/total no. of animals analyzed)</td></tr><tr><td>PCR or RT-PCR</td><td>Serology</td></tr><tr><td rowspan="2">Altenburga</td><td rowspan="2">A1</td><td rowspan="2">Tall forbs, thick grass layer, bordering to a field</td><td>Apodemus flavicollis</td><td>4</td><td>Leptospira spp. (3/4), Borrelia afzelii (1/4)</td><td>Rickettsia spp. (1/4)</td></tr><tr><td>Apodemus sylvaticus</td><td>1</td><td>None</td><td>Rickettsia spp. (1/1)</td></tr><tr><td rowspan="6">Laa an der Thaya b</td><td rowspan="2">A2</td><td rowspan="2">Bank slope with a thick grass and herbal layer</td><td>Apodemus flavicollis</td><td>1</td><td>None</td><td>None</td></tr><tr><td>Apodemus sylvaticus</td><td>3</td><td>Leptospira spp. (2/3)</td><td>None</td></tr><tr><td rowspan="4">L1</td><td rowspan="4">Overgrown sand pit with grassy ground, tall forbs, elder, and robinia bushery</td><td>Apodemus flavicollis</td><td>2</td><td>None</td><td>None</td></tr><tr><td>Apodemus sylvaticus</td><td>4</td><td>Borrelia afzelii (1/4)</td><td>None</td></tr><tr><td>Clethrionomys glareolus</td><td>8</td><td>Borrelia afzelii (1/8)</td><td>Rickettsia spp. (1/8)</td></tr><tr><td>Microtus arvalis</td><td>7</td><td>TULV (1/7), Leptospira spp. (1/7), Borrelia afzelii (4/7), Rickettsia spp.(2/7), Bartonella taylorii (2/7)</td><td>TULV (1/7), Rickettsia spp. (1/7)</td></tr><tr><td rowspan="4">L2</td><td rowspan="4">L2</td><td rowspan="4">Edge of a robinia-ash forest, bordering to a field</td><td>Apodemus flavicollis</td><td>10</td><td>Borrelia afzelii (1/10), Bartonella taylorii (1/10)</td><td>DOBV (1/10)</td></tr><tr><td>Apodemus sylvaticus</td><td>5</td><td>Bartonella taylorii (1/5), Bartonella grahamii (2/5)</td><td>LCMV (1/5)c</td></tr><tr><td>Clethrionomys glareolus</td><td>5</td><td>None</td><td>Rickettsia spp. (1/5)</td></tr><tr><td>Microtus arvalis</td><td>4</td><td>TULV (1/4), Borrelia afzelii (2/4)</td><td>TULV (1/4), Rickettsia spp. (1/4)</td></tr><tr><td rowspan="4">L3</td><td rowspan="4">L3</td><td rowspan="4">Base of an embankment at the Thaya with a thick hedge of robinia, blackthorn, ash, and Euonymus europaeus</td><td>Apodemus flavicollis</td><td>4</td><td>None</td><td>Rickettsia spp. (1/4)</td></tr><tr><td>Apodemus sylvaticus</td><td>8</td><td>Bartonella birtlesii (1/8), Bartonella taylorii (2/8)</td><td>None</td></tr><tr><td>Clethrionomys glareolus</td><td>5</td><td>Leptospira spp. (2/5), Borrelia afzelii (1/5)</td><td>None</td></tr><tr><td>Microtus arvalis</td><td>4</td><td>Borrelia afzelii (2/4), Borrelia garinii (1/4)</td><td>Rickettsia spp. (1/4)</td></tr><tr><td rowspan="2">L4</td><td rowspan="2">L4</td><td rowspan="2">Robinia and ash forest with grassy ground and local stinging-nettle populations</td><td>Apodemus flavicollis</td><td>4</td><td>Borrelia afzelii (1/4), Bartonella taylorii (1/4)</td><td>None</td></tr><tr><td>Clethrionomys glareolus</td><td>11</td><td>Leptospira spp. (1/10d), Borrelia afzelii (1/11), Rickettsia spp. (1/10d)</td><td>Rickettsia spp. (1/11), OPV (1/7d)c</td></tr><tr><td rowspan="3">L5</td><td rowspan="3">L5</td><td rowspan="3">Northern bank of the Thaya with extended goldenrod vegetation and moist ground</td><td>Apodemus flavicollis</td><td>4</td><td>Bartonella taylorii (1/3d)</td><td>None</td></tr><tr><td>Apodemus sylvaticus</td><td>5</td><td>Bartonella taylorii (1/5)</td><td>Rickettsia spp. (1/5)</td></tr><tr><td>Clethrionomys glareolus</td><td>11</td><td>Bartonella doshiae (1/11)</td><td>Rickettsia spp. (1/11)</td></tr></table>
+
+${}^{a}$ A1: 65 traps at WGS 84: 48.63086 N 15.61078 E 281 m, and A2: 135 traps at WGS84: 48.62995 N 15.61493 E 266 m.   
+bL1: 65 traps at WGS 84: 48.73685 N 16.33875 E 182 m; L2: 70 traps at WGS 84: 48.73583 N 16.33818 E 184 m; L3: 100 traps at WGS 84: 48.73587 N 16.34259 E 183 m; L4: 50 traps at WGS 84: 48.73450 N 16.34060 E 178 m; L5: 80 traps at WGS 84: 48.73571 N 16.34543 E 182 m.   
+The Pan-arenavirus RT-PCR and the OPV-PCR were negative. ${}^{d}$ From this analysis,we can conclude for all the strains   
+For this analysis samples were not available for all animals. TULV, Tula virus; DOBV, Dobrava-Belgrade virus; OPV, orthopox virus; LCMV, lymphocytic choriomeningitis virus.
+
+![](images/65b50d0d8432111729b290524a24f4fe717bc25d60b80d8c98532b9815cc6e1b.jpg)  
+FIG. 1. Map of trapping sites at the municipality Laa and der Thaya (L) and the municipality Altenburg (A) in Lower Austria. SK, Slovakia.
+
+mice contained DOBV-specific antibodies. Hantavirus RNA was not detected in any of the investigated Apodemus-derived lung samples. TULV was the only hantavirus detected by serological and molecular methods in two of the 15 (13.3%) common voles (Table 1). A phylogenetic analysis of the obtained S segment sequences (accession nos. KF184327 and KF184328) demonstrated their close relationship to previously published TULV sequences from Austria (similarity of 92–98%) and Slovakia and Czech Republic (94–97%; Bowen et al. 1997; data not shown). LCMV-specific antibodies were detected in one of 26 (3.8%) wood mice, but not in any other species. Subsequent Pan-arenavirus RT-PCR analysis did not amplify any LCMV-specific RNA (Table 1). One CCF sample of 29 analyzed bank voles produced a weak signal in the OPV-IFA, but OPV-DNA was not detected by PCR in any rodent (Table 1).
+
+# Detection of bacterial and T. gondii infections
+
+For the bacteria, the lipl32 Leptospira-PCR assay revealed a specific product for eight of 109 $(7.3\%)$ examined kidney
+
+samples (Table 1). The duplex PCR identified $L.$ kirschneri in two wood mice and one yellow-necked field mouse from Altenburg, whereas products indicating infection with the genomospecies $L.$ interrogans, $L.$ borgpetersenii, $L.$ weilii, $L.$ noguchii, $L.$ santarosai, or $L.$ meyeri were amplified from two bank voles and one common vole from Laa an der Thaya. Of the remaining two lipl32-PCR positive rodents, one was negative (bank vole) in the duplex PCR approach; the other (yellow-necked field mouse) could not be further analyzed by this assay.
+
+Borrelia-specific DNA was detected by nested PCR in a total of 16 animals $(14.8\%)$ of all four examined species, with the highest prevalence $(53.3\%)$ in common voles (Table 1). Subsequent sequencing confirmed B. afzelii-specific DNA for 15 samples; for one common vole, a co-infection by B. afzelii and B. garinii was found (Table 4).
+
+Indirect IFA investigation using Rickettsia conorii as the spotted-fever group (SFG) antigen demonstrated reactivity in 11 animals of all four species and both trapping sites, most frequently in $M.$ arvalis $(n = 2/15; 13.3\%)$ (Table 1). Pan-ricettsial PCR analysis revealed three positive tissue samples (Table 1). The amplification of the ompB fragment
+
+TABLE 2. OVERVIEW OF THE SEROLOGICAL METHODS USED FOR SCREENING RODENTS FOR ZOONOTIC AGENTS   
+
+<table><tr><td>Pathogen</td><td>Method</td><td>Reference</td></tr><tr><td>Puumala virus</td><td>ELISA</td><td>Mertens et al. 2011</td></tr><tr><td>Dobrava-Belgrade virus</td><td>ELISA</td><td>Schlegel et al. 2009</td></tr><tr><td>Tula virus</td><td>ELISA</td><td>Schlegel et al. 2012a</td></tr><tr><td>Lymphocytic choriomeningitis virus</td><td>Indirect Immunofluorescence</td><td>Ceianu et al. 2008, Coulybaly-N’Golo et al. 2011</td></tr><tr><td>Orthopox virusa</td><td>Indirect Immunofluorescence</td><td>Appl et al. 2013</td></tr><tr><td>Rickettsia spp.</td><td>Indirect Immunofluorescence</td><td>Rickettsia conorii Panbio IF Kit; for details see Schex et al. 2011</td></tr></table>
+
+aDue to the cross-reactivity of orthopox viruses, this assay detects also cowpox virus-specific antibodies. ELISA, enzyme-linked immunosorbent assay.
+
+TABLE 3. OVERVIEW OF THE MOLECULAR METHODS USED FOR SCREENING RODENT SAMPLES FOR ZOONOTIC AGENTS   
+
+<table><tr><td>Pathogen</td><td>Tissue</td><td>Method</td><td>Target</td><td>Reference</td></tr><tr><td>Puumala virus</td><td>Lung</td><td>Conventional RT-PCR</td><td>Partial S segment (760 bp)</td><td>Essbauer et al. 2006</td></tr><tr><td>Dobrava-Belgrade virus</td><td>Lung</td><td>Conventional RT-PCR</td><td>Partial L segment</td><td>Klempa et al. 2006</td></tr><tr><td>Tula virus</td><td>Lung</td><td>Conventional RT-PCR and direct sequencing</td><td>Partial S segment (760 bp)</td><td>Essbauer et al. 2006</td></tr><tr><td>Lymphocytic choriomeningitis virus</td><td>Spleen</td><td>Conventional RT-PCR</td><td>Partial Lassavirus L gene</td><td>Coulybaly-N’Golo et al. 2011, Vieth et al. 2007</td></tr><tr><td>Orthopox virus (OPV)a</td><td>Liver</td><td>Real-time PCR</td><td>Partial hemagglutinin gene</td><td>Qiagen-Artus Orthopox LC PCR Kit; Olson et al. 2004</td></tr><tr><td rowspan="3">Leptospira spp.</td><td rowspan="3">Kidney</td><td rowspan="3">Conventional PCR</td><td>Partial flaB (563-bp fragment)</td><td>Gravekamp et al.1993</td></tr><tr><td>Partial secY (285-bp fragment)</td><td>Bal et al. 1994, Levett et al. 2005</td></tr><tr><td>Partial lipl (423-bp fragment)</td><td>Haake et al. 2000, Mayer-Scholl et al. 2011</td></tr><tr><td>Borrelia spp.</td><td>Skin</td><td>Nested conventional PCR and direct sequencing</td><td>Partial 16S rRNA (600 bp)</td><td>Richter et al. 2006, 2013</td></tr><tr><td rowspan="2">Rickettsia spp.</td><td rowspan="2">Skin</td><td>Screening real-time PCR</td><td>Partial gltA</td><td rowspan="2">Wölfel et al. 2006, Schex et al. 2011</td></tr><tr><td>Conventional PCR</td><td>Partial ompB</td></tr><tr><td rowspan="2">Bartonella spp.</td><td rowspan="2">Spleen</td><td>Real-time screening PCR</td><td>Partial rpoB (78 bp)</td><td>This paperb</td></tr><tr><td>Conventional confirmatory PCR and direct sequencing</td><td>ITS (419–565 bp)</td><td>Maggi and Breitschwerdt 2005</td></tr><tr><td rowspan="2">Coxiella burnetii</td><td rowspan="2">Liver</td><td>Screening real-time PCR</td><td>Partial IS1111</td><td>Schrader et al. 2000</td></tr><tr><td>Nested conventional PCR</td><td>Partial com1</td><td>Zhang et al. 1998</td></tr><tr><td>Toxoplasma gondii</td><td>Brain</td><td>Conventional PCR</td><td>529-bp repeat</td><td>Reischl et al. 2003, Homan et al. 2000, this paperc</td></tr></table>
+
+${}^{a}$ Detects OPV including also cowpox virus (CPXV).   
+bWith QuantiFast Probe PCR kit (Qiagen) according to the manufacturers' protocol using primers BART F1(5'-AGA AGA GTT TGT TGT TTG CC), BART F2 (5'-AGA AGA GTT TGT TGT TTG TC), BART R (5'-GAA ACA TCC ATC AAA TCA ACA TG) and LNA probe BART-P (5'-FAM- AAA CTT CAC CAG CAT GA-BHQ1.   
+cPrimers TOX-8 $(0.5\mu \mathrm{M})$ in combination with Tox5 $(0.5\mu \mathrm{M})$ were used with the Dynazyme II F-501L polymerase (Finzyme, Espoo, Finland). Cycling was performed at $94^{\circ}\mathrm{C}$ for 1 min, followed by 35 cycles of $60^{\circ}\mathrm{C}$ for 1 min, $72^{\circ}\mathrm{C}$ for 1 min, and $94^{\circ}\mathrm{C}$ for 1 min, and a final extension at $72^{\circ}\mathrm{C}$ for 10 min.   
+FAM, 6-carboxyfluorescein; BHQ1, black hole quencher 1.
+
+was not possible, and thus the species could not be characterized.
+
+Initial real-time PCR analysis for Bartonella produced a total of 21 positive samples, but only 12 samples were confirmed by conventional PCR (Table 1). Subsequent
+
+sequencing identified $B$ taylorii in three yellow-necked field mice, three wood mice, and two common voles. $B$ grahamii was exclusively found in two wood mice, $B$ doshiae in one bank vole, and $B$ birtlesii in one wood mouse.
+
+TABLE 4. DETECTION OF MULTIPLE INFECTIONS IN AUSTRIAN RODENTS   
+
+<table><tr><td>Species (frequency of multiple infection)</td><td>Trapping site</td><td>\( Pathogens^a \)</td></tr><tr><td rowspan="2">Apodemus flavicollis(2/29)</td><td>Altenburg,site 1</td><td>Borrelia afzeliiand Leptospira spp.</td></tr><tr><td>Laa an der Thaya,site 4</td><td>Borrelia afzeliiand Bartonella taylorii</td></tr><tr><td>Clethrionomys glareolus(1/40)</td><td>Laa an der Thaya,site 1</td><td>Borrelia afzeliiand Rickettsia spp.(serology)</td></tr><tr><td rowspan="6">Microtus arvalis(6/15)</td><td>Laa an der Thaya,site 1</td><td>Borrelia afzelii,Rickettsia spp.(PCR)</td></tr><tr><td>Laa an der Thaya,site 1</td><td>Borrelia afzelii,Bartonella tayloriiand Rickettsiaspp.(serology)</td></tr><tr><td>Laa an der Thaya,site 1</td><td>Borrelia afzelii,Tula virus (RT-PCR,serology), Bartonella taylorii</td></tr><tr><td>Laa an der Thaya,site 2</td><td>Borrelia afzeliiand Rickettsia spp.(serology)</td></tr><tr><td>Laa an der Thaya,site 2</td><td>Borrelia afzelii,Tula virus (RT-PCR,serology)</td></tr><tr><td>Laa an der Thaya,site 3</td><td>Borrelia afzelii,Borrelia garinii</td></tr></table>
+
+${}^{a}$ Detection method is given in brackets for the aforementioned pathogen,when RT-PCR/PCR and a serological method were used.
+
+C. burnetii and T. gondii infections were not detected in any of the animals.
+
+# Multiple infections
+
+Double and triple infections were detected in seven and two of 110 (6.4% and 1.8%) rodents respectively, comprising three of four rodent species (Table 4). Common voles were most frequently infected by more than one pathogen. B. afzelii was detected in all multiply infected animals. Three multiply infected animals harbored B. taylorii. Co-infections with Rickettsia spp. were demonstrated in three of four animals only by serology. Both common voles harboring TULV RNA also contained DNA of B. afzelii and one additionally DNA of B. taylorii.
+
+# Discussion
+
+This molecular and serological survey of 110 rodents from Lower Austria demonstrated 50 animals being infected by at least one pathogen, including hantaviruses (TULV and DOBV), LCMV, OPV, Leptospira spp., B. afzelii, Rickettsia spp., and different Bartonella species. In line with these results, human infections with several of these pathogens have been reported in Austria, i.e., CPXV, as an important OPV, Leptospira spp., Borrelia spp., and Rickettsia of the SFG group (Stanek et al. 2009, Glatz et al. 2010, Radl et al. 2011, Sonnleitner et al. 2012). Due to the lack of data, the impact on human health of LCMV, TULV, DOBV, Bartonella spp., and B. grahamii detected in rodents in this part of Austria requires increased awareness of the Austrian physicians.
+
+PUUV was identified as causative agent in some patients from Austria, but no clinical cases have been reported for Lower Austria, although this virus was detected in bank voles in that area (Aberle et al. 1999, Plyusnina et al. 2006). The failure to detect PUUV in our sample of bank voles may indicate that this virus was absent at the investigated sites in 2008 or present at a very low prevalence, even though a relatively high number of human hantavirus cases was detected that year in Austria $(n = 33$ ; Heyman et al. 2011). The detection of TULV in common voles and their similarity to other Austrian TULV sequences confirmed the circulation of this hantavirus in Austria (Bowen et al. 1997). For further analysis on the phylogeography and molecular evolution of TULV, future investigations should target not only the S but also the M segment. Importantly, the potential pathogenicity of this hantavirus needs additional studies in human patients and risk groups (Mertens et al. 2011). To confirm the presence of DOBV in Austria, as indicated by our observation of DOBV-reactive antibodies in a yellow-necked field mouse, reservoir studies and a molecular identification of the DOBV genotype are required.
+
+We have confirmed herein that wood mice from Austria are susceptible to LCMV or closely related arenaviruses, as has already been shown for wood mice from Spain (Ledesma et al. 2009). In contrast to previous investigations in Europe (Kallio-Kokko et al. 2006), we did not find hints for LCMV infection in yellow-necked field mice, bank voles, and common voles. The observed low OPV prevalence in rodents contrasts the high prevalences of OPV-reactive antibodies in different rodent species reported in previous studies for other parts of Central Europe (Essbauer et al. 2009, Kinnunen et al. 2011).
+
+The proportion of Leptospira-positive rodents and the presence of several Leptospira species in different rodent
+
+species is in accordance with previous studies (Sebek et al.1989). The detection of four different Bartonella spp. in our study confirmed the presence of these bacteria in Central Europe (Telfer et al. 2007, Kaiser et al. 2011, Janecek et al. 2012). B. taylorii was the most frequently detected species without apparent host specificity. In contrast, we found B. grahamii only in wood mice, although it has been shown in many small sylvatic mammals (Holmberg et al. 2003). B. doshiae was detected solely in bank voles, supporting previous observations in Slovenia (Knap et al. 2007). In accordance with its first description in Apodemus spp. (Bermond et al. 2000), B. birtlesii was only found in wood mice.
+
+Nearly $15\%$ of our sampled rodents were infected by B. afzelii. Although specific rodent-associated genospecies may be better adapted to particular rodent species (Richter et al. 2004a,b, Richter et al. 2011), we observed no specificity in our samples. Presence of Borrelia DNA in the skin fails to prove reservoir status, but demonstrates contact with an infected tick. This might be the case for the common vole in which DNA of bird-associated B. garinii was detected. Information on the role of rodents in the natural cycle of different Rickettsia species is limited. Epidemiological data mostly based on questing ticks revealed the presence of several species of the SFG group in Austria (Blaschitz et al. 2008, Dobler et al. 2008). Detection of rickettsia DNA and rickettsia-specific antibodies in our study confirmed results previously reported for Bavarian rodents (Schex et al. 2011).
+
+In contrast to reports of Q fever infection in humans (Kaplan and Bertagna 1955, Allenberger et al. 2009) and rodents in Tyrol (Stutzner et al. 1979), we failed to detect C. burnetii. The occurrence of $C.$ burnetii in rodents seems to be related to anthropogenic impact, such as farming of goats, cattle, and sheep (Webster et al. 1996, Reusken et al. 2011). In contrast, the agent was not detected in rodents inhabiting sylvatic sites (Rehacek et al. 1993). The failure to detect $T.$ gondii in rodent samples was not unexpected because a large study conducted in the Czech Republic examining rodents as potential intermediate hosts revealed a prevalence of only $0.9\%$ viable $T.$ gondii in 5166 small mammals of 17 species (Hejlicek and Literak 1998). Older rodents and rodents trapped close to dwellings are more likely to have seroconverted (Dabritz et al. 2008). Thus, in our study, the character of the trapping site and age of the trapped rodents may have influenced the likelihood to detect $C.$ burnetii and $T.$ gondii infection.
+
+Information on multiple infections in rodents is sparse. In our study, we found seven of 110 $(6.4\%)$ of the animals infected by two pathogens and additionally two of 110 $(1.8\%)$ by three. In a study on 44 rodents in Croatia, dual infections with hantaviruses and Leptospira $(16\%)$ , hantaviruses and Babesia $(5\%)$ , and Leptospira and Babesia $(2\%)$ , and triple infections in $7\%$ of the rodents were demonstrated (Tadin et al. 2012). Moreover, interactions of pathogens, i.e., of CPXV, Babesia microti, Bartonella spp., and Anaplasma phagocytophilum, have been identified in field voles (Telfer et al. 2010).
+
+# Conclusions
+
+In summary, we demonstrate in our pilot study at two selected sample sites that multiple rodent-associated pathogens occur in Austria. Despite the relatively low number of
+
+collected and tested animals, we detected several pathogens with zoonotic potential. Also, coinfections with more than one pathogen do not seem uncommon in wildlife. Thus, our results indicate that rodents may be able to transmit a multitude of pathogens directly or indirectly to other animals or humans. Future investigations will have to examine the potential interactions of different pathogens, their influence on the reservoir competence and fitness of the host, and the underlying molecular mechanisms, as well as the potential public health impact of these multiple infections. Further studies also have to examine whether and which site-specific, seasonal, and annual variations of the prevalence within reservoir and transmission risk occur.
+
+# Acknowledgments
+
+The authors kindly acknowledge the support of Edmund Wei $\beta$ in rodent trapping; Mathias Schlegel, Thomas Buchner, Dorte Kaufmann, and Laura Zoch in necropsy; and Rahime Terzioglu, Antal Lodri, Brita Auste, Enno Luge, Angela Hilbert, Roswitha Wehr, Aline Maksimov, Beate Becker-Ziaja, and Alexandra Bialonski for excellent technical assistance. This work was supported by the German Federal Ministry of Education and Research (BMBF) through the National Research Platform for Zoonoses (project code 01KI1018) to R.G.U., and by the German Research Foundation (DFG, project code GU 883/2-1) to J.S.C.
+
+# Author Disclosure Statement
+
+No competing financial interests exist for any of the authors.
+
+# References
+
+Aberle SW, Lehner P, Ecker M, Aberle JH, et al. Nephropathia Epidemiica and Puumala virus in Austria. Eur J Clin Microbiol Infect Dis 1999; 18:467-472.   
+Allerberger F, Apfalter P, Aspock C, Bellmann-Weiler R, et al. Q-Fever Austria 2009. Austrian Voluntary Q Fever Surveillance Group. 2009 Available at www.bmg.gov.at.cms/home/attachments/7/3/5/CH1187/CMS1276683759752/q_fieber_15062010.pdf Accessed March 30, 2014.   
+Appl C, von Bomhard W, Hanczaruk M, Meyer H, et al. Feline cowpoxvirus infections in Germany: Clinical and epidemiological aspects. Berl Munch Tierarztl Wochenschr 2013; 126:55-61.   
+Bal AE, Gravekamp C, Hartskeerl RA, De Meza-Brewster J, et al. Detection of leptospires in urine by PCR for early diagnosis of leptospirosis. J Clin Microbiol 1994; 32:1894-1898.   
+Bermond D, Heller R, Barrat F, Delacour G, et al. Bartonella birtlesii sp. nov., isolated from small mammals (Apodemus spp.). Int J Sys Evol Micr 2000; 50:1973-1979.   
+Bharti AR, Nally JE, Ricaldi JN, Matthias MA, et al, on behalf of the Peru-United States Leptospirosis Consortium. Leptospirosis: A zoonotic disease of global importance. Lancet Infect Dis 2003; 3:757-771.   
+Blaschitz M, Narodoslavsky-Gfoller M, Kanzler M, Walochnik J, et al. First detection of Rickettsia helvetica in Ixodes ricinus ticks in Austria. Vector Borne Zoonotic Dis 2008; 8:561-563.   
+Bowen MD, Gelbmann W, Ksiazek TG, Nichol ST, et al. Puumala virus and two genetic variants of Tula virus are present in Austrian rodents. J Med Virol 1997; 53:174-181.
+
+Breitschwerdt EB, Linder KL, Day MJ, Maggi RG, et al. Koch's Postulates and the pathogenesis of comparative infectious disease causation associated with Bartonella species. J Comp Pathol 2013; 148:115-125.   
+Ceianu C, Tatulescu D, Muntean M, Molnar GB, et al. Lymphocytic choriomeningitis in a pet store worker in Romania. Clin Vaccine Immunol 2008; 15:1749.   
+Coulibaly-N'Golo D, Allali B, Kouassi SK, Fichet-Calvet E, et al. Novel arenavirus sequences in Hylomyscus sp. and Mus (Nannomys) setulosus from Côte d'Ivoire: Implications for evolution of arenaviruses in Africa. PLoS One 2011; 6: e20893.   
+Dabritz, HA, Miller MA, Gardner IA, Packham AE, et al. Risk factors for Toxoplasma gondii infection in wild rodents from central coastal California and a review of $T.$ gondii prevalence in rodents. J Parasitol 2008; 94:675-683.   
+Desai S, van Treeck U, Lierz M, Espelage W, et al. Resurgence of field fever in a temperate country: An epidemic of leptospirosis among seasonal strawberry harvesters in Germany in 2007. Clin Infect Dis 2009; 48:691-697.   
+Dobler G, Essbauer S, Terzioglu R, Thomas A, et al. Prevalence of tick-borne encephalitis virus and rickettsiae in ticks of the district Burgenland, Austria. Wien Klin Wochenschr 2008; 120:45-48.   
+Dubey JP. Toxoplasmosis—a waterborne zoonosis. Vet Parasitol 2004; 126:57-72.   
+Dubey S, Michaux J, Brunner H, Hutterer R, et al. False phylogenies on wood mice due to cryptic cytochrome b pseudogene. Mol Phylogen Evol 2009; 50:633-641.   
+Emonet S, Retornaz K, Gonzalez JP, de Lamballerie X, et al. Mouse-to-human transmission of variant lymphocytic choriomeningitis virus. Emerg Infect Dis 2007; 13:472-475.   
+Essbauer S, Schmidt J, Conraths FJ, Friedrich R, et al. A new Puumala hantavirus subtype in rodents associated with an outbreak of Nephropathia epidemica in South-East Germany in 2004. Epidemiol Infect 2006; 134:1333-1444.   
+Essbauer S, Hartnack S, Misztela K, Kiessling-Tsalos J, et al. Patterns of orthopox virus wild rodents hosts in South Germany. Vector Borne Zoonotic Dis 2009; 9:301-311.   
+Essbauer S, Pfeffer M, Meyer H. Zoonotic poxviruses. Vet Microbiol 2010; 140:229-236.   
+Fink S, Fischer MC, Excoffier L, Heckel G. Genomic scans support repetitive continental colonization events during the rapid radiation of voles (Rodentia: Microtus): The utility of AFLPs versus mitochondrial and nuclear sequence markers. Syst Biol 2010; 59:548-572.   
+Glatz M, Richter S, Ginter-Hanselmayer G, Aberer W, et al. Human cowpox in a veterinary student. Lancet Infect Dis 2010; 10:288.   
+Gravekamp C, Van de Kemp H, Franzen M, Carrington D, et al. Detection of seven species of pathogenic leptospires by PCR using two sets of primers. J Gen Microbiol 1993; 139:1691-1700.   
+Haake DA, Chao G, Zuerner RL, Barnett JK, et al. The leptospiral major outer membrane protein LipL32 is a lipoprotein expressed during mammalian infection. Infect Immun 2000; 68:2276-2285.   
+Heckel G, Burri R, Fink S, Desmet JF, et al. Genetic structure and colonization processes in European populations of the common vole Microtus arvalis. Evolution 2005; 59:2231-2242.   
+Hejlicek K, Literak I. Long-term study of Toxoplasma gondii prevalence in small mammals (Insectivora and Rodentia). Folia Zool 1998; 47:93-101.
+
+Heyman P, Ceianu CS, Christova I, Tordo N, et al. A five-year perspective on the situation of haemorrhagic fever with renal syndrome and status of the hantavirus reservoirs in Europe, 2005-2010. Euro Surveill 2011; 16: pii = 19961.   
+Holmberg M, Mills JN, McGill S, Benjamin G, et al. Bartonella infection in sylvatic small mammals of central Sweden. Epidemiol Infect 2003; 130:149-157.   
+Homan WL, Vercammen M, Debraekeleer J, Verschueren H. Identification of a 200-to 300-fold repetitive 529 bp DNA fragment in Toxoplasma gondii, and its use for diagnostic and quantitative PCR. Int J Parasitol 2000; 30:69-75.   
+Hoogstraal H. Ticks in relation to human diseases caused by Rickettsia species. Annu Rev Entomol 1967; 12:377-420.   
+Janecek E, Mietze A, Goethe R, Schnieder T, et al. Bartonella spp. infection rate and B. grahamii in ticks. Emerg Infect Dis 2012; 18:1689-1690.   
+Kaiser PO, Riess T, O'Rourke F, Linke D, et al. Bartonella spp.: Throwing light on uncommon human infections. Int J Med Microbiol 2011; 301:7-15.   
+Kallio-Kokko H, Laakkonen J, Rizzoli A, Tagliapietra V, et al., Hantavirus and arenavirus antibody prevalence in rodents and humans in Trentino, Northern Italy. Epidemiol Infect 2006; 134:830-836.   
+Kaplan MM, Bertagna P. Geographical distribution of Q fever. Bull Wld Hlth Org 1955; 13:829-860.   
+Kinnunen PM, Henttonen H, Hoffmann B, Kallio ER, et al. Orthopox virus infections in Eurasian wild rodents. Vector Borne Zoonotic Dis 2011; 11:1133-1140.   
+Klempa B, Fichet-Calvet E, Lecompte E, Auste B, et al. Hantavirus in African wood mouse, Guinea. Emerg Infect Dis 2006; 12:838-840.   
+Klempa B, Avsic-Zupanc T, Clement J, Dzagurova TK, et al. Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: Definition of genotypes and their characteristics. Arch Virol 2013; 158:521-529.   
+Knap N, Duh D, Birtles R, Trilar T, et al. Molecular detection of Bartonella species infecting rodents in Slovenia. FEMS Immunol Med Mic 2007; 50:45-50.   
+Ledesma J, Fedele CG, Carro F, Lledó, et al. Independent lineage of Lymphocytic Choriomeningitis Virus in wood mice (Apodemus sylvaticus), Spain. Emerg Infect Dis 2009; 15: 1677-1680.   
+Levett PN, Morey RE, Galloway RL, Turner DE, et al. Detection of pathogenic leptospires by real-time quantitative PCR. J Med Microbiol 2005; 54:45-49.   
+Maggi RG, Breitschwerdt EB. Potential limitations of the 16S-23S rRNA intergenic region for molecular detection of Bartonella species. J Clin Microbiol 2005; 43:1171-1176.   
+Margos G, Vollmer SA, Cornet M, Garnier M, et al. A new Borrelia species defined by multilocus sequence analysis of housekeeping genes. Appl Environ Microbiol 2009; 75: 5410-5416.   
+Mayer-Scholl A, Draeger A, Luge E, Ulrich R, et al. Comparison of two PCR systems for the rapid detection of Leptospira spp. from kidney tissue. Curr Microbiol 2011; 62: 1104-1106.   
+Meerburg BG, Reusken CBEM. The role of wild rodents in spread and transmission of Coxiella burnetii needs further elucidation. Wildlife Res 2011; 38:617-625.   
+Meerburg BG, Singleton GR, Kijlstra A. Rodent-borne diseases and their risks for public health. Crit Rev Microbiol 2009; 35:221-270.   
+Mertens M, Kindler E, Emmerich P, Esser J, et al. Phylogenetic analysis of Puumala virus subtype Bavaria, characterization
+
+and diagnostic use of its recombinant nucleocapsid protein. Virus Genes 2011; 43:177-191.   
+Michaux JR, Magnanou E, Paradis E, Nieberding C, et al. Mitochondrial phylogeography of the Woodmouse (Apodemus sylvaticus) in the Western Palearctic region. Mol Ecol 2003; 12:685-697.   
+Michaux JR, Libois R, Filippucci MG. So close and so different: Comparative phylogeography of two small mammal species, the Yellow-necked fieldmouse (Apodemus flavicollis) and the Woodmouse (Apodemus sylvaticus) in the Western Palearctic region. Heredity 2005; 94:52-63.   
+Mills JN, Childs JE. Ecologic studies of rodent reservoirs: Their relevance for human health. Emerg Infect Dis 1998; 4:529-537.   
+Olson VA, Laue T, Laker MT, Babkin IV, et al. Real-time PCR system for detection of orthopoxviruses and simultaneous identification of smallpox virus. J Clin Microbiol 2004; 42:1940-1946.   
+Parola P, Raoult D. Tick-borne bacterial diseases emerging in Europe. Clin Microbiol Infect 2001; 7:80-83.   
+Pérez-Ruiz M, Navarro-Martí JM, Sánchez-Seco MP, Gegúndez MI, et al. Lymphocytic choriomeningitis virus-associated meningitis, southern Spain. Emerg Infect Dis 2012; 18:855-888.   
+Plyusnina A, Aberle SW, Aberle JH, Plyusnin A. Genetic analysis of Puumala hantavirus strains from Austria. Scand J Infect Dis 2006; 38:512-519.   
+Radl C, Müller M, Revilla-Fernandez S, Karner-Zuser S, et al. Outbreak of leptospirosis among triathlon participants in Langau, Austria, 2010. Wien Klin Wochenschr 2011; 123:751-755.   
+Reháček J, Krauss H, Kocianova E, Kovacova E, et al. Studies of the prevalence of Coxiella burnetii, the agent of Q fever, in the foothills of the southern Bavarian Forest, Germany. Zbl Bakt 1993; 278:132-138.   
+Reischl U, Bretagne S, Krüger D, Arnault P, et al. Comparison of two DNA targets for the diagnosis of toxoplasmosis by real-time PCR using fluorescence resonance energy transfer hybridization probes. BMC Infect Dis 2003; 3:7.   
+Reusken C, van der Plaats R, Opsteegh M, de Bruin A, et al. Coxiella burnetii (Q fever) in Rattus norvegicus and Rattus rattus at livestock farms and urban locations in the Netherlands; could Rattus spp. represent reservoirs for (re)introduction? Prev Vet Med 2011; 101:124-130.   
+Richter D, Klug B, Spielman A, Matuschka FR. Adaptation of diverse Lyme disease spirochetes in a natural rodent reservoir. Infect Immun 2004a; 72:2442-2444.   
+Richter D, Schlee DB, Allgower R, Matuschka FR. Relationships of a novel Lyme disease spirochete, Borrelia spielmani sp. nov., with its hosts in Central Europe. Appl Environ Microbiol 2004b; 70:6414-6419.   
+Richter D, Matuschka FR. Perpetuation of the Lyme disease spirochete Borrelia lusitaniae by lizards. Appl Environ Microbiol 2006; 72:4627-4632.   
+Richter D, Schlee DB, Matuschka FR. Reservoir competence of various rodents for the Lyme disease spirochetes Borrelia spielmanii. Appl Environ Microbiol 2011; 77:3565-3570.   
+Richter D, Schröder B, Hartmann NK, Matuschka FR. Spatial stratification of various Lyme disease spirochetes in a Central European site. FEMS Microbiol Ecol 2013; 83:738-744.   
+Schex S, Dobler G, Riehm J, Müller J, et al. Rickettsia spp. in wild small mammals in Lower Bavaria, South-eastern Germany. Vector Borne Zoonotic Dis 2011; 11:493-502.   
+Schlegel M, Klempa B, Auste B, Bemmann M, et al. Dobrava-Belgrade virus spillover infections, Germany. Ermerg Infect Dis 2009; 15:2017-2020.
+
+Schlegel M, Kindler E, Essbauer SS, Wolf R, et al. Tula virus Infections in the Eurasian Water Vole in Central Europe. Vector Borne Zoonotic Dis 2012a; 12:503-513.   
+Schlegel M, Sheikh Ali H, Stieger N, Groschup MH, et al. Molecular identification of small mammal species using novel cytochrome B gene-derived degenerated primers. Biochem Genet 2012b; 50:440-447.   
+Schrader C, Protz D, Suss, J. Coxiella burnetii. In: Sachse K, Gallien P. Molekularbiologische Nachweismethoden ausgewählter Zoonoseerreger. BgVV Hefte 2000; 2:63-65. [German]   
+Sebek Z, Sixl W, Sixl-Voigt B, Köck M, et al. First evidence of the leptospirosis natural foci of the serotype Saxkoebing in Austria. Geogr Med Suppl 1989; 2:17-22.   
+Spitalska E, Boldis V, Kostanova Z, Kocianova E, et al. Incidence of various tick-borne microorganisms in rodents and ticks of central Slovakia. Acta Virol 2008; 52:175-179.   
+Sonnleitner ST, Simeoni J, Lang S, Dobler G, et al. Spotted Fever Group-Rickettsiae in the Tyrols: Evidence by seroepidemiology and PCR. Zoonoses Public Health 2012; 60:284-290.   
+Stanek G, Strle F. Lyme borreliosis. Lancet 2003; 362:1639-1647.   
+Stanek G, Fingerle V, Hunfeld KP, Jaulhac B, et al. Lyme borreliosis: Clinical case definitions for diagnosis and management in Europe. Curr Opin Infect Dis 2009; 22:450-454.   
+Stünzner D, Rehacek J, Kaaserer B, Urvölgyi J, et al. Untersuchungen über Rickettsiosen in Nordtirol. In: III. Arbeitskolloquium über Naturherde von Infektionskrankheiten in Zentraleuropa, Graz-Seggau May 24-27, 1979. [German]   
+Sutter A, Beysard M, Heckel G. Sex-specific clines support incipient speciation in a common European mammal. Heredity 2013; 110:398-404.   
+Tadin A, Turk N, Korva M, Margaletić J, et al. Multiple coinfections of rodents with Hantaviruses, Leptospira, and Babesia in Croatia. Vector Borne Zoonotic Dis 2012; 12: 388-392.   
+Telfer S, Clough HE, Birtles LR, Bennett M, et al. Ecological differences and coexistence in a guild of microparasites: Bartonella in wild rodents. Ecology 2007; 88:1841-1849.
+
+Telfer T, Lambin X, Birtles R, Beldomenico P, et al. Species interactions in a parasite community drive infection risk in a wildlife population. Science 2010; 330:243-246.   
+Tesakov AS, Lebedev VS, Bannikova AA, Abramson NI. Clethrionomys Tilesius, 1850 is the valid generic name for red-backed voles and Myodes Pallas, 1811 is a junior synonym of Lemmus Link, 1795. Russ J Theriol 2010; 9: 83-86.   
+Vieth S, Drosten C, Lenz O, Vincent M, et al. RT-PCR assay for detection of Lassa virus and related Old World arenaviruses targeting the L gene. Trans R Soc Trop Med Hyg 2007; 101:1253-1264.   
+Webster JP. Wild brown rats (Rattus norvegicus) as a zoonotic risk on farms in England and Wales. CDR Rev 1996; 6: 46-49.   
+Wojcik JM, Kawałko A, Markova S, Searle JB, et al. Phylogeographic signatures of northward post-glacial colonization from high-latitude refugia: A case study of bank voles using museum specimens. J Zool 2010; 281:249-262.   
+Wolfe R, Terzioglu R, Kiessling J, Wilhelm S, et al. Rickettsia spp. in Ixodes ricinus ticks in Bavaria, Germany. Ann NY Acad Sci 2006; 1078:509-511.   
+Zhang GQ, Hotta A, Mizutani M, Ho T, et al. Direct identification of Coxiella burnetii plasmids in human sera by nested PCR. J Clin Microbiol 1998; 36:2210-2213.
+
+Address correspondence to:
+
+Rainer G. Ulrich
+
+Friedrich-Loeffler-Institut
+
+Federal Research Institute for Animal Health
+
+OIE Collaborating Centre for Zoonoses in Europe
+
+Institute for Novel and Emerging Infectious Diseases
+
+Südufer 10
+
+D-17493 Greifswald-Insel Riems
+
+Germany
+
+E-mail: rainer.ulrich@fli.bund.de

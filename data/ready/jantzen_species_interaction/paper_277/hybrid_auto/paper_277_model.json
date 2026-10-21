@@ -1,0 +1,4205 @@
+[
+    [
+        {
+            "type": "title",
+            "bbox": [
+                0.156,
+                0.13,
+                0.383,
+                0.152
+            ],
+            "angle": 0,
+            "content": "Accepted Manuscript"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.153,
+                0.186,
+                0.641,
+                0.239
+            ],
+            "angle": 0,
+            "content": "Title: Prevalence of infection with Rickettsia helvetica in Ixodes ricinus ticks feeding on non-rickettsiemic rodent hosts in sylvatic habitats of west-central Poland"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.153,
+                0.256,
+                0.594,
+                0.29
+            ],
+            "angle": 0,
+            "content": "Author: Beata Biernat Joanna Stanczak Jerzy Michalik Bożena Sikora Anna Wierzbicka"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.688,
+                0.131,
+                0.832,
+                0.277
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.153,
+                0.308,
+                0.534,
+                0.325
+            ],
+            "angle": 0,
+            "content": "PII: S1877-959X(15)30015-7"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.155,
+                0.327,
+                0.721,
+                0.344
+            ],
+            "angle": 0,
+            "content": "DOI: http://dx.doi.org/doi:10.1016/j.ttbdis.2015.10.001"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.155,
+                0.345,
+                0.438,
+                0.36
+            ],
+            "angle": 0,
+            "content": "Reference: TTBDIS 545"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.154,
+                0.38,
+                0.262,
+                0.397
+            ],
+            "angle": 0,
+            "content": "To appear in:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.153,
+                0.412,
+                0.408,
+                0.428
+            ],
+            "angle": 0,
+            "content": "Received date: 4-3-2015"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.156,
+                0.43,
+                0.417,
+                0.445
+            ],
+            "angle": 0,
+            "content": "Revised date: 21-9-2015"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.157,
+                0.447,
+                0.416,
+                0.464
+            ],
+            "angle": 0,
+            "content": "Accepted date: 2-10-2015"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.484,
+                0.833,
+                0.555
+            ],
+            "angle": 0,
+            "content": "Please cite this article as: Biernat, B., Stanczak, J., Michalik, J., Sikora, B., Wierzbicka, A., Prevalence of infection with Rickettsia helvetica in Ixodes ricinus ticks feeding on non-rickettsiemic rodent hosts in sylvatic habitats of west-central Poland, Ticks and Tick-borne Diseases (2015), http://dx.doi.org/10.1016/j.ttbdis.2015.10.001"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.152,
+                0.569,
+                0.833,
+                0.678
+            ],
+            "angle": 0,
+            "content": "This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain."
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.0,
+                0.0,
+                0.109,
+                0.019
+            ],
+            "angle": 0,
+            "content": "*Manuscript"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.282,
+                0.0,
+                0.717,
+                0.024
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.086,
+                0.052,
+                0.975
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.093,
+                0.913
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.826,
+                0.127
+            ],
+            "angle": 0,
+            "content": "Prevalence of infection with Rickettsia helvetica in Ixodes ricinus ticks feeding on non-rickettsiemic rodent hosts in sylvatic habitats of west-central Poland"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.156,
+                0.823,
+                0.174
+            ],
+            "angle": 0,
+            "content": "Beata Biernat\\(^{a*}\\), Joanna Stanczak\\(^{a}\\), Jerzy Michalik\\(^{b}\\), Bożena Sikora\\(^{b}\\), Anna Wierzbicka\\(^{c}\\)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.222,
+                0.867,
+                0.308
+            ],
+            "angle": 0,
+            "content": "\\(^{a}\\)Department of Tropical Parasitology, Institute of Maritime and Tropical Medicine, Medical University of Gdańsk, 9B Powstania Styczniowej str., 81-519 Gdynia, Poland, bebe@gumed.edu.pl"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.352,
+                0.858,
+                0.405
+            ],
+            "angle": 0,
+            "content": "\\(^{b}\\)Department of Animal Morphology, Faculty of Biology, Adam Mickiewicz University, 89 Umultowska str., 61-701 Poznań, Poland"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.452,
+                0.82,
+                0.536
+            ],
+            "angle": 0,
+            "content": "\\(^{c}\\)Department of Game Management and Forest Protection, Faculty of Forestry, Poznan University of Life Sciences, 71d Wojska Polskiego str., 60-637 Poznan, Poland, wierzba@au.poznan.pl"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.616,
+                0.312,
+                0.634
+            ],
+            "angle": 0,
+            "content": "* Corresponding author"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.649,
+                0.859,
+                0.733
+            ],
+            "angle": 0,
+            "content": "Beata Biernat; Department of Tropical Parasitology, Institute of Maritime and Tropical Medicine, Medical University of Gdańsk, 9B Powstania Styczniowego str., 81-519 Gdynia, Poland, bebe@gumed.edu.pl"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.939
+            ],
+            "angle": 0,
+            "content": "-1-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 1 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.191,
+                0.101
+            ],
+            "angle": 0,
+            "content": "1 Abstract"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.116,
+                0.885,
+                0.135
+            ],
+            "angle": 0,
+            "content": "2 Ixodes ricinus is the most prevalent and widely distributed tick species in European countries"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.148,
+                0.884,
+                0.169
+            ],
+            "angle": 0,
+            "content": "3 and plays a principal role in transmission of a wide range of microbial pathogens. It is also a"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.182,
+                0.883,
+                0.202
+            ],
+            "angle": 0,
+            "content": "4 main vector and reservoir of Rickettsia spp. of the spotted fever group with the infection level"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.214,
+                0.884,
+                0.234
+            ],
+            "angle": 0,
+            "content": "5 ranging in Poland from 1.3 to \\(11.4\\%\\). Nevertheless, little research has been conducted so far"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.248,
+                0.883,
+                0.268
+            ],
+            "angle": 0,
+            "content": "6 to identify reservoir hosts for these pathogens. A survey was undertaken to investigate the"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.28,
+                0.71,
+                0.299
+            ],
+            "angle": 0,
+            "content": "7 presence of Rickettsia spp. in wild small rodents and detached I. ricinus."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.313,
+                0.883,
+                0.334
+            ],
+            "angle": 0,
+            "content": "Rodents, Apodemus flavicollis mice and Myodes glareolus voles, were captured in typically"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.345,
+                0.883,
+                0.365
+            ],
+            "angle": 0,
+            "content": "9 sylvatic habitats of west-central Poland. Blood samples and collected ticks were analyzed by"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.378,
+                0.883,
+                0.398
+            ],
+            "angle": 0,
+            "content": "10 conventional, semi-nested and nested PCRs. Rickettsial species were determined by sequence"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.411,
+                0.609,
+                0.43
+            ],
+            "angle": 0,
+            "content": "11 analysis of obtained fragments of gltA and 16S rRNA genes."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.444,
+                0.883,
+                0.462
+            ],
+            "angle": 0,
+            "content": "12 A total of 2339 immature I. ricinus (mostly larvae) were collected from 158 animals."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.477,
+                0.884,
+                0.496
+            ],
+            "angle": 0,
+            "content": "13 Proportion of hosts carrying ticks was \\(84\\%\\), being higher for A. flavicollis than for M."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.51,
+                0.883,
+                0.528
+            ],
+            "angle": 0,
+            "content": "14 glareolus. R. helvetica, the only species identified, was detected in \\(8\\%\\) of 12 nymphs and in at"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.542,
+                0.883,
+                0.561
+            ],
+            "angle": 0,
+            "content": "least \\(10.7\\%\\) (MIR) of 804 larvae investigated. Prevalence of infected ticks on both rodent"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.575,
+                0.883,
+                0.594
+            ],
+            "angle": 0,
+            "content": "16 species was comparable (10.8 vs 9%). None of blood samples tested was positive for"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.609,
+                0.237,
+                0.627
+            ],
+            "angle": 0,
+            "content": "17 Rickettsia spp."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.64,
+                0.883,
+                0.659
+            ],
+            "angle": 0,
+            "content": "18 The results showed that in sylvatic habitats the level of infestation with larval \\(I.\\) ricinus was"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.673,
+                0.883,
+                0.693
+            ],
+            "angle": 0,
+            "content": "19 higher in A. flavicollis mice in comparison with M. glareolus voles. They show that R."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.706,
+                0.883,
+                0.725
+            ],
+            "angle": 0,
+            "content": "helvetica frequently occurred in ticks feeding on rodents. Positive immature ticks were"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.739,
+                0.883,
+                0.758
+            ],
+            "angle": 0,
+            "content": "21 collected from non-rickettsiemic hosts what might suggest a vertical route of their infection"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.772,
+                0.883,
+                0.791
+            ],
+            "angle": 0,
+            "content": "22 (transovarial and/or transstadial) or a very short-lasting rickettsiemia in rodents. A natural"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.805,
+                0.66,
+                0.822
+            ],
+            "angle": 0,
+            "content": "23 vertebrate reservoir host for \\( R \\) . helvetica remains to be determined."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.067,
+                0.838,
+                0.091,
+                0.852
+            ],
+            "angle": 0,
+            "content": "24"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-2-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 2 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.093,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.837,
+                0.135
+            ],
+            "angle": 0,
+            "content": "Key words: Ixodes ricinus, Rickettsia helvetica, Apodemus flavicollis, Myodes glareolus, rodents, spotted fever group rickettsiae"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.116,
+                0.182,
+                0.22,
+                0.198
+            ],
+            "angle": 0,
+            "content": "Introduction"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.214,
+                0.885,
+                0.429
+            ],
+            "angle": 0,
+            "content": "Ticks are known worldwide to be vectors of different pathogenic microorganisms including viruses, bacteria and protozoa. Among blood-sucking arthropods only mosquitoes transmit more infectious diseases to humans. In Poland, Ixodes ricinus, a common and widely distributed tick species, is the principal vector of Borrelia burgdorferi sensu lato (s.l.) (Kiewra et al., 2014; Stanczak et al., 1999; Wodecka, 2003), the etiologic agent of Lyme borreliosis, which is the most frequently diagnosed tick-borne disease in Poland with over 13,000 human cases reported in 2013"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.443,
+                0.644,
+                0.463
+            ],
+            "angle": 0,
+            "content": "http://www.pzh.gov.pl/oldpage/epimeld/2014/INF_14_12B.pdf)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.477,
+                0.885,
+                0.891
+            ],
+            "angle": 0,
+            "content": "This tick species has been found to be infected also with Anaplasma phagocytophilum, the agent of human granulocytic anaplasmosis (HGA) (Stańczak et al., 2002; Sytykiewicz et al., 2012; Welc-Fałęciak et al., 2014) and some species of the genus Babesia (B. divergens, B. venatorum, B. microti), which may cause human babesiosis (Cieniuch et al., 2009; Skotarczak and Cichocka, 2001; Sytykiewicz et al., 2012). Moreover, I. ricinus was found to harbor Rickettsia spp. of the spotted fever group (SFG) - obligatory intracellular bacteria - responsible for a wide range of emerging zoonotic rickettsioses in humans. Of them, the species the most frequently noted in questing ticks in Poland is R. helvetica, with the infection level ranging from 1.3 to \\(11.4\\%\\) (Chmielewski et al., 2009; Stańczak et al., 2008; Welc-Fałęciak et al., 2014). An exceptionally high prevalence of this bacterium (\\(\\sim70\\%\\)) was found in Western Pomerania (Wodecka et al. 2014). Furthermore, I. ricinus infections with R. monacensis, R. slovaca and R. raoultii were occasionally reported (Chmielewski et al., 2009; Rymaszewska and Piotrowski, 2013; Welc-Fałęciak et al., 2014 Wodecka et al.; 2014),"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-3-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 3 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.083,
+                0.885,
+                0.593
+            ],
+            "angle": 0,
+            "content": "although the latter species is predominantly associated with Dermacentor reticulatus, with the infection range between \\(20\\%\\) and \\(57\\%\\) (Chmielewski et al., 2009; Stańczak, 2006; Wojcik-Fatla et al., 2013). Hard ticks (Ixodidae) are considered to be both the vector and reservoir of the SFG rickettsiae, therefore these bacteria may circulate vertically within a tick population being transmitted transstadially and transovarially (Reháček, 1984). It was also demonstrated for R. helvetica under laboratory conditions that the transovarial transmission rate (TOT), i.e. proportion of infected females giving rise to at least one positive egg or larva, may reach \\(100\\%\\) (Socolovschi et al., 2009). Non-infected tick larvae can also acquire the initial infection during feeding on rickettsiemic hosts (horizontal transmission). However, this transmission mode of SFG rickettsiae to the vector is limited by short-lasting rickettsiemia (Socolovschi et al., 2009). It may explain why Rickettsia DNA could not be detected in blood samples of animals parasitized by infected ticks (Barandika et al., 2007; Boretti et al., 2009; Skarphédinsson et al., 2005; Stańczak et al., 2009). On the other hand, there is also evidence of Rickettsia sp. infection in small mammals (Schex et al., 2011), large game animals (Hornok et al., 2014;; Stefanidesova et al., 2008) and birds examined in European studies (Sprong et al., 2009)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.608,
+                0.884,
+                0.79
+            ],
+            "angle": 0,
+            "content": "As it was experimentally proved that Apodemus flavicollis, Microtus arvalis, Myodes (Clethrionomys) glareolus and Mus musculus might acquire infection with R. slovaca. R. sibirica, R. conori and R. acari (Reháček et al., 1976, 1992), the aim of the present research was (i) to evaluate infestation of small rodent species with Ixodes spp. (ii) to screen ticks and rodent blood samples for the presence of the SFG rickettsiae and assess the potential role of these small mammals in the maintenance of Rickettsia spp. in sylvatic ecosystems."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-4-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 4 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.084,
+                0.296,
+                0.101
+            ],
+            "angle": 0,
+            "content": "1 Material and methods"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.117,
+                0.197,
+                0.133
+            ],
+            "angle": 0,
+            "content": "2 Study site"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.149,
+                0.885,
+                0.167
+            ],
+            "angle": 0,
+            "content": "3 The study was conducted in sylvatic habitats situated within the middle of 10.000-ha"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.182,
+                0.885,
+                0.2
+            ],
+            "angle": 0,
+            "content": "4 Landscape Park “Zielonka Forest” – a large forest complex about \\(30\\mathrm{km}\\) away from the city"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.215,
+                0.885,
+                0.233
+            ],
+            "angle": 0,
+            "content": "5 of Poznań, in west-central Poland (52°17'N; 16°50'E) (Figure 1). Sampling was performed in"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.248,
+                0.885,
+                0.265
+            ],
+            "angle": 0,
+            "content": "6 the reserve \"Mixed forest in Lopuchówko Forest Division\" covering an area of 10.83 ha. The"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.28,
+                0.885,
+                0.299
+            ],
+            "angle": 0,
+            "content": "7 reserve consists of a natural oak and pine forest stand (up to 200 years old) including also"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.314,
+                0.387,
+                0.331
+            ],
+            "angle": 0,
+            "content": "8 younger hornbeams and beeches."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.346,
+                0.281,
+                0.363
+            ],
+            "angle": 0,
+            "content": "9 Trapping of rodents"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.379,
+                0.885,
+                0.397
+            ],
+            "angle": 0,
+            "content": "10 Animals were trapped alive for three consecutive nights once per month from May to"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.412,
+                0.885,
+                0.43
+            ],
+            "angle": 0,
+            "content": "11 September 2006 using 80 wooden traps baited with oat flakes. Traps were placed along six"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.444,
+                0.885,
+                0.462
+            ],
+            "angle": 0,
+            "content": "12 transects (each \\(50\\mathrm{m}\\) long) spaced 10 to \\(20\\mathrm{m}\\) apart, depending on location. Captured animals"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.477,
+                0.885,
+                0.496
+            ],
+            "angle": 0,
+            "content": "were anesthetized with Narkotan, approximately aged and sexed by weighting, and examined"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.51,
+                0.885,
+                0.528
+            ],
+            "angle": 0,
+            "content": "14 carefully for ticks in a field laboratory using a head-mounted magnifying glass. Attached ticks"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.542,
+                0.885,
+                0.561
+            ],
+            "angle": 0,
+            "content": "were removed with forceps, identified to species level by using the appropriate taxonomic key"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.575,
+                0.885,
+                0.594
+            ],
+            "angle": 0,
+            "content": "16 (Siuda 1993) and preserved in \\(70\\%\\) ethanol until examination. Whenever possible, a drop of"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.608,
+                0.885,
+                0.626
+            ],
+            "angle": 0,
+            "content": "17 whole blood \\((\\approx 2 - 4\\mu \\mathrm{L})\\) was collected from the tail of animal using a 28-gauge needle and a"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.641,
+                0.885,
+                0.659
+            ],
+            "angle": 0,
+            "content": "18 pipette. EDTA-blood samples were stored at \\(-20^{\\circ}\\mathrm{C}\\) until extraction. In case of 26 animals, we"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.674,
+                0.885,
+                0.692
+            ],
+            "angle": 0,
+            "content": "failed to draw blood samples. Rodents were marked with numbered ear tags (World Precision"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.706,
+                0.885,
+                0.725
+            ],
+            "angle": 0,
+            "content": "20 Instruments Inc., Sarasota FL, USA) and released at the place of capture. Animals recaptured"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.739,
+                0.885,
+                0.758
+            ],
+            "angle": 0,
+            "content": "21 within the same trapping session were released immediately. Trapping and handling"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.772,
+                0.885,
+                0.791
+            ],
+            "angle": 0,
+            "content": "22 procedures of rodents were approved by the respective authorities (permission no. DOPog-"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.805,
+                0.885,
+                0.823
+            ],
+            "angle": 0,
+            "content": "23 4201-03-158/03/al). The majority of the blood samples \\((n = 149)\\) had been examined for"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.838,
+                0.529,
+                0.856
+            ],
+            "angle": 0,
+            "content": "24 Rickettsia DNA previously (Stanczak et al., 2009)."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.073,
+                0.872,
+                0.09,
+                0.884
+            ],
+            "angle": 0,
+            "content": "25"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-5-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 5 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.093,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.084,
+                0.44,
+                0.102
+            ],
+            "angle": 0,
+            "content": "DNA extraction and PCR amplification"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.114,
+                0.889,
+                0.53
+            ],
+            "angle": 0,
+            "content": "Only undamaged, partially or fully engorged ticks were tested by PCR. Therefore, each tick was examined under a stereomicroscope in order to check the level of engorgement. Larvae without any visible blood remnants in the midgut were excluded from PCR analysis. Total DNA from remaining 13 blood samples as well as from fully engorged larvae and nymphs was extracted using two commercial kits: Genomic Mini AX Blood and Sherlock AX, respectively (A&A Biotechnology, Gdynia, Poland). Extraction of nucleic acids from partially-engorged specimens was done by boiling in \\(\\mathrm{NH_4OH}\\) (Guy and Stanek, 1991; Rijpkema et al. 1996). Altogether, 816 immature \\(I.\\) ricinus including 12 nymphs and 804 larvae were selected and tested for the presence of rickettsial DNA. Minimum one and maximum 47 ticks per animal were tested. All nymphs and 18 larvae were examined individually. The remaining 786 larvae were tested in 212 pools consisting of two to five individuals (20x2; 88x3; 46x4 and 58x5, respectively). All larvae in a pool were from the same host."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.54,
+                0.885,
+                0.891
+            ],
+            "angle": 0,
+            "content": "A conventional PCR was carried out using the primer pair RpCS.877p and RpCS.1258n amplifying a fragment of the citrate synthase encoding gene (gltA), which has conserved regions shared by all known Rickettsia species (Regnery et al., 1991). DNA products of 380 bp were considered to be positive results. Then, all positive samples were rerun using semi-nested and nested PCR assays amplifying parts of the 16S rRNA gene and the \\(rOmpA\\)-encoding gene, respectively. Seminested PCR was conducted with three primers of which Ric and Ric U8 yielded a 1,385-bp fragment encompassing almost the complete gene, while a combination of Ric and Ric Rt were amplifying a 757 bp fragment (Raoult et al., 2002). In the nested PCR primers SLO1F/SLO1R were used as the outer pair, while SLO2F/SLO2R as the inner one (Nilsson et al., 1997). As a results amplicons of 355 bp were expected. All reactions were conducted in the 20-μL PCR mixtures contained 0.5U of RUN Taq polymerase, 2 μL of"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.927,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-6-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 6 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.886
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.365
+            ],
+            "angle": 0,
+            "content": "10x PCR reaction buffer with 1.5 mM of \\(\\mathrm{MgCl_2}\\) (A&A Biotechnology, Gdynia, Poland), 2 μL of 10 mM dNTPs mixture (2.5 mM each) (FERMENTAS, Lithuania), 0.4 μL of each of the primers used (10 μM), 12.7 μL of double-distilled water (DDW) and 2 μL of DNA templates. Nested and semi-nested amplifications used 1 μL of the primary PCR products and 13.7 μL of DDW. DNAs of R. helvetica and R. raoultii from the positive reactions obtained in our previous investigations (Stanczak, 2006; Stanczak et al., 2009) and confirmed by the sequence analysis of the PCR products were used as positive controls while DDW as a negative control. The thermal cycling conditions of the conventional and semi-nested PCR were as described earlier (Nilsson et al., 1997; Regnery et al., 1991)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.378,
+                0.882,
+                0.43
+            ],
+            "angle": 0,
+            "content": "All PCR reactions were carried out in a GeneAmp® PCR System 9700 (Applied Biosystems 850, Foster City, CA, USA)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.444,
+                0.882,
+                0.528
+            ],
+            "angle": 0,
+            "content": "PCR products were separated on \\(2\\%\\) agarose gels stained with Midori Green DNA Stain (Nippon Genetics Europe GmbH) and visualized under UV light using GelDoc-It, Imagine Systems \\(\\mathrm{UV}^{\\mathrm{TM}}\\) Transluminator (Upland CA 91786, USA)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.113,
+                0.542,
+                0.884,
+                0.854
+            ],
+            "angle": 0,
+            "content": "Randomly chosen samples that produced a positive result were selected for sequencing. The PCR products were purified using the Clean-Up purification kit (A&A Biotechnology, Gdynia, Poland), sequenced bidirectionally with a sets of primers identical to those used in the PCR and nested PCR by using ABI Prism® Big Dye™ Terminator v.3.1 Cycle Sequencing Kit and then analyzed with ABI Prism 3130xL Genetic Analyser (Applied Biosystem®) according to the manufacturer's protocol. Finally, sequences were edited and compared with each other and with corresponding sequences registered in the GenBank database using the NCBI BLAST program (U. S. National Institutes of Health, Bethesda, Maryland) [http://blast.ncbi.nlm.nih.gov/Blast.cgi]. Than consensus sequences were submitted to GenBank."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.939
+            ],
+            "angle": 0,
+            "content": "-7-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 7 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.183,
+                0.1
+            ],
+            "angle": 0,
+            "content": "1 Results"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.116,
+                0.388,
+                0.133
+            ],
+            "angle": 0,
+            "content": "2 Rodents and their tick infestation"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.148,
+                0.885,
+                0.168
+            ],
+            "angle": 0,
+            "content": "3 In total, 188 animals consisting of 142 (75.5%) yellow-necked mice (A. flavicollis) and 46"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.182,
+                0.883,
+                0.202
+            ],
+            "angle": 0,
+            "content": "(24.5%) bank voles (M. glareolus) were examined for ticks. One hundred fifty-eight (84%)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.214,
+                0.884,
+                0.233
+            ],
+            "angle": 0,
+            "content": "5 animals hosted 2324 (99.4%) larval and 15 (0.6%) nymphal I. ricinus in different"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.248,
+                0.883,
+                0.266
+            ],
+            "angle": 0,
+            "content": "6 engorgement level (Table 1). A detailed seasonal analysis of infestation indices for both"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.28,
+                0.883,
+                0.3
+            ],
+            "angle": 0,
+            "content": "rodent species was published previously (Michalik et al., 2007). On average, one trapped"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.313,
+                0.883,
+                0.332
+            ],
+            "angle": 0,
+            "content": "8 mouse hosted 12 times more larvae than bank voles (15.9 vs 1.3 per host, respectively; Mann-"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.07,
+                0.345,
+                0.883,
+                0.365
+            ],
+            "angle": 0,
+            "content": "9 Whitney U-Test, p<0.001). The prevalence of larval infestation was almost twofold higher for"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.378,
+                0.883,
+                0.397
+            ],
+            "angle": 0,
+            "content": "10 A. flavicollis (94.4%) in comparison to M. glareolus (52.2%). Thirteen (9.7%) of 134 yellow-"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.412,
+                0.883,
+                0.43
+            ],
+            "angle": 0,
+            "content": "11 necked mice carrying larvae, were concurrently infested with nymphs. No nymphs were"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.444,
+                0.883,
+                0.462
+            ],
+            "angle": 0,
+            "content": "12 found on bank voles. Male mice and voles carried considerably more larval ticks than did"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.477,
+                0.188,
+                0.495
+            ],
+            "angle": 0,
+            "content": "13 females."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.509,
+                0.586,
+                0.528
+            ],
+            "angle": 0,
+            "content": "14 Detection of rickettsiae in ticks and rodent blood samples"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.542,
+                0.883,
+                0.561
+            ],
+            "angle": 0,
+            "content": "In total, 816 I. ricinus derived from 120 infested animals, including 30 individual ticks (12"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.575,
+                0.883,
+                0.594
+            ],
+            "angle": 0,
+            "content": "16 nymphs and 18 larvae) and 212 pools of larvae \\((n = 786)\\) were tested by the conventional PCR,"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.608,
+                0.883,
+                0.626
+            ],
+            "angle": 0,
+            "content": "17 targeting a fragment of the gltA gene. Rickettsial DNA was identified in two of 12 (11.1%)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.64,
+                0.883,
+                0.659
+            ],
+            "angle": 0,
+            "content": "18 individually tested larvae, and in 84 larval pools (39.6%). Among 12 nymphs tested, one"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.673,
+                0.883,
+                0.693
+            ],
+            "angle": 0,
+            "content": "19 (8.3%) was PCR positive. Assuming that only one tick in each positive pool carried the"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.706,
+                0.883,
+                0.725
+            ],
+            "angle": 0,
+            "content": "20 pathogen (minimum infection rate - MIR), at least \\(10.7\\%\\) larvae were found to be infected"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.739,
+                0.199,
+                0.757
+            ],
+            "angle": 0,
+            "content": "21 (Table 2)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.771,
+                0.883,
+                0.79
+            ],
+            "angle": 0,
+            "content": "Sixty-two (51.7%) of the 120 infested rodents hosted PCR-positive ticks. They were collected"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.805,
+                0.883,
+                0.823
+            ],
+            "angle": 0,
+            "content": "23 from 59 A. flavicollis (represented by 18 females, 38 males and 3 juvenile mice) and from"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.838,
+                0.883,
+                0.856
+            ],
+            "angle": 0,
+            "content": "24 three M. glareolus (one female and two male voles). MIR calculated for I. ricinus larvae was"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.87,
+                0.883,
+                0.888
+            ],
+            "angle": 0,
+            "content": "25 comparable for both A. flavicollis (10.8%) and M. glareolus (9.4%). In case of female bank"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.068,
+                0.084,
+                0.885,
+                0.888
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-8-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 8 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.886
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.201
+            ],
+            "angle": 0,
+            "content": "voles, MIR (16.8%) was two times higher than in male animals (8.0%). None of two nymphs collected from a juvenile vole harbored the bacterium. In case of yellow-necked mice, MIR was comparable in males and females (10.1 vs 10.4%) (Table 2). None of the blood samples collected from rodents was found to be PCR positive for Rickettsia spp."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.116,
+                0.214,
+                0.257,
+                0.233
+            ],
+            "angle": 0,
+            "content": "DNA sequencing"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.247,
+                0.885,
+                0.528
+            ],
+            "angle": 0,
+            "content": "To determine species of detected rickettsiae, all gltA-positive samples were rerun using semi-nested and nested PCR assays amplifying parts of the 16S rRNA gene and the ompA-gene, respectively. All results from the regular PCR were confirmed by the semi-nested PCR. On the other hand no positive results were obtained in the nested PCR. As the ompA-gene, that is very divergent among SFG rickettsiae, seems to be not amplified for R. helvetica (Roux et al., 1996), negative results suggested that ticks were infected only with this species. To confirm this suggestion 20 randomly chosen products of RpCS.877-RpCS.1258 (n=10) and Ric-RicRt (n=10) positive samples were sequenced and compared with Rickettsia spp. sequences deposited at GenBank."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.542,
+                0.884,
+                0.758
+            ],
+            "angle": 0,
+            "content": "The obtained 374-375 bp sequences of the gltA gene showed their \\(100\\%\\) homology to each other and revealed \\(100\\%\\) identity to the corresponding fragments of R. helvetica isolates obtained from I. ricinus in Poland (GenBank acc. no: EU779822), Slovakia (KF016135), Germany (KC0071266) and France (KF447530). Moreover, all 16 sequences of the 16S RNA gene were \\(100\\%\\) identical to the corresponding sequence R. helvetica strain C9P9 (L36212) from ticks and to R. helvetica clone CsFC (GQ413963) isolated from human cerebrospinal fluid in Sweden."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.772,
+                0.885,
+                0.826
+            ],
+            "angle": 0,
+            "content": "Consensus sequences of amplified fragments of 16S rRNA and gltA genes were submitted to GenBank under acc. no. KJ740388 and KJ740389, respectively."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.115,
+                0.87,
+                0.21,
+                0.887
+            ],
+            "angle": 0,
+            "content": "Discussion"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.448,
+                0.926,
+                0.486,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-9-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.962,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 9 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.974
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.102
+            ],
+            "angle": 0,
+            "content": "Small rodents are important hosts for the immature stages of Ixodidae ticks (Mihalca and"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.116,
+                0.884,
+                0.135
+            ],
+            "angle": 0,
+            "content": "Sándor, 2013) and are considered as reservoirs of different tick-borne pathogens, like TBE"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.149,
+                0.884,
+                0.167
+            ],
+            "angle": 0,
+            "content": "virus (Donoso-Mantke et al., 2011; Estrada-Pena and de la Fuente, 2014; Imhoff et al., 2015),"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.182,
+                0.884,
+                0.2
+            ],
+            "angle": 0,
+            "content": "B. burgdorferi s.l. (Gern et al., 1998; Richter et al. 2004, 2011), A. phagocytophilum (Liz et"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.215,
+                0.881,
+                0.233
+            ],
+            "angle": 0,
+            "content": "al., 2000; Keesing et al. 2012) or Neoehrlichia mikurensis (Burri et al. 2014; Obiegala et al."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.248,
+                0.884,
+                0.266
+            ],
+            "angle": 0,
+            "content": "2014). However, despite the high rate of infection of questing I. ricinus ticks with R. helvetica"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.28,
+                0.882,
+                0.298
+            ],
+            "angle": 0,
+            "content": "that has been reported e.g. in Germany (Silaghi et al., 2011), Sweden (Severinsson et al.,"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.313,
+                0.882,
+                0.331
+            ],
+            "angle": 0,
+            "content": "2010), The Netherlands (Sprong et al., 2009) and Poland (Stanczak et al., 2008), the studies"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.346,
+                0.882,
+                0.363
+            ],
+            "angle": 0,
+            "content": "on its occurrence in populations of wild mammals and ticks feeding on them are still lacking."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.379,
+                0.884,
+                0.396
+            ],
+            "angle": 0,
+            "content": "Therefore, to evaluate the role of small rodents as reservoir hosts for tick-borne SF"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.412,
+                0.882,
+                0.43
+            ],
+            "angle": 0,
+            "content": "rickettsioses in Poland, A. flavicollis and M. glareolus were sampled in sylvatic habitats in"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.444,
+                0.882,
+                0.462
+            ],
+            "angle": 0,
+            "content": "west-central Poland. Both rodent species belong to the most ubiquitous in central European"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.478,
+                0.86,
+                0.495
+            ],
+            "angle": 0,
+            "content": "woodlands, and are known to be hosts for subadult I. ricinus (Matuschka et al., 1990, 1991)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.51,
+                0.882,
+                0.527
+            ],
+            "angle": 0,
+            "content": "In our study site, \\(84\\%\\) of the animals carried at least one attached tick, however, the relative"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.542,
+                0.882,
+                0.561
+            ],
+            "angle": 0,
+            "content": "contribution of both species as hosts for \\( I. \\) ricinus differed considerably demonstrating strong"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.576,
+                0.882,
+                0.593
+            ],
+            "angle": 0,
+            "content": "host-preferences. The yellow-necked mice that comprised more than two-third of all rodents,"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.609,
+                0.882,
+                0.626
+            ],
+            "angle": 0,
+            "content": "hosted on average twelve times more larvae than did bank voles. Differences in prevalence"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.641,
+                0.882,
+                0.659
+            ],
+            "angle": 0,
+            "content": "and abundance of larval infestation assessed for A. flavicollis and M. glareolus during our"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.674,
+                0.882,
+                0.692
+            ],
+            "angle": 0,
+            "content": "survey are in line with most European studies (Humair et al., 1993; Kifner et al., 2010;"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.706,
+                0.882,
+                0.724
+            ],
+            "angle": 0,
+            "content": "Kurtenbach et al., 1995; Matuschka et al., 1992; Michalik et al., 2005; Nilsson, 1988;"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.739,
+                0.882,
+                0.757
+            ],
+            "angle": 0,
+            "content": "Täleklint and Jaenson, 1997). The observed in field usually low abundance of I. ricinus"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.772,
+                0.882,
+                0.79
+            ],
+            "angle": 0,
+            "content": "larvae on \\( M. \\) glareolus could be attributed to immune resistance exhibited by bank voles after"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.805,
+                0.882,
+                0.823
+            ],
+            "angle": 0,
+            "content": "repeated larval infestations confirmed in laboratory conditions (Dizij et al., 1995). It seems"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.839,
+                0.882,
+                0.856
+            ],
+            "angle": 0,
+            "content": "that Apodemus mice do not acquire resistance to ticks. On the other hand, there are also data"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.871,
+                0.882,
+                0.888
+            ],
+            "angle": 0,
+            "content": "showing that \\( M \\) glareolus voles may occasionally act as important hosts for larval I. ricinus"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-10-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 10 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.974
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.363
+            ],
+            "angle": 0,
+            "content": "(Humair et al., 1993). In the current study, feeding larvae clearly prevailed over nymphs that were found only on mice. This very low number of nymphs per rodent in our study area (0.08 per animal) demonstrates that in sylvatic habitats small rodents serve as very poor hosts for this developmental stage. Such extremely low loads of nymphs on small rodents was reported previously in European studies. Gray et al., (1999) collected 755 larvae and scarcely one nymphal I. ricinus from 417 woodland rodents studied in Ireland. In Slovakia, Stanko and Miklisová (2000) obtained 260 nymphs (0.14 per animal) from 1.826 A. flavicollis mice, whereas in a survey conducted by Matuschka et al., (1991) in Germany, the mean abundance of nymphs on A. flavicollis reached 0.19."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.112,
+                0.379,
+                0.884,
+                0.496
+            ],
+            "angle": 0,
+            "content": "Here, we report the occurrence of spotted fever group rickettsiae in rodent-feeding \\( I. \\) ricinus ticks. Sequencing analysis of gltA and 16S rRNA genes confirmed that ticks were infected with the only one species - \\( R. \\) helvetica. The sequences were identical or almost identical (\\( >99\\% \\)) to published sequences of \\( R. \\) helvetica detected throughout Europe."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.509,
+                0.884,
+                0.757
+            ],
+            "angle": 0,
+            "content": "Rickettsial DNA was detected in \\(8.3\\%\\) out of 12 nymphs and in at least \\(10.7\\%\\) out of 804 larvae tested in pools (MIR). Assuming that MIR parameter tends to underestimate the real infection rate, the actual value may be higher. In a German study, SFG rickettsiae were found in only \\(1.8\\%\\) of \\(I.\\) ricinus derived from \\(A.\\) flavicollis and \\(M.\\) glareolus (Franke et al., 2010). Similarly, ticks were almost exclusively infected with \\(R.\\) helvetica and no significant differences in the prevalence of this agent was observed between ticks from both rodent species. In Switzerland, Rickettsia spp. were detected in \\(6.8\\%\\) of the immature ticks attached to yellow-necked mice and bank voles (Burri et al., 2014)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.112,
+                0.772,
+                0.878,
+                0.888
+            ],
+            "angle": 0,
+            "content": "Infection with SFG rickettsiae has also been described in ticks parasitizing European hedgehogs, Erinaceus europaeus sampled in Germany and Great Britain. Both \\(I\\). hexagonus and \\(I\\). ricinus ticks collected from these mammals proved to yield \\(R\\). helvetica DNA and calculated MIR was \\(11.7\\%\\). There was no significant difference in infection rates between the"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "- 11 -"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 11 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.093,
+                0.854
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.882,
+                0.43
+            ],
+            "angle": 0,
+            "content": "two Ixodes species, but the pathogen prevalence increased with the tick developmental stage, with the highest values in adults (26.7% vs 35.9%). Rickettsia DNA was also found in tissue samples from 2 hedgehogs (Speck et al., 2013). Also medium and large-sized animal hosts, both wild (carnivores, deer, Iberian ibex, wild boars) (Márquez, 2009; Márquez and Millán, 2009; Stańczak et al., 2009) and domestic (cats, dogs, horses) (Borretti et al., 2009; Claerebout et al., 2013) are found to be frequently parasitized by Rickettsia-infected Ixodes spp. with the prevalence even up to \\(50\\%\\). Recently, \\(51.4\\%\\) of bird ticks tested in Hungary have been found to be positive for rickettsiae and the first evidence of bacteremia with \\(R\\). helvetica in European robin (Erithacus rubecula) and dunnocks (Prunella modularis) has been reported (Hornok et al., 2014). Thus, birds also might be considered as a potential source of infection for \\(I\\). ricinus and competent reservoir for rickettsiae."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.443,
+                0.885,
+                0.858
+            ],
+            "angle": 0,
+            "content": "The results presented here support previous findings that in Wielkopolska province (western Poland) infection of \\( I. \\) ricinus with this bacterium is frequent. It was detected there both in questing ticks from different areas and in feeding ticks collected from three deer species (Stańczak et al., 2008; 2009). The MIR of larvae (10.7%) and infection level of nymphs (8.3%) detached from rodents in this study were slightly higher or comparable with the mean infection level of engorged nymphs \\( I. \\) ricinus from deer (8.4%) and ~1.5 - 2 times lower, respectively, than in feeding females (16.8%). Generally, prevalence of \\( R. \\) helvetica in feeding ticks was higher in comparison with the infection rates in questing nymphs (4.9%), male (5%) and female (7%) ticks, respectively (Stańczak et al., 2008). Therefore, one might suggest that ticks become infected with \\( R. \\) helvetica also via a blood-meal on an infected host in addition to vertical transmission through the next stages. However, despite the fact that \\( R. \\) helvetica was detectable in \\( I. \\) ricinus feeding on the rodents, none of the blood samples tested in this study as well as in our previous report (Stańczak et"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.941
+            ],
+            "angle": 0,
+            "content": "- 12 -"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 12 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.854,
+                0.136
+            ],
+            "angle": 0,
+            "content": "al., 2009) proved to harbor the bacterium. Our results are in agreement with those of other authors from Spain (Barandika et al., 2007) and Slovakia (Spitalská et al., 2008)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.111,
+                0.148,
+                0.885,
+                0.694
+            ],
+            "angle": 0,
+            "content": "In Switzerland, xenodiagnostic I. ricinus larvae were used to evaluate the role of rodents as reservoirs for this bacterium and none of them acquired Rickettsia spp. during feeding on the animals (Burri et al., 2014). In contrary, in The Netherlands, \\(29\\%\\) whole blood samples obtained from rodents, including A. sylvaticus and M. glareolus, were found to be infected with R. helvetica. Moreover, \\(14\\%\\) and \\(1.4\\%\\) of the samples carried DNA of Rickettsia spp. and R. conorii, respectively (Sprong et al., 2009). Screening of ear samples from rodents in Germany revealed a prevalence of rickettsial DNA in \\(7.6\\%\\) of them. However, none of liver samples proved to be infected (Schex, 2011; Schex et al., 2011). Finally, in Austria, Panrickettsial PCR analysis also revealed positive tissue samples from M. arvalis and M. glareolus, while indirect IFA investigations using R. conorii as the SFG antigen demonstrated reactivity in \\(13.3\\%\\) of four different rodent species trapped, most frequently in M. arvalis (Schmidt et al., 2014). Prevalence of rickettsial infection investigated in large mammals differ strongly. In some studies, DNA of Rickettsia has been identified in samples from game animals: wild boar \\((7\\%)\\), roe deer \\((19\\%)\\) (Sprong et al., 2009; Stefanidesova et al., 2008) or Sika deer (Inokuma et al., 2008), but in other investigations no rickettsiae were found in blood samples of roe deer, fallow deer and red deer (Overzier et al., 2013; Sprong et al., 2009; Stańczak et al., 2009) or red foxes (Borretti et al., 2009, Hodžić et al. 2015)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.111,
+                0.706,
+                0.885,
+                0.89
+            ],
+            "angle": 0,
+            "content": "Thus, one may assume that infection in rodents in this study could take place, however, due to the short phase of bacteremia, the optimal time of the blood collection for detection of rickettsial DNA was limited and was missed. In our opinion, however, partially or fully engorged I. ricinus larvae collected from non-rickettsiemic A. flavicollis and M. glareolus did not acquire infection with rickettsiae by a blood meal but were rather infected via transovarial transmission, that was proved to be highly efficient in R. helvetica (Socolovschi et al., 2009)."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.89
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.941
+            ],
+            "angle": 0,
+            "content": "- 13 -"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 13 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.083,
+                0.091,
+                0.88
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.135
+            ],
+            "angle": 0,
+            "content": "Moreover, in case of one infected nymph, the most probable route of its infection was transstadial transmission."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.196,
+                0.221,
+                0.212
+            ],
+            "angle": 0,
+            "content": "Conclusions"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.232,
+                0.885,
+                0.742
+            ],
+            "angle": 0,
+            "content": "We conclude that in forest areas where \\( A \\) flavicollis and \\( M \\) glareolus populations occur sympatrically, the level of infestation with larval \\( I \\) ricinus was significantly higher in Apodemus mice than in bank voles. This may confirm the previous finding that \\( M \\) glareolus developed resistance to \\( I \\) ricinus after repeated infestations which resulted in significant reductions in the percentage of fully engorged ticks and shorter time of attachment of partially engorged specimens (Dizji and Kurtenbach, 1995). Therefore, mice are an important source of questing nymphs in such areas. The presence of \\( R \\) helvetica in ticks feeding on rodents and its lack in the host blood samples suggest that infection in \\( I \\) ricinus larvae resulted rather from transovarial transmission (in the nymph most likely transstadial route) than from short-lasting rickettsiemia in rodents, not detectable during our investigation, especially since the feeding period of the removed larvae was short. The results presented here confirm previous findings that in Wielkopolska province (western Poland) infection of \\( I \\) ricinus with \\( R \\) helvetica is frequent. Thus, rodents are naturally exposed to rickettsiae via infected ticks but their ability to transmit the pathogen to naive feeding specimens seems to be limited. However, their role in maintenance of rickettsiae in nature by spreading them to non-infected ticks horizontally should not be excluded."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.114,
+                0.796,
+                0.283,
+                0.814
+            ],
+            "angle": 0,
+            "content": "Competing interests"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.832,
+                0.588,
+                0.851
+            ],
+            "angle": 0,
+            "content": "The authors declare that they have no competing interests."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "- 14 -"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 14 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.076,
+                0.084,
+                0.281,
+                0.102
+            ],
+            "angle": 0,
+            "content": "Acknowledgements"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.076,
+                0.12,
+                0.883,
+                0.203
+            ],
+            "angle": 0,
+            "content": "This study was supported by the Ministry of Science and Higher Education (grant no. 2PO4C) 111 29) by the Faculty of Health Science of the Medical University of Gdansk (intramural grant ST-24)."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.076,
+                0.219,
+                0.883,
+                0.27
+            ],
+            "angle": 0,
+            "content": "We thank Dr. Miroława Dabert (Adam Mickiewicz University, Poznań) for sharing an ABI Prism 3130xL Genetic Analyser for DNA sequencing."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.076,
+                0.084,
+                0.883,
+                0.27
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.073,
+                0.317,
+                0.21,
+                0.333
+            ],
+            "angle": 0,
+            "content": "8 References"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.349,
+                0.883,
+                0.433
+            ],
+            "angle": 0,
+            "content": "9 Barandika, J.F., Hurtado, A., Garcia-Esteban, G., Gil, H., Escudero, L., Barral, M., Jado, I., 10 Juste, R.A., Anda, P., Garcia-Perez, A.L. 2007. Tick-borne zoonotic bacteria in wild and 11 domestic small mammals in northern Spain. Appl. Environ. Microbiol. 73, 6166-6171."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.448,
+                0.883,
+                0.564
+            ],
+            "angle": 0,
+            "content": "12 Boretti, F.S., Perreten, A., Meli, M.L., Cattori, V., Willi, B., Wengi, N., Hornok, S., 13 Honegger, H., Hegglin, D., Woelfel, R., Reusch, C.E., Lutz, H., Hoffmann-Lehmann, R. 14 2009. Molecular investigations of Rickettsia helvetica in dogs, foxes, humans, and Ixodes ticks. Appl. Environ. Microbiol. 75, 3230-3237."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.578,
+                0.883,
+                0.694
+            ],
+            "angle": 0,
+            "content": "16 Burri, C., Schumann, O., Schumann, C., Gern, L. 2014. Are Apodemus spp. mice and Myodes glareolus reservoirs for Borrelia miyamotoi, Candidatus Neoehrlichia mikurensis, Rickettsia helvetica, R. monacensis and Anaplasma phagocytophilum? Ticks Tick Borne Dis. 5, 245-251."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.71,
+                0.883,
+                0.761
+            ],
+            "angle": 0,
+            "content": "20 Chmielewski, T., Podsiadny, E., Karbowiak, G., Tylewska-Wierzbanowska, S. 2009.  \n21 Rickettsia spp. in ticks, Poland. Emerg. Infect. Dis. 15, 486-488."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.071,
+                0.776,
+                0.883,
+                0.858
+            ],
+            "angle": 0,
+            "content": "Cieniuch, S., Stanczak, J., Ruczaj, A. 2009. The first detection of Babesia EU1 and Babesia canis canis in Ixodes ricinus ticks (Acari, Ixodidae) collected in urban and rural areas in northern Poland. Pol. J. Microbiol. 58, 231-236."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.071,
+                0.317,
+                0.883,
+                0.858
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-15-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 15 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.821
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.168
+            ],
+            "angle": 0,
+            "content": "Claerebout, E., Losson, B., Cochez, C., Casaert, S., Dalemans, A.C., De Cat, A., Madder, M., Saegerman, C., Heyman, P., Lempereur, L. 2013. Ticks and associated pathogens collected from dogs and cats in Belgium. Parasit. Vectors 6:183. doi:10.1186/1756-3305-6-183"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.112,
+                0.18,
+                0.883,
+                0.266
+            ],
+            "angle": 0,
+            "content": "Dizij, A., Kurtenbach, K. 1995. Clethrionomys glareolus, but not Apodemus flavicollis, acquires resistance to Ixodes ricinus L., the main European vector of Borrelia burgdorferi. Parasite Immunol. 17, 177-183."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.279,
+                0.852,
+                0.331
+            ],
+            "angle": 0,
+            "content": "Donoso-Mantke, O., Karan, L.S., Rüzek, D. 2011. Tick-borne encephalitis virus: a general overview. Flavivirus Encephalitis, Dr. Daniel Ruzek (Ed.), ISBN: 978-953-307-669-0,"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.345,
+                0.867,
+                0.397
+            ],
+            "angle": 0,
+            "content": "InTech, DOI: 10.5772/21912. Available from: http://www.intechopen.com/books/flavivirus-encephalitis/tick-borne-encephalitis-virus-a-general-overview"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.411,
+                0.883,
+                0.461
+            ],
+            "angle": 0,
+            "content": "Estrada-Pena, A., de la Fuente, J. 2014. The ecology of ticks and epidemiology of tick-borne viral diseases. Antiviral Res. 108, 104-128."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.476,
+                0.883,
+                0.561
+            ],
+            "angle": 0,
+            "content": "Franke, J., Fritzsch, J., Tomaso, H., Straube, E., Dorn, W., Hildebrandt, A. 2010. Coexistence of pathogens in host-seeking and feeding ticks within a single natural habitat in Central Germany. App. Environ. Microbiol. 76, 6829-6836."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.575,
+                0.883,
+                0.658
+            ],
+            "angle": 0,
+            "content": "Gern, L., Estrada-Pena, A., Frandsen, F., Gray, J.S., Jaenson, T.G., Jongejan, F, Kahl, O., Korenberg, E., Mehl, R., Nuttall, P.A. 1998. European reservoir hosts of Borrelia burgdorferi sensu lato. Zentralbl Bakteriol. 287, 196-204."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.673,
+                0.883,
+                0.758
+            ],
+            "angle": 0,
+            "content": "Gray, J.S., Kirstein, F., Robertson, J.N., Stein, J., Kahl, O. 1999. Borrelia burgdorferi sensu lato in Ixodes ricinus ticks and rodents in a recreational park in south-western Ireland. Exp. Appl. Acarol. 23, 717-729."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.772,
+                0.883,
+                0.823
+            ],
+            "angle": 0,
+            "content": "Guy, E., Stanek, G. 1991. Detection of Borrelia burgdorferi in patients with Lyme disease by the polymerase chain reaction. J. Clin. Pathol. 44, 610-611."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.112,
+                0.083,
+                0.885,
+                0.823
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-16-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 16 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.083,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.168
+            ],
+            "angle": 0,
+            "content": "Hodžić, A., Alic, A., Fuehrer, H.P., Harl, J., Wille-Piazzai, W., Duscher, G.G. 2015. A molecular survey of vector-borne pathogens in red foxes (Vulpes vulpes) from Bosnia and Herzegovina. Parasit. Vectors 2015, 8, 88 doi:10.1186/s13071-015-0692-x"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.18,
+                0.884,
+                0.298
+            ],
+            "angle": 0,
+            "content": "Hornok, S., Kováts, D., Csörgő, T., Meli, M.L., Gönczí, E., Hadnagy, Z., Takács, N., Farkas, R., Hofmann-Lehmann, R. 2014. Birds as potential reservoirs of tick-borne pathogens: first evidence of bacteremia with *Rickettsia helvetica*. Parasit. Vectors 7:128. doi:10.1186/1756-3305-7-128"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.311,
+                0.636,
+                0.333
+            ],
+            "angle": 0,
+            "content": "http://www.pzh.gov.pl/oldpage/epimeld/2013/INF_13_12B.pdf"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.345,
+                0.882,
+                0.397
+            ],
+            "angle": 0,
+            "content": "Humair, P.F., Turrian, N., Gern, L. 1993. Borrelia burgdorferi in a focus of Lyme borreliosis: epizootiologic contribution of small mammals. Folia Parasitol. ,40: 65-70."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.41,
+                0.882,
+                0.495
+            ],
+            "angle": 0,
+            "content": "Imhoff, M., Hagedorn, P., Schulze, Y., Hellenbrand, W., Pfeffer, M., Niedrig, M. 2015. Review: Sentinels of tick-borne encephalitis risk. Ticks Tick Borne Dis. 6: 592-600. doi:10.1016/j.ttbdis.2015.05.001"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.509,
+                0.882,
+                0.594
+            ],
+            "angle": 0,
+            "content": "Inokuma, H., Seino, N., Suzuki, M., Kaji, K., Takahashi, H., Igota, H., Inoue, S. 2008. Detection of Rickettsia helvetica DNA from peripheral blood of Sika deer (Cervus Nippon yesoensis) in Japan. J. Wildl. Dis. 44, 164-167."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.607,
+                0.882,
+                0.692
+            ],
+            "angle": 0,
+            "content": "Keesing, F., Hersh, M.H., Tibbetts, M., McHenry, D.J., Duerr, S., Brunner, J., Killilea, D., LoGiudice, K., Schmidt, K.A., Ostfeld, R.S. 2012. Reservoir competence of vertebrate host for Anaplasma phagocytophilum. Emerg, Infect. Dis. 18, 2013-2016."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.706,
+                0.884,
+                0.79
+            ],
+            "angle": 0,
+            "content": "Kiewra, D., Stanczak, J., Richter, M. 2014. Ixodes ricinus ticks (Acari, Ixodidae) as a vector of Borrelia burgdorferi sensu lato and Borrelia miyamotoi in Lower Silesia, Poland - preliminary study. Ticks Tick Borne Dis. 5, 892-897."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.804,
+                0.884,
+                0.888
+            ],
+            "angle": 0,
+            "content": "Kifner, C., Vor, T., Hagedorn, P., Niedrig, M., Rüche, F. 2010. Factors affecting patterns of tick parasitism on forest rodents in tick-borne encephalitis risk areas, Germany. Parasitol. Res. doi: 10.1007/s00436-010-2065-x"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.888
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-17-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 17 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.199
+            ],
+            "angle": 0,
+            "content": "Kurtenbach, K., Kampen, H., Dizij, A., Arndt, S., Seitz, H.M., Schaible, U.E., Simon M.M. 1955. Infestation of rodents with larval Ixodes ricinus (Acari: Ixodidae) is an important factor in the transmission cycle of Borrelia burgdorferi s.l. in German woodlands. J. Med. Entomol. 32, 807-817."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.214,
+                0.883,
+                0.298
+            ],
+            "angle": 0,
+            "content": "Liz, J.S., Anderes, L., Sumner, J.W., Massung, R.F., Gern, L., Rutti, B., Brossard, M. 2000. PCR detection of granulocytic ehrlichiae in \\(Ixodes\\) ricinus ticks and wild small mammals in western Switzerland. J. Clin. Microbiol. 38, 1002-1007."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.313,
+                0.881,
+                0.365
+            ],
+            "angle": 0,
+            "content": "Márquez, F.J. 2009. Rickettsiae in ticks from wild ungulates of Sierra Nevada and Doñana national parks (Spain). Clin. Microbiol. Infect. 15(Suppl. 2), 227-229."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.378,
+                0.883,
+                0.461
+            ],
+            "angle": 0,
+            "content": "Márquez, F.J., Millán, J. 2009. Rickettsiae in ticks from wild and domestic carnivores of Doñana National Park (Spain) and surrounding area. Clin. Microbiol. Infect. 15 (Suppl. 2), 224-226."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.476,
+                0.883,
+                0.594
+            ],
+            "angle": 0,
+            "content": "Matuschka, F.-R., Lange, R., Spielman, A., Richter, D., Fischer, P. 1990. Subadult Ixodes ricinus (Acari: Ixodidae) on rodents in Berlin, West Germany. J. Med. Entomol. 27, 385-390. Matuschka, F.-R., Fischer, P., Musgrave, K., Richter, D., Spielman, A. 1991. Hosts on which nymphal Ixodes ricinus the most abundantly feed. Am. J. Trop. Med. Hyg. 44, 100-107."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.607,
+                0.883,
+                0.69
+            ],
+            "angle": 0,
+            "content": "Matuschka, F.R., Fischer, P., Heiler, M., Richter, D., Spielman, A. 1992. Capacity of European animals as reservoir hosts for the Lyme disease spirochete. J. Infect. Dis. 165, 479-483."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.706,
+                0.883,
+                0.821
+            ],
+            "angle": 0,
+            "content": "Michalik, J., Skotarczak, B., Skoracki, M., Wodecka, B., Sikora, B., Hofman, T., Rymaszewska, A., Sawczak, M. 2005. Borrelia burgdorferi sensu stricto in yellow-necked mice and feeding Ixodes ricinus ticks in a forest habitat of west central Poland. J. Med. Entomol. 42, 850-856."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.837,
+                0.883,
+                0.888
+            ],
+            "angle": 0,
+            "content": "Michalik, J., Stanczak, J., Sikora, B., Laniecka, I., Bartnicka, M. 2007. Immature Ixodes ricinus ticks infesting yellow-necked mice (Apodemus flavicollis) and bank voles"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.888
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-18-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 18 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.853
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.166
+            ],
+            "angle": 0,
+            "content": "(Clethrionomys glareolus) in a forest habitat – differences in tick-host preferences. In: Buczek A., Blaszak C. (Eds.). Arthropods, Environment, pathogens and host. Koliber, Lublin, pp. 193-198."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.181,
+                0.885,
+                0.267
+            ],
+            "angle": 0,
+            "content": "Mihalca, A.D., Sándor, A. 2013. The role of rodents in the ecology of Ixodes ricinus and associated pathogens in Central and Eastern Europe. Front. Cell. Infect. Microbiol. 3, article 56. doi: 10.3389/fcimb.2013.00056"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.115,
+                0.279,
+                0.883,
+                0.331
+            ],
+            "angle": 0,
+            "content": "Nilsson, A. 1988. Seasonal occurrence of Ixodes ricinus (Acari) in vegetation and on small mammals in southern Sweden. Holarctic Ecol. 11, 161-165."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.115,
+                0.345,
+                0.884,
+                0.43
+            ],
+            "angle": 0,
+            "content": "Nilsson, K., Jaenson, T.G.T., Uhnoo, I., Lindquist, O., Pettersson, B., Uhlen, M., Friman, G., Pahlson, C. 1997. Characterization of the spotted fever group rickettsia from Ixodes ricinus ticks in Sweden. J. Clin. Microbiol. 35, 243-247."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.115,
+                0.443,
+                0.882,
+                0.56
+            ],
+            "angle": 0,
+            "content": "Obiegala, A., Pfeffer, M., Pfister, K., Tiedemann, T., Thiel, C., Balling, A., Karnath, C., Woll, D., Silaghi, C. 2014. Candidatus Neoehrlichia mikurensis and Anaplasma phagocytophilum: prevalences and investigations on a new transmission path in small mammals and ixodid ticks. Parasit Vectors 7: 563. doi:10.1186/s13071-014-0563-x"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.115,
+                0.574,
+                0.883,
+                0.659
+            ],
+            "angle": 0,
+            "content": "Overzier, E., Pfister, K., Herb, I., Mahlig, M., Böck, G., Silaghi, C. 2013. Detection of tick-borne pathogens in roe deer (Capreolus capreolus), in questing ticks (Ixodes ricinus), and in ticks infesting roe deer in southern Germany. Ticks Tick Borne Dis. 4, 320-328."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.115,
+                0.673,
+                0.884,
+                0.758
+            ],
+            "angle": 0,
+            "content": "Raoult, D., Lakos, A., Fenollar, F., Beytout, J., Brouqui, P., Fournier, P.E. 2002. Spotless rickettsiosis caused by Rickettsia slovaca and associated with Dermacentor ticks. Clin. Infect. Dis. 34, 1331-1336."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.771,
+                0.884,
+                0.856
+            ],
+            "angle": 0,
+            "content": "Regnery, R.L., Spruill, C.L., Plikyatis, B.D. 1991. Genotypic identification of rickettsiae and estimation of interspecies sequence divergence for portions of two rickettsial genes. J. Bacteriol. 173, 1576-1589."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.856
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-19-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 19 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.974
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.083,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.134
+            ],
+            "angle": 0,
+            "content": "Reháček, J. 1984. Rickettsia slovaca, the organism and its etiology. Acta Sci. Nat. Acad. Sci. Bohemoslovacae (Brno) 18, 1-50."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.112,
+                0.146,
+                0.884,
+                0.2
+            ],
+            "angle": 0,
+            "content": "Reháček, J., Urvölgyi, J., Kocianová, E., Jedlicka, L. 1992. Susceptibility of some species of rodents to rickettsiae. Folia Parasitol. (Praha) 39, 265-284."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.213,
+                0.878,
+                0.33
+            ],
+            "angle": 0,
+            "content": "Reháček, J., Zupancicová, M., Kovácová, E., Urvölgyi, J., Brezina, R. 1976. Study of rickettsioses in Slovakia. III. Experimental infection of Apodemus flavicollis Melch. by rickettsiae of the spotted fever (SF) group isolated in Slovakia. J. Hyg. Epidemiol. Microbiol. Immunol. 21, 306-313."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.345,
+                0.883,
+                0.397
+            ],
+            "angle": 0,
+            "content": "Richter, D., Klug, B., Spielma, A., Matuschka F.R. 2004. Adaptation of diverse Lyme disease spirochetes in a natural rodent reservoir host. Infect. Immun. 72, 2442-2444."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.41,
+                0.883,
+                0.463
+            ],
+            "angle": 0,
+            "content": "Richter, D., Schlee, D.B., Matushka FR. 2011. Reservoir competence of various rodents for the Lyme disease spirochete Borrelia spielmanii. Appl. Environ. Microbiol. 77, 3565-3570."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.475,
+                0.884,
+                0.592
+            ],
+            "angle": 0,
+            "content": "Rijpkema, S., Golubic, D., Molkenboer, M., Verbreek-De Kruif, N., Schellekens, J. 1996. Identification of four groups of Borrelia burgdorferi sensu lato in Ixodes ricinus ticks collected in a Lyme borreliosis endemic region of northern Croatia. Exp. App. Acarol. 20, 23-30."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.607,
+                0.884,
+                0.692
+            ],
+            "angle": 0,
+            "content": "Roux, V., Fournier, P.E., Raoult, D. 1996. Differentiation of spotted fever group rickettsiae by sequencing and analysis of restriction fragment length polymorphism of PCR-amplified DNA of the gene encoding the protein rOmpA. J. Clin. Microbiol. 34, 2058-2065."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.706,
+                0.884,
+                0.79
+            ],
+            "angle": 0,
+            "content": "Rymaszewska, A., Piotrowski, M. 2013. Use of DNA sequences for Rickettsia identification in Ixodes ricinus ticks: the first detection of Rickettsia monocensis in Poland. Microbes Infect. 15, 140-146."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.804,
+                0.884,
+                0.889
+            ],
+            "angle": 0,
+            "content": "Schex, S.Y. 2011. Rickettsia spp. in free ranging small mammals in South-Eastern Germany. Ed. VVB Laufersweiler, 115 pp. http://edoc.ub.uniuenchen.de/12917/1/Schex_Susanne_Yvonne.pdf"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.112,
+                0.083,
+                0.885,
+                0.889
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-20-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 20 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.083,
+                0.091,
+                0.853
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.166
+            ],
+            "angle": 0,
+            "content": "Schex, S., Dobler, G., Riehm, J., Müller, J., Essbauer, S. 2011. *Rickettsia* spp. in wild small mammals in Lower Bavaria, South-Eastern Germany. Vector Borne Zoonotic Dis. 11, 493-502."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.112,
+                0.18,
+                0.884,
+                0.298
+            ],
+            "angle": 0,
+            "content": "Schmidt, S., Essbauer, S.S., Mayer-Scholl, A., Poppert, S., Schmidt-Chanasit, J., Klempa, B., Henning, K., Schares, G., Groschup, M.H., Spitzenberger, F., Richter, D., Heckel, G., Ulrich, R.G. 2014. Multiple infections of rodents with zoonotic pathogens in Austria. Vector Borne Dis. 14, 467-475."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.312,
+                0.883,
+                0.398
+            ],
+            "angle": 0,
+            "content": "Severinsson, K., Jaenson, T.G., Pettersson, J., Falk, K., Nilsson, K. 2010. Detection and prevalence of Anaplasma phagocytophilum and Rickettsia helvetica in Ixodes ricinus ticks in seven study areas in Sweden. Parasit. Vectors 3, 66, doi:10.1186/1756-3305-3-66"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.411,
+                0.882,
+                0.463
+            ],
+            "angle": 0,
+            "content": "Silaghi, C., Hamel, D., Thiel, C., Pfister, K., Pfeffer, M. 2011. Spotted fever group rickettsiae in ticks, Germany. Emerg. Infect. Dis. 7, 890-892."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.476,
+                0.882,
+                0.594
+            ],
+            "angle": 0,
+            "content": "Siuda K (1993) Ticks of Poland (Acari: Ixodidae). Part II: Systematic and distribution [in Polish], Warszawa, Polskie Towarzystwo Parazytologiczne 372 pp Skarphédinsson, S., Per, M., Jensen, P.M., Kåre Kristiansen, K. 2005. Survey on tick-borne infection in Denmark. Emerg. Infect. Dis. 11, 1055-1061."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.607,
+                0.882,
+                0.69
+            ],
+            "angle": 0,
+            "content": "Skotarczak, B., Cichocka, A. 2001. Isolation and amplification by polymerase chain reaction DNA of Babesia microti and Babesia divergens in ticks in Poland. Ann. Agric. Environ. Med. 8, 187-189."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.706,
+                0.882,
+                0.789
+            ],
+            "angle": 0,
+            "content": "Socolovschi, C., Mediannikov, O., Raoult, D., Parola, P. 2009. The relationship between spotted fever group Rickettsiae and ixodid ticks. Vet. Res. 40, 34; doi: 10.1051/vetres/2009017"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.804,
+                0.882,
+                0.856
+            ],
+            "angle": 0,
+            "content": "Speck, S., Perseke, L., Petney, T., Skuballa, J., Pfaffle, M., Tarschewski, H., Bunnel, T., Essbauer, S., Dobler, G. 2013. Detection of Rickettsia helvetica in ticks collected from"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.112,
+                0.083,
+                0.885,
+                0.856
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-21-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 21 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.084,
+                0.091,
+                0.821
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.885,
+                0.134
+            ],
+            "angle": 0,
+            "content": "European hedgehogs (Erinaceus europaeus, Linnaeus, 1758). Ticks Tick Borne Dis. 4, 222-226."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.112,
+                0.146,
+                0.884,
+                0.2
+            ],
+            "angle": 0,
+            "content": "Spitalská, E., Boldis, V., Kostanová, Z., Kocianová, E., Stefanidesová, K. 2008. Incidence of various microorganisms in rodents and ticks of central Slovakia. Acta Virol. 52, 175-179."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.214,
+                0.883,
+                0.33
+            ],
+            "angle": 0,
+            "content": "Sprong, H., Wielinga, P.R., Fonville, M., Reusken, C., Brandenburg, A.H., Borgsteede, F., Gaasenbeek, C., van der Giessen, J.W.B. 2009. *Ixodes ricinus* ticks are reservoir hosts for Rickettsia helvetica and potentially carry flea-borne *Rickettsia* species. Parasit. Vectors 2, 41; doi:10.1186/1756-3305-2-41"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.345,
+                0.884,
+                0.397
+            ],
+            "angle": 0,
+            "content": "Stanczak, J. 2006. Detection of spotted fever group (SFG) rickettsiae in Dermacentor reticulatus (Acari: Ixodidae) in Poland. Int. J. Med. Microbiol. 296(S1), 144-148."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.41,
+                0.885,
+                0.527
+            ],
+            "angle": 0,
+            "content": "Stańczak, J., Racewicz, M., Kubica-Biernat, B., Kruminis-Lozowska, W., Dąbrowski, J., Adamczyk, A., Markowska, M. 1999. Prevalence of Borrelia burgdorferi sensu lato in Ixodes ricinus ticks (Acari, Ixodidae) in different Polish woodlands. Ann. Agric. Environ. Med. 6, 127-132."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.541,
+                0.884,
+                0.658
+            ],
+            "angle": 0,
+            "content": "Stańczak, J., Racewicz, M., Kruminis-Łozowska, W., Kubica-Biernat, B. 2002. Coinfection of Ixodes ricinus (Acari: Ixodidae) in northern Poland with the agents of Lyme borreliosis (LB) and human granulocytic ehrlichiosis (HGE). Int. J. Med. Microbiol. 291(Suppl 33), 198-201."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.673,
+                0.884,
+                0.724
+            ],
+            "angle": 0,
+            "content": "Stanczak, J., Racewicz, M., Michalik, J., Buczek, A. 2008. Distribution of Rickettsia helvetica in Ixodes ricinus tick populations in Poland Int. J. Med. Microbiol. 298(Suppl 1), 231-234."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.738,
+                0.884,
+                0.823
+            ],
+            "angle": 0,
+            "content": "Stanczak, J., Racewicz, M., Michalik, J., Cieniuch, S., Sikora, B., Skoracki, M. 2009. Prevalence of infection with Rickettsia helvetica in feeding ticks and their hosts in western Poland. Clin. Microbiol. Infect. 15(Suppl 2), 328-329."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.112,
+                0.083,
+                0.885,
+                0.823
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-22-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 22 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.28,
+                0.0,
+                0.713,
+                0.025
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.054,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.083,
+                0.091,
+                0.887
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.168
+            ],
+            "angle": 0,
+            "content": "Stanko, M., Miklisová, D. 2000. Tick infestation patterns of two rodent species in a lowland ecosystem. In: Kazimirova, M., Labuda, P., Nuttall, A. M. (Eds.), Proceedings, 3 rd International Conference, Bratislava, Slovakia, pp. 185-188."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.18,
+                0.883,
+                0.266
+            ],
+            "angle": 0,
+            "content": "Stefanidesova, K., Kocianova, E., Boldis, V., Kostanova, Z., Kanka, P., Nemethova, D., Spitalska, E. 2008. Evidence of Anaplasma phagocytophilum and Rickettsia helvetica infection in free-ranging ungulates in Central Slovakia. Eur. J. Wildl. Res. 54, 519-524."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.279,
+                0.882,
+                0.397
+            ],
+            "angle": 0,
+            "content": "Sytykiewicz, H., Karbowiak, G., Hapunik, J., Szpechciński, A., Supergan-Marwicz, M., Goławska, S., Sprawka, I., Czerniewicz, P. 2012. Molecular evidence of Anaplasma phagocytophilum and Babesia microti co-infections in Ixodes ricinus ticks in central-eastern region of Poland. Ann. Agric. Environ. Med. 19, 45-49."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.411,
+                0.882,
+                0.462
+            ],
+            "angle": 0,
+            "content": "Tälleklint, L., Jaenson, T.G.T. 1997. Infestation of mammals by Ixodes ricinus ticks (Acari: Ixodidae) in south-central Sweden. Exp. Appl. Acarol. 21, 755-771."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.476,
+                0.882,
+                0.56
+            ],
+            "angle": 0,
+            "content": "Welc-Faleciak, R., Kowalec, M., Karbowiak, G., Bajer, A., Behnke, J.M., Siński, E. 2014. Rickettsiaceae and Anaplasmataceae infections in Ixodes ricinus ticks from urban and natural forested areas of Poland. Parasit. Vectors 7, 121, doi:10.1186/1756-3305-7-121"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.574,
+                0.882,
+                0.626
+            ],
+            "angle": 0,
+            "content": "Wodecka, B. 2003. Detection of Borrelia burgdorferi sensu lato DNA in Ixodes ricinus ticks in north-western Poland. Ann. Agric. Environ. Med. 10, 171-178."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.64,
+                0.882,
+                0.724
+            ],
+            "angle": 0,
+            "content": "Wodecka, B., Rymaszewska, A., Skotarczak, B. 2014. Host and pathogen DNA identification in blood meals of nymphal Ixodes ricinus ticks from forest parks and rural forests of Poland. Exp. Appl. Acarol. 62, 543-555."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.113,
+                0.739,
+                0.882,
+                0.823
+            ],
+            "angle": 0,
+            "content": "Wojcik-Fatla, A., Cisak, E., Zajac, V., Sroka, J., Sawczyn, A., Dutkiewicz, J. 2013. Study on tick-borne rickettsiae in eastern Poland. I. Prevalence in Dermacentor reticulatus (Acari: Amblyommidae). Ann. Agric. Environ. Med. 20, 276-279."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.111,
+                0.083,
+                0.885,
+                0.823
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-23-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 23 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.281,
+                0.0,
+                0.715,
+                0.024
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.977
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.068,
+                0.083,
+                0.092,
+                0.976
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.083,
+                0.308,
+                0.102
+            ],
+            "angle": 0,
+            "content": "A caption to the Fig. 1."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.112,
+                0.148,
+                0.777,
+                0.2
+            ],
+            "angle": 0,
+            "content": "Figure 1. Location of the \"Zielonka Forest\" - the collection site of small rodents, Wielkopolska province, west-central Poland."
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.112,
+                0.247,
+                0.858,
+                0.29
+            ],
+            "angle": 0,
+            "content": "Table 1. Immature Ixodes ricinus ticks on Apodemus flavicollis and Myodes glareolus live-trapped in west-central Poland<sup>a)</sup>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.108,
+                0.311,
+                0.919,
+                0.52
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Host (No.)</td><td colspan=\"3\">Larvae</td><td colspan=\"3\">Nymphs</td></tr><tr><td>Sex/age class</td><td>No.</td><td>No. hosts infested (%)</td><td>No. per host ± SD</td><td>No.</td><td>No. hosts infested (%)</td><td>No. per host ± SD</td></tr><tr><td>A. flavicollis</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>females (57)</td><td>609</td><td>53 (93)</td><td>10.7 ± 12.7</td><td>4</td><td>4 (7)</td><td>0.1</td></tr><tr><td>males (77)</td><td>1513</td><td>74 (96)</td><td>19.6 ± 16.4</td><td>9</td><td>8 (10)</td><td>0.3</td></tr><tr><td>juveniles (8)</td><td>142</td><td>7 (88)</td><td>17.8 ± 15.1</td><td>2</td><td>1 (12)</td><td>0.3</td></tr><tr><td>TOTAL (142)</td><td>2264</td><td>134 (94.4)</td><td>15.9 ± 15.4</td><td>15</td><td>13 (9.2)</td><td>0.1 ± 0.3</td></tr><tr><td>M. glareolus</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>females (16)</td><td>9</td><td>6 (38)</td><td>0.6 ± 1.0</td><td>0</td><td></td><td></td></tr><tr><td>males (23)</td><td>45</td><td>16 (70)</td><td>2.0 ± 2.3</td><td>0</td><td></td><td></td></tr><tr><td>juveniles (7)</td><td>6</td><td>2 (29)</td><td>0.9 ± 1.6</td><td>0</td><td></td><td></td></tr><tr><td>TOTAL (46)</td><td>60</td><td>24 (52)</td><td>1.3 ± 2.0</td><td>0</td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.114,
+                0.52,
+                0.618,
+                0.536
+            ],
+            "angle": 0,
+            "content": "a) Mice and voles were trapped from May to September 2006."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.94
+            ],
+            "angle": 0,
+            "content": "-24-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 24 of 27"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.281,
+                0.0,
+                0.715,
+                0.023
+            ],
+            "angle": 0,
+            "content": "ACCEPTED MANUSCRIPT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.026,
+                0.099,
+                0.052,
+                0.974
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9   \n10   \n11   \n12   \n13   \n14   \n15   \n16   \n17   \n18   \n19   \n20   \n21   \n22   \n23   \n24   \n25   \n26   \n27   \n28   \n29   \n30   \n31   \n32   \n33   \n34   \n35   \n36   \n37   \n38   \n39   \n40   \n41   \n42   \n43   \n44   \n45   \n46   \n47   \n48   \n49   \n50   \n51   \n52   \n53   \n54   \n55   \n56   \n57   \n58   \n59   \n60   \n61   \n62   \n63   \n64   \n65"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.076,
+                0.084,
+                0.093,
+                0.561
+            ],
+            "angle": 0,
+            "content": "1   \n2   \n3   \n4   \n5   \n6   \n7   \n8   \n9"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.111,
+                0.083,
+                0.82,
+                0.126
+            ],
+            "angle": 0,
+            "content": "Table 2. Prevalence of Rickettsia helvetica in immature Ixodes ricinus ticks feeding on Apodemus flavicollis (A.f.) and Myodes glareolus (M.g.), Poland"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.115,
+                0.163,
+                0.895,
+                0.432
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"2\">Hosts with ticks</td><td colspan=\"3\">Ixodes ricinus</td></tr><tr><td></td><td></td><td>Larvae</td><td></td><td>Nymphs</td></tr><tr><td>Species</td><td>Sex (no.)</td><td>no. pools tested/no. ticks per 1 pool /no. positive pools [no. of pools/no. (% ) positive]</td><td>no. ticks tested /minimal. no. infected (MIR)</td><td>no. tested / no. (%) infected</td></tr><tr><td rowspan=\"3\">A.f.</td><td>Female (40)</td><td>10/1/2</td><td>197/20 (10.2)</td><td>3/0</td></tr><tr><td>Male (60)</td><td>17/2/2; 81/3/24; 47/4/29; 59/5/26</td><td>556/58 (10.3)</td><td>9/1 (11)</td></tr><tr><td>Juvenile (3)</td><td>5/3/4; 1/4/1</td><td>19/5 (26)</td><td>0</td></tr><tr><td>Subtotal</td><td>103</td><td>[204/81 (40.7%)]</td><td>772/83 (10.8)</td><td>12/1 (8)</td></tr><tr><td rowspan=\"3\">M.g.</td><td>Female (4)</td><td>2/1/0; 1/3/1</td><td>5/1 (20)</td><td></td></tr><tr><td>Male (12)</td><td>6/1/0; 3/2/0; 2/4/1; 1/5/1</td><td>25/2 (8)</td><td></td></tr><tr><td>Juvenile (1)</td><td>5/3/4; 1/4/1</td><td>2/0</td><td></td></tr><tr><td>Subtotal</td><td>17</td><td>[8/3 (38%)]</td><td>32/3 (9)</td><td></td></tr><tr><td>Total</td><td>120</td><td>[212/84 (39.6%)]</td><td>804/86 (10.7)</td><td>12/1 (8)</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.114,
+                0.447,
+                0.877,
+                0.481
+            ],
+            "angle": 0,
+            "content": "MIR - minimum infection rate (\\%) - assuming that only one tick in each positive pool carried the pathogen"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.443,
+                0.926,
+                0.49,
+                0.939
+            ],
+            "angle": 0,
+            "content": "-25-"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.863,
+                0.953,
+                0.971,
+                0.968
+            ],
+            "angle": 0,
+            "content": "Page 25 of 27"
+        }
+    ],
+    [
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.004,
+                0.004,
+                0.056,
+                0.025
+            ],
+            "angle": 0,
+            "content": "Figure 1"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.141,
+                0.058,
+                0.847,
+                0.935
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.669,
+                0.938,
+                0.751,
+                0.955
+            ],
+            "angle": 0,
+            "content": "Page 26 or 27"
+        }
+    ],
+    [
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.004,
+                0.004,
+                0.076,
+                0.023
+            ],
+            "angle": 0,
+            "content": "Figure 1 tiff"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.141,
+                0.058,
+                0.843,
+                0.933
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.669,
+                0.938,
+                0.75,
+                0.955
+            ],
+            "angle": 0,
+            "content": "Page 2/ of 2/"
+        }
+    ]
+]

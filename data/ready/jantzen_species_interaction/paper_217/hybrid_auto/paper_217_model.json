@@ -1,0 +1,817 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.272,
+                0.029,
+                0.743,
+                0.053
+            ],
+            "angle": 0,
+            "content": "SHORT COMMUNICATIONS"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.108,
+                0.061,
+                0.248,
+                0.072
+            ],
+            "angle": 0,
+            "content": "DOI: 10.7589/2019-09-238"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.628,
+                0.061,
+                0.909,
+                0.072
+            ],
+            "angle": 0,
+            "content": "Journal of Wildlife Diseases, 56(3), 2020, pp. 000-000"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.721,
+                0.072,
+                0.908,
+                0.081
+            ],
+            "angle": 0,
+            "content": "© Wildlife Disease Association 2020"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.107,
+                0.1,
+                0.892,
+                0.14
+            ],
+            "angle": 0,
+            "content": "Cocirculation of Two Orthohantavirus Species in Small Mammals of the Northwestern Ukraine"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.106,
+                0.156,
+                0.908,
+                0.234
+            ],
+            "angle": 0,
+            "content": "Iryna V. Demchyshyna,\\(^{1}\\) Gregory E. Glass,\\(^{3}\\) Oleksandra A. Hluzd,\\(^{1}\\) Vira V. Kutseva,\\(^{1}\\) Mariah K. Taylor,\\(^{2}\\) Evan P. Williams,\\(^{2}\\) Volodymyr Kurpita,\\(^{1}\\) and Colleen B. Jonsson\\(^{2,4}\\) \\(^{1}\\)Department of Virology, State Institution Public Health Center of the Ministry of Health of Ukraine, Yaroslavska Street, 41, Kyiv, Ukraine 04071; \\(^{2}\\)Department of Microbiology, Immunology and Biochemistry, The University of Tennessee Health Science Center, 858 Madison Avenue, Memphis, Tennessee, USA 38163; \\(^{3}\\)Emerging Pathogens Institute and Department of Geography, University of Florida, 2055 Mowry Road, Gainesville, FL 32610; \\(^{4}\\)Corresponding author (email: cjonsson@uthsc.edu)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.107,
+                0.26,
+                0.497,
+                0.762
+            ],
+            "angle": 0,
+            "content": "ABSTRACT: Rodent-borne hantaviruses have been reported in many of the countries surrounding Ukraine; however, to date we have no knowledge of the viral strains circulating in Ukraine within reservoirs such as the striped field mouse (Apodemus agrarius), the yellow-necked field mouse (Apodemus flavicollis) and the bank vole (Myodes glareolus). To determine the prevalence of hantaviruses in Ukraine, we captured 1,261 mammals, of which 1,109 were rodents, in 58 field sites within the province of Volyn in western Ukraine. Foci of the striped field mouse tended to occur in the eastern and southern parts of the province, whereas the bank vole were clustered in western and northern regions. The striped field mouse and bank vole had detectable serum antibodies to Puumala virus (PUUV) or Dobrava virus (DOBV) antigens at \\(7\\%\\) or \\(2\\%\\), respectively, using an indirect immunofluorescence assay. Antibody prevalence among the bank vole males and females was equivalent, whereas for the striped field mouse, the prevalence among males was \\(5\\%\\) versus \\(1\\%\\) for females. In two bank vole specimens, we were able to detect partial nucleotide sequences that showed identity to PUUV. In summary, this study suggests that two human pathogens, PUUV and DOBV, cocirculate in the bank vole and the striped field mouse, respectively, in Ukraine. Future studies will focus on new rodent collections that will enable obtaining the complete genome sequences of the PUUV and DOBV strains circulating in Ukraine to provide guidance on the design of optimal molecular diagnostics that can enable insight into the potential contribution of hantaviruses to human disease in Ukraine."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.107,
+                0.763,
+                0.497,
+                0.805
+            ],
+            "angle": 0,
+            "content": "Key words: Apodemus agrarius, Dobrava-Belgrade virus, DOBV, Myodes glareolus, Orthohantavirus, Puumala virus, PUUV, Ukraine."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.107,
+                0.831,
+                0.497,
+                0.914
+            ],
+            "angle": 0,
+            "content": "To further explore the potential impact of hantavirus disease on public health in Ukraine, we collected rodent species in the northwestern region of the country in Volyn Province. Hantaviruses are widely distributed in nature"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.517,
+                0.26,
+                0.908,
+                0.663
+            ],
+            "angle": 0,
+            "content": "in mice, shrews, voles, and bats (Jonsson et al. 2010b; Vaheri et al. 2013a, b). Rodent-harbored hantaviruses can cause serious disease when transmitted by aerosolization of excreta to humans. In Europe, the two species of rodent-borne hantaviruses responsible for cases of hemorrhagic fever with renal syndrome (HFRS) are Puumala virus (PUUV) and Dobrava Belgrade virus (DOBV; Heyman et al. 2011). The reservoirs of DOBV and PUUV are the striped field mouse (Apodemus agrarius) and the bank vole (Myodes glareolus), respectively. In Ukraine, cases of HFRS have been suspected based on clinical symptoms; however, there have been no cases confirmed by diagnostic testing. The high genetic diversity of PUUV and DOBV species across Europe and Asia is well substantiated (Sironen et al. 2001; Klempa et al. 2013) so it is impossible to predict which strain or strains are circulating. Hence, as there are no reported genetic sequences of any hantaviruses from Ukraine, molecular diagnostic testing of patients remains challenging."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.517,
+                0.664,
+                0.908,
+                0.914
+            ],
+            "angle": 0,
+            "content": "The study region was within Volyn Province (Fig. 1A), which lies in northwestern Ukraine (Fig. 1B) and shares international boundaries with Poland (to the west) and Belarus (to the north). The province encompasses approximately \\(20,100\\mathrm{km}^2\\) with more than one million human inhabitants. During 2012 and 2013 field surveys, we sampled terrestrial small mammals. Surveys were performed during spring and autumn for approximately 10 d per survey. A total of 10,575 trap-nights was expended during four field surveys. These surveys were performed at 58 field sites within the province (Fig. 1A), where 1,261 small mammals (Table 1) were collected \\((11.8\\%)\\)"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.504,
+                0.929,
+                0.512,
+                0.938
+            ],
+            "angle": 0,
+            "content": "1"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.089,
+                0.041,
+                0.102,
+                0.051
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.126,
+                0.039,
+                0.563,
+                0.052
+            ],
+            "angle": 0,
+            "content": "JOURNAL OF WILDLIFE DISEASES, VOL. 56, NO. 3, JULY 2020"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.197,
+                0.083,
+                0.495,
+                0.198
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.501,
+                0.086,
+                0.783,
+                0.193
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.197,
+                0.199,
+                0.495,
+                0.315
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.504,
+                0.195,
+                0.774,
+                0.313
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.198,
+                0.317,
+                0.496,
+                0.436
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.498,
+                0.317,
+                0.772,
+                0.436
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.087,
+                0.448,
+                0.892,
+                0.56
+            ],
+            "angle": 0,
+            "content": "FIGURE 1. Serologic evidence of the presence of the hantaviruses Puumala virus and Dobrava Belgrade virus in small mammals in the Volyn Province, Ukraine, as determined by immunofluorescence assay (IFA). (A) Sampling locations in 2012-2013 in Volyn Province where small mammals were captured for testing. (B) The location of Volyn Province within Ukraine (yellow). (C) Numbers of bank vole (Myodes glareolus) captures, increasing from 0 (white) to 207 (darkest blue). (D) Numbers of bank vole with IFA-positive results, from 0 (white) to 12 (darkest blue). (E) Numbers of striped field mouse (Apodemus agrarius) captures, from 0 (white) to 57 (darkest blue). (F) Numbers of striped field mouse with IFA-positive results, from 0 (white) to 5 (darkest blue)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.578,
+                0.48,
+                0.663
+            ],
+            "angle": 0,
+            "content": "trap success); of these, 1,109 were rodents. Seventeen species were identified (Table 1), with the two most common being the striped field mouse \\((32.4\\%\\) of captures) and the bank vole \\((34.4\\%\\) of captures)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.663,
+                0.481,
+                0.916
+            ],
+            "angle": 0,
+            "content": "Briefly, transects of 25-100 Sherman live traps were set in uniform habitats in various political districts within the province. Transect lengths depended on the size of the available habitat patch. Traps were set in the afternoon and baited with rye grain coated in oil and provided with cotton batting for insulation during cool weather. Traps were collected the next morning and rodents were euthanized in the field according to approved Institutional Animal Care and Use Committee protocols (Johns Hopkins University SP 14H08). Euthanized animals were identified to species in the field, and location, sex, and age were recorded on a necropsy form. Individuals"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.495,
+                0.578,
+                0.89,
+                0.678
+            ],
+            "angle": 0,
+            "content": "were sealed in plastic bags on ice and transported with their necropsy forms to the laboratory for tissue collection and completion of the data form that included information on reproductive status. Tissues were stored at \\(-80\\mathrm{C}\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.495,
+                0.68,
+                0.892,
+                0.916
+            ],
+            "angle": 0,
+            "content": "Capture locations and associated sampling efforts were visualized using QGIS version 2.18 (QGIS 2019) and statistical spatial analysis was performed using SatScan version 9.6 (SatScan 2019) to identify purely spatial clusters with a discrete Poisson model. Both the bank vole and the striped field mouse were widespread but not uniformly distributed throughout the province (Fig. 1C, E). The bank voles were predominantly captured north and west of the main highway (Highway E373) through the region (Fig. 1C), whereas the striped field mice were most frequently captured south and east in the province (Fig."
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.678,
+                0.04,
+                0.873,
+                0.052
+            ],
+            "angle": 0,
+            "content": "SHORT COMMUNICATIONS"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.897,
+                0.04,
+                0.908,
+                0.051
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.105,
+                0.081,
+                0.908,
+                0.111
+            ],
+            "angle": 0,
+            "content": "TABLE 1. Small mammals captured during survey of Volyn Province, Ukraine, from 2012 to 2013 for serologic evidence of the presence of the hantaviruses Puumala virus and Dobrava Belgrade virus."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.106,
+                0.119,
+                0.913,
+                0.455
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Taxon</td><td>Common Name</td><td>Scientific name</td><td>Captures</td></tr><tr><td rowspan=\"14\">Rodentia</td><td>Striped field mouse</td><td>Apodemus agrarius</td><td>408</td></tr><tr><td>Yellow-necked field mouse</td><td>Apodemus flavicollis</td><td>23</td></tr><tr><td>Wood mouse</td><td>Apodemus sylvaticus</td><td>146</td></tr><tr><td>Forest dormouse</td><td>Dryomys nitedula</td><td>1</td></tr><tr><td>Harvest mouse</td><td>Micromys minutus</td><td>1</td></tr><tr><td>Common vole</td><td>Microtus arvalis</td><td>78</td></tr><tr><td>Tundra vole</td><td>Microtus oeconomus</td><td>18</td></tr><tr><td>Western European house mouse</td><td>Mus domesticus</td><td>3</td></tr><tr><td>House mouse</td><td>Mus musculus</td><td>3</td></tr><tr><td>Common dormouse</td><td>Muscardinus avellinarius</td><td>1</td></tr><tr><td>Bank vole</td><td>Myodes glareolus</td><td>434</td></tr><tr><td>Southern water shrew</td><td>Neomys anomalus</td><td>1</td></tr><tr><td>Norwegian rat</td><td>Rattus norvegicus</td><td>2</td></tr><tr><td>Northern birch mouse</td><td>Sicista betulina</td><td>4</td></tr><tr><td>Carnivora</td><td>Least weasel</td><td>Mustela nivalis</td><td>3</td></tr><tr><td rowspan=\"4\">Insectivora</td><td>Shrew</td><td>Sorex sp.</td><td>1</td></tr><tr><td>Eurasian shrew</td><td>Sorex araneus</td><td>66</td></tr><tr><td>Eurasian pygmy shrew</td><td>Sorex minutus</td><td>63</td></tr><tr><td></td><td>Unknown</td><td>5</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.105,
+                0.478,
+                0.499,
+                0.864
+            ],
+            "angle": 0,
+            "content": "1E). After adjusting for sampling effort, there were multiple regions within the province with significant clusters of elevated trap success. For the striped field mouse, there was a geographically extensive cluster in the southeast, encompassing 10 survey sites, where sampling success exceeded \\(10\\%\\) for the species. The remaining three significant clusters were geographically less extensive, typically including two or three adjacent sampling sites. These foci extended to the west and north towards the Polish border. These four foci accounted for \\(62\\%\\) of the striped field mouse captures. Among the bank vole sampling, four significant clusters also were identified. These sites with excess numbers of vole captures were geographically less extensive than seen for the striped field mouse. None included more than three adjacent sampling sites. They clustered as foci in the north and western regions of the province. These four foci accounted for \\(69\\%\\) of the bank vole captures."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.105,
+                0.865,
+                0.499,
+                0.914
+            ],
+            "angle": 0,
+            "content": "We used an indirect immunofluorescence assay (IFA) to screen rodent blood for antibodies cross-reactive with PUUV or Han"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.478,
+                0.909,
+                0.916
+            ],
+            "angle": 0,
+            "content": "taan virus (HTNV) grown in Vero E6 cells (Jonsson et al. 2010a). Hantaan virus is closely related to DOBV and can serve as a surrogate antigen for IFA for screening for antibodies to DOBV. Blood was harvested from liver from 433 bank voles, 404 striped field mice, and 23 yellow-necked field mice. To identify potential positives, we screened a 1:10 dilution of blood and then the reciprocal titer was determined with twofold dilutions of blood from 1:32 to 1:2,048 (Table 2). We detected antibody in the striped field mouse \\((2.2\\%, 9/404)\\) and the bank vole \\((7\\%, 31/433)\\). We expected the antibody prevalence reflected infection or prior infection by DOBV and PUUV in the striped field mouse or bank vole, respectively. However, only sequencing can confirm the precise species and strain of virus, as the antibodies from theses viruses may have some level of cross-reactivity. None of the yellow-necked field mice (12 males, 10 females, 1 unknown sex) had any cross-reactivity by IFA to HTNV antigen. Of the nine antibody-positive striped field mice, \\(5\\%\\) (5/101) of the males had antibodies, whereas only \\(1\\%\\) of the females (4 of 303 tested) were positive by IFA."
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.09,
+                0.04,
+                0.103,
+                0.05
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.126,
+                0.039,
+                0.563,
+                0.052
+            ],
+            "angle": 0,
+            "content": "JOURNAL OF WILDLIFE DISEASES, VOL. 56, NO. 3, JULY 2020"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.086,
+                0.081,
+                0.894,
+                0.112
+            ],
+            "angle": 0,
+            "content": "TABLE 2. Summary of reciprocal titers of antibodies cross-reactive to hantaviral antigens measured in rodent reservoir species in Ukraine during 2012-2013 using an indirect immunofluorescence assay (IFA)."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.088,
+                0.117,
+                0.895,
+                0.219
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Common name</td><td rowspan=\"2\">Scientific name</td><td colspan=\"5\">Reciprocal titers</td></tr><tr><td>32–64</td><td>128–256</td><td>512–1,024</td><td>2,048–5,096</td><td>Total</td></tr><tr><td>Bank volea</td><td>Myodes glareolus</td><td>2</td><td>13</td><td>16</td><td>0</td><td>31</td></tr><tr><td>Striped field mouseb</td><td>Apodemus agrarius</td><td>7</td><td>2</td><td>0</td><td>0</td><td>9</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.088,
+                0.221,
+                0.633,
+                0.234
+            ],
+            "angle": 0,
+            "content": "\\( {}^{a} \\) Bank voles were screened using IFA slides made with cells infected with Puumala virus."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.088,
+                0.234,
+                0.894,
+                0.261
+            ],
+            "angle": 0,
+            "content": "b Striped field mice were screened using IFA slides made with cells infected with Hantaan virus, which has high cross-reactivity to Dobrava virus and is anticipated to be circulating in these mice in Ukraine."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.088,
+                0.221,
+                0.894,
+                0.261
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.279,
+                0.482,
+                0.466
+            ],
+            "angle": 0,
+            "content": "Of the 31 positive bank voles, 12 of 169 were male \\((7\\%)\\) and 16 of 235 were female \\((7\\%)\\). The sex information was not taken for three of the antibody-positive and 14 of the antibody-negative animals. The distribution of positive animals by weight is provided in Table 3. Sites with IFA-positive results in the small mammals tended to be most likely in the identified clusters where large numbers of individuals of the bank vole (Fig. 1D) and the striped field mouse (Fig. 1F) were available for testing."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.086,
+                0.466,
+                0.482,
+                0.518
+            ],
+            "angle": 0,
+            "content": "Total RNA was extracted from homogenized lung or liver in TRIzol Reagent (Invitrogen, Carlsbad, California, USA) ac"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.496,
+                0.279,
+                0.892,
+                0.519
+            ],
+            "angle": 0,
+            "content": "cording to the manufacturer's protocol, with the exception that Phasemaker tubes (Invitrogen) were included to separate layers. We synthesized cDNA using random hexamers and SuperScript IV First-Strand Synthesis System (Thermo Scientific, Waltham, Massachusetts, USA). Each cDNA was then PCR amplified with Phusion High-Fidelity PCR Master Mix with HF Buffer (Thermo Scientific) for a total of 30 cycles using gene-specific primers (Table 4). Because of the low yield of the PCR product, all PCR products were pooled for library preparation for Illumina sequencing using the Nextera XT DNA"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.086,
+                0.535,
+                0.893,
+                0.565
+            ],
+            "angle": 0,
+            "content": "TABLE 3. Distribution by weight and sex of hantavirus antibody-positive and -negative animals detected using an indirect immunofluorescence assay to Dobrava or Hantaan virus."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.088,
+                0.572,
+                0.892,
+                0.884
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Common name</td><td rowspan=\"2\">Scientific name</td><td rowspan=\"2\">Sex</td><td rowspan=\"2\">Weight range (g)</td><td colspan=\"2\">Immunofluorescence assay</td></tr><tr><td>No. negative</td><td>No. positive</td></tr><tr><td rowspan=\"8\">Striped field mousea</td><td rowspan=\"8\">Apodemus agrarius</td><td rowspan=\"4\">Male</td><td>5–14</td><td>63</td><td>0</td></tr><tr><td>15–24</td><td>202</td><td>4</td></tr><tr><td>25–34</td><td>29</td><td>0</td></tr><tr><td>35–44</td><td>6</td><td>0</td></tr><tr><td rowspan=\"4\">Female</td><td>5–14</td><td>6</td><td>0</td></tr><tr><td>15–24</td><td>67</td><td>0</td></tr><tr><td>25–34</td><td>15</td><td>3</td></tr><tr><td>35–44</td><td>4</td><td>1</td></tr><tr><td rowspan=\"8\">Bank voleb</td><td rowspan=\"8\">Myodes glareolus</td><td rowspan=\"4\">Male</td><td>5–14</td><td>21</td><td>0</td></tr><tr><td>15–24</td><td>108</td><td>11</td></tr><tr><td>25–34</td><td>25</td><td>2</td></tr><tr><td>35–44</td><td>2</td><td>0</td></tr><tr><td rowspan=\"4\">Female</td><td>5–14</td><td>40</td><td>4</td></tr><tr><td>15–24</td><td>145</td><td>7</td></tr><tr><td>25–34</td><td>34</td><td>4</td></tr><tr><td>35–44</td><td>1</td><td>0</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.088,
+                0.887,
+                0.449,
+                0.9
+            ],
+            "angle": 0,
+            "content": "\\( {}^{a} \\) Screened for antibodies that cross-react to Hantaan virus."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.088,
+                0.9,
+                0.449,
+                0.914
+            ],
+            "angle": 0,
+            "content": "<sup>b</sup> Screened for antibodies that cross-react to Puumala virus."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.088,
+                0.887,
+                0.449,
+                0.914
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.678,
+                0.04,
+                0.873,
+                0.052
+            ],
+            "angle": 0,
+            "content": "SHORT COMMUNICATIONS"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.897,
+                0.04,
+                0.908,
+                0.051
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.105,
+                0.081,
+                0.908,
+                0.111
+            ],
+            "angle": 0,
+            "content": "TABLE 4. Pan-oligonucleotide primers used for genome amplification of complete small, medium, and large genomic RNA segments targeting Puumala virus for next-generation sequencing."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.108,
+                0.119,
+                0.91,
+                0.3
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Genome segment</td><td>Primer</td><td>5&#x27; to 3&#x27; primer sequence</td><td>PCR extension time (min)</td></tr><tr><td rowspan=\"2\">Small</td><td>1-30F</td><td>TAGTAGTAGACTCCTTGAAAAGCTACTACG</td><td>1</td></tr><tr><td>1888-1917R</td><td>TAGTAGTAGACTCCTTGAAAAGCAATCAAG</td><td></td></tr><tr><td rowspan=\"2\">Medium</td><td>1-26F</td><td>TAGTAGTAGACTCCGCAAGAAGAAGC</td><td>2</td></tr><tr><td>3656-3682R</td><td>TAGTAGTAGRCTCCGCARCAACAAAAG</td><td></td></tr><tr><td rowspan=\"4\">Large</td><td>1-26F</td><td>TAGTAGTAGACTCCGAGATAGAGAAR</td><td>2</td></tr><tr><td>3273-3294R</td><td>CACCCGRTTTAAYATRGGTCTC</td><td></td></tr><tr><td>3047-3076F</td><td>GTGTAGTTGATGCCYTAAGRAAYATWTATG</td><td></td></tr><tr><td>6527-6550R</td><td>GAGAAAAGAGCCTCGTATGATGAT</td><td></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.105,
+                0.325,
+                0.5,
+                0.659
+            ],
+            "angle": 0,
+            "content": "Sample Preparation kit (Illumina, San Diego, California, USA). Libraries were sequenced on the MiSeq platform (Illumina) using \\(2 \\times 300\\) paired ends. The RNA isolation and next-generation sequencing (NGS) were conducted again for 26 of the Myodes for which sample was available. Of these, two animal lungs were positive by NGS for PUUV sequence. Adapters were trimmed on the MiSeq instrument (Illumina) as well as reads with Phred quality scores \\(< 30\\). Duplicate reads were removed and a length fraction of 0.9 and a similarity fraction of 0.8 were applied to ensure a quality consensus. In both sequencing runs, the coverage was too low to discriminate the specific strain, but examination by the Basic Local Alignment Search Tool (National Center for Biotechnology Information 2019) suggested the highest similarity to PUUV."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.105,
+                0.662,
+                0.5,
+                0.916
+            ],
+            "angle": 0,
+            "content": "Our study suggests that two human hantavirus pathogens, PUUV and DOBV, circulate in the bank vole and the striped field mouse, respectively, in Ukraine. Antibody prevalence data suggest that, in Volyn Province, the probability of spillover to humans would be from the bank vole of both sexes. In contrast, the prevalence in the striped field mouse was lower, and prevalence was higher in males than females. Unfortunately, we had so few specimens of Apodemus flavicollis that we cannot draw any conclusions, and we await further specimen collections to determine if any strains of hantavirus are carried by this species in Ukraine. Lastly, our data suggest"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.324,
+                0.908,
+                0.549
+            ],
+            "angle": 0,
+            "content": "that adults had a higher prevalence, although additional studies will be required to examine population and community structure. The prevalence of HFRS in Ukraine is unknown but has been suspected by public health officials based on clinical symptoms. Future studies will focus on obtaining the complete genome sequences of the PUUV and DOBV strains circulating in Ukraine. These efforts will provide guidance on the design of optimal molecular diagnostics to determine the potential contribution of hantaviruses to human disease in Ukraine."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.551,
+                0.91,
+                0.744
+            ],
+            "angle": 0,
+            "content": "This work was funded by the US Defense Threat Reduction Agency through the Cooperative Biological Engagement Program in Ukraine. The contents of this publication are the responsibility of the authors and do not necessarily reflect the views of the US Defense Threat Reduction Agency or the US government. We thank members of the Black and Veatch Special Projects Corp. and the Metabiota, Inc., science team for their assistance in facilitating of this study."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.633,
+                0.76,
+                0.794,
+                0.773
+            ],
+            "angle": 0,
+            "content": "LITERATURE CITED"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.518,
+                0.784,
+                0.909,
+                0.869
+            ],
+            "angle": 0,
+            "content": "Heyman P, Ceianu CS, Christova I, Tordo N, Beersma M, Joao Alves M, Lundkvist A, Hukic M, Papa A, Tenorio A, et al. 2011. A five-year perspective on the situation of haemorrhagic fever with renal syndrome and status of the hantavirus reservoirs in Europe, 2005-2010. Euro Surveill 16:19961."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.518,
+                0.872,
+                0.908,
+                0.914
+            ],
+            "angle": 0,
+            "content": "Jonsson CB, Chu YK, Ontiveros SP. 2010a. Hantaan virus. In: Molecular detection of human viral pathogens, Liu D, editor. Publisher, Location."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.518,
+                0.784,
+                0.909,
+                0.914
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.09,
+                0.041,
+                0.103,
+                0.051
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.126,
+                0.04,
+                0.563,
+                0.052
+            ],
+            "angle": 0,
+            "content": "JOURNAL OF WILDLIFE DISEASES, VOL. 56, NO. 3, JULY 2020"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.09,
+                0.081,
+                0.482,
+                0.123
+            ],
+            "angle": 0,
+            "content": "Jonsson CB, Figueiredo LT, Vapalahti O. 2010b. A global perspective on hantavirus ecology, epidemiology, and disease. Clin Microbiol Rev 23:412-441."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.09,
+                0.124,
+                0.482,
+                0.207
+            ],
+            "angle": 0,
+            "content": "Klempa B, Avsic-Zupanc T, Clement J, Dzagurova TK, Henttonen H, Heyman P, Jakab F, Kruger DH, Maes P, Papa A, et al. 2013. Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: definition of genotypes and their characteristics. Arch Virol 158:521-529."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.09,
+                0.208,
+                0.482,
+                0.251
+            ],
+            "angle": 0,
+            "content": "National Center for Biotechnology Information. 2019. Basic local alignment search tool (BLAST). http://blast.ncbi.nlm.nih.gov/Blast.cgi. Accessed May 2019."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.09,
+                0.251,
+                0.482,
+                0.293
+            ],
+            "angle": 0,
+            "content": "QGIS. 2019. QGIS: A free and open source geographic information system, v. 2.18 .https://qgis.org/en/site/index.html. Accessed February 2019."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.09,
+                0.081,
+                0.482,
+                0.293
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.5,
+                0.081,
+                0.892,
+                0.11
+            ],
+            "angle": 0,
+            "content": "SatScan2019. SatScan v. 9.6. https://www.satscan.org/download.html. Accessed February 2019."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.5,
+                0.111,
+                0.891,
+                0.137
+            ],
+            "angle": 0,
+            "content": "Sironen T, Vaheri A, Plyusnin A. 2001. Molecular evolution of Puumala hantavirus. J Virol 75:11803-11810."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.5,
+                0.138,
+                0.892,
+                0.192
+            ],
+            "angle": 0,
+            "content": "Vaheri A, Henttonen H, Voutilainen L, Mustonen J, Sironen T, Vapalahti O. 2013a. Hantavirus infections in Europe and their impact on public health. Rev Med Virol 23:35-49."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.5,
+                0.193,
+                0.892,
+                0.248
+            ],
+            "angle": 0,
+            "content": "Vaheri A, Strandin T, Hepojoki J, Sironen T, Henttonen H, Maakela S, Mustonen J. 2013b. Uncovering the mysteries of hantavirus infections. Nat Rev Microbiol 11:539-550."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.5,
+                0.081,
+                0.892,
+                0.248
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.5,
+                0.265,
+                0.815,
+                0.28
+            ],
+            "angle": 0,
+            "content": "Submitted for publication 27 September 2019."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.5,
+                0.28,
+                0.7,
+                0.293
+            ],
+            "angle": 0,
+            "content": "Accepted 21 November 2019."
+        }
+    ]
+]

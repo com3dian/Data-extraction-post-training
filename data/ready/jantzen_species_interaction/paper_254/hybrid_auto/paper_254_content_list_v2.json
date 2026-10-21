@@ -1,0 +1,2962 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL PAPER "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                79,
+                235,
+                93
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Diversity and prevalence of Bartonella species in small mammals from Slovakia, Central Europe "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                130,
+                878,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eva Špitalská1 & Lenka Minichová1 & Elena Kocianová1 & Ľudovít Škultéty1 & Lenka Mahríková2 & Zuzana Hamšíková2 & Mirko Slovák2 & Mária Kazimírová2 "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                198,
+                650,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 15 June 2017 /Accepted: 15 September 2017 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                311,
+                396,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "©"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Springer-Verlag GmbH Germany 2017 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                325,
+                319,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract Wild-living rodents are important hosts for zoonotic pathogens. Bartonella infections are widespread in rodents; however, in Slovakia, knowledge on the prevalence of these bacteria in small mammals is limited. We investigated the prevalence and diversity of Bartonella species in the spleens of 640 rodents of six species (Apodemus flavicollis, Apodemus sylvaticus, Myodes glareolus, Microtus arvalis, Microtus subterraneus, and Micromys minutus) and in the European mole (Talpa europaea) from three different habitat types in south-western and central Slovakia. Overall, the prevalence of Bartonella spp. in rodents was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 4 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; a rate of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 3 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was found in natural habitat (deciduous forest), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 6 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in suburban forest park and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 4 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in rural habitat. Bartonella spp. were detected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 3 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of A. flavicollis, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "69 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of My. glareolus and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 1 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of M. arvalis and in T. europaea. However, Bartonella were not found in the other examined rodents. Molecular analyses of the 16S–23S rRNA intergenic spacer region revealed the presence of four different Bartonella spp. clusters. We identified B. taylorii, B. rochalimae, B. elizabethae, B. grahamii and Bartonella sp. wbs11 in A. flavicollis and My. glareolus. Bartonella genotypes ascribed to B. taylorii and B. rochalimae were found in M. arvalis. B. taylorii was identified in T. europaea. Questing Ixodes ricinus ticks that "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                354,
+                489,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "were collected at the study sites were not infected with Bartonella. This study improves our understanding of the ecoepidemiology of Bartonella spp. in Europe and underlines the necessity for further research on Bartonella-host-vector associations and their consequences on animal and human health in Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                354,
+                917,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords Bartonella "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Rodents "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                464,
+                801,
+                479
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                511,
+                613,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bartonella, previously known as Grahamella (Birtles et al. 1995), are Gram-negative bacteria of medical and veterinary importance that belong to the class of alpha-proteobacteria. They infect the erythrocytes and endothelial cells of mammals and are adapted to distinct mammalian hosts. Bartonella are transmitted by ectoparasitic arthropods, although knowledge of their vectors is not well understood (Regier et al. 2016). Several blood-feeding arthropods, such as sand flies, human body lice, fleas, vole ear mites and ticks have been implicated in Bartonella transmission (Breitschwerdt and Kordick 2000). Some species of Bartonella (e.g. B. henselae, B. elizabethae, B. alsatica, B. vinsonii subsp. arupensis, B. bacilliformis, B. quintana, B. grahamii and B. washoensis) have been associated with human diseases with presentations that range from subclinical and self-limiting infection to severe, lifethreatening disease and have an increased risk of infection in immunocompromised patients (Breitschwerdt and Kordick 2000; Mogollon-Pasapera et al. 2009; Mosepele et al. 2012; Regier et al. 2016). Clinical studies have supported the transmission of Bartonella by ticks to humans (Morozova et al. 2005; Billeter et al. 2008, 2012). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                543,
+                915,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Currently, 46 Bartonella species are listed in the Taxonomy Database of the National Center for Biotechnology "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                874,
+                915,
+                906
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Electronic supplementary material The online version of this article (https://doi.org/10.1007/s00436-017-5620-x) contains supplementary material, which is available to authorized users. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                739,
+                480,
+                779
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                39,
+                159,
+                51
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI 10.1007/s00436-017-5620-x "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                53,
+                272,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "0 "
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                27,
+                840,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CrossMark "
+                    }
+                ]
+            },
+            "bbox": [
+                840,
+                41,
+                914,
+                55
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Eva Špitalská "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                794,
+                189,
+                808
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "eva.spitalska@savba.sk "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                808,
+                242,
+                821
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Institute of Virology, Biomedical Research Center, Slovak Academy of Sciences, Dúbravská cesta 9, 845 05 Bratislava, Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                845,
+                485,
+                872
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2 Institute of Zoology, Slovak Academy of Sciences, Dúbravská cesta 9, 845 06 Bratislava, Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                877,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Published online: 03 October 2017 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                934,
+                287,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                927,
+                914,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Information (www.ncbi.nlm.nih.gov). Bartonella phylogeny, which is based on a genome-wide dataset, has revealed four lineages. During evolution, these lineages have adapted to a variety of hosts and developed virulence factors associated with a diverse set of symptoms (Mullins et al. 2017). In contrast to the ancestral lineage 1, lineages 2, 3 and 4 comprise species isolated from various hosts. While the species of lineage 2 are limited to ruminant hosts and have an overlapping host range, the diversification of lineages 3 and 4 appear to result from the adaptation to distinct mammalian hosts (including voles, mice, rats, red squirrels, cats, dogs, foxes, rabbits and humans). Taxa of lineage 4 comprise a wide range of divergently adapted species that are frequently found in freeliving host populations. In contrast, the taxa of lineage 3, except for B. clarridgeiae, were sampled at a low prevalence (Engel et al. 2011). "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Several Bartonella species have been detected in rodents from various regions worldwide (Gutiérrez et al. 2015). Among them, B. elizabethae, B. tribocorum, B. grahamii, B. vinsonii subsp. arupensis and B. washoensis have been associated with human infections (Daly et al. 1993; Welch et al. 1999; Kosoy et al. 2003, 2010). These findings underline the importance of understanding the reservoir competence of rodents for Bartonella, which is limited in Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                322,
+                485,
+                446
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The yellow-necked mouse, Apodemus flavicollis (Melchior, 1834), and the bank vole, Myodes glareolus (Schreber, 1780), belong to predominantly occurring wild-living rodents in Slovakia. The striped field mouse, Apodemus agrarius (Pallas, 1771), is found primarily in the eastern part of the country. These rodents have a small home range and a relatively short lifespan. Apodemus spp., Microtus spp. and My. glareolus are hosts to ectoparasitic arthropods that play important roles in the maintenance and circulation of tick-borne microbial agents, such as Borrelia burgdorferi s.l., Borrelia miyamotoi, Anaplasma/ Ehrlichia, Rickettsia spp., Babesia microti and Candidatus Neoehrlicha mikurensis (Rizzoli et al. 2014). In Slovakia, the reservoir competence of wild-living rodents has been identified for several tick-borne zoonotic pathogens, i.e. Borrelia afzelii (Hanincová et al. 2003), Cand. Neoehrlichia mikurensis (Blaňarová et al. 2016; Hamšíková Svitálková et al. 2016), Babesia microti (Blaňarová et al. 2016; Hamšíková et al. 2016), and Borrelia miyamotoi (Hamšíková et al. 2017). However, the reservoir role of rodents for rickettsiae (Minichová et al. 2017) and the role of ticks as Bartonella vectors have not been identified. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                449,
+                485,
+                808
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Šebek (1960, 1975) was the first to report Bartonella infections in rodents in former Czechoslovakia. Bartonella sp. belonging to lineage 3 was identified by molecular methods in the spleen of an A. flavicollis female from central Slovakia in 2006 (Špitalská et al. 2008). Furthermore, Karbowiak et al. (2009) detected Bartonella in erythrocytes in Giemsa-stained "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                810,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "blood smears of A. agrarius from two sites in eastern Slovakia. Recently, Kraljik et al. (2016) ascribed Bartonella genotypes in A. agrarius from eastern Slovakia to B. grahamii, B. taylorii, B. birtlesii, B. clarridgeiae/B. rochalimae and B. elizabethae/B. tribocorum. Despite these studies, Bartonella epidemiology and host-vector associations in Central Europe, including Slovakia, are not well understood. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                70,
+                914,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The present study analyses the prevalence and diversity of Bartonella spp. in small mammals from three ecologically distinct habitats of south-western and central Slovakia. The presence of Bartonella was examined in rodents as well as in questing Ixodes ricinus (L., 1758) to determine the role of ticks in transmission. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                197,
+                914,
+                289
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                322,
+                690,
+                337
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals and ticks "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                355,
+                692,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals were live-trapped at three sites in Slovakia. The two sites, Bratislava (202–334 m above sea level, asl), which represents a suburban forest park with significant anthropogenic impact, and Fúgelka ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 3 6 { \\mathrm { - } } 4 3 6 { \\mathrm { ~ m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "asl), which comprises a non-fragmented deciduous forest, are located in the Small Carpathian Mountains (south-western Slovakia). The mountains have densely forested regions that are dominated by sessile oak (Quercus petraea) and European hornbeam (Carpinus betulus) at lower altitudes and European beech (Fagus sylvatica) at higher altitudes. The Bratislava and Fúgelka study sites were described in detail by Kazimírová et al. (2016). The third site, Prievidza (central Slovakia; 289 m asl), is near a settlement and represents a forest-steppe rural area with Carpathian oak-hornbeam forests (Berthová et al. 2016). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                386,
+                914,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A total of 640 rodents comprising six species (A. flavicollis, wood mouse Apodemus sylvaticus (L., 1758), My. glareolus, common vole Microtus arvalis (Pallas, 1778), European pine vole Microtus subterraneus (de Selys-Longchamps, 1836), and Eurasian harvest mouse Micromys minutus (Pallas, 1771)) were live-trapped from April–July and September– October 2012–2014 by Sherman live traps baited with oat flakes (for details, see Svitálková et al. 2015 and Minichová et al. 2017). Captured rodents were transported to the laboratory, anaesthetized and sacrificed humanely according to the current laws of the Slovak Republic. A fresh intact corpse of a European mole Talpa europaea L., 1758 was found in the suburban forest park in June 2012. Spleen tissue samples were obtained from each animal and stored in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "70 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol for DNA extraction. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                622,
+                914,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition, 5767 questing I. ricinus, including 4795 nymphs and 972 adults, were collected by dragging the vegetation in Bratislava and Fúgelka. The ticks were stored in "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                859,
+                912,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                40,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                927,
+                149,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "70 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol and subsequently identified by species, developmental stage and sex (see Svitálková et al. 2015). A selection of 1335 questing ticks (194 nymphs, 191 females and 90 males from Bratislava; 292 nymphs, 278 females and 290 males from Fúgelka) in pools of 3–7 samples were screened for the presence of Bartonella. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                163
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                198,
+                215,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DNA samples from rodent spleens and questing ticks were used from previous studies (Svitálková et al. 2015; Minichová et al. 2017). We used PCR to determine if Bartonella DNA was present in individual rodent spleen samples and pooled tick samples. The 16S–23S rRNA intergenic spacer region (ITS) was amplified, generating a 420–780 bp product (Maggi et al. 2006). PCR reactions were carried out in a total volume of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "containing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of DNA template, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of Master mix (SuperHot PCR Master Mix, Bioron, Germany), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of each primer "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 ~ \\mu \\mathrm { M } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0  { \\mathrm { ~ m M ~ M g C l } _ { 2 } }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { M g C l } _ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 1 ~ \\mu 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of nuclease free water. Amplification was performed in a thermocycler (Labcycler, SensoQuest, Germany). The thermal cycle reaction consisted of an initial 2 min denaturation at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", followed by 40 cycles at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 4 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 6 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30 s and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30 s, with a final extension at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 5 min. Positive and negative controls consisted of Bartonella DNA from infected rodents confirmed by sequencing and sterile water, respectively, and were used in each PCR reaction. PCR products were visualised on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "agarose gels stained with GelRed Nucleic Acid Gel Stain (Biotium, Hayward, Canada). Bartonella-positive amplicons were purified and then analysed by sequencing in both directions with the same primers as for PCR amplification by Macrogen Inc. (Amsterdam, The Netherlands). DNA sequences were compared with those available in GenBank using the Basic Local Alignment Search Tool (BLAST) (http://blast.ncbi.nlm.nih.gov). The new sequences were submitted to GenBank under accession numbers MF039545- MF039578. A phylogenetic tree was constructed using the neighbour-joining method (Saitou and Nie 1987). Phylogenetic analysis was conducted using MEGA5 software (Tamura et al. 2011). "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                227,
+                485,
+                731
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistical analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                765,
+                211,
+                778
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistical analyses to test for differences in the prevalence of bartonellae in rodents between years, seasons and sites were carried out using Fisher’s exact test with an online calculator (http://www.socscistatistics.com). A "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p"
+                    },
+                    {
+                        "type": "text",
+                        "content": "value "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "< 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was considered significant. Ninety-five percent confidence intervals (CI) were calculated using an online calculator (http:// epitools.ausvet.com.au). "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                796,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                70,
+                568,
+                84
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Prevalence of Bartonella species "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                103,
+                734,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DNA of Bartonella spp. was not confirmed in any of the questing I. ricinus samples. In contrast, out of 641 small mammals represented by seven species, Bartonella DNA was detected in the spleens of 415 animals, including the European mole. The overall infection rate in rodents was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 4 . 8 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI 61.1–68.5), and ranged from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 6 . 0 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I } 5 0 . 2 – 6 1 . 7 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the suburban habitat to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 3 . 8 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI 68.7–78.8) in the nonfragmented forest (Table 1). Bartonella spp. were detected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 3 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI 58.2–67.9) of A. flavicollis, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 9 . 0 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI 63.0–74.9) of My. glareolus and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 1 . 1 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I } 3 8 . 6 { - 7 9 . 7 } )"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of M. arvalis. We found a significant difference in the bacterial prevalence between the Bratislava and Fúgelka sites "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( p < 0 . 0 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Due to the small number of samples from 2013, we only investigated differences in prevalence between 2012 and 2014. The difference in Bartonella prevalence between 2012 and 2014 was significant in Bratislava "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( p = 0 . 0 0 3 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") but not in Fúgelka "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( p = 0 . 5 4 5 6 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). We detected an increase in Bartonella-positive rodents in autumn "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 6 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI 82.3–89.8) compared to spring "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 1 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI 36.0–47.1) (Table 2), and this difference between seasons was significant "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( p < 0 . 0 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                134,
+                914,
+                463
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Diversity of Bartonella in small mammals "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                482,
+                801,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Sequence analysis of the 16S–23S rRNA intergenic spacer region in 153 randomly selected spleen DNA lysates showed that the Bartonella strains detected among the investigated rodents, and the European mole belonged to multiple clusters, including B. taylorii, B. grahamii, B. elizabethae, Bartonella sp. wbs11 and B. rochalimae. Bartonella spp. in rodents from Fúgelka and Prievidza belonged to four different clusters and thus were more diverse than in the small mammals from Bratislava, where only two clusters (B. taylorii and B. rochalimae) were detected. The majority of DNA sequences were ascribable to B. taylorii (Fig. 1). Sequences from this study and their GenBank Accession numbers are given in Table S1. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                512,
+                914,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Forty-eight sequences derived from spleen samples of small mammals trapped in Bratislava (A. flavicollis: 12 males, 13 females; My. glareolus: 10 males, 12 females; 1 T. europaea), 70 sequences from Fúgelka (A. flavicollis: 22 males, 13 females; My. glareolus: 16 males, 14 females; M. arvalis: 4 females, 1 male) and 12 sequences from Prievidza (A. flavicollis: 3 males, 5 females; My. glareolus: 1 male, 3 females) were identified as B. taylorii. Identities of these sequences ranged from 90 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of bacterial sequences (GenBank Acc. Nos AJ269788, AJ269784) were previously identified in rodents from the United Kingdom (Birtles et al. 2000). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                717,
+                914,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                157,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                927,
+                912,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/048cca1db85883bf302d36dc3b833287c111e4c6614e4ba5924c847df5bdfc60.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Prevalence of Bartonella spp. in rodents caught at three sites in Slovakia in 2012–2014 [no. of infected/no. of captured (prevalence "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")] "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Site/habitat type Year</td><td colspan=\"5\">Rodent species</td><td rowspan=\"2\">Total</td></tr><tr><td>Apodemus flavicollis</td><td>Apodemus sylvaticus</td><td>Myodes glareolus</td><td>Microtus arvalis</td><td>Micromys minutus</td></tr><tr><td colspan=\"7\">Bratislava/suburban</td></tr><tr><td>2012</td><td>36/87 (41.4)</td><td>0/1</td><td>54/94 (57.5)</td><td></td><td></td><td>90/182 (49.4)</td></tr><tr><td>2013</td><td>1/3 (33.3)</td><td></td><td></td><td></td><td></td><td>1/3 (33.3)</td></tr><tr><td>2014</td><td>55/84 (65.5)</td><td></td><td>18/24 (75.0)</td><td></td><td></td><td>73/108 (67.6)</td></tr><tr><td>Subtotal</td><td>92/174 (52.9)</td><td>0/1</td><td>72/118 (61.0)</td><td></td><td></td><td>164/293 (56.0)</td></tr><tr><td colspan=\"7\">Fúgelka/sylvatic</td></tr><tr><td>2012</td><td>77/116 (66.4)</td><td>0/1</td><td>72/79 (91.1)</td><td>11/18 (61.1)</td><td></td><td>160/214 (74.8)</td></tr><tr><td>2014</td><td>42/52 (81.8)</td><td></td><td>12/23 (52.0)</td><td></td><td>0/1</td><td>54/76 (71.0)</td></tr><tr><td>Subtotal</td><td>119/168 (70.8)</td><td>0/1</td><td>84/102 (82.4)</td><td>11/18 (61.1)</td><td>0/1</td><td>214/290 (73.8)</td></tr><tr><td colspan=\"7\">Priavidza/rural</td></tr><tr><td>2012</td><td>31/40 (77.5)</td><td></td><td>4/12 (33.3)</td><td></td><td></td><td>35/52 (67.3)</td></tr><tr><td>2013</td><td>2/5 (40.0)</td><td></td><td></td><td></td><td></td><td>2/5 (40.0)</td></tr><tr><td>Subtotal</td><td>33/45 (73.3)</td><td></td><td>4/12 (33.3)</td><td></td><td></td><td>37/57 (64.9)</td></tr><tr><td>Total</td><td>244/387 (63.0)</td><td>0/2</td><td>160/232 (69.0)</td><td>11/18 (61.1)</td><td>0/1</td><td>415/640 (64.8)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                84,
+                917,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Two sequences, one from the spleen of an A. flavicollis male in Fúgelka and another from an A. flavicollis female from Prievidza were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 { - } 9 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identical to uncultured Bartonella sp. wbs11 identified in the blood of A. sylvaticus from the United Kingdom (AJ269792) (Birtles et al. 2000). Bartonella sp. wbs11 is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "90 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identical to B. doshiae (AJ269786) and is a rodent-associated species. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                411,
+                487,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the third cluster, four sequences (derived from a male and female A. flavicollis and a male and female My. glareolus from Fúgelka) were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identical to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". grahamii (AJ269785), which was previously identified in the blood of woodland rodents in the United Kingdom (Birtles et al. 2000). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                521,
+                487,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A sequence derived from an A. flavicollis female from Prievidza was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "96 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identical to a B. elizabethae (JF766264) "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                600,
+                487,
+                632
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sequence that was isolated from Meriones libycus heart tissue in Georgia (Malania et al. 2016). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                411,
+                915,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seven sequences derived from rodents in Fúgelka (A. flavicollis: 4 females, 1 male; M. arvalis: 1 male, 1 female), two from A. flavicollis females from Bratislava, and six from rodents from Prievidza (A. flavicollis: 2 females, 4 males) were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 8 - 1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identical to an uncultured Bartonella sp. (DQ155376) that was found in A. agrarius from Slovenia (Knap et al. 2007). Two sequences from rodents trapped in Fúgelka (MF039562 and MF039562, see Table S1) were 87 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "90 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identical, respectively, to uncultured Bartonella sp. (DQ155376). The ITS region sequences of this uncultured Bartonella sp. (DQ155376) were similar to those of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". rochalimae "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "87 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity; KU292577) and B. clarridgeiae "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "91 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity; AF312497). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                441,
+                915,
+                632
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d0d75ecde65c85d415b92cb2007f1c5c59f606751eccdc9b4569eaec11c51af1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Seasonal prevalence of Bartonella spp. in rodents caught at three sites in Slovakia in 2012–2014 [no. of infected/no. of captured (prevalence "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")] "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Season</td><td rowspan=\"2\">Month</td><td colspan=\"3\">Site/habitat type</td><td rowspan=\"2\">Total</td></tr><tr><td>Bratislava/suburban</td><td>Fúgelka/sylvatic</td><td>Priavidza/rural</td></tr><tr><td rowspan=\"5\">Spring</td><td>April</td><td></td><td>10/25 (40.0)</td><td></td><td>10/25 (40.0)</td></tr><tr><td>May</td><td>0/1</td><td></td><td>2/3 (66.7)</td><td>2/4 (50.0)</td></tr><tr><td>June</td><td>72/193 (37.3)</td><td>42/81 (501.9)</td><td></td><td>114/274 (41.6)</td></tr><tr><td>Subtotal</td><td>72/194 (37.1)</td><td>52/106 (49.1)</td><td>2/3 (66.7)</td><td>126/303 (41.6)</td></tr><tr><td>July</td><td></td><td></td><td>0/1</td><td>0/1</td></tr><tr><td rowspan=\"3\">Autumn</td><td>September</td><td>93/100 (93.0)</td><td>70/79 (88.6)</td><td>35/53 (66.0)</td><td>198/232 (85.3)</td></tr><tr><td>October</td><td></td><td>92/105 (87.6)</td><td></td><td>92/105 (87.6)</td></tr><tr><td>Subtotal</td><td>93/100 (93.0)</td><td>162/184 (88.0)</td><td>35/53 (66.0)</td><td>290/337 (86.1)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                80,
+                707,
+                919,
+                902
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                39,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                927,
+                152,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f0009b50759aa4887c5b94c503f45cc2908d862d10775e7f25fa799af458cb26.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 Phylogenetic tree inferred from comparison of the Bartonella 16S –23S internal transcribed spacer sequences. The evolutionary history was inferred using the neighbour-joining method. The percentages of replicate trees in which the associated taxa clustered together in the bootstrap test (1000 replicates) are shown next to the branches (Felsenstein, 1985). GenBank accession numbers are included. For more information on the source (host, locality) of the analysed sequences derived from the present study, see Table S1 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                64,
+                477,
+                908
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                208,
+                594,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ectoparasitic arthropods and small mammals play important roles in the circulation of Bartonella species in Europe (Regier et al. 2016). Here, we detected the presence of Bartonella in small mammals from three habitat types in south-western and central Slovakia, but failed to detect bacteria in questing I. ricinus ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                241,
+                915,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The role of ticks in the epidemiology of Bartonella is unclear (Harrison et al. 2012; Regier et al. 2016; Silaghi et al. 2016), although experimental vector competence studies have demonstrated the transmission of B. henselae and B. birtlesii by I. ricinus ticks (Cotté et al. 2008; Reis et al. 2011). Our findings are supported by studies conducted in Sweden, Great Britain, Hungary, central Slovakia, Germany, Finland and Serbia, where Bartonella was not detected in questing ticks (Billeter et al. 2008; Špitalská et al. 2008; Schorn et al. 2011; Sormunen et al. 2016; Potkonjak et al. 2016). In contrast, up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "60 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "prevalence of Bartonella was detected in questing I. ricinus from particular sites in Europe (Regier et al. 2016). Moreover, Bartonella has been detected in engorged ticks from different hosts. For example, Lipatova et al. (2015) identified B. grahamii in I. ricinus larvae that were feeding on small mammals in Lithuania. Recently, Regier et al. (2017) showed that I. ricinus ticks that were removed from cats were positive for B. henselae DNA. These results indicate that ticks become infected by feeding on infected hosts and that pathogens can survive within ticks, but do not prove that ticks can transmit the infection to a mammalian host. Thus, further research is necessary to elucidate the role of ticks in the transmission of Bartonella spp. Rudolf et al. (2016) also highlighted the necessity to extend the list of haematophagous arthropods that are involved in Bartonella transmission, as they have demonstrated infection of sheep keds (Diptera) with B. melophagi . "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                336,
+                915,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Relatively high infection rates (from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to over "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "80 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and a great diversity of Bartonella spp. have been reported in wildliving small rodent populations worldwide (Gutiérrez et al. 2015). In our study, Bartonella infection was demonstrated in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 4 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of examined rodents. This percentage is similar to levels reported from the United Kingdom "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "62 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; Birtles et al. 1994) and Germany "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; Silaghi et al. 2016) but is higher than the rates found in other European sites, e.g. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Great Britain (Baker 1974; Healing 1981), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { - } 3 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Poland (Bajer "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                760,
+                915,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                39,
+                159,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                927,
+                912,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "et al. 2001; Pawełczyk et al. 2004; Welc-Falęciak et al. 2008), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 7 - 2 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Denmark (Engbaek and Lawson 2004) and Spain (Maggi et al. 2009; Gil et al. 2010), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Greece (Tea et al. 2004), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in Slovenia (Knap et al. 2007) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 { - } 5 6 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in France (Gundi et al. 2004; Buffet et al. 2012). In contrast, a Bartonella prevalence rate of over "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "80 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was detected in rodents in southern China and northern USA (Ying et al. 2002; Bai et al. 2011). "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to spatial variations, interspecific differences and temporal changes in Bartonella prevalence have been observed in rodents (Wiger 1979; Bajer et al. 2001; Karbowiak et al. 2005). In our study, the highest total prevalence was detected in My. glareolus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 9 . 0 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and the lowest was in M. arvalis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 1 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", although the values differed between sites and years (see Table 1). The range of interspecific variation in Bartonella spp. prevalence may be even greater, as demonstrated in rodents from Poland "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 7 - 6 6 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Karbowiak et al. 2005) and Norway "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 - 3 2 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Wiger 1979). These findings suggest that prevalence data may be affected by the density and dynamics of the rodent populations as well as by the numbers of examined animals belonging to a particular species. Furthermore, seasonal changes in Bartonella prevalence have also been registered. For example, Pawełczyk et al. (2004) found that Bartonella infections in the blood of M. arvalis in Poland were rare in the spring but were common in summer and autumn. Similar results were obtained in our study, i.e. a higher prevalence of infection was recorded in autumn than in spring. This seasonal difference was not detected at the rural site in Prievidza "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( p = 1 . 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which may be due to the low sample size. "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                198,
+                485,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodent-associated Bartonella species are genetically diverse (Gutiérrez et al. 2015; Regier et al. 2016). The Bartonella spp. present in the rodents and European mole investigated in this study were found to belong to multiple groups, including B. taylorii, B. grahamii, B. elizabethae, Bartonella sp. wbs11 and B. rochalimae. These species were clustered into phylogenetic lineages 3 and 4 and were also confirmed in A. agrarius from eastern Slovakia (Kraljik et al. 2016). Likewise, Buffet et al. (2012) detected different Bartonella genotypes that were related to three known species (B. taylorii, B. grahamii and B. doshiae) and two unidentified Bartonella species that were associated with rodents in France. B. taylorii, B. grahamii and B. rochalimae were also found in rodents in Lithuania (Lipatova et al. 2015) and uncultured Bartonella sp., B. grahamii, B. taylorii and Bartonella sp. N40 were detected in rodents from Germany (Silaghi et al. 2016). "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                544,
+                485,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, the majority of sequences derived from rodent spleens "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(8 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were ascribable to B. taylorii. This species causes infection in animals, although its real pathogenic potential is unknown (Lipatova et al. 2015). We expected to find B. taylorii and detected it in A. flavicollis, My. glareolus, M. arvalis and T. europaea. Previously, B. taylorii was "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                811,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "isolated from My. glareolus in the United Kingdom (Bown et al. 2004) and Siberia (Jiyipong et al. 2014) and was detected in A. sylvaticus, A. agrarius, A. uralensis (Pallas, 1811), A. witherbyi (Thomas, 1902), M. minutus, Microtus agrestis (L., 1761), Microtus spp. and Mus domesticus L., 1758 in Austria (Schmidt et al. 2014), Lithuania (Lipatova et al. 2015), Sweden (Holmberg et al. 2003), Spain (Gil et al. 2010) and Greece (Tea et al. 2004). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                70,
+                914,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Four sequences derived from A. flavicollis and My. glareolus in the Fúgelka natural habitat were found to be similar to B. grahamii, a causative agent of human renitis (Kerkhoff et al. 1999). B. grahamii was also isolated from a human patient in the USA in a region that is endemic to this pathogen (Eremeeva et al. 2007) and was found to infect different rodent species (A. sylvaticus, A. agrarius, A. uralensis, A. witherbyi, M. minutus, M. arvalis, M. agrestis and M. domesticus) (Mogollon-Pasapera et al. 2009; Oksi et al. 2013; Lipatova et al. 2015). Because of its worldwide occurrence and its prevalence in Slovakia, B. grahamii may represent a potential risk for human infection in this country. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                198,
+                914,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We also detected B. elizabethae DNA in A. flavicollis. This result is surprising because this species is a human pathogen and has been associated with rats. It was described in 1993 in the USA, causes endocarditis and is transmitted by fleas (Mogollon-Pasapera et al. 2009). However, Kraljik et al. (2016) detected B. elizabethae in wild-living mice A. agrarius from eastern Slovakia. B. elizabethae was also cultivated from A. sylvaticus in Georgia (Malania et al. 2016). Although it is unlikely to represent a serious risk for the local human population, it should be considered a potential agent of infection to people in contact with rodents. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                386,
+                914,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fifteen sequences found primarily in A. flavicollis but also in M. arvalis were clustered into phylogenetic lineage 3 and showed identity to B. rochalimae, an infectious zoonotic agent. This species is associated with dogs and foxes (Engel et al. 2011), although it has been suggested that rodents are reservoirs for this pathogen (Lin et al. 2008). Our data support previous identifications of B. rochalimae in My. glareolus in Lithuania (Lipatova et al. 2015) and France (Buffet et al. 2012). "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                560,
+                914,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In conclusion, our study provides evidence that a high proportion of rodents from selected sites in south-western and central Slovakia harbour Bartonella, which can be transmitted to other hosts including humans. Thus, it is important to continue investigating Bartonella spp. that circulate in the wildlife to estimate potential risks for the Slovakian population that have contact with rodents. Small mammals and humans share the same environment and thus extensive surveillance should be performed, especially in areas where humans encounter small mammals. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                701,
+                914,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements The authors thank Dr. Cornelia Silaghi, LMU, Munich, Germany for providing Bartonella-positive DNA from rodents. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                879,
+                914,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                40,
+                915,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                927,
+                149,
+                943
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding information This study was financially supported by the Scientific Grant Agency of Ministry of Education, Science, Research and Sport of the Slovak Republic and Slovak Academy of Sciences (project Vega 2/0068/17), EU grant FP7-261504 EDENext, and the Slovak Research and Development Agency (projects no. 0280–12 and DO7RP– 0014–11). This contribution is also the result of using infrastructure acquired by the project implementation (code ITMS: 26240220044), supported by the Research & Development Operational Programme funded by the ERDF. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                69,
+                487,
+                183
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Compliance with ethical standards "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                194,
+                290,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of interest The authors declare that they have no conflict of interest. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                222,
+                489,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ethical approval All applicable international, national, and/or institutional guidelines for the care and use of animals were followed. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                265,
+                485,
+                289
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All procedures performed in studies involving animals were in accordance with the ethical standards of the institution or practice at which the studies were conducted. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                291,
+                485,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Work with small mammals was approved by the Ministry of Environment of the Slovak Republic, Regional Environmental Office in Bratislava (licence ZPO-594/2012-SAB). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                327,
+                487,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This article does not contain any studies with human participants performed by any of the authors. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                365,
+                485,
+                391
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                422,
+                169,
+                437
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bai Y, Calisher CH, Kosoy MY, Root JJ, Doty JB (2011) Persistent infection or successive reinfection of deer mice with Bartonella vinsonii subsp. arupensis. Appl Environ Microbiol 77:1728–1731 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bajer A, Pawełczyk A, Behnke J, Gilbert F, Siński E (2001) Factors affecting the component community structure of haemoparasites in bank voles (Clethrionomys glareolus) from the Mazury Lake District region of Poland. Parasitology 122:43–54 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Baker JR (1974) Protozoan parasites of the blood of British wild birds and mammals. J Zool London 172:169–190 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Berthová L, Slobodník V, Slobodník R, Olekšák M, Sekeyová Z, Svitálková Z, Kazimírová M, Špitalská E (2016) The natural infection of birds and ticks feeding on birds with Rickettsia spp. and Coxiella burnetii in Slovakia. Exp Appl Acarol 68:299–314 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Billeter SA, Levy MG, Chomel BB, Breitschwerdt EB (2008) Vector transmission of Bartonella species with emphasis on potential for tick transmission. Med Vet Entomol 22:1–15 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Billeter SA, Sangmaneedet S, Kosakewich RC, Kosoy MY (2012) Bartonella species in dogs and their ectoparasites from Khon Kaen Province, Thailand. Southeast Asian J Trop Med Public Health 43: 1186–1192 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Birtles RJ, Harrison TG, Molyneux DH (1994) Grahamella in small woodland mammals in the U.K.: isolation, prevalence and host specificity. Ann Trop Med Parasitol 88:317–327 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Birtles RJ, Harrison TG, Saunders NA MDH (1995) Proposals to unify the genera Grahamella and Bartonella, with descriptions of Bartonella taplae comb. nov., Bartonella peromysci comb. nov., and three new species, Bartonella grahamii sp. nov., Bartonella taylorii sp. nov., and Bartonella doshiae sp. nov. Int J Syst Bacteriol 45:1–8 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Birtles RJ, Hazel S, Bown K, Raoult D, Begon M, Bennett M (2000) Subtyping of uncultured bartonellae using sequence comparison of 16S/ 23S rRNA intergenic spacer regions amplified directly from infected blood. Mol Cell Probes 14:79–87 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Blaňarová L, Stanko M, Miklisová D, Víchová B, Mošanský L, Kraljik J, Bona M, Derdáková M (2016) Presence of Candidatus Neoehrlichia "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                456,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "mikurensis and Babesia microti in rodents and two tick species (Ixodes ricinus and Ixodes trianguliceps) in Slovakia. Ticks Tick Borne Dis 7:319–326. https://doi.org/10.1016/j.ttbdis.2015.11.008 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bown KJ, Bennett M, Begon M (2004) Flea-borne Bartonella grahamii and Bartonella taylorii in bank voles. Emerg Infect Dis 10(4):684e7 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Breitschwerdt EB, Kordick DL (2000) Bartonella infection in animals: carriership, reservoir potential, pathogenicity, and zoonotic potential for human infection. Clin Microbiol Rev 13:428–438 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Buffet JP, Marsot M, Vaumourin E, Gasqui P, Masséglia S, Marcheteau E, Huet D, Chapuis JL, Pisanu B, Ferquel E, Halos L, Vourc’h G, Vayssier-Taussat M (2012) Co-infection of Borrelia afzelii and Bartonella spp. in bank voles from a suburban forest. Comp Immunol Microbiol Infect Dis 35:583–589 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cotté V, Bonnet S, Le Rhun D, Le Naour E, Chauvin A, Boulouis HJ, Lecuelle B, Lilin T, Vayssier-Taussat M (2008) Transmission of Bartonella henselae by Ixodes ricinus. Emerg Infect Dis 14:1074– 1080 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Daly JS, Worthington MG, Brenner DJ, Moss CW, Hollis DG, Weyant RS, Steigerwalt AG, Weaver RE, Daneshvar MI, O’Connor SP (1993) Rochalimaea elizabethae sp. nov. isolated from a patient with endocarditis. J Clin Microbiol 31:872–881 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Engbaek K, Lawson PA (2004) Identification of Bartonella species in rodents, shrews and cats in Denmark: detection of two Bartonella henselae variants, one in cats and the other in the long-tailed field mouse. APMIS 112:336–341 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Engel P, Salzburger W, Liesch M, Chang CC, Maruyama S, Lanz C, Calteau A, Lajus A, Médigue C, Schuster SC, Dehio C (2011) Parallel evolution of a type IV secretion system in radiating lineages of the host-restricted bacterial pathogen Bartonella. PLoS Genet 7: e1001296 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Eremeeva ME, Gerns HL, Lydy SL et al (2007) Bacteremia, fever, and splenomegaly caused by a newly recognized Bartonella species. N Engl J Med 356:2381e7 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Felsenstein J (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39:783–791 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gil H, García-Esteban C, Barandika JF, Peig J, Toledo A, Escudero R, Jado I, Rodríguez-Vargas M, García-Amil C, Lobo B, Roales P, Rodríguez-Moreno I, Olmeda AS, García-Pérez AL, Anda P (2010) Variability of Bartonella genotypes among small mammals in Spain. Appl Environ Microbiol 76(24):8062–8070 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gundi VA, Davoust B, Khamis A, Boni M, Raoult D, La Scola B (2004) Isolation of Bartonella rattimassiliensis sp. nov. and Bartonella phoceensis sp. nov. from European Rattus norvegicus. J Clin Microbiol 42:3816–3818 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gutiérrez R, Krasnov B, Morick D, Gottlieb Y, Khokhlova IS, Harrus S (2015) Bartonella infection in rodents and their flea ectoparasites: an overview. Vector Borne Zoonotic Dis 15(1):27–39 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hamšíková Svitálková Z, Haruštiaková D, Mahríková L, Mojšová M, Berthová L, Slovák M, Kocianová E, Vayssier-Taussat M, Kazimírová M (2016) Candidatus Neoehrlichia mikurensis in ticks and rodents from urban and natural habitats of South-Western Slovakia. Parasit Vectors 9:2 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hamšíková Z, Kazimírová M, Haruštiaková D, Mahríková L, Slovák M, Berthová L, Kocianová E, Schnittger L (2016) Babesia spp. in ticks and wildlife in different habitat types of Slovakia. Parasit Vectors 9: 292 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hamšíková Z, Coipan C, Mahríková L, Minichová L, Sprong H, Kazimírová M (2017) Borrelia miyamotoi and co-infection with Borrelia afzelii in Ixodes ricinus ticks and rodents from Slovakia. Microb Ecol 73:1000–1008 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hanincová K, Schäfer SM, Etti S, Sewell HS, Taragelová V, Ziak D, Labuda M, Kurtenbach K (2003) Association of Borrelia afzelii with rodents in Europe. Parasitology 126:11–20 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Harrison A, Bown KJ, Montgomery WI, Birtles RJ (2012) Ixodes ricinus is not an epidemiologically relevant vector of Bartonella species in "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                70,
+                915,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                157,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                927,
+                912,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "the wood mouse (Apodemus sylvaticus). Vector Borne Zoonotic Dis 12(5):366–371 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Healing TD (1981) Infections with blood parasites in the small British rodents Apodemus sylvaticus, Clethrionomys glareolus and Microtus agrestis. Parasitology 83:179–189 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Holmberg M, Mills JN, McGill S, Benjamin G, Ellis (2003) Bartonella infection in sylvatic small mammals of central Sweden. Epidemiol Infect 130:149–157 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jiyipong T, Jittapalapong S, Morand S, Rolain JM (2014) Bartonella species in small mammals and their potential vectors in Asia. Asian Pac J Trop Biomed 4(10):757e67 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Karbowiak G, Rychlik L, Nowakowski W, Wita I (2005) Natural infections of small mammals with blood parasites on the borderland of boreal and temperate forest zones. Acta Theriol 50:31–42 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Karbowiak G, Stanko M, Fričová J, Wita I, Hapunik J, Peťko B (2009) Blood parasites of the striped field mouse Apodemus agrarius and their morphological characteristics. Biologia 64:1219–1224 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kazimírová M, Hamšíková Z, Kocianová E, Marini G, Mojšová M, Mahríková L, Berthová L, Slovák M, Rosá R (2016) Relative density of host-seeking ticks in different habitat types of south-western Slovakia. Exp Appl Acarol 69:205–224 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kerkhoff FT, Bergmans AM, van Der Zee A, Rothova A (1999) Demonstration of Bartonella grahamii DNA in ocular fluids of a patient with neuroretinitis. J Clin Microbiol 37:4034–4038 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Knap N, Duh D, Birtles R, Trilar T, Petrovec M, Avšič-Županc T (2007) Molecular detection of Bartonella species infecting rodents in Slovenia. FEMS Immunol Med Microbiol 50(1):45–50 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kosoy M, Murray M, Gilmore RD Jr, Bai Y, Gage KL (2003) Bartonella strains from ground squirrels are identical to Bartonella washoensis isolated from a human patient. J Clin Microbiol 41:645–650 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kosoy M, Bai Y, Sheff K, Morway C, Baggett H, Maloney SA, Boonmar S, Bhengsri S, Dowell SF, Sitdhirasdr A, Lerdthusnee K, Richardson J, Peruski LF (2010) Identification of Bartonella infections in febrile human patients from Thailand and their potential animal reservoirs. Am J Trop Med Hyg 82:1140–1145 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kraljik J, Paziewska-Harris A, Miklisová D, Blaňarová L, Mošanský L, Bona M, Stanko M (2016) Genetic diversity of Bartonella genotypes found in the striped field mouse (Apodemus agrarius) in Central Europe. Parasitology 143(11):1437–1442 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lin JW, Chen CY, Chen WC, Chomel BB, Chang CC (2008) Isolation of Bartonella species from rodents in Taiwan including a strain closely related to ‘Bartonella rochalimae’ from Rattus norvegicus. J Med Microbiol 57:1496e501 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lipatova I, Paulauskas A, Puraite I, Radzijevskaja J, Balciauskas L, Gedminas V (2015) Bartonella infection in small mammals and their ectoparasites in Lithuania. Microbes Infect 17:884–888 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Maggi RG, Diniz PP, Cadenas MB, Breitschwerdt EB (2006) The use of molecular diagnostic techniques to detect Anaplasma, Bartonella and Ehrlichia species in arthropods or patients. The International Canine Vector-Borne Disease Symposium; April 18-20th 2006 Billesley, Alcester, UK: 9–14 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Maggi RG, Kosoy M, Mintzer M, Breitschwerdt EB (2009) Isolation of Candidatus Bartonella melophagi from human blood. Emerg Infect Dis 15:66–68 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Malania L, Bai Y, Osikowicz LM, Tsertsvadze N, Katsitadze G, Imnadze P, Kosoy M (2016) Prevalence and diversity of Bartonella species in rodents from Georgia (Caucasus). Am J Trop Med Hyg 95:466–471 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Minichová L, Hamšíková Z, Mahríková L, Slovák M, Kocianová E, Kazimírová M, Škultéty Ľ, Štefanidesová K, Špitalská E (2017) Molecular evidence of Rickettsia spp. in ixodid ticks and rodents in suburban, natural and rural habitats in Slovakia. Parasit Vectors 10:158. https://doi.org/10.1186/s13071-017-2094-8 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mogollon-Pasapera E, Otvos L, Giordano A, Cassone M (2009) Bartonella: Emerging pathogen or emerging awareness? Int J Infect Dis 13:3–8 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                70,
+                485,
+                903
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Morozova OV, Chernousova N, Morozov IV (2005) Detection of the Bartonella DNA by the method of nested PCR in patients after tick bites in Novosibirsk region. Mol Gen Mikrobiol Virusol 4:14–17 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mosepele M, Mazo D, Cohn J (2012) Bartonella infection in immunocompromised hosts: immunology of vascular infectionand vasoproliferation. Clin Dev Immunol 2012:612809 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mullins KE, Hang J, Clifford RJ, Onmus-Leone F, Yang Y, Jiang J, Leguia M, Kasper MR, Maguina C, Lesho EP, Jarman RG, Richards A, Blazes D (2017) Whole-genome analysis of Bartonella ancashensis, a novel pathogen causing verruga peruana, rural Ancash region, Peru. Emerg Infect Dis 23:430–438 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Oksi J, Rantala S, Kilpinen S, Silvennoinen R, Vornanen M, Veikkolainen V et al (2013) Cat scratch disease caused by Bartonella grahamii in an immunocompromised patient. J Clin Microbiol 51(8):2781e4 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pawełczyk A, Bajer A, Behnke JM, Gilbert FS, Siński E (2004) Factors affecting the component community structure of haemoparasites in common voles (Microtus arvalis) from the Mazury Lake District region of Poland. Parasitol Res 92:270–284 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Potkonjak A, Gutiérrez R, Savić S, Vračar V, Nachum-Biala Y, Jurišić A, Kleinerman G, Rojas A, Petrović A, Baneth G, Harrus S (2016) Molecular detection of emerging tick-borne pathogens in Vojvodina, Serbia. Ticks Tick Borne Dis 7:199–203 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Regier Y, O’Rourke F, Kempf VAJ (2016) Bartonella spp.—a chance to establish One Health concepts in veterinary and human medicine. Parasit Vectors 9:261 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Regier Y, Ballhorn W, Kempf VAJ (2017) Molecular detection of Bartonella henselae in 11 Ixodes ricinus ticks extracted from a single cat. Parasit Vectors 10:105 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Reis C, Cote M, Le Rhun D, Lecuelle B, Levin ML, Vayssier-Taussat M, Bonnet SI (2011) Vector competence of the tick Ixodes ricinus for transmission of Bartonella birtlesii. PLoS Negl Trop Dis 5:e1186 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rizzoli A, Silaghi C, Obiegala A, Rudolf I, Hubálek Z, Földvári G, Plantard O, Vayssier-Taussat M, Bonnet S, Špitalská E, Kazimírová M (2014) Ixodes ricinus and its transmitted pathogens in urban and peri-urban areas in Europe: new hazards and relevance for public health. Front Public Health 2:251 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rudolf I, Betášová L, Bischof V, Venclíková K, Blažejová H, Mendel J, Hubálek Z, Kosoy M (2016) Molecular survey of arthropod-borne pathogens in sheep keds (Melophagus ovinus), Central Europe. Parasitol Res 115:3679 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Saitou N, Nie M (1987) The neighbour-joining method: a new method for reconstructing phylogenetic trees. Mol Biol Evol 4:406–425 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schmidt S, Essbauer SS, Mayer-Scholl A, Poppert S, Schmidt-Chanasit J, Klempa B, Henning K, Schares G, Groschup MH, Spitzenberger F, Richter D, Heckel G, Ulrich RG (2014) Multiple infections of rodents with zoonotic pathogens in Austria. Vector Borne Zoonot Dis 14(7):467–475 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schorn S, Pfister K, Reulen H, Mahling M, Silaghi C (2011) Occurrence of Babesia spp., Rickettsia spp. and Bartonella spp. in Ixodes ricinus in Bavarian public parks, Germany. Parasit Vectors 4:135 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Šebek Z (1960) Některé nové poznatky o krevních parasitech našich hmyzožravců a myšovitých. Vlastivědný Sborník Vysočiny, Oddíl Věd Přirodních, 75–80 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Šebek Z (1975) Blutparasiten der wildlebenden Kleinsäuger in der Tschechoslowakei. Folia Parasitol (Praha) 22:11–20 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Silaghi C, Pfeffer M, Kiefer D, Kiefer M, Obiegala A (2016) Bartonella, rodents, fleas and ticks: a molecular field study on host-vectorpathogen associations in Saxony, Eastern Germany. Microb Ecol 72(4):965–974 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sormunen JJ, Penttinen R, Klemola T, Hanninen J, Vuorinen I, Laaksonen M et al (2016) Tick-borne bacterial pathogens in southwestern Finland. Parasit Vectors 9:168 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Špitalská E, Boldiš V, Košťanová Z, Kocianová E, Štefanidesová K (2008) Incidence of various tick-borne microorganisms in rodents and ticks of central Slovakia. Acta Virol 52:175–179 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                69,
+                915,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                40,
+                912,
+                51
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                927,
+                149,
+                943
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Svitálková Z, Haruštiaková D, Mahríková L, Berthová L, Slovák M, Kocianová E, Kazimírová M (2015) Anaplasma phagocytophilum prevalence in ticks and rodents in an urban and natural habitat in South-Western Slovakia. Parasit Vectors 8:276 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tamura K, Peterson D, Peterson N, Stecher G, Nie M, Kumar S (2011) MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol Biol Evol 28:2731–2739 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tea A, Alexiou-Daniel S, Papoutsi A, Papa A, Antoniadis A (2004) Bartonella species isolated from rodents, Greece. Emerg Infect Dis 10:963–964 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Welc-Falęciak R, Paziewska A, Bajer A, Behnke JM, Siński E (2008) Bartonella spp. infection in rodents from different habitats in the "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                69,
+                485,
+                237
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mazury Lake District, Northeast Poland. Vector Borne Zoonotic Dis 8:467–474 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Welch DF, Carroll KC, Hofmeister EK, Persing DH, Robison DA, Steigerwalt AG, Brenner DJ (1999) Isolation of a new subspecies, Bartonella vinsonii subsp. arupensis, from a cattle rancher: identity with isolates found in conjunction with Borrelia burgdorferi and Babesia microti among naturally infected mice. J Clin Microbiol 37:2598–2601 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wiger R (1979) Seasonal and annual variations in the prevalence of blood parasites in cyclic species of small rodents in Norway with special reference to Clethrionomys glareolus. Holarct Ecol 2:169–175 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ying B, Kosoy MY, Maupin GO, Tsuchiya KR, Gage KL (2002) Genetic and ecologic characteristics of Bartonella communities in rodents in southern China. Am J Trop Med Hyg 66:622–627 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                69,
+                915,
+                246
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasitol Res "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                40,
+                157,
+                50
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer "
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                927,
+                912,
+                943
+            ]
+        }
+    ]
+]

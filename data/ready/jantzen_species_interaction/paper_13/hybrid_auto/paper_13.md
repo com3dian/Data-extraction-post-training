@@ -1,0 +1,225 @@
+Seed-Seed Predator Interactions of European Beech, Fagus silvatica and Forest Rodents,
+
+Clethrionomys glareolus and Apodemus flavicollis
+
+Author(s): Thomas Secher Jensen
+
+Source: Oikos, Vol. 44, No. 1, Plant-Animal Interactions. Proceedings of the Third European
+
+Ecological Symposium. Lund, 22-26, August 1983 (Mar., 1985), pp. 149-156
+
+Published by: Wiley on behalf of Nordic Society Oikos
+
+Stable URL: http://www.jstor.org/stable/3544056
+
+Accessed: 25-05-2015 08:27 UTC
+
+# REFERENCES
+
+Linked references are available on JSTOR for this article:
+
+http://www.jstor.org/stable/3544056?seq=1&cid=pdf-reference#references_tab相关内容
+
+You may need to log in to JSTOR to access the linked references.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/info/about/policies/terms.jsp
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+# Seed-seed predator interactions of European beech, Fagus silvatica and forest rodents, Clethrionomys glareolus and Apodemus flavicollis
+
+Thomas Secher Jensen
+
+Jensen, T. S. 1985. Seed-seed predator interactions of European beech, Fagus silvatica and forest rodents, Clethrionomys glareolus and Apodemus flavicollis. - Oikos 44: 149-156.
+
+Field and laboratory experiments on seed preferences of forest rodents in Denmark showed that among seeds from deciduous trees rodents preferred the large, energy- and nitrogen-rich seeds of Fagus, Quercus and Corylus. These seeds have not evolved morphological structures for wind dispersal, in contrast to other seeds tested. Radioactively labelled seeds of Fagus silvatica L. were removed by rodents and cached at $1 - 13\mathrm{m}$ (mean $4.13\mathrm{m}$ ) distances from the point of falling. Seeds were scatter hoarded, the mean number of seeds per cache being 5.0. The typical burial site was a few centimeters below the soil surface in the wall of a rodent runway. Burial of seeds led to higher germination as seeds deposited in the litter layer were killed by frost or drought.
+
+Predation on caches was high, however, in experiments more caches survived if a surplus of seeds were given or if rodent numbers were reduced. Age structure of saplings revealed that most individuals had germinated in years following "mast" years. Thus, there is strong circumstantial evidence that rodents, by predation and dispersal of seeds, influence the population biology and evolution of *Fagus silvatica*. In turn, the synchronous production of seeds lead to prolonged reproduction periods in the rodent species, resulting in outbreaks of voles.
+
+T. S. Jensen, Inst. of Zoology and Zoophysiology, Zoological Lab., Univ. of Aarhus, DK-8000 Aarhus C, Denmark.
+
+# 1. Introduction
+
+European beech (Fagus silvatica L.) are believed to have become the climatic climax tree species on the better soils of NW Europe 2-3000 yr ago, outcompeting a mixed deciduous forest mainly dominated by oak (Quercus robur L.). The beech forest is a dark, closed forest and few other species are able to tolerate the dense shadow of the beech. On sandy soils oaks still dominate and on moist soils ash (Fraxinus excelsior L.), alder (Alnus glutinosa L.) Gaertn.) and birch (Betula pubescens Ehrh.) are found. Today few natural forests exist, but beech forest under forestry practice is widespread.
+
+The number of seeds set by beech varies from year to year. At irregular intervals of between 2 and 8 yr "mast" years occur, especially in years following warm, dry summers (Holmsgaard and Olsen 1966). Nielsen (1977) found that in such years seed production may amount to 300 seeds $\mathrm{m}^{-2}$ , however, only 0.4 seedlings $\mathrm{m}^{-2}$ were found next spring. Thus in these forests natural regeneration is poor and special means of preparing the soil bed are employed by foresters. Turcek (1960) recorded 26 species of birds and 17 species of mammals feeding on beech seeds, however, few studies have tried to quantify predation on the seeds. Nielsen (1977) found that predispersal seed predation due to the seed worm Cydia fagiglandana made up $7 - 55\%$ of the seed crop, and that
+
+post dispersal seed predation was almost negligible. Jensen (1982) found that rodent seed predation in "mast" years accounted for $1.7 - 4.3\%$ of endosperm production and in other years $70 - 100\%$ . Lelouarn and Schmitt (1972) found that in two mast years $41\%$ and $74\%$ of beech nuts were removed by rodents. Furthermore Watt (1923) showed that rodents are important predators on seedlings, too.
+
+Little attention has, however been drawn to other aspects of seed-seed predator relations than merely predation. As pointed out by Harper (1977) the search and choice of seed predators leaves some seed in situ, some seed is eaten before caching, some is eaten from the cache and some may be left in the cache uneaten and able to germinate. An important question is whether these activities are relevant to the evolution or the population biology of the plant.
+
+The present paper deals with these aspects in a system of two species of forest rodents, Clethrionomys glareolus Schreber and Apodemus flavicollis (Melch.) and European beech in Denmark.
+
+# 2. Study site, materials and methods
+
+The study area was a 95-yr old beech stand on a grey-brown podzolic mull soil at the 176 ha forest, Hestehaven, East Jutland. The herb layer is dominated by Anemone nemorosa L., Melica uniflora Retz., Asperula odorata (L.) Scop., Oxalis acetosella L. and Carex sylvatica Hudson; in this layer regeneration of beech occurs.
+
+The stand has been used in Danish IBT-PT investigations of 1968-1975 and detailed information on primary production, including seed production, rodent population dynamics and rodent energetics have been published (Nielsen 1977, Jensen 1975, 1981, 1982). The investigations on seed-rodent relationships were made 1977-1980 and included experiments on rodent seed preferences, rodent predation on seeds and seed caches, seed dispersal patterns and seedling establishment. Laboratory experiments on seed preferences were conducted in $20 \times 15 \times 30$ cm plastic cages provided with insulated nestboxes. The rodents were kept singly and experiments lasted $24\mathrm{h}$ 10-15 ind were used in each experiment. Laboratory pellets were given as standard food to Clethrionomys glareolus and whole wheat kernels as standard food to Apodemus flavicollis. Test food items (whole seeds) and standard food were weighed and given to the animal in separate jars. After the experiment the remaining food was collected, dried and reweighed. Controls were weighed, dried and reweighed. Nitrogen content of various deciduous tree seeds was determined by Kjeldahl analysis, calorific content and ash content by combustion in an automatic adiabatic Gallenkamp bomb-calorimeter, and total phenolic content by means of Folin-Dennis analysis. In all seeds except Alnus and Betula, dispersal structures and seed coats were removed prior to analysis.
+
+Another set of preference experiments were per
+
+formed in the forest. The various tree seeds were placed in separate cups under plywood cover so that only rodents had access to the seeds. The cups were inspected at intervals and the remaining amount of seeds noted.
+
+In order to investigate the ability of rodents to find seeds on the forest floor, beech nuts were scattered in the litter in densities of 25, 8, and 2 nuts $0.1\mathrm{m}^{-2}$ , ten replicates being used in each group. Wire-netting prevented roe deer, squirrels, pheasants, jays, and other birds from preying on the seeds. After 1.5 month all litter within the $0.1\mathrm{m}^2$ were removed and seeds sorted out.
+
+In the experiments using radioactive isotopes, seeds were put into the radioactive solution for $18\mathrm{h}$ in a shaking bath. The total activity at the start of preparation never exceeded $5\mathrm{mCi}$ .
+
+In April and November 1979 and November 1981 a total of 2000 beech seeds labelled with either Na-24 or I-131 were distributed under 16 plywood covers. The isotopes are hard $\gamma$ -emitters with short half-life, $22\mathrm{h}$ and 8 d, respectively. Thus, for several days after preparation of the seeds, the beech nuts could be detected at distances of $2 - 3\mathrm{m}$ , even if they were buried in the soil. Later tracing could be done too, as the nuts were additionally labelled with the slow-decaying isotope Cs-134. In most experiments, rodents removed the seeds during the first night and the search for seeds was started the following day. An area with a radius of $15\mathrm{m}$ from the point of deposition was intensively searched.
+
+In a number of experiments seeds were additionally marked with a waterproof colour. One hundred seeds were placed in each corner of a square, one colour at each corner. The distance between the corners of the square varied from two to six meters.
+
+Two large field enclosures were established in the wood. Each enclosure covered $2500\mathrm{m}^2$ and was made of $0.8\mathrm{mm}$ galvanized iron sheets $2\times 1$ meter, $30~\mathrm{cm}$ into the soil.
+
+# 3. Results
+
+# 3.1. Characteristics of deciduous tree seeds
+
+Tab. 1 shows the results of analysis of the various deciduous tree seed kernels investigated, viz. nitrogen content, energy content, ash content, dry weight per seed and phenolic content. In general, the deciduous seeds showed higher energy and nitrogen content values than other plant parts i.e. leaves, stem or wood (Jensen 1982).
+
+The higher energy values were found in Fagus silvatica $(7.02\mathrm{kcalg}^{-1})$ and Corylus avellanus $(8.42\mathrm{kcalg}^{-1})$ while Quercus robur had the lowest value $(4.62\mathrm{kcal}$ $\mathbf{g}^{-1})$ . The different energy values found can be related to differences in the relative proportion of carbohydrates, proteins and lipids, the energy content of lipids being $9.1\mathrm{kcalg}^{-1}$ dwt, protein $4.5\mathrm{kcalg}^{-1}$ and carbohydrates
+
+Tab. 1. Characteristics of deciduous tree seeds and the conifer Pinus silvestris. All seeds except Alnus and Betula were analyzed without seed coat and dispersal structures.   
+
+<table><tr><td rowspan="2"></td><td rowspan="2">Weight g dwt/seed</td><td colspan="2">N-content per seed</td><td colspan="2">Energy content</td><td rowspan="2">Ash content %</td><td rowspan="2">Phenol E 1%, 1 cm</td></tr><tr><td>(mg)</td><td>(%)</td><td>kcal/ seed</td><td>kcal/ g dwt</td></tr><tr><td>Fagus silvatica</td><td>0.097</td><td>4.6</td><td>4.78</td><td>0.68</td><td>7.02</td><td>3.9</td><td>4.52</td></tr><tr><td>Quercus robur</td><td>1.231</td><td>15.0</td><td>1.22</td><td>5.68</td><td>4.62</td><td>2.0</td><td>11.43</td></tr><tr><td>Corylus avellanus</td><td>0.543</td><td>17.8</td><td>3.28</td><td>4.47</td><td>8.24</td><td>1.7</td><td>0.91</td></tr><tr><td>Fraxinus excelsior</td><td>0.034</td><td>1.0</td><td>3.00</td><td>0.21</td><td>6.28</td><td>2.0</td><td>14.55</td></tr><tr><td>Acer pseudoplatanus</td><td>0.051</td><td>0.4</td><td>0.86</td><td>0.28</td><td>5.52</td><td>7.2</td><td>9.32</td></tr><tr><td>Tilia platyphyllos</td><td>0.041</td><td>1.7</td><td>4.22</td><td>0.24</td><td>6.02</td><td>3.1</td><td>0.84</td></tr><tr><td>Betula verrucosa</td><td>0.001</td><td>0.1</td><td>0.64</td><td>0.01</td><td>6.06</td><td>2.7</td><td>2.07</td></tr><tr><td>Ulmus glabra</td><td>0.007</td><td>0.2</td><td>3.32</td><td>0.04</td><td>6.40</td><td>2.7</td><td>0.60</td></tr><tr><td>Alnus glutinosa</td><td>0.002</td><td colspan="2">not. det.</td><td>0.01</td><td>5.91</td><td>2.0</td><td>52.92</td></tr><tr><td>Pinus silvestris</td><td>0.006</td><td>0.4</td><td>5.82</td><td>0.04</td><td>6.31</td><td>3.8</td><td>1.81</td></tr></table>
+
+4.1 kcal $\mathrm{g}^{-1}$ . Thus Fagus and Corylus seemed to be rich in lipids and Quercus rich in carbohydrates, while the intermediate values found in the other species were due to combinations of carbohydrate, protein and lipids.
+
+The nitrogen values are direct reflections of the protein content of the seeds, and the protein percentage can be obtained by multiplication by 6.25. Again, Fagus silvatica ranks high among the deciduous tree seeds and only the conifer Pinus sylvestris ranks higher. Quercus robur, Acer pseudoplatanus and Betula verrucosa showed low protein values.
+
+The ash content is a measure of indigestible compounds in the seeds. In general, the seeds had very low ash contents $(1.7 - 7.2\%)$ as compared with the ash content of for example leaves which range from $15 - 25\%$ of dwt.
+
+The total phenolic content was used as a measure of some of the digestibility reducing secondary compounds of the seeds. Most seeds had very low phenolic content, Alnus glutinosa being the exception, however, the seeds of Alnus were not separated from the exocarp. Thus, most deciduous tree seeds are potentially very valuable food resources for e.g. small mammals. Another important variable of value for an optimal feeding strategy is
+
+![](images/5e1be2754c13926ab17ccf5c949957dda01236f330807b8866e48091012b291d.jpg)  
+Fig. 1. Preference indices of tree seeds in laboratory experiments.
+
+![](images/bf579e01988e26303c366dda577662ef2ba0ac0fcd70110209e8bc1655789421.jpg)  
+Fig. 2. Removal rate (cumulative %) of various deciduous tree seeds in field experiments. Average figures of 8 replicates.
+
+the size of the seeds. As shown in Tab. 1 the seeds range from $0.001\mathrm{g}$ dwt to $1.231\mathrm{g}$ dwt, with those of beech ranked third in size.
+
+# 3.2. Rodent preferences
+
+Fig. 1 shows the results of laboratory preference experiments, expressed as the preference index p.i. $= \sum_{1}^{n}\Sigma C_{t} / (\sum_{1}^{n}C_{t} + \sum_{1}^{n}C_{s})$ where $C_s$ is the consumption of standard food item and $C_t$ the consumption of test food. The two rodent species showed rather similar preference patterns with F. silvatica, Q. robur, C. avellanus and T. platyphyllos as the most preferred deciduous tree seeds and also high preference for P. silvestris. Fraxinus excelsior, A. pseudoplatanus, B. verrucosa and A. glutinosa showed low preference ratings. The results of the field preference experiments are shown in Fig. 2. Seeds of Fagus and Quercus were removed almost immediately and apparently only few seeds of these species were eaten in situ as few seed shells were left in the surroundings of the cups. Seeds of Corylus were removed
+
+within a week, however, many seeds were eaten under the plywood. The rodents showed little interest in seeds of Betula, Alnus and Ulmus and the decrease in seeds remaining can mainly be attributed to digging and accidental losses.
+
+The results of the removal preference experiments are in general agreement with the results from the laboratory preference experiments. Thus it seems as if the rodents prefer the seeds with a high total energy and nitrogen content per seed. However, they also prefer the largest seeds regardless of their relative energy and nitrogen content. It is worth noting that none of the preferred deciduous seeds have structures evolved for wind dispersal, in contrast to all other deciduous seeds investigated.
+
+# 3.3. Seed predation
+
+Beech nuts have been shown to decrease only slightly in number from autumn until next spring on areas with few rodents and other vertebrate predators (Nielsen 1977). In contrast, on an area with high rodent density Jensen (1982) showed that the number of beech nuts decreased $80\%$ , however, rodent consumption only accounted for $14\%$ of those losses, and possibly rodent caching and activity of other vertebrates was substantial.
+
+The results of the experiments on rodent seed predation showed that on an average 43, 68 and $76\%$ of the seeds were left in the groups starting with 25, 8 and 2 seeds per $0.1\mathrm{m}^2$ respectively. Although the percentages are not significantly different, it should be noted that there was a tendency of decreased percentage of nuts removed with increasing density of nuts. Hence, rodents were able to find and remove a large number of seeds within a rather short time. In the groups of 25 seeds $0.1\mathrm{m}^{-1}$ , seven out of ten replicates showed rather high and uniform predation rates, however, in the remaining three replicates almost every single seed had disappeared, and these three replicates were all placed close to scrub heaps where rodent tend to aggregate.
+
+# 3.4. Seed dispersal
+
+In the seed preference experiment is was shown that beech nuts rapidly were removed from their original position when placed in the forest floor. In order to describe the fate of these seeds a number of experiments with radioactively labelled seeds were performed.
+
+Fig. 3 show the dispersal distance of seeds from single deposition sites. Few seeds were found at distances greater than $10\mathrm{m}$ and less than $0.5\mathrm{m}$ and the mean dispersal distance was $4.13 \pm 2.28\mathrm{m}$ (s.d.) $(n = 193)$ . The distribution was not significantly different from a Poisson distribution, indicating a random scattering of the nuts. In general the seeds were scatter hoarded, i.e. placed in small caches, 1-10 seeds per cache, but at some locations large caches containing up to 68 seeds were found. The mean number of seeds per cache was
+
+![](images/bf071b85896e6b3180bc3857e0abdcdf8ca446b22e48617be5b6b8ae7034fd3e.jpg)  
+Fig. 3. Dispersal distance of beech seeds from single sources. n = 193.
+
+$5.0 \pm 4.2$ (s.d.) ( $n = 123$ ). The caches were placed at certain distances from each other, the mean distance between neighbouring caches being $4.00 \pm 2.25 \mathrm{~m}$ ( $n = 34$ ). Fig. 4 show examples of distribution patterns. The typical cache site was mineral soil in the walls of rodent runways, $46.7\%$ of the seeds being found in such positions. A number of seeds, $12.5\%$ were found on top of the mineral soil, $20.1\%$ were deposited in the litter layer and $20.7\%$ were found in the vegetation or on top of the litter layer.
+
+In the experiments where radioactive seeds were additionally marked with waterproof colours, the colour-marked seeds showed overlapping distribution patterns even when distances between the colour-groups were greater than the average dispersal distance found in the experiment described. When live-trappings immediately after these experiments were performed, 2-8 rodent individuals were captured at the seed deposition sites. Thus it is likely that different individuals took part in the caching activities, but that no caching territories were established. When shorter distances between colour-groups were employed, $28\%$ of the caches found contained more than one colour of seeds. In one cache containing five seeds all four colours were represented showing that the particular rodent individual in turn visited all sites.
+
+Livetrappings and removal trappings by means of snap traps were performed in certain locations. A total of 59 small mammals were trapped, 17 Apodemus flavicollis, 40 Clethrionomys glareolus and two Sorex araneus. Fourteen Apodemus and 25 Clethrionomys were radioactive, indicating that these specimens had been eating the radioactive seeds.
+
+# 3.5. Predation on caches
+
+The radioactive caches found were divided into three groups and inspected at intervals. One group consisted of four 0.25 ha areas with a total of 41 caches where rodents were removed by means of intensive live- and
+
+![](images/5e2d8511e0fe860be68673930254effe509d6c0522a751521ef72429d6cf29c0.jpg)  
+Fig. 4. Distribution of beech seed caches in replicate experiments. (0,0) indicate points of sources.
+
+![](images/3fffa416a79a8f46de0e61863f253a7f425b1446a0b26fa068bfb03ca10b0ce1.jpg)
+
+![](images/7556786ec44281803218465c3286c4b0f2ce33bb8ad16c8a8b616b42f1757eb9.jpg)
+
+![](images/2aad8f40f4871254e7fd7f94115a9237713665d3ff5b5e4946dd8cba0fa3f01f.jpg)
+
+snaptrapping, in another group of four areas $(n = 50$ caches) rodents were fed additional beech nuts $(1\mathrm{kg}$ per area) and 6 areas (32 caches) served as controls. Within three days $44.5\%$ of the caches were either eaten or again removed from the control area and within 1.5 month all caches had disappeared. In the area with additional food $30\%$ were left after 1.5 month and in the rodent free area $41.4\%$ were left. Apparently a large number of seeds reduce the predation rate of seeds per cache. Similarly, a reduction in the number of rodents that have taken part in caching reduce the predation on caches, however, other rodents possibly invade and are able to find the caches made by other individuals.
+
+In November 1979 nine grids each with 25 caches of 4 seeds were deposited under the litter at the top of the mineral soil. In an attempt to determine the relationship between spacing and survival of buried nuts, the distance between caches varied between grids, viz. 4, 1 and $0.25\mathrm{m}$ . In April 1980 after a long winter with constant snowcover the caches were again inspected. Only one cache was found intact, the remaining caches being either eaten or removed. Evidently, rodents were able to locate caches not deposited by themselves, and in the present experiment spacing distance seemed irrelevant. Apparently, caches had been found from below as rodent runways were always present at the sites where
+
+caches had been and holes dug down from above e.g. indicating predation by jays or squirrels were absent.
+
+# 3.6. Seed germination and seedling establishment
+
+In autumn 1978 when seed production was moderate experiments investigating the role of rodents on seed germination were performed in the large enclosures. In one enclosure rodents were allowed to remove and cache 1000 beech nuts, in the other no seeds were added. An open $0.25\mathrm{ha}$ area served as control. After the seeds were removed, rodents were snaptrapped. Enclosures were not $100\%$ rodent proof, however, additional captures during winter revealed only few specimens. In spring 1979 eight random areas were searched for beech seedlings, each area covering $38.5\mathrm{m}^2$ . Seedlings were only found in the enclosure where additional seeds were placed, the mean number of seedlings per area being 8.1 $\pm 4.4$ (s.d.). These results show that seeds stored by rodents are able to germinate if the caches are left intact until spring. However, in a moderate seed year like 1978, few seeds if any apparently survive until seedling establishment.
+
+This latter hypothesis was further investigated by using age analysis on all small beech saplings from the three 0.25 ha areas. None of these areas had been ex
+
+Tab. 2. Age structure of beech saplings from undisturbed areas. May 1979. Heavy seed falls occurred in 1969, 1974 and 1976. n = 189.   
+
+<table><tr><td>Seedling year</td><td>1978</td><td>1977</td><td>1976</td><td>1975</td><td>1974</td><td>1973</td><td>1972</td><td>1971</td><td>1970</td><td>1969</td></tr><tr><td>Percentage of seedlings</td><td>0.5</td><td>81.5</td><td>0.0</td><td>6.0</td><td>1.0</td><td>0.5</td><td>1.0</td><td>0.0</td><td>9.5</td><td>0.0</td></tr></table>
+
+posed to forestry operations. Tab. 2 shows that the highest percentage of young beech trees germinated from seeds shed in mast years. Mortality of seedlings and saplings of course bias the figures. A study on mortality showed that $41.8\%$ of the seedlings survived their first summer, $13.9\%$ bursted into leaves the next spring and only $7.2\%$ the following spring $(n = 150)$ . However, even if these figures are used as corrections, and assuming $10\%$ mortality per year for older saplings, still the general impression of high absolute recruitment following mast years seems valid.
+
+Apparently, the position of cached or uncached seeds may play a role in seed germination. In 1979 a small germination experiment using seeds from the same batch as used in removal experiments was performed. In three different plant communities, composed of Anemone nemorosa, Asperula odorata and Melica uniflora, seeds were either buried $3\mathrm{cm}$ into the mineral soil or scattered on top of the litter layer. All experiments in 1979 were performed in a rodent-free enclosure. None of the seeds deposited into the litter germinated, whereas 42, 8 and $0\%$ of the buried seeds germinated in the three different plant communities, respectively $(n = 400)$ .
+
+# 4. Discussion and conclusions
+
+Harper (1977) states that the crop of seeds produced by plants may have four roles in the plants' population biology, and that the predation of seeds in theory may be important in any of these four roles: (1) The replacement in a population of individuals that die, (2) the increase in population size locally, (3) the colonization of new areas at a distance from the parent population, and (4) the display of genetic variation. It might prove useful to discuss the rodent-beech seed relation in the context of these hypothesis.
+
+For decades silviculturists have complained that natural regeneration of beech and oak in European forests was poor. However, it should be borne in mind that silviculturists think in terms of large scale replacement of the total population of a given species within a very limited time. In contrast, the replacement of individuals in a stable natural population is low and only a few individuals are required to replace an old dead one. The present investigation shows that in most years few seeds survive the caching habits of rodents and few seedlings survive the first year of growth, however, it might be expected that fewer if any would survive without the activity of the rodents. Still the number of seedlings surviv
+
+ing from rodent caches in the lifetime of a beech tree is sufficiently large as to replace the individual.
+
+In NW Europe, beech forests replaced oak forests 2-3000 yr ago. Seeds of oak and beech are able to germinate under the canopy of each other, however, the shade-intolerant oak saplings eventually die under beech trees, whereas shade-tolerant beech saplings survive under oak trees and eventually grow over the oak and kill it. No doubt rodents might play a role in this hierarchy, since they also tend to favour beech. It seems less likely that rodents are able to contribute much to long-distance dispersal of beech. Although the dispersal distances described here might be slightly underestimated, the home range size of forest rodents sets a limit to dispersal distances. In September Jensen (1975) found range lengths of $37 - 64\mathrm{m}$ in C. glareolus and $70 - 107\mathrm{m}$ in A. flavicollis. Normally in winter range lengths are even smaller, however, if the reproduction period is prolonged due to bumper seed crops range lengths are kept high, as reproductive individuals have larger home range size than postreproductive individuals.
+
+Other seed predators than rodents might be important long-distance dispersal agents. European jays (Garrulus garrulus) (Chettleburgh 1952) are known to cache acorns at distances of several kilometers from the seed source and Nilsson (1985) reported that jays also disperse beech nuts. Similarly, squirrels are likely candidates. Little is known about the fate of beech nuts passing through the alimentary tracts of larger birds or mammals although this way of dispersal could mean a possibility of very long dispersal distances. Holm (1980) concluded that the dispersal of beech to Denmark from glaciation refugia in the Balkans took 11 500 yr, several hundred meters per year and that the best seed predator to explain this rapid rate is man. A consequence of this hypothesis would be that the smaller predators are left with the role of filling in gaps in the disjunct distribution patterns formed by man. An example of an isolated locality probably started by man some 500 yr ago in western Norway is given by Fagri (1954). The locality is situated $300\mathrm{km}$ from the nearest other beech locality.
+
+In the present investigation burial of seeds improved seedling formation. Watt (1923) showed that generally beech nuts placed on the soil surface did not germinate, and that the few that did, did not become established as seedlings. Nielsen (1977) found that only $0.1\%$ of intact seeds became seedlings although $50\%$ germinated. Most roots formed by the germinating seeds were nec
+
+rotised, probably due to drought or spring frost. Tacon and Malphettes (1974) demonstrated the effect of soil preparation on the survival of germinating beech seeds as soil preparation increased the percentage of seeds taking roots from $0 - 5\%$ to about $54\%$ . Gadekar (1975) showed that especially on podzolic soil failure of germination occurred mainly because seeds were not buried and hence imbibition was prevented. Evidently, seeds cached at a certain depth are at a selective advantage to seeds left on the surface and rodents might in their choice and treatment of the seeds give certain seeds this advantage.
+
+In the palatability experiments rodents preferred larger seeds (i.e. acorns, beech nuts and hazel nuts) to smaller seeds. Similar results are described by Grodzinski and Sawicka-Kapusta (1970), who found that the rodents did not select the tree-seeds of high energy and lipid content. This selection between species cannot be generalized as a selection for heavy seeds within a species as other factors might be influential. In the removal experiments, however, rodents did not remove empty seed shells or seeds with a poorly developed endosperm, and it can be inferred that the weight of the seed might be the triggering stimulus although odours could be important, too. All beech nuts with an endosperm, irrespective of size were removed within two days and it seems unlikely that a rodent should leave a light beech seed in favour of searching for a heavier one. Rather, the weight might influence the choice between eating the seed there and then or caching it a distance away. As seeds are not eaten at a central foraging place, but often directly from the cache the weight might also influence the distance between caches if rodents carry heavier loads shorter distances. Further, large seeds would be favoured by burial at greater depths.
+
+Many tree species, particularly in temperate regions, have "mast" years in which seed production is very high, and such a year is followed by a number of years with very little production. Seed predator populations of mammals and birds are normally not able to increase population size the same season as a response to such infrequent and irregular changes, although winter mortality rates might decrease (Enoksson and Nilsson 1983) or breeding periods can be prolonged (Jensen 1982). Accordingly, many seeds will avoid predation ("seed predator satiation" sensu Janzen 1971). Even in insects, Nielsen (1977) found that in two seed years, seed worms (Cydia fagiglandana) attacked 7 and $19\%$ of the seeds whereas in five other years with low seed production, predation made up $24 - 55\%$ . However, it seems important to distinguish between species-specific seed predators, especially insect predispersal predators that eat seeds in situ, and seed predators that act as dispersal agents and especially burial agents as well. The seed predator satiation is important in respect to both groups, however, in the latter case it is the satiation of seed caches that gives an advantage to the plant.
+
+In beech environmental incidents seem to be trig-
+
+gering the phenomena of "mast" years, and trees are synchronized over large areas. This synchrony may have evolved as a response to animal predation, as trees out of phase with the overall population will be at a serious selective disadvantage. Seed predators would be able to take virtually all seeds in the canopy or on the ground and dispersal agents get relatively few caches deposited, with a low probability of seed survival. Thus, it can be concluded that at least in the type of soil investigated here rodents may play important roles in the evolution and population biology of the beech. On the other hand, rodent population dynamics are strongly influenced by seed production. Jensen (1982) showed that in a ten year study outbreaks of $C$ glareolus only occurred in years following huge seed crops. In the deciduous forests of western Europe the normal breeding season of rodents is April-October. However, in seed years winter breeding occur (e.g. Zejda 1962, Smyth 1968, Baumler 1981, Jensen 1982) and the age structure of the spring breeding population is entirely different from a normal population (Jensen 1982). In outbreak years populations stop breeding in the middle of summer and density returns to normal by next spring. Little, if anything is known about the selective pressures on populations breeding in winter with seeds as staple food as opposed to summer breeding with fresh vegetation as the main food source. Obviously, great differences could exist. Chitty (1960) proposed a model explaining rodent fluctuations by means of selective pressures acting on polymorphic genes. Polymorphic marker genes have been shown to fluctuate with fluctuating rodent densities (e.g. Tamarin and Krebs 1969), but no polymorphic genes directly evolved in population processes have been studied. Interestingly, $C$ glareolus has been shown to possess polymorphic genes coding for doubling or even tripling of salivary amylase production (Nielsen 1977).
+
+The pattern of seed storage employed by rodents in the present study, i.e. scatterhoarding (Stapanian and Smith 1978) decreases the beech nut concentration in the litter layer and thus reduces the probability that the nuts will be eaten by other seed predators like roe deer, jays and squirrels. Rodents are unable to defend caches against larger competitors and thus larderhoarding, i.e. storing seeds in a large cache, would be far too hazardous. The process of spreading out seeds by scatterhoarding, however, also prevents effective aggressive defense of stored food from conspecific competitors and it is characteristic that these rodents do not exhibit territorial behaviour. Rather, the subterranean system of caches serves as a communal pantry. It should be noted that the effect of scatterhoarding to a certain extend could be negative to the beech since jays and possibly squirrels later could disperse seeds further distances.
+
+The interactions between beech and rodents presented here may have counterparts in other plant families with large seeds. Several authors have described acorn (Quercus spp.) caching in jays and squirrels (e.g.
+
+Chettleburg 1952), and in certain soils acorn germination is inhibited if seeds are not buried (Ovington and MacRae 1960). Stapanian and Smith (1978) found that fox squirrels, Sciurus niger, scatterhoarded black walnuts Juglans nigra in a pattern that maintained a mean cache density that gives low rates of loss to naive competitors. In conifers, Ligon (1978) described reproductive interdependence between pinon pines and pinon jays. In a seed year the jays had two breeding periods, whereas in years without seeds only one breeding period occurred. The jays cached pinon seeds several hundred meters from the parent trees at favourable germination and growth sites. As in beech, pinon pines seed synchronized over large geographic areas and Ligon (1978) interpreted that as an evolved mechanism that overwhelms invertebrate seed predators and increases the number of seed that will be cached. Interestingly, pinon pine cones and seeds have morphological characters that serve to encourage seed gathering by birds in particular, and the seeds are not wind dispersed (Vander Wall and Balda 1977).
+
+Acknowledgement - I thank Dr G. Peakin, London, for a critical revision of the manuscript.
+
+# References
+
+Bäumlner, W. 1981. Zur Verbreitung, Ernährung und Populationsdynamik der Rötelmaus (Clethrionomys glareolus) und der Gelbhalsmaus (Apodemus flavicollis) in einem Waldgebiet der Bayerischen Alpen. - Anz. Schädlingskde. 54: 49-53.   
+Chettleburgh, M. R. 1952. Observations on the collection and burial of acorns by jays in Hainault Forest. - Brit. Birds 45: 359-364.   
+Chitty, D. 1960. Population processes in the vole and their relevance to general theory. - Can. J. Zool. 38: 99-113.   
+Enoksson, B. and Nilsson, S. G. 1983. Territory size and population density in relation to food supply in the nuthatch (Sitta europaea). - J. Anim. Ecol. 52: 927-935.   
+Fagri, K. 1954. On age and origin of the beech forest (Fagus silvatica L.) at Lyngrefjorden, near Bergen (Norway). - DGU II RK 80: 230-249.   
+Gadekar, H. 1975. Ecological conditions limiting the distribution of Fagus silvatica L. and Abies alba Mill. near Schwarzenberg (Lucerne) Switzerland. - Veroff. Geobot. Inst. Zürich 54: 1-92.   
+Grodzinski, W. and Sawicka-Kapusta, K. 1970. Energy values of tree-seeds eaten by small mammals. - Oikos 21: 52-58.
+
+Harper, J. L. 1977. Population biology of plants. - Academic Press, London.   
+Holm, E. 1980. Bøgens vandring. - Urt 80 (1): 22-24.   
+Holmsgaard, E. and Olsen, H. C. 1966. Experimental induction of flowering in beech. - Det Forstlige Forsgsvensen i Danmark 30 (1): 1-18.   
+Janzen, D. H. 1971. Seed predation by animals. - Ann. Rev. Ecol. Syst. 2: 465-492.   
+Jensen, T. S. 1975. Population estimations and population dynamics of two Danish forest rodent species. - Vidensk. Medd. Dansk Nat. For. 138: 65-86.   
+- 1981. Energy flow through Danish forest rodent populations. - Nat. Jutil. 19: 73-80.   
+- 1982. Seed production and outbreaks of non-cyclic rodent populations in deciduous forests. - Oecologia (Berl.) 54: 184-192.   
+Lelouarn, H. and Schmitt, A. 1972. Relations observées entre la production de faines et la dynamique de population du mulot, Apodemus sylvaticus L. en fêtret de Fontainebleau. - Ann. Sci. forest 30: 205-214.   
+Ligon, J. D. 1978. Reproductive interdependence of pinon jays and pinon pines. - Ecol. Monogr. 48: 111-126.   
+Nielsen, B. O. 1977. Beech seeds as an ecosystem compartment. - Oikos 29: 268-274.   
+Nielsen, J. T. 1977. Variation in the number of genes coding for salivary amylase in the bank vole, Clethrionomys glareolus (L.) - Genetics 85: 155-169.   
+Nilsson, S. G. 1985. Ecological and evolutionary interactions between reproduction of beech *Fagus silvatica* and seed-eating animals. - Oikos 44: 157-164.   
+Ovington, J. D. and MacRae, C. 1960. The growth of seedlings of Quercus petraea. - J. Ecol. 48: 549-555.   
+Smyth, M. 1966. Winter breeding in woodland mice, Apodemus sylvaticus and voles, Clethrionomys glareolus and Microtus agrestis, near Oxford. - J. Anim. Ecol. 35: 471-485.   
+Stapanian, M. A. and Smith, C. C. 1978. A model for seed scatterhoarding: coevolution of fox squirrels and black walnuts. - Ecology 59: 884-896.   
+Tacon, F. le and Malphettes, C. V. 1974. Germination et comportement de semis de hétre sur six stations de la Foret de maniale de Villers-Cotterets. - Rev. Forest. français. 26: 111-123.   
+Tamarin, R. H. and Krebs, C. J. 1969. Genetic changes at the transferrin locus in fluctuating populations of two vole species. - Evolution 23: 183-211.   
+Turcek, F. J. 1960. Der Nährwert einiger Waldsamen, die als Futter der Vogel und Saugetiere dienen. - Waldhygiene 3: 140-142.   
+Vander Wall, S. and Balda, R. P. 1977. Coadaptations of the Clark's nutcracker and the pinon pine for efficient seed harvest and dispersal. - Ecol. Monogr. 47: 89-111.   
+Watt, A. S. 1923. On the ecology of British beechwoods with special reference to their regeneration. - J. Ecol. 11: 1-48.   
+Zejda, J. 1962. Winter breeding in the bank vole, Clethrionomys glareolus. - Zool. Listy. 10: 249-264.

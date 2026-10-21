@@ -1,0 +1,1300 @@
+[
+    {
+        "type": "text",
+        "text": "ORIGINAL ARTICLE ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            86,
+            265,
+            99
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reservoir-Driven Heterogeneous Distribution of Recorded Human Puumala virus Cases in South-West Germany ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            111,
+            840,
+            157
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S. Drewes1 , H. Turni2 , U. M. Rosenfeld1 , A. Obiegala3 , P. Strakova\u00011,4,5, C. Imholt6 , E. Glatthaar7 , K. Dressel8 , M. Pfeffer3 , J. Jacob6 , C. Wagner-Wiening9 and R. G. Ulrich1 ",
+        "bbox": [
+            84,
+            159,
+            820,
+            193
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 Friedrich-Loeffler-Institut, Institute for Novel and Emerging Infectious Diseases, Greifswald – Insel Riems, Germany ",
+            "2 Stauss & Turni Gutachterburo, T € ubingen, Germany € ",
+            "3 Veterin€armedizinische Fakult€at, Institut fur Tierhygiene und € Offentliches Veterin € €arwesen, University Leipzig, Leipzig, Germany ",
+            "4 Institute of Vertebrate Biology v.v.i., Academy of Sciences, Masaryk University, Brno, Czech Republic ",
+            "5 Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic ",
+            "6 Julius Kuhn-Institute, Federal Research Centre for Cultivated Plants, Institute for Plant Protection in Horticulture and Forests, Vertebrate Research, € Munster, Germany € ",
+            "7 Forstzoologisches Institut, Arbeitsbereich Wildtierokologie und Wildtiermanagement, Universit € €at Freiburg, Freiburg, Germany ",
+            "8 sine-Institut gGmbH, Munich, Germany ",
+            "9 Landesgesundheitsamt Baden-Wurttemberg, Referat 95 € – Epidemiologie und Gesundheitsberichterstattung, Sachgebietsleitung: Infektionsepidemiologische Meldesysteme (SG4), Stuttgart, Germany "
+        ],
+        "bbox": [
+            85,
+            200,
+            867,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impacts ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            368,
+            157,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• The heterogeneous geographical distribution of recorded hantavirus disease cases is related to the abundance of Puumala virus (PUUV)-infected bank voles. ",
+            "• The effect of beech mast on human incidences is higher in districts with high proportional coverage of beech/oak woodland. ",
+            "• Local early warning modules for PUUV infections should include the prevalence of PUUV in the host which requires multiannual bank vole monitoring as well as information about mast and beech/oak woodland cover. "
+        ],
+        "bbox": [
+            94,
+            390,
+            596,
+            512
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            534,
+            152,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hantavirus; endemic region; incidence; bank vole; prevalence; Germany ",
+        "bbox": [
+            85,
+            547,
+            326,
+            572
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence: ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            588,
+            189,
+            599
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rainer G. Ulrich. Friedrich-Loeffler-Institut, Institute for Novel and Emerging Infectious Diseases, 17493 Greifswald – Insel Riems, Germany. Tel.: +49 38351 7 1159; Fax: $+ 4 9$ 38351 7 1192; E-mail: rainer.ulrich@fli.de ",
+        "bbox": [
+            85,
+            601,
+            315,
+            679
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received for publication January 14, 2016 ",
+        "bbox": [
+            85,
+            695,
+            312,
+            707
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "doi: 10.1111/zph.12319 ",
+        "bbox": [
+            85,
+            721,
+            220,
+            732
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            357,
+            534,
+            431,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Endemic regions for Puumala virus (PUUV) are located in the most affected federal state Baden-Wuerttemberg, South-West Germany, where high numbers of notified human hantavirus disease cases have been occurring for a long time. The distribution of human cases in Baden-Wuerttemberg is, however, heterogeneous, with a high number of cases recorded during 2012 in four districts (H districts) but a low number or even no cases recorded in four other districts (L districts). Bank vole monitoring during 2012, following a beech (Fagus sylvatica) mast year, resulted in the trapping of 499 bank voles, the host of PUUV. Analyses indicated PUUV prevalences of $7 - 5 0 \\%$ (serological) and $1 . 8 \\mathrm { - } 2 7 . 5 \\%$ (molecular) in seven of eight districts, but an absence of PUUV in one L district. The PUUV prevalence differed significantly between bank voles in H and L districts. In the following year 2013, 161 bank voles were trapped, with reduced bank vole abundance in almost all investigated districts except one. In 2013, no PUUV infections were detected in voles from seven of eight districts. In conclusion, the linear modelling approach indicated that the heterogeneous distribution of human PUUV cases in South-West Germany was caused by different factors including the abundance of PUUV RNA-positive bank voles, as well as by the interaction of beech mast and the proportional coverage of beech and oak (Quercus spec.) forest per district. These results can aid developing local public health risk management measures and early warning models. ",
+        "bbox": [
+            354,
+            556,
+            885,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Zoonoses and Public Health ",
+        "bbox": [
+            715,
+            49,
+            885,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            85,
+            921,
+            238,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            873,
+            921,
+            882,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            95,
+            208,
+            108
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Puumala virus (PUUV), genus Hantavirus, family Bunyaviridae, is causing the vast majority of human hantavirus disease cases in Germany and surrounding countries (Ulrich et al., 2004; Heyman et al., 2011). Nephropathia epidemica (NE), the hantavirus disease caused by PUUV, is usually characterized by a mild to moderate course with abrupt onset of fever, headache, myalgia, chills, conjunctivitis, abdominal pain, nausea, vomiting and in severe cases with microhaemorrhages and renal failure (Brummer-Korvenkontio et al., 1980; Kruger et al., 2013). Mild€ and unspecific symptoms result in underreporting of human cases (Brummer-Korvenkontio et al., 1999; Clement et al., 2007; Klempa et al., 2013). The reservoir host of PUUV, the bank vole Myodes glareolus, is present in almost entire Europe, but human cases of PUUV infection are heterogeneously distributed there (Linard et al., 2007; Boone et al., 2012; Ali et al., 2014; Clement et al., 2014; Castel et al., 2015). Further, bank vole populations erupt occasionally resulting in a massive increase in abundance in some years. Such outbreaks seem to be driven by mast of beech (Fagus sylvatica) and oak (Quercus spec.) in Germany and other Central European countries; predator-driven processes matter in northern boreal Europe (Hansson, 1985; Hanski et al., 1991; Tersago et al., 2009; Clement et al., 2010; Imholt et al., 2015; Reil et al., 2015). ",
+        "bbox": [
+            114,
+            117,
+            497,
+            498
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A recent study identified certain landscape and environmental factors, such as forest connectivity, winter and summer temperatures and soil water content, as drivers for the spatial distribution of NE cases in Europe (Zeimes et al., 2015). Climate conditions might not only influence the virus viability and transmission directly, but indirectly by influencing the behaviour of the human population at risk for infection. Further, the awareness of the physicians has been discussed as a reason for apparent disease absence or underreporting. Thus, the detection of a novel PUUV strain in the western part of Thuringia during the outbreak in 2010 indicated that the virus may have been present but unrecognized, suggesting low awareness of physicians due to a very low number of disease cases before the 2010 outbreak (Faber et al., 2013). ",
+        "bbox": [
+            114,
+            500,
+            497,
+            727
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human PUUV infections in Germany are known since the 1980s (Pilaski et al., 1991). Since the introduction of the Protection against Infection Act in 2001, in total 10 164 human hantavirus disease cases were recorded in Germany (Robert Koch-Institute: SurvStat@RKI 2.0, https://survstat. rki.de, accessed: 21 April 2016). A large number of molecular epidemiological studies in bank vole reservoirs and patients resulted in the demonstration of a high level of PUUV sequence divergence (Pilaski et al., 1994; Heiske et al., 1999; Asikainen et al., 2000; Essbauer et al., 2006, 2007; Schilling et al., 2007; Hofmann et al., 2008; Ettinger ",
+        "bbox": [
+            114,
+            728,
+            497,
+            895
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "et al., 2012; Faber et al., 2013; Ali et al., 2015; Castel et al., 2015). Recent studies in the district Osnabruck, Lower Sax-€ ony, North-West Germany, and in Konnevesi, Central Finland, confirmed oscillations in the prevalence of PUUV infections in the bank vole populations, but also a longterm presence of selected PUUV strains (Razzauti et al., 2013; Weber de Melo et al., 2015). ",
+        "bbox": [
+            526,
+            86,
+            907,
+            191
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The disease incidence varied between the federal states of Germany, with the highest total number of cases recorded in Baden-Wuerttemberg $( n = 5 3 5 1$ ), South-West Germany (Pilaski et al., 1991; Zoller et al., 1995; Boone et al., 2012;€ Robert Koch-Institute: SurvStat@RKI 2.0, https://surv-stat. rki.de, accessed: 21 April 2016). During the years 2007, 2010 and 2012, much larger numbers of human hantavirus disease cases were notified with a simultaneous increase in Baden-Wuerttemberg and other regions of Germany (Hofmann et al., 2008; Ettinger et al., 2012). However, even within this highly endemic federal state, a heterogeneous distribution of human PUUV cases has been observed (Fig. 1, Table 1). ",
+        "bbox": [
+            526,
+            194,
+            907,
+            391
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study was to test potential associations of bank vole abundance and serological and molecular PUUV detection in bank voles with the reported frequency of human infections and beech mast intensity as well as beech/oak forest occurrence per district for districts with a historically high number of recorded human cases (H) and for additional districts with no or low numbers of recorded human cases (L) in Baden-Wuerttemberg. ",
+        "bbox": [
+            526,
+            393,
+            907,
+            528
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            553,
+            697,
+            566
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bank voles were trapped at four H (H1, district Stuttgart – site Busnau; H2, T€ ubingen€ – Mossingen; H3,€ Goppingen€ – Geislingen; H4, Heidenheim – Steinheim) and four L (L1, Schw€abisch Hall – Crailsheim; L2, Emmendingen – Kenzingen; L3, Freiburg im Breisgau – Landwasser; L4, Waldshut – Stuhlingen) locations in 2012€ and 2013 using live traps (Fig. 1). Sites were characterized by deciduous broad-leaved forest dominated by beech. Fifty traps were set at each site in suitable habitats for bank voles in order to maximize trapping success. Traps were baited with a mix of nuts, sunflower seed, apples and mealworms and emptied every $^ { 1 2 \\mathrm { ~ h ~ } }$ for 36 h covering two nights and one day. Hay was provided for bedding and a cotton wool pad soaked with water for moisture. Trapping was conducted three times per year (May/June; July/August; September/October). Rodent individuals were caught alive, their sex and weight determined, killed through cervical dislocation and immediately frozen and stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ for subsequent laboratory analysis. Data are stated as bank voles trapped per 100 trap nights (TN) reflecting maximum population abundance. ",
+        "bbox": [
+            526,
+            576,
+            907,
+            895
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            112,
+            51,
+            379,
+            62
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            823,
+            51,
+            907,
+            61
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            114,
+            923,
+            122,
+            930
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            759,
+            923,
+            907,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b09779c6d166cf8130a2dc25cb8a7ae5d70ce77cec6933a0af9b62efd0ff7eb1.jpg",
+        "image_caption": [
+            "Fig. 1. Hantavirus incidences in districts with high incidences (H) and low incidences (L) of Baden-Wuerttemberg, South-West Germany, during 2012 and 2013, and location of the bank vole trapping sites H1 (Stuttgart), H2 (Tubingen), H3 (G€ oppingen) and H4 (Heidenheim), and L1 (Schw€ €abisch Hall), L2 (Emmendingen), L3 (Freiburg) and L4 (Waldshut). Background maps: Nicole Neumann, Friedrich-Loeffler-Institut; human PUUV incidences: Robert Koch-Institute: SurvStat@RKI 2.0, https://survstat.rki.de, accessed: 21 April 2016. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            88,
+            877,
+            414
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/21a2f4ec91b632f1674e153e4ab20d329e1995c085620614294f2b7b1de8a612.jpg",
+        "table_caption": [
+            "Table 1. Incidences of recorded human Puumala virus cases per 100 000 inhabitants in eight districts of Baden-Wuerttemberg from 2001 to 2015 "
+        ],
+        "table_footnote": [
+            "LK, rural district; SK, urban district. Source: Robert Koch-Institute: SurvStat@RKI 2.0, https://survstat.rki.de, accessed: 21 April 2016. "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">District</td><td colspan=\"14\">Year</td><td></td></tr><tr><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td></tr><tr><td>SK Stuttgart (H1)</td><td>1.02</td><td>3.57</td><td>1.19</td><td>1.19</td><td>1.69</td><td>0.84</td><td>5.19</td><td>2.00</td><td>1.50</td><td>22.26</td><td>0.82</td><td>19.73</td><td>0.00</td><td>0.83</td><td>1.32</td></tr><tr><td>LK Tübingen (H2)</td><td>0.47</td><td>3.29</td><td>0.93</td><td>2.78</td><td>1.39</td><td>0.00</td><td>13.33</td><td>0.00</td><td>1.36</td><td>11.75</td><td>1.35</td><td>40.02</td><td>0.00</td><td>6.93</td><td>10.62</td></tr><tr><td>LK Göppingen (H3)</td><td>1.16</td><td>3.09</td><td>1.16</td><td>3.09</td><td>2.33</td><td>0.78</td><td>32.84</td><td>0.78</td><td>2.76</td><td>17.42</td><td>5.56</td><td>56.09</td><td>0.40</td><td>4.42</td><td>14.47</td></tr><tr><td>LK Heidenheim (H4)</td><td>0.00</td><td>10.95</td><td>0.00</td><td>4.42</td><td>1.48</td><td>0.75</td><td>90.67</td><td>2.26</td><td>3.03</td><td>16.78</td><td>3.82</td><td>58.77</td><td>1.56</td><td>1.56</td><td>6.25</td></tr><tr><td>LK Schwäbisch Hall (L1)</td><td>0.00</td><td>0.00</td><td>0.53</td><td>1.59</td><td>0.53</td><td>0.00</td><td>3.17</td><td>1.06</td><td>1.06</td><td>5.84</td><td>1.06</td><td>7.49</td><td>1.07</td><td>2.66</td><td>2.13</td></tr><tr><td>LK Emmendingen (L2)</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.64</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>SK Freiburg (L3)</td><td>0.00</td><td>0.00</td><td>0.47</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.46</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>LK Waldshut (L4)</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.60</td><td>0.60</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table>",
+        "bbox": [
+            84,
+            516,
+            887,
+            682
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dissection and sample collection as well as morphological and molecular species determination for shrews, Apodemus spp. and Microtus spp. followed standard protocols (Angermann and Hackethal, 1999; Parson et al., 2000; Schlegel et al., 2012; Nainys et al., 2015). Three age groups of bank voles were defined based on the weight: <15, 15– 19.5 and ${ \\tt > } 1 9 . 5 \\mathrm { ~ g ~ }$ (Bajer et al., 2002). ",
+        "bbox": [
+            84,
+            728,
+            473,
+            833
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PUUV-reactive antibodies were detected in thoracic cavity lavage by IgG ELISA using a recombinant nucleocapsid protein of PUUV strain Bavaria (Mertens et al., 2011). ELISA-positive or equivocal sera were tested again to ",
+        "bbox": [
+            84,
+            835,
+            473,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "determine the serological reactivity following a previously published decision tree (Mertens et al., 2009). ",
+        "bbox": [
+            495,
+            728,
+            884,
+            758
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For molecular detection of PUUV, RNA was isolated from lung tissue by QIAzol\u0001 Lysis Reagent (Qiagen, Hilden, Germany) treatment following an in-house protocol (Schmidt et al., 2016). Reverse transcription polymerase chain reaction (RT-PCR) using S segment-specific primers $\\mathrm { P u } 3 4 2 \\mathrm { F }$ and Pu1102R followed a previously described standard protocol (Essbauer et al., 2006). Amplification products of the expected size of ca. 700 bp were sequenced by the usage of BigDye\u0001 Terminator version 1.1 Cycle ",
+        "bbox": [
+            495,
+            759,
+            885,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            85,
+            49,
+            174,
+            61
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            616,
+            49,
+            885,
+            62
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            85,
+            921,
+            238,
+            934
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            873,
+            921,
+            882,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sequencing Kit (Applied Biosystems, Darmstadt, Germany). ",
+        "bbox": [
+            112,
+            88,
+            497,
+            117
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fisher’s exact test with a type I error $\\textsf { \\textsf { X } }$ of 0.05 and associated odds ratios were used to test the independence of compared prevalences between H and L districts, season and individual weight. To analyse determining factors for human infection, two backward multiple linear regression models were developed. For both models, the ln-transformed number of human cases standardized to 100 000 inhabitants (PUUV incidence) was the dependent variable (Robert Koch-Institute: SurvStat@RKI 2.0, https://survstat. rki.de). The first model was designed to test which predictor was correlated best to human PUUV cases in the outbreak year of 2012 in all eight districts. The mean bank vole abundance index, the antibody prevalence determined by ELISA and the RNA prevalence detected using RT-PCR were used as potential predictors. ELISA results were corrected for the potential influence of maternal antibodies in young voles. Individuals below the cut-off value of $1 6 \\mathrm { ~ g ~ }$ (Kallio et al., 2010) that carried antibodies but were RT-PCR negative were treated as carrying maternal antibodies and assigned to the negative ELISA category. The second analysis focused on potential environmental factors determining the marked differences in human PUUV incidence among districts $( n = 8$ ). Here, the ln-transformed proportional cover of beech and oak forest per district and the categorical variable of beech mast in the previous year (yes/no) were determined for each district for the years 2007 –2014. Values for forest cover were obtained from the federal forest census (http://www.fva-bw.de/monitoring/) by calculating average values from the censuses in 2002 and 2012. For the city districts H1 and L3, no forest data were available and therefore the districts closest to the trapping sites where forest data were available were chosen (Boblingen and Breisgau im Hochschwarzwald, respec- € tively). All analyses were performed in R (R Core Team, 2015) using the lm function. Model simplification was done using drop1 and the final model was chosen based on lowest corrected Akaike’s information criterion (Hurvich and Tsai, 1989). ",
+        "bbox": [
+            112,
+            117,
+            497,
+            696
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            722,
+            168,
+            734
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During 2012, the number of recorded human hantavirus disease cases and incidences was higher in the districts H1 $( n = 1 1 8 / 1 9 . 7 3 )$ ), H2 $( n = 8 6 / 4 0 . 0 2$ ), H3 $( n = 1 3 9 / 5 6 . 0 9 )$ ) and H4 $\\mathit { \\Delta } n = 7 5 / 5 8 . 7 7 $ ) than in the districts L1 $\\mathbf { \\Phi } _ { n } = 1 4 /$ 7.49), L2 $\\mathit { n } = 1 / 0 . 6 4 $ ), L3 ${ \\bf \\zeta } _ { n } = 1 / 0 . 4 6 )$ ) and L4 $\\dot { \\boldsymbol { n } } = 0 / 0 . 0 0 \\dot { }$ ) (Table 1, Fig. 1). ",
+        "bbox": [
+            112,
+            745,
+            497,
+            835
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During 2012, 499 bank voles were trapped with a range of 32–87 animals per site (Table 2). Mean trap success ranged from 9.5 ind./100TN in L4 to 29 ind./100TN in the city district H1 (Table 3). In addition, bycatches of four ",
+        "bbox": [
+            112,
+            837,
+            497,
+            895
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd0204f34b769301e879927af889346e9be2f6bf39418ca273a77cf6b94d1d7a.jpg",
+        "table_caption": [
+            "Table 2. Numbers of bank voles (Myodes glareolus) and other small mammals collected at the eight trapping sites during 2012 and 2013 "
+        ],
+        "table_footnote": [
+            "*Sorex araneus, Sorex coronatus and Sorex minutus. ",
+            "†Microtus arvalis and Microtus agrestis. "
+        ],
+        "table_body": "<table><tr><td></td><td colspan=\"2\">Stuttgart (H1)</td><td colspan=\"2\">Tübingen (H2)</td><td colspan=\"2\">Göppingen (H3)</td><td colspan=\"2\">Heidenheim (H4)</td><td colspan=\"2\">Schwäbisch Hall (L1)</td><td colspan=\"2\">Emmendingen (L2)</td><td colspan=\"2\">Freiburg (L3)</td><td colspan=\"2\">Waldshut (L4)</td></tr><tr><td>Small mammal species</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>Myodes glareolus</td><td>87</td><td>12</td><td>80</td><td>15</td><td>80</td><td>9</td><td>68</td><td>15</td><td>55</td><td>44</td><td>32</td><td>6</td><td>40</td><td>46</td><td>57</td><td>14</td></tr><tr><td>Sorex spp.*</td><td>6</td><td>15</td><td>2</td><td>11</td><td>6</td><td>9</td><td>1</td><td>5</td><td>3</td><td>5</td><td>-</td><td>-</td><td>1</td><td>-</td><td>1</td><td>3</td></tr><tr><td>Microtusspp.†</td><td>1</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td></tr><tr><td>Apodemus flavicollis</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td colspan=\"2\">122</td><td colspan=\"2\">108</td><td colspan=\"2\">105</td><td colspan=\"2\">90</td><td colspan=\"2\">110</td><td colspan=\"2\">38</td><td colspan=\"2\">87</td><td colspan=\"2\">76</td></tr></table>",
+        "bbox": [
+            615,
+            86,
+            796,
+            893
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            112,
+            51,
+            379,
+            62
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            823,
+            51,
+            907,
+            61
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            112,
+            923,
+            122,
+            930
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            759,
+            923,
+            909,
+            934
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e796ca720e8156ab59794373131d1361a094c245448a2d1bfeb92f65cadf295.jpg",
+        "table_caption": [
+            "Table 3. Abundance indices and results of serological and RT-PCR investigations of bank voles trapped at the eight districts during 2012 and 2013 "
+        ],
+        "table_footnote": [
+            "Ind., individuals; TN, trap nights; SE, standard error. ",
+            "*Number of positive/total number of bank voles tested. ",
+            "†One juvenile, antibody-positive animal was excluded. ",
+            "‡Total number includes one equivocal sample. ",
+            "§Total number includes five equivocal samples. "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">District and trapping site</td><td rowspan=\"2\">Year</td><td colspan=\"2\">Mean Abundance</td><td colspan=\"2\">PUUV ELISA</td><td colspan=\"2\">PUUV RT-PCR</td></tr><tr><td>Ind./100TN</td><td>SE</td><td>Absolute*</td><td>Per cent</td><td>Absolute*</td><td>Per cent</td></tr><tr><td rowspan=\"3\">Stuttgart (H1)</td><td>2012</td><td>29.0</td><td>4.6</td><td>26/87</td><td>29.89</td><td>20/87</td><td>22.99</td></tr><tr><td>2013</td><td>4.0</td><td>3.6</td><td>0/12</td><td>0.00</td><td>0/12</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>26/99</td><td>26.26</td><td>20/99</td><td>20.20</td></tr><tr><td rowspan=\"3\">Tübingen (H2)</td><td>2012</td><td>26.7</td><td>10.3</td><td>19†/80</td><td>23.75</td><td>14/80</td><td>17.50</td></tr><tr><td>2013</td><td>5.0</td><td>1.0</td><td>0/15</td><td>0.00</td><td>0/15</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>19/95</td><td>20.00</td><td>14/95</td><td>14.74</td></tr><tr><td rowspan=\"3\">Göppingen (H3)</td><td>2012</td><td>26.7</td><td>10.2</td><td>24/80</td><td>30.00</td><td>22/80</td><td>27.50</td></tr><tr><td>2013</td><td>3.0</td><td>2.0</td><td>0/9</td><td>0.00</td><td>0/9</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>24/89</td><td>26.97</td><td>22/89</td><td>24.72</td></tr><tr><td rowspan=\"3\">Heidenheim (H4)</td><td>2012</td><td>22.7</td><td>1.5</td><td>13†/68</td><td>19.12</td><td>15/68</td><td>22.06</td></tr><tr><td>2013</td><td>5.0</td><td>7.0</td><td>0/15</td><td>0.00</td><td>0/15</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>13/83</td><td>15.66</td><td>15/83</td><td>18.07</td></tr><tr><td rowspan=\"3\">Schwäbisch Hall (L1)</td><td>2012</td><td>18.3</td><td>17.2</td><td>13/55‡</td><td>23.64</td><td>6/55</td><td>10.91</td></tr><tr><td>2013</td><td>14.7</td><td>6.7</td><td>2/44‡</td><td>4.55</td><td>5/44</td><td>11.36</td></tr><tr><td>Total</td><td></td><td></td><td>15/99</td><td>15.15</td><td>11/99</td><td>11.11</td></tr><tr><td rowspan=\"3\">Emmendingen (L2)</td><td>2012</td><td>10.7</td><td>9.7</td><td>16/32</td><td>50.00</td><td>6/32</td><td>18.75</td></tr><tr><td>2013</td><td>2.0</td><td>1.0</td><td>0/6</td><td>0.00</td><td>0/6</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>16/38</td><td>42.11</td><td>6/38</td><td>15.79</td></tr><tr><td rowspan=\"3\">Freiburg (L3)</td><td>2012</td><td>13.0</td><td>6.9</td><td>0/40</td><td>0.00</td><td>0/40</td><td>0.00</td></tr><tr><td>2013</td><td>15.3</td><td>7.5</td><td>0/46</td><td>0.00</td><td>0/46</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>0/86</td><td>0.00</td><td>0/86</td><td>0.00</td></tr><tr><td rowspan=\"3\">Waldshut (L4)</td><td>2012</td><td>19.0</td><td>2.6</td><td>4/57§</td><td>7.02</td><td>1/57</td><td>1.75</td></tr><tr><td>2013</td><td>4.7</td><td>4.2</td><td>0/14</td><td>0.00</td><td>0/14</td><td>0.00</td></tr><tr><td>Total</td><td></td><td></td><td>4/71</td><td>5.63</td><td>1/71</td><td>1.41</td></tr></table>",
+        "bbox": [
+            82,
+            102,
+            887,
+            535
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Microtus spp., three yellow-necked mice (Apodemus flavicollis) and 20 shrews were collected (Table 2). ",
+        "bbox": [
+            87,
+            622,
+            470,
+            650
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Serological investigations indicated the presence of PUUV infections in bank voles in seven of eight districts with prevalences of $7 - 5 0 \\%$ (Table 3). RT-PCR investigations confirmed PUUV infections for the same seven districts with prevalences of $1 . 8 { - } 2 7 . 5 \\%$ (Table 3). In two juvenile voles (weight $< 1 6 \\mathrm { ~ g ~ }$ ), one each from sites H2 and H4, exclusively PUUV-reactive antibodies, but no viral RNA were detected (Table 3). Therefore, these two animals were regarded as harbouring maternal antibodies. The voles from the four H districts showed serological and molecular prevalences of $1 7 . 5 \\substack { - 3 0 . 0 \\% }$ . At the districts L1, L2 and L4 seroprevalence reached $2 3 . 6 \\%$ , $5 0 \\%$ and $7 \\%$ , respectively, whereas the molecular prevalence ranged from $1 . 8 \\%$ (L4), to $1 0 . 9 \\%$ (L1) and $1 8 . 8 \\%$ (L2). In district L3, none of the bank voles was positive for PUUV. In 2012, the prevalence of PUUV infection in bank voles was ",
+        "bbox": [
+            87,
+            653,
+            472,
+            895
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "significantly higher in districts H1–H4 compared to L1–L4 in IgG ELISA $[ P = 0 . 0 3 7$ ; two tailed Fisher’s exact test with $\\mathfrak { a } = 0 . 0 5$ , odds ratio 1.64 (1.05–2.59)] and RT-PCR $P < 0 . 0 0 1$ , odds ratio 3.77 (2.02–7.04)). That year adult bank voles (weight class 3, ${ \\tt > } 1 9 . 5 \\ \\mathrm { g } ,$ ) showed significantly higher prevalences compared to juvenile individuals (weight class 1, ${ < } 1 5 . 5 \\ \\mathrm { g } { \\mathrm { , } }$ ) (ELISA: odds ratio 21.19 (2.92– 163.86), Fisher’s test $P < 0 . 0 0 1$ ; RT-PCR: odds ratio 6.38 (1.47–27.64), Fisher’s test $P < 0 . 0 0 8$ ) (see Table S1 in Supporting information). In addition, there was a trend that RNA prevalences decreased in autumn (Season 3) compared to spring (Season 1 versus Season 3; see Table S1 in Supporting information; RT-PCR: odds ratio 2.48 (1.28– 4.79), Fisher’s test $P = 0 . 0 0 7$ ; ELISA: odds ratio 1.60 (0.94–2.72), Fisher’s test $P = 0 . 0 8$ ). One field vole (Microtus agrestis) from trapping site H1 was found to be PUUV positive in RT-PCR, but none of the yellow-necked mice (data not shown). ",
+        "bbox": [
+            500,
+            622,
+            884,
+            895
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            87,
+            51,
+            171,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            616,
+            49,
+            884,
+            62
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            87,
+            923,
+            236,
+            933
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            873,
+            923,
+            882,
+            932
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c869a73497bb6a6a94ed3a1772c156ba03832623b250df8234363fb2f32e7aa.jpg",
+        "table_caption": [
+            "Table 4. Results of multiple linear regression analysis for the suitability of methodological and environmental predictors regarding human PUUV cases. Categorical variable Mast [1] indicates differences compared to the reference category Mast [0] representing no beech mast "
+        ],
+        "table_footnote": [
+            "B, regression coefficient; SE B, standard error B; b, standardized coefficient; P-value, significance level; Adj. $R ^ { 2 }$ , adjusted r-squared; AICc, corrected Akaike’s information criterion. ",
+            "*Significance level $P < 0 . 0 5$ "
+        ],
+        "table_body": "<table><tr><td>Model</td><td>B</td><td>SE B</td><td>β</td><td>P-value</td><td>Adj R2</td><td>AICc</td></tr><tr><td colspan=\"7\">Methodological</td></tr><tr><td colspan=\"7\">Step 1</td></tr><tr><td>Intercept</td><td>-0.47</td><td>2.37</td><td>0.00</td><td>0.86</td><td>0.56</td><td>50.47</td></tr><tr><td>Abundance</td><td>0.06</td><td>0.14</td><td>0.25</td><td>0.69</td><td></td><td></td></tr><tr><td>RNA prevalence</td><td>0.16</td><td>0.12</td><td>1.00</td><td>1.30</td><td></td><td></td></tr><tr><td>Antibody prevalence</td><td>-0.07</td><td>0.09</td><td>-0.42</td><td>-0.75</td><td></td><td></td></tr><tr><td colspan=\"7\">Step 2</td></tr><tr><td>Intercept</td><td>-1.37</td><td>1.89</td><td>0.00</td><td>0.52</td><td>0.62</td><td>33.30</td></tr><tr><td>Abundance</td><td>0.08</td><td>0.13</td><td>0.32</td><td>0.57</td><td></td><td></td></tr><tr><td>RNA prevalence</td><td>0.10</td><td>0.08</td><td>0.59</td><td>0.33</td><td></td><td></td></tr><tr><td colspan=\"7\">Step 3 (final)</td></tr><tr><td>Intercept</td><td>-0.30</td><td>0.78</td><td>0.00</td><td>0.72</td><td>0.68</td><td>24.72</td></tr><tr><td>RNA prevalence</td><td>0.14</td><td>0.04</td><td>0.86</td><td>0.03*</td><td></td><td></td></tr><tr><td colspan=\"7\">Environmental</td></tr><tr><td colspan=\"7\">Step 1</td></tr><tr><td>Intercept</td><td>2.65</td><td>1.96</td><td>0.00</td><td>0.18</td><td>0.62</td><td></td></tr><tr><td>Perc. Woodland</td><td>-0.94</td><td>0.74</td><td>-0.16</td><td>0.21</td><td></td><td></td></tr><tr><td>Mast [1]</td><td>-5.80</td><td>3.13</td><td>-1.92</td><td>0.07</td><td></td><td></td></tr><tr><td>Perc. Woodland: Mast [1]</td><td>3.08</td><td>1.19</td><td>2.70</td><td>0.01*</td><td></td><td></td></tr></table>",
+        "bbox": [
+            110,
+            141,
+            499,
+            459
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In 2013, a total of 161 bank voles were trapped at the eight sites (Table 2). Trap success ranged from 2.0 ind./ 100TN in L2 to 15.3 ind./100TN in the city district L3 (Table 3). At seven sites the number of voles was lower compared to the year 2012, except at site L3 (Table 2). One yellow-necked mouse and 48 shrews were collected as bycatch at seven of the eight sites. ",
+        "bbox": [
+            112,
+            530,
+            499,
+            636
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There were no PUUV-positive bank voles in seven of eight districts in 2013 (Table 3). Only at site L1, PUUVseropositive and RT-PCR-positive animals were detected with prevalences of $4 . 6 \\%$ and $1 1 . 4 \\%$ , respectively (Table 3). There was no statistically significant difference in the PUUV infection rate between L and H districts $P = 1$ for ELISA and $P = 0 . 1 7 9 8$ for RT-PCR). ",
+        "bbox": [
+            112,
+            638,
+            499,
+            742
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The average prevalence in 2012 and 2013 differed significantly between bank voles from trapping sites L1–L4 and H1–H4 $P < 0 . 0 0 1$ , odds ratio 2.14 (1.39–3.28) for IgG ELISA and $P < 0 . 0 0 1$ , odds ratio 3.69 (2.14–6.35) for RT-PCR). ",
+        "bbox": [
+            112,
+            745,
+            499,
+            819
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Linear regression modelling revealed that the PUUV RNA prevalence in bank voles was closely correlated with the number of human PUUV infections $F _ { 1 , 4 } = 1 1 . 5$ , adj. $R ^ { 2 } = 0 . 6 8$ , $P < 0 . 0 0 1$ ; Table 4). The trapping index of bank voles per district as well as the prevalence of PUUV-specific ",
+        "bbox": [
+            112,
+            820,
+            499,
+            897
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "antibodies in the population was not significantly correlated with the number of human PUUV cases. Neither the percentage of beech and oak woodland per district nor beech mast alone predicted the existing gradient in human PUUV cases among districts. However, the interaction term between both predictors was positively correlated with the number of human PUUV cases $( F _ { 3 , 3 6 } = 2 2 . 1 1$ , adj. $R ^ { 2 } = 0 . 6 2$ , $P < 0 . 0 0 1$ ), demonstrating that after beech mast more human PUUV infections occurred in districts with higher cover of woodland than in districts with little beech and oak forest. ",
+        "bbox": [
+            524,
+            86,
+            910,
+            253
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            278,
+            605,
+            291
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We determined the presence of PUUV in bank voles from four H districts with a high number of recorded human cases and further four L districts with no or a low number of recorded human cases during outbreak year 2012 and the following year. The serological and RT-PCR investigations in bank voles trapped during the outbreak year 2012 confirmed the presence of PUUV at all four H districts, but also for three of four L districts. In line with previous investigations (Bernshtein et al., 1999; Olsson et al., 2002; Augot et al., 2008), adult individuals showed a significantly higher RNA and seroprevalence. The average antibody and RNA prevalence was about $1 2 . 1 \\%$ higher in H districts than in L districts. ",
+        "bbox": [
+            524,
+            301,
+            910,
+            497
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The RNA prevalence in bank voles drove human PUUV infections in South-West Germany at the spatial scale of districts. This was most likely governed by the interaction of beech mast and the forest coverage per district because more human PUUV infections occurred in districts with higher cover of woodland. Such a relation seems plausible as bank vole abundance in temperate Germany is highly dependent on beech mast (Hansson et al., 2000; Clement et al., 2010). The importance of woodland is clearly linked to local human infection risks, as Reil et al. (2015) could not detect any significant influence of woodland on human incidences at the scale of federal states. The finding indicates that variation in human PUUV infection at small spatial district scale can be explained by variation of PUUV presence in host rodents and related environmental factors such as beech mast and presence of forest. This can help to improve forecast systems that help to raise awareness regarding human PUUV infections. ",
+        "bbox": [
+            524,
+            500,
+            910,
+            773
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another explanation for small-scale variation in the frequency of human PUUV cases is a reduced awareness of medical personnel where human cases are rare. This assumption is supported by reports of participants of focus groups, which were conducted in PUUV endemic areas of Germany (Dressel, 2014). In these groups, formerly severely affected NE patients described the problem of being one of the first cases in a newly emerging area of the hantavirus ",
+        "bbox": [
+            524,
+            774,
+            910,
+            895
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            112,
+            49,
+            379,
+            62
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            823,
+            49,
+            907,
+            61
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            112,
+            921,
+            122,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            759,
+            923,
+            910,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "disease, where it took several days before the medical staff was able to diagnose the disease correctly. In addition, it takes 50–100 cases of an emerging vector-borne infection before it is recognized by the local general practitioners and eventually receives sufficient attention from the public health system (Schmidt et al., 2013). ",
+        "bbox": [
+            87,
+            88,
+            472,
+            177
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the district L3, PUUV was not detected in bank voles during the study period. An investigation of 40 bank voles collected during December 2009 at a site in the neighbouring district Breisgau-Hochschwarzwald, approx. $1 2 ~ \\mathrm { k m }$ away from the trapping site L3, also failed to detect any PUUV RNA- and antibody-positive bank voles (our unpublished data). The two recorded human PUUV infections in this district may originate from patients who have contracted the disease outside the district, as human cases are recorded by place of residence (Robert Koch-Institut, 2015). ",
+        "bbox": [
+            87,
+            179,
+            472,
+            345
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The promotion of bank vole populations by beech mast is one of the reasons for increased numbers of human PUUV infections in temperate Europe (Tersago et al., 2009; Clement et al., 2010; Reil et al., 2016). Indeed, the high bank vole abundance in 2012 might be explained by the beech mast reported in 2011 for all eight districts of Baden-Wuerttemberg. Additional factors might be involved, such as habitat or climatic factors enhancing or impairing virus stability outside the reservoir host (Kallio et al., 2006) and/or host and human behaviour. In addition, strong interactions between landscape features, immune gene expression and co-infections of bank voles with the nematode Heligmosomum mixtum have been identified previously (Guivier et al., 2014). Additional pathogens have been detected in bank voles from Germany, such as herpesviruses (Ehlers et al., 2007), paramyxoviruses (Drexler et al., 2012), hepacivirus (Drexler et al., 2013), polyomavirus (Nainys et al., 2015), cowpox virus (Kinnunen et al., 2011), tick-borne encephalitis virus (Achazi et al., 2011) and Leptospira spp. (Mayer-Scholl et al., 2014), that might impact the fitness or susceptibility of the bank vole for PUUV infection. ",
+        "bbox": [
+            87,
+            347,
+            472,
+            680
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In a previous study, a high proportion of individuals carrying maternal antibodies were found to constrain transmission during cycle peak years of bank voles in Finland (Voutilainen et al., 2016). In our study, the results of the serological and RT-PCR investigations indicated the presence of maternal antibodies only for two juvenile voles. However, the average prevalence of PUUV infections in bank voles detected by serology alone was mostly slightly higher than prevalence detected by RT-PCR, despite the fact that we corrected for maternal antibodies. This discrepancy might be therefore explained by a lower viral load at the time of investigation, a lower sensitivity of the RT-PCR assay or virus clearance. ",
+        "bbox": [
+            87,
+            682,
+            472,
+            879
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, this investigation indicates that the heterogeneous geographical distribution of recorded human PUUV cases in Baden-Wuerttemberg might be caused by reduced presence or even absence of PUUV in local bank vole populations possibly mediated by the interaction of beech mast intensity and the extent of forested area. It remains imperative to establish long-term rodent and PUUV monitoring investigations (Jacob et al., 2014) that provide a solid database to test such hypotheses and may shed light on the stability of PUUV presence/absence, the molecular evolution of PUUV strains and their fitness consequences for bank voles as well as their virulence to humans. Awareness of local physicians should be systematically raised by dedicated information campaigns released by local public health authorities. This is especially important for areas close to endemic regions where human cases have been rare. The findings can help to develop and validate early warning modules for hantavirus outbreaks and associated human infection risk. ",
+        "bbox": [
+            500,
+            88,
+            882,
+            375
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            500,
+            401,
+            648,
+            415
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The support of Hans-Werner Maternowski, Brigitte Pehlke, Ewa Paliocha, Thomas Kuss, Michael Stauss, Katja Wallmeyer and Jochen Blank in small mammal trapping and the excellent technical assistance of Dorte Kaufmann€ in serological and RT-PCR investigations are kindly acknowledged. We are very grateful to Dorte Kaufmann,€ Kathrin Baumann, Samuel Bernstein, Stefan Fischer, Nastasja Kratzmann, Mathias Schlegel, Sabrina Schmidt, Julia Schneider, Hanan Sheikh Ali, Kerstin Tauscher and Christin Trapp for their help in dissection of the rodents. Beech mast data of the Staatsklenge Nagold, ForstBW, were kindly provided by Thomas Ebinger. The risk perception study in Germany was assisted by Steffen Schule.€ The investigations were funded in part by the German Federal Ministry of Education and Research (BMBF) through the German Research Platform for Zoonoses (projects ‘Monitoring sylvatischer Zoonosen’, FKZ 01KI1101, to CWW, and ‘Netzwerk “Nagetier-ubertragene € Pathogene”’, FKZ 01KI1018 and 01KI1303, to RGU) and the Deutsche Forschungsgemeinschaft (SPP 1596 ‘Ecology and Species Barriers in Emerging Viral Diseases’, UL 405/ 1-1 to RGU). This study was partially funded by EU grant FP7-261504 EDENext and is catalogued by the EDENext Steering Committee as EDENext461 (http://www.edenext.eu). The contents of this publication are the sole responsibility of the authors and do not necessarily reflect the views of the European Commission. Collection of samples in district Breisgau-Hochschwarzwald were done in the frame of the UFOPLAN project 3709 41 401 granted to Jens Jacob. ",
+        "bbox": [
+            500,
+            423,
+            882,
+            879
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            87,
+            51,
+            171,
+            61
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            616,
+            51,
+            882,
+            62
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            87,
+            923,
+            236,
+            934
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            873,
+            923,
+            882,
+            932
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            94,
+            196,
+            108
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Achazi, K., D. Ruzek, O. Donoso-Mantke, M. Schlegel, H. S. Ali, M. Wenk, J. Schmidt-Chanasit, L. Ohlmeyer, F. Ruhe, T. Vor, C. Kiffner, R. Kallies, R. G. Ulrich, and M. Niedrig, 2011: Rodents as sentinels for the prevalence of tickborne encephalitis virus. Vector Borne Zoonotic Dis. 11, 641–647. ",
+            "Ali, H. S., S. Drewes, E. T. Sadowska, M. Mikowska, M. H. Groschup, G. Heckel, P. Koteja, and R. G. Ulrich, 2014: First molecular evidence for Puumala hantavirus in Poland. Viruses 6, 340–353. ",
+            "Ali, H. S., S. Drewes, V. Weber de Melo, M. Schlegel, J. Freise, M. H. Groschup, G. Heckel, and R. G. Ulrich, 2015: Complete genome of a Puumala virus strain from Central Europe. Virus Genes 50, 292–298. ",
+            "Angermann, R., and H. Hackethal, 1999: S€augetiere – Mammalia. In: Senglaub, K., B. Klausnitzer, and H. J. Hannemann (eds), Stresemann – Exkursionsfauna von Deutschland. Band 3: Wirbeltiere, pp. 358–448. Springer Spektrum, Heidelberg, Berlin. ",
+            "Asikainen, K., T. H€anninen, H. Henttonen, J. Niemimaa, J. Laakkonen, H. K. Andersen, N. Bille, H. Leirs, A. Vaheri, and A. Plyusnin, 2000: Molecular evolution of Puumala hantavirus in Fennoscandia: phylogenetic analysis of strains from two recolonization routes, Karelia and Denmark. J. Gen. Virol. 81, 2833–2841. ",
+            "Augot, D., F. Sauvage, F. Boue, M. Bouloy, M. Artois, J. M. Demerson, B. Combes, D. Coudrier, H. Zeller, F. Cliquet, and D. Pontier, 2008: Spatial and temporal patterning of bank vole demography and the epidemiology of the Puumala hantavirus in northeastern France. Epidemiol. Infect. 136, 1638–1643. ",
+            "Bajer, A., M. Bednarska, A. Pawelczyk, J. M. Behnke, F. S. Gilbert, and E. Sinski, 2002: Prevalence and abundance of Cryptosporidium parvum and Giardia spp. in wild rural rodents from the Mazury Lake District region of Poland. Parasitology 125, 21–34. ",
+            "Bernshtein, A. D., N. S. Apekina, T. V. Mikhailova, Y. A. Myasnikov, L. A. Khlyap, Y. S. Korotkov, and I. N. Gavrilovskaya, 1999: Dynamics of Puumala hantavirus infection in naturally infected bank voles (Clethrinomys glareolus). Arch. Virol. 144, 2415–2428. ",
+            "Boone, I., C. Wagner-Wiening, D. Reil, J. Jacob, U. M. Rosenfeld, R. G. Ulrich, D. Lohr, and G. Pfaff, 2012: Rise in the number of notified human hantavirus infections since October 2011 in Baden-Wurttemberg, Germany. Euro Surveill. 17, pii 20180. ",
+            "Brummer-Korvenkontio, M., A. Vaheri, T. Hovi, C. H. von Bonsdorff, J. Vuorimies, T. Manni, K. Penttinen, N. Oker-Blom, and J. L€ahdevirta, 1980: Nephropathia epidemica: detection of antigen in bank voles and serologic diagnosis of human infection. J. Infect. Dis. 141, 131–134. ",
+            "Brummer-Korvenkontio, M., O. Vapalahti, H. Henttonen, P. Koskela, P. Kuusisto, and A. Vaheri, 1999: Epidemiological study of nephropathia epidemica in Finland 1989–96. Scand. J. Infect. Dis. 31, 427–435. "
+        ],
+        "bbox": [
+            112,
+            118,
+            497,
+            893
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Castel, G., M. Couteaudier, F. Sauvage, J. B. Pons, S. Murri, A. Plyusnina, D. Pontier, J. F. Cosson, A. Plyusnin, P. Marianneau, and N. Tordo, 2015: Complete genome and phylogeny of Puumala hantavirus isolates circulating in France. Viruses 7, 5476–5488. ",
+            "Clement, J., P. Maes, and M. Van Ranst, 2007: Acute kidney injury in emerging, non-tropical infections. Acta Clin. Belg. 62, 387–395. ",
+            "Clement, J., P. Maes, C. van Ypersele de Strihou, G. van der Groen, J. M. Barrios, W. W. Verstraeten, and M. van Ranst, 2010: Beechnuts and outbreaks of nephropathia epidemica (NE): of mast, mice and men. Nephrol. Dial. Transplant. 25, 1740–1746. ",
+            "Clement, J., M. Van Esbroeck, K. Lagrou, J. Verschueren, N. P. Sunil-Chandra, and M. Van Ranst, 2014: Leptospirosis versus hantavirus infections in the Netherlands and in Belgium, 2000 to 2014. Euro Surveill. 19, pii 20912. ",
+            "Dressel, K., 2014: Deliverable 16.1, Report of Public Risk Perception. EDENext Project, unpublished. ",
+            "Drexler, J. F., V. M. Corman, M. A. Muller, G. D. Maganga, € P. Vallo, T. Binger, F. Gloza-Rausch, V. M. Cottontail, A. Rasche, S. Yordanov, A. Seebens, M. Knornschild, S. Oppong, Y. Adu Sarkodie, C. Pongombo, A. N. Lukashev, J. Schmidt-Chanasit, A. Stocker, A. J. Carneiro, S. Erbar, A.€ Maisner, F. Fronhoffs, R. Buettner, E. K. Kalko, T. Kruppa, C. R. Franke, R. Kallies, E. R. Yandoko, G. Herrler, C. Reusken, A. Hassanin, D. H. Kruger, S. Matthee, R. G. Ulrich, E. M.€ Leroy, and C. Drosten, 2012: Bats host major mammalian paramyxoviruses. Nat. Commun. 3, 796. ",
+            "Drexler, J. F., V. M. Corman, M. A. Muller, A. N. Lukashev,€ A. Gmyl, B. Coutard, A. Adam, D. Ritz, L. M. Leijten, D. van Riel, R. Kallies, S. M. Klose, F. Gloza-Rausch, T. Binger, A. Annan, Y. Adu-Sarkodie, S. Oppong, M. Bourgarel, D. Rupp, B. Hoffmann, M. Schlegel, B. M. Kummerer, D. H.€ Kruger, J. Schmidt-Chanasit, A. A. Seti€ \u0001en, V. M. Cottontail, T. Hemachudha, S. Wacharapluesadee, K. Osterrieder, R. Bartenschlager, S. Matthee, M. Beer, T. Kuiken, C. Reusken, E. M. Leroy, R. G. Ulrich, and C. Drosten, 2013: Evidence for novel hepaciviruses in rodents. PLoS Pathog. 9, e1003438. ",
+            "Ehlers, B., J. Kuchler, N. Yasmum, G. Dural, S. Voigt, J. Sch-€ midt-Chanasit, T. J€akel, F. R. Matuschka, D. Richter, S. Essbauer, D. J. Hughes, C. Summers, M. Bennett, J. P. Stewart, and R. G. Ulrich, 2007: Identification of novel rodent herpesviruses, including the first gammaherpesvirus of Mus musculus. J. Virol. 81, 8091–8100. ",
+            "Essbauer, S., J. Schmidt, F. J. Conraths, R. Friedrich, J. Koch, W. Hautmann, M. Pfeffer, R. Wolfel, J. Finke, G. Dobler, and€ R. Ulrich, 2006: A new Puumala hantavirus subtype in rodents associated with an outbreak of Nephropathia epidemica in South-East Germany in 2004. Epidemiol. Infect. 134, 1333–1344. ",
+            "Essbauer, S. S., J. Schmidt-Chanasit, E. L. Madeja, W. Wegener, R. Friedrich, R. Petraityte, K. Sasnauskas, J. Jacob, J. Koch, G. Dobler, F. J. Conraths, M. Pfeffer, C. Pitra, and R. G. Ulrich, "
+        ],
+        "bbox": [
+            524,
+            86,
+            909,
+            892
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            112,
+            49,
+            379,
+            62
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            821,
+            49,
+            909,
+            61
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 ",
+        "bbox": [
+            112,
+            921,
+            124,
+            932
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            759,
+            921,
+            910,
+            934
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "2007: Nephropathia epidemica in metropolitan area. Germany. Emerg. Infect. Dis. 13, 1271–1273. ",
+            "Ettinger, J., J. Hofmann, M. Enders, F. Tewald, R. M. Oehme, U. M. Rosenfeld, H. S. Ali, M. Schlegel, S. Essbauer, A. Osterberg, J. Jacob, D. Reil, B. Klempa, R. G. Ulrich, and D. H. Kruger, 2012: Multiple synchronous outbreaks of€ Puumala virus, Germany, 2010. Emerg. Infect. Dis. 18, 1461– 1464. ",
+            "Faber, M., T. Wollny, M. Schlegel, K. M. Wanka, J. Thiel, C. Frank, D. Rimek, R. G. Ulrich, and K. Stark, 2013: Puumala virus outbreak in Western Thuringia, Germany, 2010: epidemiology and strain identification. Zoonoses Public Health 60, 549–554. ",
+            "Guivier, E., M. Galan, H. Henttonen, J. F. Cosson, and N. Charbonnel, 2014: Landscape features and helminth co-infection shape bank vole immunoheterogeneity, with consequences for Puumala virus epidemiology. Heredity (Edinb) 112, 274–281. ",
+            "Hanski, I., L. Hansson, and H. Henttonen, 1991: Specialist predators, generalist predators, and the microtine rodent cycle. J. Anim. Ecol. 60, 353–367. ",
+            "Hansson, L., 1985: Clethrionomys food: generic, specific and regional characteristics. Ann. Zool. Fennici 22, 315–318. ",
+            "Hansson, L., B. Jedrzejewska, and W. Jedrzejewski, 2000: Regional differences in dynamics of bank vole populations in Europe. Pol. J. Ecol. 48, 163–177. ",
+            "Heiske, A., B. Anheier, J. Pilaski, V. E. Volchkov, and H. Feldmann, 1999: A new Clethrionomys-derived hantavirus from Germany: evidence for distinct genetic sublineages of Puumala viruses in Western Europe. Virus Res. 61, 101–112. ",
+            "Heyman, P., C. S. Ceianu, I. Christova, N. Tordo, M. Beersma, M. Jo~ao Alves, \u0003A. Lundkvist, M. Hukic, A. Papa, A. Tenorio, H. Zelen\u0001a, S. Essbauer, I. Visontai, I. Golovljova, J. Connell, L. Nicoletti, M. Van Esbroeck, S. Gjeruldsen Dudman, S. W. Aberle, T. Av\u0004si\u0004c-Zupanc, G. Korukluoglu, A. Nowakowska,\u0004 B. Klempa, R. G. Ulrich, S. Bino, O. Engler, M. Opp, and A. Vaheri, 2011: A five-year perspective on the situation of haemorrhagic fever with renal syndrome and status of the hantavirus reservoirs in Europe, 2005–2010. Euro Surveill. 16, 977–986. ",
+            "Hofmann, J., H. Meisel, B. Klempa, S. M. Vesenbeckh, R. Beck, D. Michel, J. Schmidt-Chanasit, R. G. Ulrich, S. Grund, G. Enders, and D. H. Kruger, 2008: Hantavirus outbreak,€ Germany, 2007. Emerg. Infect. Dis. 14, 850–852. ",
+            "Hurvich, C. M., and C. L. Tsai, 1989: Regression and time-series model selection in small samples. Biometrika 76, 297–307. ",
+            "Imholt, C., D. Reil, J. A. Eccard, D. Jacob, N. Hempelmann, and J. Jacob, 2015: Quantifying the past and future impact of climate on outbreak patterns of bank voles (Myodes glareolus). Pest Manag. Sci. 71, 166–172. ",
+            "Jacob, J., R. G. Ulrich, J. Freise, and E. Schmolz, 2014: Monitoring von gesundheitsgef€ahrdenden Nagetieren, Projekte, Ziele und Ergebnisse. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz 57, 511–518. ",
+            "Kallio, E. R., J. Klingstrom, E. Gustafsson, T. Manni, A. Vaheri,€ H. Henttonen, O. Vapalahti, and \u0003A. Lundkvist, 2006: "
+        ],
+        "bbox": [
+            87,
+            88,
+            473,
+            892
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Prolonged survival of Puumala hantavirus outside the host: evidence for indirect transmission via the environment. J. Gen. Virol. 87, 2127–2134. ",
+            "Kallio, E. R., M. Begon, H. Henttonen, E. Koskela, T. Mappes, A. Vaheri, and O. Vapalahti, 2010: Hantavirus infections in fluctuating host populations: the role of maternal antibodies. Proc. Biol. Sci. 277, 3783–3791. ",
+            "Kinnunen, P. M., H. Henttonen, B. Hoffmann, E. R. Kallio, C. Korthase, J. Laakkonen, J. Niemimaa, A. Palva, M. Schlegel, H. S. Ali, P. Suominen, R. G. Ulrich, A. Vaheri, and O. Vapalahti, 2011: Orthopox virus infections in Eurasian wild rodents. Vector Borne Zoonotic Dis. 11, 1133–1140. ",
+            "Klempa, B., L. Radosa, and D. H. Kruger, 2013: The broad spec- € trum of hantaviruses and their hosts in Central Europe. Acta Virol. 57, 130–137. ",
+            "Kruger, D. H., R. G. Ulrich, and J. Hofmann, 2013: Hantaviruses€ as zoonotic pathogens in Germany. Dtsch. Arztebl. Int. 110, 461–467. ",
+            "Linard, C., P. Lamarque, P. Heyman, G. Ducoffre, V. Luyasu, K. Tersago, S. O. Vanwambeke, and E. F. Lambin, 2007: Determinants of the geographic distribution of Puumala virus and Lyme borreliosis infections in Belgium. Int. J. Health Geogr. 6, 15. ",
+            "Mayer-Scholl, A., J. A. Hammerl, S. Schmidt, R. G. Ulrich, M. Pfeffer, D. Woll, H. C. Scholz, A. Thomas, and K. Nockler, € 2014: Leptospira spp. in rodents and shrews in Germany. Int. J. Environ. Res. Public Health 11, 7562–7574. ",
+            "Mertens, M., R. Wolfel, K. Ullrich, K. Yoshimatsu, J. Blumhardt,€ I. Romer, J. Esser, J. Schmidt-Chanasit, M. H. Groschup, € G. Dobler, S. S. Essbauer, and R. G. Ulrich, 2009: Seroepidemiological study in a Puumala virus outbreak area in South-East Germany. Med. Microbiol. Immunol. 198, 83–91. ",
+            "Mertens, M., E. Kindler, P. Emmerich, J. Esser, C. Wagner-Wiening, R. Wolfel, R. Petraityte-Burneikiene, J. Schmidt-€ Chanasit, A. Zvirbliene, M. H. Groschup, G. Dobler, M. Pfeffer, G. Heckel, R. G. Ulrich, and S. S. Essbauer, 2011: Phylogenetic analysis of Puumala virus subtype Bavaria, characterization and diagnostic use of its recombinant nucleocapsid protein. Virus Genes 43, 177–191. ",
+            "Nainys, J., A. Timinskas, J. Schneider, R. G. Ulrich, and A. Gedvilaite, 2015: Identification of two novel members of the tentative genus Wukipolyomavirus in wild rodents. PLoS One 10, e0140916. ",
+            "Olsson, G. E., N. White, C. Ahlm, F. Elgh, A. C. Verlemyr, P. Juto, and R. T. Palo, 2002: Demographic factors associated with hantavirus infection in bank voles (Clethrionomys glareolus). Emerg. Infect. Dis. 8, 924–929. ",
+            "Parson, W., K. Pegoraro, H. Niederst€atter, M. Foger, and € M. Steinlechner, 2000: Species identification by means of the cytochrome b gene. Int. J. Legal Med. 114, 23–28. ",
+            "Pilaski, J., C. Ellerich, T. Kreutzer, A. Lang, W. Benik, A. Pohl-Koppe, L. Bode, E. Vanek, I. B. Autenrieth, K. Bigos, and H. W. Lee, 1991: Haemorrhagic fever with renal syndrome in Germany. Lancet 337, 111. "
+        ],
+        "bbox": [
+            499,
+            86,
+            882,
+            892
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            85,
+            49,
+            174,
+            61
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            616,
+            49,
+            885,
+            62
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            85,
+            921,
+            238,
+            934
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 ",
+        "bbox": [
+            873,
+            921,
+            884,
+            933
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Pilaski, J., H. Feldmann, S. Morzunov, P. E. Rollin, S. L. Ruo, B. Lauer, C. J. Peters, and S. T. Nichol, 1994: Genetic identification of a new Puumala virus strain causing severe hemorrhagic fever with renal syndrome in Germany. J. Infect. Dis. 170, 1456–1462. ",
+            "R Core Team, 2015: R: A Language and Environment for Statistical Computing. Available at: https://www.R-project.org/. ",
+            "Razzauti, M., A. Plyusnina, H. Henttonen, and A. Plyusnin, 2013: Microevolution of Puumala hantavirus during a complete population cycle of its host, the bank vole (Myodes glareolus). PLoS One 8, e64447. ",
+            "Reil, D., C. Imholt, J. A. Eccard, and J. Jacob, 2015: Beech fructification and bank vole population dynamics – combined analyses of promoters of human Puumala virus infections in Germany. PLoS One 10, e0134124. ",
+            "Reil, D., C. Imholt, S. Drewes, R. G. Ulrich, J. A. Eccard, and J. Jacob, 2016: Environmental conditions in favour of a hantavirus outbreak in 2015 in Germany? Zoonoses Public Health 63, 83–88. ",
+            "Robert Koch-Institut, 2015: Infektionsepidemiologisches Jahrbuch meldepflichtiger Krankheiten fur 2014, pp. 23€ –24. Robert Koch-Institut, Berlin. ",
+            "Schilling, S., P. Emmerich, B. Klempa, B. Auste, E. Schnaith, H. Schmitz, D. H. Kruger, S. G€ unther, and H. Meisel, 2007: Han-€ tavirus disease outbreak in Germany: limitations of routine serological diagnostics and clustering of virus sequences of human and rodent origin. J. Clin. Microbiol. 45, 3008–3014. ",
+            "Schlegel, M., H. S. Ali, N. Stieger, M. H. Groschup, R. Wolf, and R. G. Ulrich, 2012: Molecular identification of small mammal species using novel cytochrome B gene-derived degenerated primers. Biochem. Genet. 50, 440–447. ",
+            "Schmidt, K., K. M. Dressel, M. Niedrig, M. Mertens, S. A. Schule, and M. H. Groschup, 2013: Public health and vector-€ borne diseases – a new concept for risk governance. Zoonoses Public Health 60, 528–538. ",
+            "Schmidt, S., M. Saxenhofer, S. Drewes, M. Schlegel, K. M. Wanka, R. Frank, S. Klimpel, F. von Blanckenhagen, D. Maaz, C. Herden, J. Freise, R. Wolf, M. Stubbe, P. Borkenhagen, H. Ansorge, J. A. Eccard, J. Lang, E. Jourdain, J. Jacob, P. Marianneau, G. Heckel, and R. G. Ulrich, 2016: High genetic structuring of Tula hantavirus. Arch. Virol. 161, 1135–1149. "
+        ],
+        "bbox": [
+            112,
+            86,
+            497,
+            686
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Tersago, K., R. Verhagen, A. Servais, P. Heyman, G. Ducoffre, and H. Leirs, 2009: Hantavirus disease (nephropathia epidemica) in Belgium: effects of tree seed production and climate. Epidemiol. Infect. 137, 250–256. ",
+            "Ulrich, R. G., H. Meisel, M. Schutt, J. Schmidt, A. Kunz,€ B. Klempa, M. Niedrig, G. Pauli, D. H. Kruger, and J. Koch,€ 2004: Prevalence of hantavirus infections in Germany. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz 47, 661–670. ",
+            "Voutilainen, L., E. R. Kallio, J. Niemimaa, O. Vapalahti, and H. Henttonen, 2016: Temporal dynamics of Puumala hantavirus infection in cyclic populations of bank voles. Sci. Rep. 6, 21323. ",
+            "Weber de Melo, V., H. Sheikh Ali, J. Freise, D. Kuhnert, S. Ess-€ bauer, M. Mertens, K. M. Wanka, S. Drewes, R. G. Ulrich, and G. Heckel, 2015: Spatiotemporal dynamics of Puumala hantavirus associated with its rodent host, Myodes glareolus. Evol. Appl. 8, 545–559. ",
+            "Zeimes, C. B., S. Quoilin, H. Henttonen, O. Lyytik€ainen, O. Vapalahti, J. M. Reynes, C. Reusken, A. N. Swart, K. Vainio, M. Hjertqvist, and S. O. Vanwambeke, 2015: Landscape and regional environmental analysis of the spatial distribution of hantavirus human cases in Europe. Front. Public Health 3, 54. ",
+            "Zoller, L., M. Faulde, H. Meisel, B. Ruh, P. Kimmig, U. Schel-€ ling, M. Zeier, P. Kulzer, C. Becker, M. Roggendorf, E. K. F. Bautz, D. H. Kruger, and G. Darai, 1995: Seroprevalence of€ hantavirus antibodies in Germany as determined by a new recombinant enzyme immunoassay. Eur. J. Clin. Microbiol. Infect. Dis. 14, 305–313. "
+        ],
+        "bbox": [
+            524,
+            86,
+            907,
+            525
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            549,
+            704,
+            563
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "bbox": [
+            521,
+            572,
+            910,
+            599
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table S1. Abundance indices and results of serological and RT-PCR investigations of bank voles trapped at the eight districts during 2012 and 2013 presented per trapping season and age/maturity groups according to Bajer et al. (2002). ",
+        "bbox": [
+            521,
+            603,
+            910,
+            677
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "Heterogeneous Distribution of Puumala virus ",
+        "bbox": [
+            112,
+            49,
+            379,
+            62
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "S. Drewes et al. ",
+        "bbox": [
+            821,
+            49,
+            910,
+            61
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 ",
+        "bbox": [
+            114,
+            921,
+            132,
+            933
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "© 2016 Blackwell Verlag GmbH ",
+        "bbox": [
+            759,
+            921,
+            910,
+            934
+        ],
+        "page_idx": 9
+    }
+]

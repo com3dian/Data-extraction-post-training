@@ -1,0 +1,4554 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.032,
+                0.104,
+                0.06
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                69,
+                172,
+                69,
+                172,
+                129,
+                120,
+                129
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.106,
+                0.042,
+                0.203,
+                0.058
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                175,
+                90,
+                335,
+                90,
+                335,
+                125,
+                175,
+                125
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.107,
+                0.06,
+                0.321,
+                0.076
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                176,
+                129,
+                530,
+                129,
+                530,
+                164,
+                176,
+                164
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.799,
+                0.044,
+                0.924,
+                0.052
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1321,
+                95,
+                1528,
+                95,
+                1528,
+                112,
+                1321,
+                112
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.782,
+                0.054,
+                0.924,
+                0.064
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1293,
+                116,
+                1528,
+                116,
+                1528,
+                138,
+                1293,
+                138
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.76,
+                0.065,
+                0.923,
+                0.074
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1257,
+                140,
+                1526,
+                140,
+                1526,
+                160,
+                1257,
+                160
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.877,
+                0.092,
+                0.925,
+                0.129
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1450,
+                199,
+                1529,
+                199,
+                1529,
+                279,
+                1450,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.296,
+                0.168,
+                0.886,
+                0.256
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                489,
+                363,
+                1465,
+                363,
+                1465,
+                554,
+                489,
+                554
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.294,
+                0.272,
+                0.871,
+                0.301
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                486,
+                589,
+                1440,
+                589,
+                1440,
+                651,
+                486,
+                651
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.294,
+                0.311,
+                0.923,
+                0.362
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                486,
+                673,
+                1526,
+                673,
+                1526,
+                784,
+                486,
+                784
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.145,
+                0.465,
+                0.269,
+                0.478
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                239,
+                1007,
+                444,
+                1007,
+                444,
+                1035,
+                239,
+                1035
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.21,
+                0.492,
+                0.269,
+                0.504
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                347,
+                1065,
+                444,
+                1065,
+                444,
+                1091,
+                347,
+                1091
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.191,
+                0.505,
+                0.269,
+                0.516
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                315,
+                1093,
+                444,
+                1093,
+                444,
+                1117,
+                315,
+                1117
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.104,
+                0.518,
+                0.269,
+                0.529
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                172,
+                1121,
+                444,
+                1121,
+                444,
+                1145,
+                172,
+                1145
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.127,
+                0.531,
+                0.269,
+                0.542
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                210,
+                1150,
+                444,
+                1150,
+                444,
+                1173,
+                210,
+                1173
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.192,
+                0.549,
+                0.269,
+                0.559
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                317,
+                1189,
+                444,
+                1189,
+                444,
+                1210,
+                317,
+                1210
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.192,
+                0.562,
+                0.269,
+                0.572
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                317,
+                1217,
+                444,
+                1217,
+                444,
+                1238,
+                317,
+                1238
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.574,
+                0.276,
+                0.584
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                152,
+                1243,
+                456,
+                1243,
+                456,
+                1264,
+                152,
+                1264
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.194,
+                0.587,
+                0.269,
+                0.597
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                320,
+                1271,
+                444,
+                1271,
+                444,
+                1293,
+                320,
+                1293
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.125,
+                0.6,
+                0.269,
+                0.611
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                206,
+                1299,
+                444,
+                1299,
+                444,
+                1323,
+                206,
+                1323
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.202,
+                0.612,
+                0.269,
+                0.623
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                334,
+                1325,
+                444,
+                1325,
+                444,
+                1349,
+                334,
+                1349
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.166,
+                0.63,
+                0.269,
+                0.64
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                274,
+                1364,
+                444,
+                1364,
+                444,
+                1386,
+                274,
+                1386
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.192,
+                0.643,
+                0.269,
+                0.654
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                317,
+                1392,
+                444,
+                1392,
+                444,
+                1416,
+                317,
+                1416
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.08,
+                0.656,
+                0.269,
+                0.667
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                1420,
+                444,
+                1420,
+                444,
+                1444,
+                132,
+                1444
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.168,
+                0.685,
+                0.269,
+                0.696
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                277,
+                1483,
+                444,
+                1483,
+                444,
+                1507,
+                277,
+                1507
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.124,
+                0.698,
+                0.269,
+                0.708
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                205,
+                1511,
+                444,
+                1511,
+                444,
+                1533,
+                205,
+                1533
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.203,
+                0.71,
+                0.269,
+                0.722
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                335,
+                1537,
+                444,
+                1537,
+                444,
+                1563,
+                335,
+                1563
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.153,
+                0.724,
+                0.269,
+                0.734
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                253,
+                1568,
+                444,
+                1568,
+                444,
+                1589,
+                253,
+                1589
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.736,
+                0.269,
+                0.747
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                188,
+                1594,
+                444,
+                1594,
+                444,
+                1618,
+                188,
+                1618
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.754,
+                0.269,
+                0.765
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                180,
+                1633,
+                444,
+                1633,
+                444,
+                1656,
+                180,
+                1656
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.109,
+                0.767,
+                0.269,
+                0.778
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                180,
+                1661,
+                444,
+                1661,
+                444,
+                1685,
+                180,
+                1685
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.119,
+                0.78,
+                0.268,
+                0.791
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                196,
+                1689,
+                443,
+                1689,
+                443,
+                1713,
+                196,
+                1713
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.219,
+                0.798,
+                0.269,
+                0.808
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                362,
+                1728,
+                444,
+                1728,
+                444,
+                1750,
+                362,
+                1750
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.11,
+                0.811,
+                0.269,
+                0.822
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                181,
+                1756,
+                444,
+                1756,
+                444,
+                1780,
+                181,
+                1780
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.824,
+                0.269,
+                0.835
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                133,
+                1784,
+                444,
+                1784,
+                444,
+                1808,
+                133,
+                1808
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.836,
+                0.269,
+                0.847
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                1810,
+                444,
+                1810,
+                444,
+                1834,
+                120,
+                1834
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.849,
+                0.269,
+                0.859
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                152,
+                1838,
+                444,
+                1838,
+                444,
+                1860,
+                152,
+                1860
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.144,
+                0.862,
+                0.268,
+                0.873
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                238,
+                1867,
+                443,
+                1867,
+                443,
+                1890,
+                238,
+                1890
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.136,
+                0.875,
+                0.268,
+                0.885
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                224,
+                1895,
+                443,
+                1895,
+                443,
+                1916,
+                224,
+                1916
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.887,
+                0.268,
+                0.897
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                170,
+                1921,
+                443,
+                1921,
+                443,
+                1942,
+                170,
+                1942
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.293,
+                0.383,
+                0.928,
+                0.864
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                484,
+                829,
+                1534,
+                829,
+                1534,
+                1871,
+                484,
+                1871
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.293,
+                0.874,
+                0.925,
+                0.899
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                484,
+                1893,
+                1529,
+                1893,
+                1529,
+                1947,
+                484,
+                1947
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.072,
+                0.949,
+                0.335,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                2055,
+                554,
+                2055,
+                554,
+                2081,
+                119,
+                2081
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.95,
+                0.504,
+                0.96
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                817,
+                2057,
+                833,
+                2057,
+                833,
+                2079,
+                817,
+                2079
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.715,
+                0.949,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1182,
+                2055,
+                1528,
+                2055,
+                1528,
+                2081,
+                1182,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                80,
+                243,
+                80,
+                243,
+                101,
+                120,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.764,
+                0.037,
+                0.926,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1263,
+                80,
+                1531,
+                80,
+                1531,
+                101,
+                1263,
+                101
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.075,
+                0.076,
+                0.231,
+                0.091
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                164,
+                382,
+                164,
+                382,
+                197,
+                124,
+                197
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.1,
+                0.486,
+                0.888
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                216,
+                803,
+                216,
+                803,
+                1923,
+                124,
+                1923
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.513,
+                0.076,
+                0.784,
+                0.091
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                164,
+                1296,
+                164,
+                1296,
+                197,
+                848,
+                197
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.1,
+                0.628,
+                0.116
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                216,
+                1038,
+                216,
+                1038,
+                251,
+                846,
+                251
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.117,
+                0.924,
+                0.337
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                253,
+                1528,
+                253,
+                1528,
+                729,
+                846,
+                729
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.36,
+                0.88,
+                0.392
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                779,
+                1455,
+                779,
+                1455,
+                849,
+                846,
+                849
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.395,
+                0.924,
+                0.791
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                855,
+                1528,
+                855,
+                1528,
+                1713,
+                846,
+                1713
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.814,
+                0.892,
+                0.847
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1763,
+                1475,
+                1763,
+                1475,
+                1834,
+                846,
+                1834
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.85,
+                0.924,
+                0.893
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1841,
+                1528,
+                1841,
+                1528,
+                1934,
+                846,
+                1934
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.075,
+                0.951,
+                0.334,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                2059,
+                552,
+                2059,
+                552,
+                2081,
+                124,
+                2081
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.951,
+                0.503,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                820,
+                2059,
+                831,
+                2059,
+                831,
+                2081,
+                820,
+                2081
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.951,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2059,
+                1528,
+                2059,
+                1528,
+                2081,
+                1184,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                80,
+                243,
+                80,
+                243,
+                101,
+                122,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.764,
+                0.037,
+                0.926,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1263,
+                80,
+                1531,
+                80,
+                1531,
+                101,
+                1263,
+                101
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.079,
+                0.486,
+                0.108
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                171,
+                803,
+                171,
+                803,
+                233,
+                124,
+                233
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.075,
+                0.121,
+                0.223,
+                0.136
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                262,
+                368,
+                262,
+                368,
+                294,
+                124,
+                294
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.139,
+                0.486,
+                0.299
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                301,
+                803,
+                301,
+                803,
+                647,
+                124,
+                647
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.075,
+                0.313,
+                0.482,
+                0.348
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                677,
+                797,
+                677,
+                797,
+                753,
+                124,
+                753
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.35,
+                0.486,
+                0.526
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                758,
+                803,
+                758,
+                803,
+                1139,
+                124,
+                1139
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.078,
+                0.924,
+                0.341
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                168,
+                1528,
+                168,
+                1528,
+                738,
+                846,
+                738
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.362,
+                0.693,
+                0.379
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                784,
+                1146,
+                784,
+                1146,
+                820,
+                846,
+                820
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.38,
+                0.924,
+                0.525
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                823,
+                1528,
+                823,
+                1528,
+                1137,
+                846,
+                1137
+            ]
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.074,
+                0.558,
+                0.332,
+                0.571
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1208,
+                549,
+                1208,
+                549,
+                1236,
+                122,
+                1236
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.071,
+                0.576,
+                0.925,
+                0.896
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Small mammal species</td><td rowspan=\"2\">Total No.1 of small mammals</td><td rowspan=\"2\">Total No.1 of small mammals infested by fleas (%)</td><td colspan=\"11\">Flea species No.1 of small mammals infested/Total No.1 of fleas</td><td></td></tr><tr><td>Ctenophthalmus agyretes</td><td>Megabothris turbidus</td><td>Paleopsylla soricis</td><td>Nosopsyllus fasciatus</td><td>Ctenophthalmus congener</td><td>Ctenophthalmus bisocodentau</td><td>Megabothris rectangulatus</td><td>Typhloceras poppei</td><td>Hystrichpsylla talpe</td><td>Leptosylla segnis</td><td>Megabothris walkeri</td><td>Peromyscopsylla silvatica</td></tr><tr><td>Apodemus flavicollis</td><td>172</td><td>146 (84.9)</td><td>128/298</td><td>12/12</td><td>-</td><td>15/20</td><td>6/9</td><td>3/3</td><td>1/1</td><td>2/3</td><td>4/4</td><td>-</td><td>3/3</td><td>1/1</td></tr><tr><td>Myodes glareolus</td><td>395</td><td>276 (69.9)</td><td>232/507</td><td>61/80</td><td>2/3</td><td>4/4</td><td>36/51</td><td>-</td><td>1/2</td><td>1/1</td><td>4/4</td><td>-</td><td>5/5</td><td>21/24</td></tr><tr><td>Apodemus agrarius</td><td>6</td><td>6 (100)</td><td>5/8</td><td>1/1-</td><td>-</td><td>-</td><td>1/1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Apodemus sylvaticus</td><td>35</td><td>24 (68.6)</td><td>16/50</td><td>2/2</td><td>-</td><td>12/20</td><td>-</td><td>-</td><td>-</td><td>2/7</td><td>1/1</td><td>10/17</td><td>-</td><td>-</td></tr><tr><td>Mustela nivalis</td><td>2</td><td>1 (50)</td><td>1/4</td><td>1/1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Microtus agrestis</td><td>1</td><td>1 (100)</td><td>1/4</td><td>1/2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Microtus arvalis</td><td>6</td><td>2 (33.3)</td><td>1/2</td><td>-</td><td>-</td><td>-</td><td>1/1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total No.1</td><td>617</td><td>456 (73.9)</td><td>384/873</td><td>78/98</td><td>2/3</td><td>31/44</td><td>43/62</td><td>3/3</td><td>2/3</td><td>5/11</td><td>9/9</td><td>10/17</td><td>8/8</td><td>22/25</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.074,
+                0.902,
+                0.143,
+                0.913
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1953,
+                236,
+                1953,
+                236,
+                1977,
+                122,
+                1977
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.075,
+                0.951,
+                0.334,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                2059,
+                552,
+                2059,
+                552,
+                2083,
+                124,
+                2083
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.951,
+                0.503,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                820,
+                2059,
+                831,
+                2059,
+                831,
+                2081,
+                820,
+                2081
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.951,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2059,
+                1528,
+                2059,
+                1528,
+                2081,
+                1184,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                80,
+                243,
+                80,
+                243,
+                101,
+                122,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.764,
+                0.037,
+                0.925,
+                0.046
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1263,
+                80,
+                1529,
+                80,
+                1529,
+                99,
+                1263,
+                99
+            ]
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.082,
+                0.118,
+                0.097,
+                0.913
+            ],
+            "angle": 270,
+            "content": null,
+            "poly": [
+                135,
+                255,
+                160,
+                255,
+                160,
+                1977,
+                135,
+                1977
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.105,
+                0.082,
+                0.441,
+                0.913
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">Small mammal species</td><td rowspan=\"2\">Total No.</td><td rowspan=\"2\">Total No. of small mammals infected with Bartonella tested by ITS (%)</td><td rowspan=\"2\">Total No. of small mammals infected with Bartonella based on gltA (and ITS) (%)</td><td rowspan=\"2\">No. of Bartonella-positive samples further investigated by sequencing</td><td colspan=\"5\">No. of detected Bartonella species based on the 16s-23S rRNA ITS</td></tr><tr><td>Uncultured Bartonella sp.</td><td>Bartonella sp. N40</td><td>B. grahamii</td><td>B. taylorii</td><td>B. doshiae</td></tr><tr><td>Myodes glareolus</td><td>395</td><td>188 (47.5)</td><td>144 (36.5)***</td><td>44</td><td>25</td><td>0</td><td>7</td><td>5</td><td>7</td></tr><tr><td>Apodemus flavicollis</td><td>172</td><td>129 (73.3)</td><td>106 (61.6)***</td><td>31</td><td>21</td><td>4</td><td>0</td><td>5</td><td>1</td></tr><tr><td>Apodemus sylvaticus</td><td>35</td><td>14 (41.2)</td><td>13 (37.1)</td><td>12</td><td>10</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Apodemus agrarius</td><td>6</td><td>3 (50)</td><td>3 (50)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Microtus arvalis</td><td>6</td><td>0 (0)</td><td>0 (0)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Microtus agrestis</td><td>1</td><td>0 (0)</td><td>0 (0)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Mustela nivalis</td><td>2</td><td>2 (100)</td><td>2 (100)</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Sorex spp.</td><td>5</td><td>2 (40)</td><td>1 (20)</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Talpa europaea</td><td>1</td><td>1 (100)</td><td>1 (100)</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>623</td><td>339 (51.4)</td><td>270 (43.3)</td><td>88</td><td>56</td><td>5</td><td>7</td><td>12</td><td>8</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.449,
+                0.671,
+                0.462,
+                0.912
+            ],
+            "angle": 270,
+            "content": null,
+            "poly": [
+                742,
+                1453,
+                764,
+                1453,
+                764,
+                1975,
+                742,
+                1975
+            ]
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.464,
+                0.69,
+                0.477,
+                0.912
+            ],
+            "angle": 270,
+            "content": null,
+            "poly": [
+                767,
+                1494,
+                788,
+                1494,
+                788,
+                1975,
+                767,
+                1975
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.513,
+                0.077,
+                0.603,
+                0.09
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                848,
+                166,
+                997,
+                166,
+                997,
+                194,
+                848,
+                194
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.1,
+                0.655,
+                0.114
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                216,
+                1083,
+                216,
+                1083,
+                246,
+                846,
+                246
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.117,
+                0.925,
+                0.483
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                253,
+                1529,
+                253,
+                1529,
+                1046,
+                843,
+                1046
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.498,
+                0.767,
+                0.514
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1078,
+                1268,
+                1078,
+                1268,
+                1113,
+                846,
+                1113
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.511,
+                0.516,
+                0.925,
+                0.689
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1117,
+                1529,
+                1117,
+                1529,
+                1492,
+                845,
+                1492
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.705,
+                0.899,
+                0.737
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1527,
+                1486,
+                1527,
+                1486,
+                1596,
+                846,
+                1596
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.511,
+                0.74,
+                0.925,
+                0.916
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1602,
+                1529,
+                1602,
+                1529,
+                1984,
+                845,
+                1984
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.074,
+                0.95,
+                0.334,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                2057,
+                552,
+                2057,
+                552,
+                2083,
+                122,
+                2083
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.495,
+                0.951,
+                0.504,
+                0.96
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                818,
+                2059,
+                833,
+                2059,
+                833,
+                2079,
+                818,
+                2079
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.95,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2057,
+                1528,
+                2057,
+                1528,
+                2081,
+                1184,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                80,
+                243,
+                80,
+                243,
+                101,
+                122,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.764,
+                0.037,
+                0.926,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1263,
+                80,
+                1531,
+                80,
+                1531,
+                101,
+                1263,
+                101
+            ]
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.073,
+                0.079,
+                0.882,
+                0.102
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                171,
+                1458,
+                171,
+                1458,
+                220,
+                120,
+                220
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.071,
+                0.108,
+                0.925,
+                0.884
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Host in this study (number of sequences per host species)</td><td>Number of Bartonella sequences detected</td><td>Bartonella sp. detected</td><td>Identity to following Accession number in Genbank</td><td>Host in GenBank</td><td>Country of origin</td><td>Citation of GenBank Accession number</td></tr><tr><td>Apodemus flavicollis</td><td>2</td><td>Bartonella sp. uncultured</td><td>DQ155391</td><td>Apodemus flavicollis</td><td>Slovenia</td><td>(38)</td></tr><tr><td>Ctenophthalmus agyrites</td><td>3</td><td>Bartonella sp. uncultured</td><td>DQ155391</td><td>Apodemus flavicollis</td><td>Slovenia</td><td>(38)</td></tr><tr><td>Apodemus flavicollis (1); Myodes glareolus (1); Apodemus sylvaticus (2)</td><td>4</td><td>Bartonella sp. uncultured</td><td>DQ155384</td><td>Apodemus sylvaticus</td><td>Slovenia</td><td>(38)</td></tr><tr><td rowspan=\"2\">Apodemus flavicollis (1); Myodes glareolus (2); Ctenophthalmus agyrites</td><td>3</td><td>Bartonella sp. uncultured</td><td>AJ269792</td><td>Apodemus sylvaticus</td><td>UK</td><td>(54)</td></tr><tr><td>1</td><td>Bartonella sp. uncultured</td><td>AJ269794</td><td>Apodemus sylvaticus</td><td>UK</td><td>(54)</td></tr><tr><td rowspan=\"2\">Apodemus flavicollis (2); Myodes glareolus (3); Ctenophthalmus agyrites (1); Peromyscopsylla sylvatica (1)</td><td>5</td><td>Bartonella sp. uncultured</td><td>DQ155380</td><td>Myodes glareolus</td><td>Slovenia</td><td>(38)</td></tr><tr><td>2</td><td>Bartonella sp. uncultured</td><td>DQ155380</td><td>Myodes glareolus</td><td>Slovenia</td><td>(38)</td></tr><tr><td>Myodes glareolus</td><td>2</td><td>Bartonella sp. uncultured</td><td>DQ155381</td><td>Myodes glareolus</td><td>Slovenia</td><td>(38)</td></tr><tr><td>Apodemus flavicollis (2); Apodemus sylvaticus (3)</td><td>5</td><td>Bartonella sp. uncultured</td><td>KU886433</td><td>Ctenophthalmus nobilis</td><td>Germany</td><td>(24)</td></tr><tr><td>Ctenophthalmus agyrites</td><td>2</td><td>Bartonella sp. uncultured</td><td>KU886488</td><td>Apodemus flavicollis</td><td>Germany</td><td>(24)</td></tr><tr><td>Nosopsyllus fasciatus;</td><td>6</td><td>Bartonella sp. uncultured</td><td>KU886411</td><td>Megabothris turbidus</td><td>Germany</td><td>(24)</td></tr><tr><td>Myodes glareolus</td><td>1</td><td>Bartonella sp. uncultured</td><td>KX267701</td><td>Ixodes ricinus</td><td>Slovakia</td><td>(55)</td></tr><tr><td>Apodemus flavicollis</td><td>3</td><td>Bartonella sp. uncultured</td><td>MF039571</td><td>Rodent</td><td>Slovakia</td><td>(56)</td></tr><tr><td>Myodes glareolus (6); Apodemus flavicollis (5)</td><td>11</td><td>Bartonella sp. uncultured</td><td>MN056366</td><td>Myodes glareolus</td><td>Germany</td><td>(43)</td></tr><tr><td>Myodes glareolus</td><td>2</td><td>Bartonella sp. uncultured</td><td>MN056367</td><td>Myodes glareolus</td><td>Germany</td><td>(43)</td></tr><tr><td>Myodes glareolus</td><td>1</td><td>Bartonella sp. Uncultured</td><td>MN056369</td><td>Myodes glareolus</td><td>Germany</td><td>(43)</td></tr><tr><td>Myodes glareolus (4); Apodemus flavicollis (1)</td><td>5</td><td>Bartonella sp. uncultured</td><td>MN056373</td><td>Myodes glareolus</td><td>Germany</td><td>(43)</td></tr><tr><td>Myodes glareolus</td><td>2</td><td>Bartonella sp. uncultured</td><td>MN056376</td><td>Myodes glareolus</td><td>Germany</td><td>(43)</td></tr><tr><td>Apodemus flavicollis</td><td>4</td><td>Bartonella sp. uncultured</td><td>MN056378</td><td>Apodemus agrarius</td><td>Germany</td><td>(43)</td></tr><tr><td>Myodes glareolus</td><td>1</td><td>Bartonella sp. uncultured</td><td>MN056390</td><td>Apodemus sylvaticus</td><td>Germany</td><td>(43)</td></tr><tr><td>Apodemus sylvaticus</td><td>5</td><td>Bartonella sp. uncultured</td><td>MN056393</td><td>Microtus arvalis</td><td>Czech Republic</td><td>(43)</td></tr><tr><td>Myodes glareolus</td><td>2</td><td>Bartonella taylorii</td><td>MH547342</td><td>Apodemus flavicollis</td><td>Lithuania</td><td>(57)</td></tr><tr><td>Myodes glareolus (3); Apodemus flavicollis (5); Apodemus sylvaticus (1); Apodemus agrarius (1);</td><td>10</td><td>Bartonella taylorii</td><td>MH547337</td><td>Apodemus flavicollis</td><td>Lithuania</td><td>(57)</td></tr><tr><td>Ctenophthalmus agyrites (14) Peromyscopsylla sylvatica (1)</td><td>15</td><td>Bartonella taylorii</td><td>MH547337</td><td>Apodemus flavicollis</td><td>Lithuania</td><td>(57)</td></tr><tr><td>Apodemus flavicollis (4); Apodemus sylvaticus (1);</td><td>5</td><td>Bartonella sp. N40</td><td>AJ269787</td><td>Genomic DNA</td><td>UK</td><td>(54)</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.864,
+                0.89,
+                0.925,
+                0.902
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1429,
+                1927,
+                1529,
+                1927,
+                1529,
+                1953,
+                1429,
+                1953
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.074,
+                0.95,
+                0.335,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                2057,
+                554,
+                2057,
+                554,
+                2083,
+                122,
+                2083
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.951,
+                0.503,
+                0.96
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                820,
+                2059,
+                831,
+                2059,
+                831,
+                2079,
+                820,
+                2079
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.95,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2057,
+                1528,
+                2057,
+                1528,
+                2081,
+                1184,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                80,
+                243,
+                80,
+                243,
+                101,
+                122,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.764,
+                0.037,
+                0.926,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1263,
+                80,
+                1531,
+                80,
+                1531,
+                101,
+                1263,
+                101
+            ]
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.073,
+                0.079,
+                0.185,
+                0.091
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                171,
+                305,
+                171,
+                305,
+                197,
+                120,
+                197
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.071,
+                0.097,
+                0.925,
+                0.476
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Host in this study (number of sequences per host species)</td><td>Number of Bartonella sequences detected</td><td>Bartonella sp. detected</td><td>Identity to following Accession number in Genbank</td><td>Host in GenBank</td><td>Country of origin</td><td>Citation of GenBank Accession number</td></tr><tr><td>Hystrichpsylla talpae talpae (1) Ctenophthalmus agyrites (4)</td><td>5</td><td>Bartonella sp. N40</td><td>AJ269787</td><td>Genomic DNA</td><td>UK</td><td>(54)</td></tr><tr><td>Myodes glareolus</td><td>7</td><td>Bartonella grahamii</td><td>CP001562</td><td>Genomic DNA</td><td>Sweden</td><td>(58)</td></tr><tr><td>Ctenophthalmus agyrites (1) Megabothris turbidus (1) Ctenophthalmus congener (1)</td><td>3</td><td>Bartonella grahamii</td><td>CP001562</td><td>Genomic DNA</td><td>Sweden</td><td>(58)</td></tr><tr><td>Hystrichpsylla talpae talpae (1) Ctenophthalmus agyrites (2)</td><td>3</td><td>Bartonella sp. uncultured</td><td>MN056412</td><td>Apodemus flavicollis</td><td>Germany</td><td>(43)</td></tr><tr><td>Ctenophthalmus agyrites</td><td>4</td><td>Bartonella sp. uncultured</td><td>MK562487</td><td>Apodemus sp.</td><td>Italy</td><td>(59)</td></tr><tr><td>Leptopsylla segnis (1) Ctenophthalmus congener (2) Ctenophthalmus agyrites (2)</td><td>5</td><td>Bartonella sp. uncultured</td><td>MN056379</td><td>Apodemus sylvaticus</td><td>Germany</td><td>(43)</td></tr><tr><td>Ctenophthalmus agyrites</td><td>1</td><td>Bartonella sp. uncultured</td><td>MN056375</td><td>Myodes glareolus</td><td>Germany</td><td>(43)</td></tr><tr><td>Ctenophthalmus congener (1) Ctenophthalmus agyrites (1) Megabothris walkeri (1) Nosopsyllus fasciatus (1)</td><td>4</td><td>Bartonella taylorii</td><td>MH547339</td><td>Apodemus flavicollis</td><td>Lithuania</td><td>(57)</td></tr><tr><td>Ctenophthalmus agyrites</td><td>11</td><td>Bartonella sp. uncultured</td><td>MT551074</td><td>Apodemus sylvaticus</td><td>Germany</td><td>Current study</td></tr><tr><td>Myodes glareolus (7) Apodemus flavicollis (1)</td><td>8</td><td>Bartonella doshiae</td><td>AJ269786</td><td>genomic DNA</td><td>UK</td><td>(54)</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.493,
+                0.486,
+                0.551
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                1067,
+                803,
+                1067,
+                803,
+                1193,
+                124,
+                1193
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.568,
+                0.3,
+                0.585
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                1230,
+                496,
+                1230,
+                496,
+                1267,
+                120,
+                1267
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.586,
+                0.486,
+                0.731
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                1269,
+                803,
+                1269,
+                803,
+                1583,
+                124,
+                1583
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.748,
+                0.461,
+                0.782
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                1620,
+                762,
+                1620,
+                762,
+                1693,
+                120,
+                1693
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.784,
+                0.486,
+                0.915
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                1698,
+                803,
+                1698,
+                803,
+                1981,
+                124,
+                1981
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.511,
+                0.493,
+                0.924,
+                0.594
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1067,
+                1528,
+                1067,
+                1528,
+                1286,
+                845,
+                1286
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.622,
+                0.638,
+                0.637
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1347,
+                1055,
+                1347,
+                1055,
+                1379,
+                846,
+                1379
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.651,
+                0.924,
+                0.915
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1410,
+                1528,
+                1410,
+                1528,
+                1981,
+                846,
+                1981
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.075,
+                0.951,
+                0.334,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                2059,
+                552,
+                2059,
+                552,
+                2083,
+                124,
+                2083
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.951,
+                0.503,
+                0.96
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                820,
+                2059,
+                831,
+                2059,
+                831,
+                2079,
+                820,
+                2079
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.951,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2059,
+                1528,
+                2059,
+                1528,
+                2081,
+                1184,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.038,
+                0.074,
+                0.049,
+                0.335
+            ],
+            "angle": 90,
+            "content": "Frontiers in Veterinary Science | www.frontiersin.org"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.038,
+                0.494,
+                0.049,
+                0.504
+            ],
+            "angle": 90,
+            "content": null,
+            "poly": [
+                82,
+                817,
+                106,
+                817,
+                106,
+                833,
+                82,
+                833
+            ]
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.038,
+                0.715,
+                0.049,
+                0.924
+            ],
+            "angle": 90,
+            "content": "January 2021 | Volume 7 | Article 625641"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.085,
+                0.09,
+                0.816,
+                0.104
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                184,
+                148,
+                1767,
+                148,
+                1767,
+                172,
+                184,
+                172
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.082,
+                0.11,
+                0.919,
+                0.639
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Flea species</td><td rowspan=\"2\">Total No.</td><td rowspan=\"2\">No. examined for Bartonella</td><td rowspan=\"2\">Total No. of fleas infected with Bartonella based on ITS(%)</td><td rowspan=\"2\">Total No. of fleas infected with Bartonella based on gttA (and ITS)(%)</td><td rowspan=\"2\">No. of Bartonella-positive samples further investigated by sequencing</td><td colspan=\"4\">No. of detected Bartonella species based on the 16S–23S rRNA ITS</td></tr><tr><td>Uncultured Bartonella sp.</td><td>B. grahamii</td><td>B. taylorii</td><td>Bartonella sp. N40</td></tr><tr><td>Ctenophthalmus agyrites</td><td>873</td><td>322</td><td>213 (59.5)</td><td>165 (51.2)</td><td>55</td><td>35</td><td>1</td><td>15</td><td>4</td></tr><tr><td>Megabothris turbidus</td><td>98</td><td>31</td><td>15 (48.4)</td><td>11(35.5)</td><td>3</td><td>2</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Nosopsyllus fasciatus</td><td>44</td><td>31</td><td>18 (58.1)</td><td>16 (51.6)</td><td>6</td><td>5</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Ctenophthalmus congener</td><td>62</td><td>23</td><td>12 (52.2)</td><td>12 (52.2)</td><td>3</td><td>2</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Megabothris walkeri</td><td>8</td><td>3</td><td>1 (33.3)</td><td>1 (33.3)</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Typhloceras poppei</td><td>11</td><td>2</td><td>2 (28.6)</td><td>2 (100)</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Paleopsylla soricis</td><td>3</td><td>1</td><td>1 (100)</td><td>0 (0)</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Leptopsylla segnis</td><td>17</td><td>16</td><td>6 (37.5)</td><td>3 (18.8)</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ctenophthalmus bisoctodontatus</td><td>3</td><td>1</td><td>1 (100)</td><td>1 (100)</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Hystrichopsylla talpae talpae</td><td>9</td><td>3</td><td>3 (100)</td><td>3 (100)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Peromyscopsylla silvatica</td><td>25</td><td>18</td><td>7 (38.9)</td><td>7 (38.9)</td><td>3</td><td>2</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Megabothris rectangulatus</td><td>3</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>1156</td><td>450</td><td>258 (57.3)</td><td>221 (49.1)</td><td>74</td><td>47</td><td>3</td><td>19</td><td>5</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.085,
+                0.643,
+                0.136,
+                0.655
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                184,
+                1063,
+                294,
+                1063,
+                294,
+                1083,
+                184,
+                1083
+            ]
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.952,
+                0.074,
+                0.962,
+                0.145
+            ],
+            "angle": 90,
+            "content": "Obiegala et al"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.952,
+                0.763,
+                0.962,
+                0.924
+            ],
+            "angle": 90,
+            "content": "Bartonella in Rodents and Fleas"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                120,
+                80,
+                243,
+                80,
+                243,
+                101,
+                120,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.764,
+                0.037,
+                0.926,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1263,
+                80,
+                1531,
+                80,
+                1531,
+                101,
+                1263,
+                101
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.078,
+                0.486,
+                0.253
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                168,
+                803,
+                168,
+                803,
+                547,
+                124,
+                547
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.255,
+                0.486,
+                0.371
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                552,
+                803,
+                552,
+                803,
+                803,
+                124,
+                803
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.371,
+                0.486,
+                0.826
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                803,
+                803,
+                803,
+                803,
+                1789,
+                124,
+                1789
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.827,
+                0.486,
+                0.929
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                1791,
+                803,
+                1791,
+                803,
+                2012,
+                124,
+                2012
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.078,
+                0.924,
+                0.268
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                168,
+                1528,
+                168,
+                1528,
+                580,
+                846,
+                580
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.269,
+                0.924,
+                0.489
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                582,
+                1528,
+                582,
+                1528,
+                1059,
+                846,
+                1059
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.49,
+                0.924,
+                0.693
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1061,
+                1528,
+                1061,
+                1528,
+                1501,
+                846,
+                1501
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.725,
+                0.827,
+                0.74
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1570,
+                1367,
+                1570,
+                1367,
+                1602,
+                846,
+                1602
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.755,
+                0.924,
+                0.812
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1635,
+                1528,
+                1635,
+                1528,
+                1758,
+                846,
+                1758
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.843,
+                0.772,
+                0.858
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1825,
+                1276,
+                1825,
+                1276,
+                1858,
+                846,
+                1858
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.872,
+                0.924,
+                0.93
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                1888,
+                1528,
+                1888,
+                1528,
+                2014,
+                846,
+                2014
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.075,
+                0.951,
+                0.334,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                2059,
+                552,
+                2059,
+                552,
+                2081,
+                124,
+                2081
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.951,
+                0.503,
+                0.96
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                820,
+                2059,
+                831,
+                2059,
+                831,
+                2079,
+                820,
+                2079
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.951,
+                0.924,
+                0.961
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2059,
+                1528,
+                2059,
+                1528,
+                2081,
+                1184,
+                2081
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.037,
+                0.147,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                80,
+                243,
+                80,
+                243,
+                101,
+                122,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.763,
+                0.037,
+                0.926,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1262,
+                80,
+                1531,
+                80,
+                1531,
+                101,
+                1262,
+                101
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.078,
+                0.486,
+                0.136
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                168,
+                803,
+                168,
+                803,
+                294,
+                124,
+                294
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.075,
+                0.162,
+                0.167,
+                0.178
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                350,
+                276,
+                350,
+                276,
+                385,
+                124,
+                385
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.191,
+                0.486,
+                0.251
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                413,
+                803,
+                413,
+                803,
+                543,
+                124,
+                543
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.076,
+                0.731,
+                0.091
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                164,
+                1209,
+                164,
+                1209,
+                197,
+                846,
+                197
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.512,
+                0.105,
+                0.924,
+                0.251
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                846,
+                227,
+                1528,
+                227,
+                1528,
+                543,
+                846,
+                543
+            ]
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.075,
+                0.304,
+                0.21,
+                0.32
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                658,
+                347,
+                658,
+                347,
+                693,
+                124,
+                693
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.333,
+                0.488,
+                0.369
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                721,
+                807,
+                721,
+                807,
+                799,
+                132,
+                799
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.369,
+                0.488,
+                0.417
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                799,
+                807,
+                799,
+                807,
+                903,
+                132,
+                903
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.418,
+                0.488,
+                0.453
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                905,
+                807,
+                905,
+                807,
+                981,
+                132,
+                981
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.454,
+                0.488,
+                0.49
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                983,
+                807,
+                983,
+                807,
+                1061,
+                132,
+                1061
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.491,
+                0.488,
+                0.538
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                1063,
+                807,
+                1063,
+                807,
+                1165,
+                132,
+                1165
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.539,
+                0.488,
+                0.575
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                1167,
+                807,
+                1167,
+                807,
+                1245,
+                132,
+                1245
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.576,
+                0.488,
+                0.611
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                1247,
+                807,
+                1247,
+                807,
+                1323,
+                132,
+                1323
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.08,
+                0.612,
+                0.488,
+                0.647
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                132,
+                1325,
+                807,
+                1325,
+                807,
+                1401,
+                132,
+                1401
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.078,
+                0.649,
+                0.488,
+                0.684
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                129,
+                1405,
+                807,
+                1405,
+                807,
+                1481,
+                129,
+                1481
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.685,
+                0.488,
+                0.733
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1483,
+                807,
+                1483,
+                807,
+                1587,
+                122,
+                1587
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.734,
+                0.488,
+                0.78
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1589,
+                807,
+                1589,
+                807,
+                1689,
+                122,
+                1689
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.782,
+                0.488,
+                0.817
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1693,
+                807,
+                1693,
+                807,
+                1769,
+                122,
+                1769
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.818,
+                0.488,
+                0.866
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1771,
+                807,
+                1771,
+                807,
+                1875,
+                122,
+                1875
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.867,
+                0.488,
+                0.903
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                122,
+                1877,
+                807,
+                1877,
+                807,
+                1955,
+                122,
+                1955
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.074,
+                0.333,
+                0.488,
+                0.903
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.309,
+                0.927,
+                0.344
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                669,
+                1533,
+                669,
+                1533,
+                745,
+                845,
+                745
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.345,
+                0.926,
+                0.393
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                747,
+                1531,
+                747,
+                1531,
+                851,
+                845,
+                851
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.394,
+                0.926,
+                0.429
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                853,
+                1531,
+                853,
+                1531,
+                929,
+                845,
+                929
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.43,
+                0.926,
+                0.465
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                931,
+                1531,
+                931,
+                1531,
+                1007,
+                845,
+                1007
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.466,
+                0.927,
+                0.514
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1009,
+                1533,
+                1009,
+                1533,
+                1113,
+                845,
+                1113
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.515,
+                0.926,
+                0.562
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1115,
+                1531,
+                1115,
+                1531,
+                1217,
+                845,
+                1217
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.563,
+                0.926,
+                0.611
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1219,
+                1531,
+                1219,
+                1531,
+                1323,
+                845,
+                1323
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.612,
+                0.926,
+                0.672
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1325,
+                1531,
+                1325,
+                1531,
+                1455,
+                845,
+                1455
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.673,
+                0.926,
+                0.708
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1457,
+                1531,
+                1457,
+                1531,
+                1533,
+                845,
+                1533
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.709,
+                0.926,
+                0.756
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1535,
+                1531,
+                1535,
+                1531,
+                1637,
+                845,
+                1637
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.758,
+                0.926,
+                0.817
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1641,
+                1531,
+                1641,
+                1531,
+                1769,
+                845,
+                1769
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.818,
+                0.926,
+                0.878
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1771,
+                1531,
+                1771,
+                1531,
+                1901,
+                845,
+                1901
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.879,
+                0.926,
+                0.904
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                845,
+                1903,
+                1531,
+                1903,
+                1531,
+                1958,
+                845,
+                1958
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.511,
+                0.309,
+                0.927,
+                0.904
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.075,
+                0.952,
+                0.333,
+                0.963
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                124,
+                2062,
+                550,
+                2062,
+                550,
+                2085,
+                124,
+                2085
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.953,
+                0.503,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                820,
+                2064,
+                831,
+                2064,
+                831,
+                2083,
+                820,
+                2083
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.716,
+                0.952,
+                0.924,
+                0.963
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1184,
+                2062,
+                1528,
+                2062,
+                1528,
+                2085,
+                1184,
+                2085
+            ]
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.072,
+                0.035,
+                0.148,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                75,
+                244,
+                75,
+                244,
+                101,
+                119,
+                101
+            ]
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.762,
+                0.035,
+                0.927,
+                0.047
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1260,
+                75,
+                1533,
+                75,
+                1533,
+                101,
+                1260,
+                101
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.094,
+                0.08,
+                0.489,
+                0.103
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                155,
+                173,
+                808,
+                173,
+                808,
+                223,
+                155,
+                223
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.104,
+                0.49,
+                0.152
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                225,
+                810,
+                225,
+                810,
+                329,
+                119,
+                329
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.153,
+                0.489,
+                0.177
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                331,
+                808,
+                331,
+                808,
+                383,
+                119,
+                383
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.178,
+                0.489,
+                0.212
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                385,
+                808,
+                385,
+                808,
+                459,
+                119,
+                459
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.213,
+                0.489,
+                0.25
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                461,
+                808,
+                461,
+                808,
+                541,
+                119,
+                541
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.25,
+                0.489,
+                0.286
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                541,
+                808,
+                541,
+                808,
+                619,
+                119,
+                619
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.287,
+                0.489,
+                0.335
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                621,
+                808,
+                621,
+                808,
+                725,
+                119,
+                725
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.335,
+                0.49,
+                0.382
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                725,
+                810,
+                725,
+                810,
+                827,
+                119,
+                827
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.383,
+                0.489,
+                0.432
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                829,
+                808,
+                829,
+                808,
+                935,
+                119,
+                935
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.433,
+                0.489,
+                0.469
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                937,
+                808,
+                937,
+                808,
+                1015,
+                119,
+                1015
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.469,
+                0.489,
+                0.504
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1015,
+                808,
+                1015,
+                808,
+                1091,
+                119,
+                1091
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.505,
+                0.489,
+                0.541
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1093,
+                808,
+                1093,
+                808,
+                1171,
+                119,
+                1171
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.542,
+                0.49,
+                0.613
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1173,
+                810,
+                1173,
+                810,
+                1327,
+                119,
+                1327
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.614,
+                0.49,
+                0.662
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1329,
+                810,
+                1329,
+                810,
+                1433,
+                119,
+                1433
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.663,
+                0.49,
+                0.711
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1436,
+                810,
+                1436,
+                810,
+                1540,
+                119,
+                1540
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.712,
+                0.489,
+                0.747
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1542,
+                808,
+                1542,
+                808,
+                1618,
+                119,
+                1618
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.748,
+                0.489,
+                0.796
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1620,
+                808,
+                1620,
+                808,
+                1724,
+                119,
+                1724
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.797,
+                0.489,
+                0.844
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1726,
+                808,
+                1726,
+                808,
+                1828,
+                119,
+                1828
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.845,
+                0.489,
+                0.869
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1830,
+                808,
+                1830,
+                808,
+                1882,
+                119,
+                1882
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.87,
+                0.489,
+                0.894
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                1884,
+                808,
+                1884,
+                808,
+                1936,
+                119,
+                1936
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.08,
+                0.49,
+                0.894
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.533,
+                0.08,
+                0.926,
+                0.103
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                881,
+                173,
+                1531,
+                173,
+                1531,
+                223,
+                881,
+                223
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.104,
+                0.926,
+                0.176
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                225,
+                1531,
+                225,
+                1531,
+                381,
+                843,
+                381
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.178,
+                0.926,
+                0.213
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                385,
+                1531,
+                385,
+                1531,
+                461,
+                843,
+                461
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.214,
+                0.926,
+                0.25
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                463,
+                1531,
+                463,
+                1531,
+                541,
+                843,
+                541
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.25,
+                0.926,
+                0.298
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                541,
+                1531,
+                541,
+                1531,
+                645,
+                843,
+                645
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.299,
+                0.926,
+                0.322
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                647,
+                1531,
+                647,
+                1531,
+                697,
+                843,
+                697
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.323,
+                0.926,
+                0.37
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                699,
+                1531,
+                699,
+                1531,
+                801,
+                843,
+                801
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.371,
+                0.926,
+                0.407
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                803,
+                1531,
+                803,
+                1531,
+                881,
+                843,
+                881
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.408,
+                0.926,
+                0.457
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                883,
+                1531,
+                883,
+                1531,
+                989,
+                843,
+                989
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.457,
+                0.926,
+                0.504
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                989,
+                1531,
+                989,
+                1531,
+                1091,
+                843,
+                1091
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.505,
+                0.926,
+                0.552
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                1093,
+                1531,
+                1093,
+                1531,
+                1195,
+                843,
+                1195
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.553,
+                0.926,
+                0.602
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                1197,
+                1531,
+                1197,
+                1531,
+                1303,
+                843,
+                1303
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.602,
+                0.926,
+                0.662
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                1303,
+                1531,
+                1303,
+                1531,
+                1433,
+                843,
+                1433
+            ]
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.663,
+                0.926,
+                0.711
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                843,
+                1436,
+                1531,
+                1436,
+                1531,
+                1540,
+                843,
+                1540
+            ]
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.51,
+                0.08,
+                0.926,
+                0.711
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.724,
+                0.926,
+                0.749
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1568,
+                1531,
+                1568,
+                1531,
+                1622,
+                840,
+                1622
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.761,
+                0.926,
+                0.797
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                840,
+                1648,
+                1531,
+                1648,
+                1531,
+                1726,
+                840,
+                1726
+            ]
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.809,
+                0.927,
+                0.894
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                838,
+                1752,
+                1533,
+                1752,
+                1533,
+                1936,
+                838,
+                1936
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.072,
+                0.949,
+                0.335,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                119,
+                2055,
+                554,
+                2055,
+                554,
+                2083,
+                119,
+                2083
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.492,
+                0.95,
+                0.508,
+                0.96
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                813,
+                2057,
+                840,
+                2057,
+                840,
+                2079,
+                813,
+                2079
+            ]
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.715,
+                0.949,
+                0.925,
+                0.962
+            ],
+            "angle": 0,
+            "content": null,
+            "poly": [
+                1182,
+                2055,
+                1529,
+                2055,
+                1529,
+                2083,
+                1182,
+                2083
+            ]
+        }
+    ]
+]

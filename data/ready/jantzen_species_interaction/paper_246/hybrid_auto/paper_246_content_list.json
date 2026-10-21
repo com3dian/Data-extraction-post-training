@@ -1,0 +1,1690 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCH ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            113,
+            218,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Open Access ",
+        "text_level": 1,
+        "bbox": [
+            774,
+            113,
+            900,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity of Borrelia burgdorferi sensu lato in ticks and small mammals from diferent habitats ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            148,
+            800,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/76adf035c82e7910e5ef831fbd975a77b10ca769aede0b870aa3a858ce0b0b75.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            853,
+            136,
+            904,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nina Król1†, Anna Obiegala1†, Christian Imholt4 , Charlotte Arz1 , Elisabeth Schmidt1 , Kathrin Jeske2 , Rainer Günter Ulrich2 , Zaida Rentería‑Solís3 , Jens Jacob4 and Martin Pfefer1* ",
+        "bbox": [
+            87,
+            255,
+            806,
+            292
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            335,
+            174,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: Ixodid ticks are important vectors for zoonotic pathogens, with Ixodes ricinus being the most important in Europe. Rodents are hosts of immature life stages of I. ricinus ticks and are considered main reservoirs for tick-borne pathogens, e.g. Borrelia burgdorferi. The aim of this study was to analyse the prevalence as well as genospecies and sequence type (ST) diversity of Borrelia burgdorferi sensu lato in ticks and small mammals from central Germany and to elaborate on the infuence of environmental and/or individual host and vector factors on Borrelia prevalence. ",
+        "bbox": [
+            97,
+            354,
+            895,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods: After species identifcation, 1167 small mammal skin samples and 1094 ticks from vegetation were screened by B. burgdorferi sensu lato real-time polymerase chain reaction, and positive samples were characterized by multilocus sequence typing. Generalized linear (mixed) models were used to estimate how seasonality, small mam‑ mal species/tick life stage and habitat afect individual infection status. ",
+        "bbox": [
+            97,
+            434,
+            894,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: In total, 10 small mammal species and three tick species, Ixodes ricinus, Ixodes inopinatus (both considered members of the I. ricinus complex) and Dermacentor reticulatus, were investigated. Borrelia DNA was detected in eight host species, i.e. the striped feld mouse (Apodemus agrarius), the yellow-necked feld mouse (Apodemus favicollis), the wood mouse (Apodemus sylvaticus), the water vole (Arvicola amphibius), the bank vole (Clethrionomys glareolus), the feld vole (Microtus agrestis), the common vole (Microtus arvalis), and the common shrew (Sorex araneus). Two species were Borrelia negative, the greater white-toothed shrew (Crocidura russula) and the pygmy shrew (Sorex minutus). The average prevalence was $6 . 2 \\% ,$ with two genospecies detected, Borrelia afzelii and Borrelia garinii, and at least three STs that had not been previously reported in small mammals. Borrelia prevalence in small mammals did not difer between seasons. Six genospecies of Borrelia—Borrelia afzelii, Borrelia valaisiana, Borrelia garinii, Borrelia lusitaniae, Borrelia spielmanii, and Borrelia burgdorferi sensu stricto—and 25 STs of Borrelia, of which 12 have not been previously described at all and fve have not been previously reported in Germany, were detected in $1 3 \\%$ of I. ricinus complex ticks. Prevalence was highest in adult females $( 2 5 . 3 \\% )$ and lowest in nymphs $( 1 1 . 4 \\% )$ . Prevalence was signifcantly higher in ticks from grassland $1 6 . 8 \\% )$ compared to forests $( 1 1 . 4 \\% )$ . ",
+        "bbox": [
+            97,
+            500,
+            895,
+            697
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: The high level of small mammal diversity in this region of Germany seems to be refected in a wide variety of genospecies and STs of B. burgdorferi. ",
+        "bbox": [
+            99,
+            700,
+            865,
+            731
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "† Nina Król and Anna Obiegala contributed equally to this work ",
+        "bbox": [
+            90,
+            760,
+            410,
+            774
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "*Correspondence: pfefer@vetmed.uni-leipzig.de ",
+        "bbox": [
+            90,
+            779,
+            344,
+            792
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Institute of Animal Hygiene and Veterinary Public Health, University of Leipzig, An den Tierkliniken 1, 04103 Leipzig, Germany Full list of author information is available at the end of the article ",
+        "bbox": [
+            89,
+            797,
+            440,
+            832
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/791e29e1628987134f030513a0e241c87d17dc95086ffd9d3a860206b107e24c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            854,
+            141,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a52f539bd19710088143889c712a940d0e66300b009b368816769529d6d98c1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            853,
+            278,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            39,
+            344,
+            50
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "https://doi.org/10.1186/s13071-022-05326-3 ",
+        "bbox": [
+            90,
+            51,
+            344,
+            64
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Parasites & Vectors ",
+        "bbox": [
+            684,
+            39,
+            907,
+            59
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativeco mmons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data. ",
+        "bbox": [
+            297,
+            851,
+            897,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Germany, Grassland, Forest, Sequence type, Multilocus sequence typing, Clethrionomys, Microtus, Apodemus, Sorex, Ixodes ",
+        "bbox": [
+            100,
+            115,
+            833,
+            146
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            175,
+            189,
+            191
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hard ticks (Ixodidae) are important vectors of zoonotic pathogens, including bacteria, protozoan parasites, and viruses. Te most common tick species in Europe is the castor bean tick, Ixodes ricinus. Due to its wide spectrum of hosts and its environmental plasticity, it occurs in several types of habitats and it is important for the transmission of several zoonotic pathogens [1]. Its immature life stages (larvae and nymphs) parasitize mostly small mammals and birds. Te second most common tick species in temperate Europe is the ornate cow tick, Dermacentor reticulatus, whose juvenile developmental stages feed mostly on small mammals [2, 3]. Terefore, small mammals, predominantly rodents, are essential for the maintenance and distribution of ticks and tick-borne pathogens [4, 5]. ",
+        "bbox": [
+            89,
+            191,
+            492,
+            418
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Europe, the most frequently reported tick-borne disease is Lyme disease, which is caused by Borrelia burgdorferi sensu lato (s.l.), a complex of gram-negative spirochetes. Borrelia burgdorferi s.l. is transmitted mostly by I. ricinus ticks, but has also occasionally been found in D. reticulatus [6–8]. ",
+        "bbox": [
+            89,
+            420,
+            489,
+            508
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date, over 20 genospecies of the B. burgdorferi s.l. complex have been identifed, with 11 of them occurring throughout Europe [9]: Borrelia afzelii, Borrelia bavariensis, Borrelia bissettiae (previously known as Borrelia bissettii [10]), Borrelia burgdorferi sensu stricto (s.s.), Borrelia carolinensis, Borrelia fnlandensis, Borrelia garinii, Borrelia kurtenbachii, Borrelia lusitaniae, Borrelia spielmanii, and Borrelia valaisiana. Most of them are known to be pathogenic for humans. I. ricinus is the main vector for the 11 European genospecies of Borrelia, but the reservoir host species range is much more diverse and genospecies specifc [9, 11]. More than 40 diferent vertebrate species, including reptiles, birds, and mammals, may serve as reservoir hosts of Borrelia [4, 5, 12–15]. Te adaptation of B. burgdorferi s.l. species to diferent reservoir hosts is an important driver for their spatial distribution and diversifcation in ecosystems [16]. In a complex multi-host system, Borrelia burgdorferi s.l. circulation is difcult to monitor and forecast in the respective ecosystems [17]. According to the biodiversity-driven dilution efect hypotheses, the balance between competent (reservoir) and incompetent (dilution, rescue) hosts is crucial for the risk of infection [18–20]. Feeding on a dilution host species may clear a pre-existing Borrelia infection in I. ricinus [21, 22]. Clearance might therefore occur more often in communities dominated by incompetent hosts. ",
+        "bbox": [
+            89,
+            511,
+            490,
+            905
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Te rescue hosts mostly support the life cycle of ticks, but are capable of maintaining disease risk when reservoir host density is low. ",
+        "bbox": [
+            504,
+            175,
+            905,
+            220
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genotyping of Borrelia spp. is a helpful tool for the description of epidemiological and ecological patterns. Borrelia genospecies are usually further categorized into sequence types (STs) by multilocus sequence typing (MLST), which is based on eight housekeeping genes: nifS, pyrG, clpX, pepX, uvrA, rplB, cplA, and recG. Tese genes are characterized by slow evolutionary rates and an almost neutral variation resulting in robust phylogenetic relationships and the avoidance of potentially skewed clustering in single-locus sequence analyses [16, 23]. Factors such as habitat, geographical region, host, and vector species may have an impact on the genetic variability of certain Borrelia genospecies. Te mechanisms of rapid adaptation through alterations in gene expression allow the spirochetes to adjust and survive in diferent host species [24–26]. However, there is scarce information on the variation of STs in mammals and ticks when considered on a small geographical scale, and the habitat associations of certain STs. ",
+        "bbox": [
+            505,
+            221,
+            907,
+            508
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Te aim of this study was to determine the prevalence and (geno)diversity of Borrelia burgdorferi s.l. in small mammals (21 sites) and ticks (17 sites) from diferent forest and grassland sites in central Germany, and to elaborate on the efects of habitat, season, and small mammal species richness on Borrelia prevalence. ",
+        "bbox": [
+            505,
+            508,
+            907,
+            602
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            616,
+            579,
+            629
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Study area ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            631,
+            583,
+            645
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Te study sites (Fig. 1) were located in the Hainich Dün region surrounding the Hainich National Park, which is one of the largest continuous deciduous forests in Germany. Outside the national park the grasslands are grazed extensively, primarily by sheep, and the forests are managed by selection cutting. Due to its large area, which is protected and under a balanced system of local management, the Hainich Dün region has a high animal and plant biodiversity (https://www.biodiversity-explo ratories.de/en/regions/hainich-duen/). ",
+        "bbox": [
+            505,
+            646,
+            907,
+            800
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Small mammal and tick collection ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            813,
+            737,
+            827
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Skin samples from small mammals trapped using snap traps at 21 sites in central Germany were available from a former study [27, 28] (Fig.  1). Trapping took place in spring, summer and autumn in 2017, 2018 and 2019. For this study, 1167 out of 1945 samples from all 21 sites, ",
+        "bbox": [
+            504,
+            827,
+            907,
+            905
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            346,
+            50
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "Page 2 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bd626058ad89e42d1d2a713bfde1e5b8b4cdb55e0c2d36cbafc4f643901513a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            104,
+            118,
+            384,
+            391
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/995cc4ebef6d96b467adbf4e1cdc8cdde9c2eab849b0d27a45b0ae5a9c3027d8.jpg",
+        "image_caption": [
+            "Fig. 1 a Location of the study area (inset) in Germany (https://d-​maps.com/carte.php?num_ca $\\lceil = \\cdot$ 4692&lang $= e \\mathsf { n }$ ), and b locations of the 21 collection sites within the study area (source en.wikipedia.org, with the authors’ own modifcations) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            418,
+            117,
+            895,
+            389
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "comprising 168 spring samples (range 24–146) (2018 and 2019) and 999 summer samples (range 72–639) (2017, 2018 and 2019), which represented $6 0 \\%$ of the original material, were randomly selected. ",
+        "bbox": [
+            87,
+            456,
+            487,
+            516
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ticks were collected from vegetation at 17 of the 21 sites by the fagging method [28] once per season along $1 0 0 { - } \\mathbf { m } ^ { 2 }$ transects in spring, summer and fall 2018 and 2019. Te number of collection sites for ticks was limited to 17 due to fnancial restrictions. Te ticks were stored in $7 0 \\%$ ethanol and the small mammal skin samples in a freezer at $2 0 ~ ^ { \\circ } \\mathrm { C }$ until further examination. ",
+        "bbox": [
+            87,
+            517,
+            487,
+            621
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At each site, small mammal trapping was performed in grasslands (I) and forests (II), and tick collection was conducted within the ecotone at the edge of forests, which comprised woodland and adjacent grassland (Fig. 2). Ticks were not collected from the grassland habitat where the small mammals were trapped (I), but were collected from the grassland (IIb) and woodland areas (IIa) of the forest habitat (II). Tus, grassland habitat of ticks refers to the grassland part of the forest habitat (IIb) and forest habitat of ticks refers to the woodland part of the forest habitat (IIa) (Fig. 2). ",
+        "bbox": [
+            87,
+            622,
+            487,
+            789
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sample preparation, DNA extraction and polymerase chain reaction methods ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            805,
+            487,
+            832
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Small mammal species identifcation and dissection were conducted as described previously [27, 28]. Ticks were identifed to species level using morphological characters in accordance with Siuda [29] and Estrada-Peña et al. [30]. Before DNA extraction, the ticks were washed twice ",
+        "bbox": [
+            87,
+            836,
+            487,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in distilled water and phosphate-bufered saline and then air dried. DNA extraction of ticks and small mammal skin samples was carried out for each sample individually using the QIAamp DNA Mini Kit (Qiagen, Hilden, Germany) [31]. Te quality and quantity of the DNA samples were measured with a spectrophotometer (NanoDrop 2000c; Peqlab Biotechnologie, Erlangen, Germany). Te extracted DNA was stored at $2 0 ~ ^ { \\circ } \\mathrm { C }$ until further examination. ",
+        "bbox": [
+            504,
+            456,
+            905,
+            591
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the detection of Borrelia spp. DNA, small mammal and tick samples were frst screened by real-time polymerase chain reaction (PCR) targeting the p41 fagellin gene with an expected amplicon of 96 base pairs [32]. In order to identify the Borrelia genospecies and STs of positive samples yielding a cycle threshold (Ct) value below 35, a MLST targeting the housekeeping genes nifS, pyrG, clpX, pepX, uvrA, rplB, cplA, and recG was performed, with slight modifcations [14, 23]. In our experience, the amount of pathogen DNA in samples with $\\mathrm { C t } < 3 5$ is too low for sufcient amplifcation by conventional PCR. For samples that did not yield PCR products for all eight MLST housekeeping genes and for which the identifcation of a specifc ST was impossible, genospecies determination was based on recG gene sequences. ",
+        "bbox": [
+            504,
+            593,
+            905,
+            818
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR products were visualized under ultraviolet (UV) light using the UVP GelSolo Simplifed UV Gel Documentation System (Analytik Jena, Jena, Germany). For samples positive for all eight PCRs, all the housekeeping genes were sequenced (Eurofns Genomics, Ebersberg, Germany), with forward and reverse primers of ",
+        "bbox": [
+            504,
+            820,
+            905,
+            911
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            347,
+            50
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "Page 3 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b426062b5b3108d91361475f048161198b137837058007df4c91dce45d910d59.jpg",
+        "image_caption": [
+            "Fig. 2 Photograph of study sites showing paired forest and grassland habitats [grassland habitat of small mammals (I), forest habitat of small mammals (II), forest habitat of ticks (IIa), grassland habitat of ticks (IIb)] (source Google Earth with the authors’ own modifcations) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            115,
+            897,
+            451
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "each gene used for PCR amplifcation. Te sequence results were analysed with Bionumerics software (version 7.6.1.; Applied Maths, Austin, TX), and compared with sequences published in GenBank using BLASTn (https:// blast.ncbi.nlm.nih.gov/Blast.cgi). Te aligned sequences of the eight housekeeping loci were compared with those in the online MLST database to assign allele and ST profles. Novel STs were submitted to the curator, who allocated them consecutive numbers (IDs 3255–3267 with respective STs 986–998). ",
+        "bbox": [
+            87,
+            518,
+            489,
+            672
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            691,
+            218,
+            703
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Confdence intervals (CIs; $9 5 \\%$ CI) for the prevalences were determined by the Clopper and Pearson method using GraphPad software (Graph Pad Software, San Diego, CA). A chi-square test was used to test the independence of Borrelia prevalence for the factors Small mammal species, Tick life stage, Season, Habitat, and Collection site (GraphPad Software). To analyse B. burgdorferi s.l. prevalence in small mammals in relation to season, habitat, and small mammal species, we used a generalized linear mixed model (GLMM) with binomial error distribution using R software (version 4.1.2. for Windows; RStudio, Boston, MA) and the lme4 package [33]. Infection status was used as a binary dependent variable (Borrelia spp. positive $= 1$ ; Borrelia spp. ",
+        "bbox": [
+            92,
+            706,
+            489,
+            918
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "negative $= 0$ ). Te GLMM was generated to estimate how (i) seasonality (independent binary variable: summer vs. spring), (ii) small mammal species (independent categorical variable), and (iii) habitat (independent binary variable: forest vs. grassland) afect individual infection status (dependent binary variable). ",
+        "bbox": [
+            505,
+            520,
+            905,
+            611
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Te computed similar approach was used for ticks with the dependent variable Borrelia prevalence and the independent variables Tick developmental stage (binary: adult vs. immature), Habitat (see above) and Season (three stages: autumn, spring and summer). Dermacentor reticulatus ticks were excluded from this GLMM as none of them was Borrelia positive and because the sample size was low. ",
+        "bbox": [
+            505,
+            611,
+            905,
+            731
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For small mammals and ticks, the interaction term for the GLMM consisted of three variables with at least two levels each. Terefore, we computed marginal means using the emmeans package within R and a post hoc test to compare the efects of all independent variables separately [34]. Additionally, a generalized linear model (lme4 package in R) was performed with a binary error distribution and a logit link function in order to determine if the number of small mammal species (species richness) per site [35] infuences the probability of Borrelia infection in individual ticks and small mammals. Te signifcance threshold was set at $P { \\le } 0 . 0 5$ . ",
+        "bbox": [
+            505,
+            732,
+            907,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            347,
+            50
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "Page 4 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            107,
+            152,
+            121
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Small mammal collection ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            124,
+            263,
+            137
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Te selected samples ${ ' } n = 1 1 6 7 { ' }$ ) were from 10 small mammal species, comprising seven rodent and three shrew species (Table 1). Te most common species was the common vole (Microtus arvalis) $n { = } 4 0 7$ ; $3 4 . 9 \\%$ ), followed by the bank vole (Clethrionomys glareolus) $\\scriptstyle ( n = 2 7 8$ ; $2 3 . 8 \\%$ ) and the yellow-necked feld mouse (Apodemus favicollis) $\\scriptstyle n = 2 4 0$ ; $2 0 . 6 \\%$ ); next were the wood mouse (Apodemus sylvaticus) $n { = } 1 0 8$ ; 9.3%) and the striped feld mouse (Apodemus agrarius) $( n = 9 0$ ; $7 . 7 \\%$ ). Te common shrew (Sorex araneus) $\\left( n = 2 0 ; 1 . 7 \\% \\right)$ ), the feld vole (Microtus agrestis) ( $_ { n = 1 5 }$ ; $1 . 3 \\%$ ), the water vole (Arvicola amphibius) $\\left( n = 4 ; 0 . 3 \\% \\right)$ ), the pygmy shrew (Sorex minutus) (n 4; $0 . 3 \\% \\AA )$ , and the greater whitetoothed shrew (Crocidura russula) $\\left( n = 1 ; \\ 0 . 1 \\% \\right)$ ) were rare. Te three least abundant species were excluded from the analyses due to their low numbers. Altogether, 504 $( 4 3 . 2 \\% )$ of the small mammals were from grasslands and 663 $( 5 6 . 8 \\% )$ from forests (Table 1). In the grasslands, the predominant species was M. arvalis $( 7 4 . 8 \\% )$ and in the forests there were two dominant species, C. glareolus $( 4 0 . 1 \\% )$ and A. favicollis $( 3 3 . 2 \\% )$ . Te majority of individuals were caught in the summer $\\scriptstyle \\overbrace { n } = 9 9 9$ ; $8 5 . 6 \\%$ ); fewer of the small mammals were collected in the spring $_ { \\scriptstyle n = 1 6 8 }$ ; $1 4 . 4 \\%$ ). ",
+        "bbox": [
+            89,
+            137,
+            492,
+            503
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tick collection ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            107,
+            608,
+            120
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In total, 1115 ticks were collected, but 21 individuals were excluded from further examination due to poor conservation of the material. Te remaining 1094 ticks belonged to three species, the predominant I. ricinus $\\scriptstyle \\overbrace { n } = 9 9 8$ ; 91.2%), followed by D. reticulatus $\\scriptstyle \\cdot n = 8 0$ ; $7 . 3 \\%$ ) and I. inopinatus $_ { \\tiny { n = 1 6 } }$ ; $1 . 5 \\%$ ). For further analysis, data were combined for I. ricinus and I. inopinatus, and are henceforth referred to as those for $^ { \\ast } I .$ ricinus complex’ [36]. In general, nymphs were the most abundant life stage found (Table 2). Overall, almost twice as many ticks were collected from forests $n { = } 7 1 7$ ; $6 5 . 5 \\%$ ) compared to grasslands $n { = } 3 7 7$ ; $3 4 . 5 \\%$ ). However, almost all $D$ . reticulatus ticks were found in grasslands $( 7 4 / 8 0 ; 9 2 . 5 \\% )$ $9 2 . 5 \\%$ . Most of the ticks were collected in spring $( n = 8 2 2 , 7 5 . 1 \\%$ ; I. ricinus complex, $n = 7 8 5$ , $7 7 . 4 \\%$ ; $D _ { * }$ . reticulatus, $n = 3 7$ , $4 6 . 3 \\% )$ ), followed by summer ${ \\mathrm { ' } n = } 2 0 3$ , $1 8 . 6 \\%$ ; I. ricinus complex, $n = 2 0 2$ , $1 9 . 9 \\%$ ; D. reticulatus, $n = 1$ , $1 . 3 \\%$ ), and fall $\\scriptstyle n = 6 9$ , 6.3%; I. ricinus complex, $n = 2 7$ , 2.7%; D. reticulatus, $n = 4 2$ , $5 2 . 5 \\%$ ). ",
+        "bbox": [
+            505,
+            122,
+            907,
+            411
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Borrelia spp. prevalence and genospecies in small mammals ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            426,
+            840,
+            454
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Borrelia spp. DNA was detected in eight out of the 10 small mammal species, with an overall prevalence of $6 . 2 \\%$ $\\scriptstyle \\cdot n = 7 2$ ; $9 5 \\%$ CI 4.9–7.7) (Table 3). Among the small mammal genera, prevalence was lower in Apodemus compared ",
+        "bbox": [
+            505,
+            456,
+            905,
+            517
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3024ef2edf5850e3e1c8a666c08332cedcd449ab0d06c79b71aa6e430e11f75.jpg",
+        "table_caption": [
+            "Table 1 Numbers of tested individuals per small mammal species and habitat, and in total "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">Small mammal species</td><td colspan=\"3\">Number of individuals {n (%), [median (range)]}</td></tr><tr><td>Complete site (part I and II)</td><td>Grassland (I)</td><td>Forest (II)</td></tr><tr><td>Apodemus agrarius striped field mouse</td><td>90 (7.7%), [1 (0–37)]</td><td>46 (9.1%), [0 (0–21)]</td><td>44 (6.6%), [0 (0–16)]</td></tr><tr><td>Apodemus flavicollis (yellow-necked field mouse)</td><td>240 (20.6%), [11 (0–24)]</td><td>20 (4%), [0 (0–6)]</td><td>220 (33.2%), [10 (0–22)]</td></tr><tr><td>Apodemus sylvaticus (wood mouse)</td><td>108 (9.3%), [4 (0–26)]</td><td>28 (5.6%), [0 (0–9)]</td><td>80 (12.1%), [3 (0–17)]</td></tr><tr><td>Arvicola amphibius (water vole)</td><td>4 (0.3%), [0 (0–2)]</td><td>3 (0.6%), [0 (0–2)]</td><td>1 (0.2%), [0 (0–1)]</td></tr><tr><td>Clethrionomys glareolus (bank vole)</td><td>278 (23.8%), [12 (0–36)]</td><td>8 (1.6%), [0 (0–4)]</td><td>270 (40.1%), [11 (0–36)]</td></tr><tr><td>Crocidura russula (greater white-toothed shrew)</td><td>1 (0.1%), [0 (0–1)]</td><td>1 (0.2%), [0 (0–1)]</td><td>0</td></tr><tr><td>Microtus agrestis (field vole)</td><td>15 (1.3%), [0 (0–6)]</td><td>8 (1.6%), [0 (0–6)]</td><td>7 (1.1%), [0 (0–3)]</td></tr><tr><td>Microtus arvalis (common vole)</td><td>407 (34.9%), [11 (0–75)]</td><td>377 (74.8%), [11 (0–68)]</td><td>30 (4.5%), [0 (0–10)]</td></tr><tr><td>Sorex araneus (common shrew)</td><td>20 (1.7%), [0 (0–5)]</td><td>11 (2.2%), [0 (0–3)]</td><td>9 (1.4%), [0 (0–4)]</td></tr><tr><td>Sorex minutus (pygmy shrew)</td><td>4 (0.3%), [0 (0–2)]</td><td>2 (0.4%), [0 (0–2)]</td><td>2 (0.3%), [0 (0–1)]</td></tr><tr><td>Total</td><td>1167 (100%), [45 (3–129)]</td><td>504 (43.2%), [15 (0–85)]</td><td>663 (56.8%), [25 (3–70)]</td></tr></table>",
+        "bbox": [
+            89,
+            539,
+            910,
+            760
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f75486939cc74b1f19a082561703f892c906e04093a87818568b475e49126549.jpg",
+        "table_caption": [
+            "Table 2 Collected ticks "
+        ],
+        "table_footnote": [
+            "a Ixodes ricinus and Ixodes inopinatus "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">Tick species</td><td colspan=\"4\">Number of collected individuals {n (%), [median (range)]}</td></tr><tr><td>Total</td><td>Females</td><td>Males</td><td>Nymphs</td></tr><tr><td>Ixodes ricinus complexa</td><td>1014 (100%), [34 (2–343)]</td><td>75 (7.4%), [3 (1–10)]</td><td>111 (10.9%), [2 (0–23)]</td><td>828 (81.7%), [22 (1–310)]</td></tr><tr><td>Dermacentor reticulatus</td><td>80 (100%), [0 (0–69)]</td><td>51 (63.8%), [0 (0–48)]</td><td>29 (36.2%), [0 (0–21)]</td><td>0</td></tr><tr><td>Total</td><td>1094 (100%), [42 (12–343)]</td><td>126 (11.7%), [4 (1–49)]</td><td>140 (12.7%), [4 (0–23)]</td><td>828 (75.6%), [22 (1–320)]</td></tr></table>",
+        "bbox": [
+            89,
+            808,
+            907,
+            905
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            346,
+            50
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "Page 5 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "to Microtus, Clethrionomys and Sorex $( \\chi ^ { 2 } = 2 9 . 1 2 2 , d f = 3 ,$ , $P { < } 0 . 0 0 1 $ ). Borrelia prevalence did not difer between spring and summer (see GLMM in Additional fle  1: Table  S1). Te individual infection probability was not afected by the small mammal species richness per site (Additional fle 1: Table S2). Te GLMM showed that there were no diferences in prevalence between small mammals from grassland (I) and forest (II) $( P { = } 0 . 7 9 5 )$ , and the bias in prevalence must have been confounded by infection rates per small mammal species, as the small mammal species composition difered between grassland (I) and forest (II), with M. arvalis having a high prevalence $( 9 . 6 \\% )$ and being the most abundant small mammal species in the grassland (I), while A. favicollis (prevalence $1 . 7 \\%$ ) was mostly present in the forest (II) $\\scriptstyle ( P = 0 . 4 7 8 )$ . In general, prevalence difered among sites, and ranged from 0 to $2 0 . 5 \\%$ $\\mathrm { ( } \\chi ^ { 2 } { = } 6 8 . 3 9 2$ , $d f = 2 0$ , $P { < } 0 . 0 0 1 $ ). Tis was due to differences in prevalence among grassland sites (I) $( 0 - 3 0 . 8 \\%$ ; $\\chi ^ { 2 } { = } 5 9 . 3 8 1$ , $d f = 1 9$ , $P { < } 0 . 0 0 1 { \\mathrm { ~ , ~ } }$ ), while in forest sites (II) there was less diference between prevalences $( 0 - 1 3 \\%$ ; $\\chi ^ { 2 } { = } 2 7 . 8 8 3$ , df = 20, $P { = } 0 . 1 1 2$ ). ",
+        "bbox": [
+            87,
+            108,
+            489,
+            427
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Out of 72 positive samples identifed by real-time PCR, eight yielded a Ct value $< 3 5$ and were sequenced (one from $C l$ glareolus, four from M. arvalis and three from S. araneus). Te analysis revealed the presence of two genospecies (Additional fle 1: Table S5; Table 4): B. afzelii in seven individuals of three host species, and B. garinii in one  M. arvalis. Te recG gene sequences showed $1 0 0 \\%$ identity to existing GenBank entries (Table 4). ",
+        "bbox": [
+            87,
+            427,
+            489,
+            550
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Borrelia spp. prevalence and genospecies in ticks ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            107,
+            836,
+            121
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Borrelia spp. DNA was detected in 132 out of 1094 ticks ( $1 2 . 1 \\%$ ; $9 5 \\%$ CI 10.3–14.1). All of the positive samples originated from I. ricinus complex ticks $( n = 1 0 1 4 )$ $( 1 3 \\%$ ; $9 5 \\%$ CI 11.1–15.2). Te prevalence was higher in females (19/75, $2 5 . 3 \\%$ ; $9 5 \\%$ CI 16.8–36.3) than in males (19/111, $1 7 . 1 \\%$ ; $9 5 \\%$ CI 11.2–25.3), and lowest in nymphs (94/828, $1 1 . 4 \\%$ ; $9 5 \\%$ CI 9.4–14.5) $( \\chi ^ { 2 } = 1 3 . 7 2 1$ , $d f = 2$ , $P { = } 0 . 0 0 1$ ). Ixodes ricinus complex ticks collected in the grasslands (IIb) were signifcantly more often infected (51/303, $1 6 . 8 \\%$ ; $9 5 \\%$ CI 13–21.5) than those from forests (IIa) (81/711, $1 1 . 4 \\%$ ; $9 5 \\%$ CI 9.3–14) (see GLMM in Additional fle  1: Table  S3). More detailed analyses revealed that a higher prevalence in adults compared to nymphs was true for grasslands $P { = } 0 . 0 1 5 )$ but not for forests $\\scriptstyle ( P = 0 . 8 4 9 )$ ) (Additional fle  1: Table  S3). Te GLMM also revealed that seasonal fuctuation of prevalence was a confounding factor $\\scriptstyle ( P = 0 . 3 2 3 - 0 . 9 8 9$ ) and could be explained by a seasonal efect of the life stage composition of I. ricinus. Adults were signifcantly more often positive than nymphs ${ \\mathit { P } } { = } 0 . 0 1 5 5 { \\mathrm { , } }$ ), and in spring the ratio of nymphs to adults was 4:1, while in summer it was 13:1. Te prevalence among sites varied signifcantly, from 0 to $2 8 . 6 \\%$ $\\left( \\chi ^ { 2 } = 3 9 . 0 1 3 \\right.$ , $d f = 1 6$ , $P { = } 0 . 0 0 1$ ); it was signifcant for grasslands (IIb), where the prevalence range was higher $( 0 - 7 5 \\%$ ; $\\chi ^ { 2 } { = } 4 1 . 2 0 5$ , $d f = 1 6$ ; $p { < } 0 . 0 0 1 )$ ), but not for forests (IIa) (0–15.8; $\\chi ^ { 2 } = 2 3 . 9 5 2$ , $d f = 1 6$ , $P { = } 0 . 0 9$ ). Te generalized linear model suggested that the probability of infection in ticks was positively correlated to the number ",
+        "bbox": [
+            504,
+            122,
+            907,
+            549
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae6ea8d480322c72c5babcd27fad8f511d413fd8f6cd9d86879b453ee61e73f3.jpg",
+        "table_caption": [
+            "Table 3 Borrelia prevalence in small mammals per habitat type and in ticks per grassland and forested parts of the forest habitat, and in total "
+        ],
+        "table_footnote": [
+            "CI Confdence interval "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">Small mammal species</td><td colspan=\"3\">Prevalence of Borrelia [% (95% CI), n positive/n tested]</td></tr><tr><td>Total</td><td>Grassland (I)</td><td>Forest (II)</td></tr><tr><td>Apodemus agrarius striped field mouse</td><td>1.1% (&lt;0.01–6.6), 1/90</td><td>2.2% (&lt;0.01–12.4), 1/46</td><td>0/44</td></tr><tr><td>Apodemus flavicollis (yellow-necked field mouse)</td><td>1.7% (0.5–4.4), 4/240</td><td>5% (&lt;0.01–25.4), 1/20</td><td>1.4% (0.3–4.1), 3/220</td></tr><tr><td>Apodemus sylvaticus (wood mouse)</td><td>1.9% (0.1–6.9), 2/108</td><td>3.6% (&lt;0.01–19.2), 1/28</td><td>1.3% (&lt;0.01–7.4), 1/80</td></tr><tr><td>Arvicola amphibius (water vole)</td><td>25% (35.1–71.1), 1/4</td><td>33.3% (5.6–79.8), 1/3</td><td>0/1</td></tr><tr><td>Clethrionomys glareolus (bank vole)</td><td>7.2% (4.7–10.9), 20/278</td><td>12.5% (0.1–49.2), 1/8</td><td>7% (4.5–10.8), 19/270</td></tr><tr><td>Crocidura russula (greater white-toothed shrew)</td><td>0/1</td><td>0/1</td><td>0</td></tr><tr><td>Microtus agrestis (field vole)</td><td>6.7% (&lt;0.01–31.8), 1/15</td><td>12.5% (0.1–49.2), 1/8</td><td>0/7</td></tr><tr><td>Microtus arvalis (common vole)</td><td>9.6% (7.1–1.9), 39/407</td><td>9% (6.5–12.4), 34/377</td><td>16.7% (6.9–34), 5/30</td></tr><tr><td>Sorex araneus (common shrew)</td><td>20% (7.5–42.2), 4/20</td><td>18.2% (4–48.9), 2/11</td><td>22.2% (5.3–55.7), 2/9</td></tr><tr><td>Sorex minutus (pygmy shrew)</td><td>0/4</td><td>0/2</td><td>0/2</td></tr><tr><td>Total</td><td>6.2% (4.9–7.7), 72/1167</td><td>8.3% (6.2–11.1), 42/504</td><td>4.5% (3.2–6.4), 30/663</td></tr><tr><td>Tick species</td><td>Total</td><td>Grassland part of forest (IIb)</td><td>Forest part of forest (IIa)</td></tr><tr><td>Ixodes ricinus complex</td><td>13% (11.1–15.2), 132/1014</td><td>16.8% (13–21.5), 51/303</td><td>11.4% (9.3–14), 81/711</td></tr><tr><td>Dermacentor reticulatus</td><td>0/80</td><td>0/74</td><td>0/6</td></tr><tr><td>Total</td><td>12.1% (10.3–14.1), 132/1094</td><td>13.5% (10.4–17.4), 51/377</td><td>11.3% (9.2–13.9), 81/717</td></tr></table>",
+        "bbox": [
+            89,
+            613,
+            907,
+            903
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            346,
+            50
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "Page 6 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b2c1984fb97d75aa3d861c0cae1c6b3a784f1fbc9bf85b4c3bdeaa09564dbbe.jpg",
+        "table_caption": [
+            "Table 4 Sequencing results based on the recG gene in tick and small mammal samples that did not yield multilocus sequence typing products "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"4\">Sample</td><td>Borrelia genospecies</td><td colspan=\"2\">Most similar sequence</td></tr><tr><td>Sample identifier (ID)</td><td>Host species</td><td>Collection site</td><td>Habitat</td><td></td><td>Identity (%)</td><td>GenBank ID</td></tr><tr><td>HT1</td><td>Ixodes ricinus</td><td>UH18</td><td>Grassland</td><td>Borrelia spielmanii</td><td>100</td><td>AB526160</td></tr><tr><td>HT7</td><td>I. ricinus</td><td>UH18</td><td>Grassland</td><td>Borrelia valaisiana</td><td>100</td><td>CP009117</td></tr><tr><td>HT15</td><td>I. ricinus</td><td>UH18</td><td>Grassland</td><td>Borrelia afzelii</td><td>99.7</td><td>CP000395</td></tr><tr><td>HT20</td><td>I. ricinus</td><td>UH18</td><td>Forest</td><td>B. spielmanii</td><td>99</td><td>AB526160</td></tr><tr><td>HT32</td><td>I. ricinus</td><td>UH16</td><td>Forest</td><td>B. afzelii</td><td>100</td><td>JX971362</td></tr><tr><td>HT38</td><td>I. ricinus</td><td>UH16</td><td>Forest</td><td>B. afzelii</td><td>99.9</td><td>CP009058</td></tr><tr><td>HT68</td><td>I. ricinus</td><td>Kyf2</td><td>Forest</td><td>B. valaisiana</td><td>99.9</td><td>CP009117</td></tr><tr><td>HT81</td><td>I. ricinus</td><td>E3</td><td>Grassland</td><td>B. afzelii</td><td>100</td><td>JX971362</td></tr><tr><td>HT99</td><td>I. ricinus</td><td>E3</td><td>Grassland</td><td>Borrelia garinii</td><td>99.1</td><td>JF331209</td></tr><tr><td>HT115</td><td>I. ricinus</td><td>E3</td><td>Forest</td><td>B. valaisiana</td><td>100</td><td>CP009117</td></tr><tr><td>HT126</td><td>I. ricinus</td><td>E1</td><td>Grassland</td><td>Borrelia lusitaniae</td><td>100</td><td>MH747538</td></tr><tr><td>HT192</td><td>I. ricinus</td><td>E1</td><td>Forest</td><td>B. garinii</td><td>100</td><td>JF331209</td></tr><tr><td>HT199</td><td>I. ricinus</td><td>E1</td><td>Forest</td><td>B. afzelii</td><td>99.9</td><td>JX971362</td></tr><tr><td>HT217</td><td>I. ricinus</td><td>E1</td><td>Forest</td><td>B. lusitaniae</td><td>99.7</td><td>MH747538</td></tr><tr><td>HT261</td><td>I. ricinus</td><td>UH7</td><td>Grassland</td><td>Borrelia burgdorferi s.s.</td><td>98.6</td><td>JF419041</td></tr><tr><td>HT298</td><td>I. ricinus</td><td>UH9</td><td>Grassland</td><td>B. afzelii</td><td>97.1</td><td>JX971362</td></tr><tr><td>HT303</td><td>I. ricinus</td><td>UH9</td><td>Grassland</td><td>B. garinii</td><td>100</td><td>JF331209</td></tr><tr><td>HT307</td><td>I. ricinus</td><td>UH9</td><td>Grassland</td><td>B. garinii</td><td>100</td><td>AB555923</td></tr><tr><td>HT310</td><td>I. ricinus</td><td>UH9</td><td>Grassland</td><td>B. afzelii</td><td>97.1</td><td>JX971362</td></tr><tr><td>HT324</td><td>I. ricinus</td><td>UH9</td><td>Forest</td><td>B. valaisiana</td><td>99.7</td><td>CP009117</td></tr><tr><td>HT331</td><td>I. ricinus</td><td>UH9</td><td>Forest</td><td>B. afzelii</td><td>100</td><td>JX971362</td></tr><tr><td>HT332</td><td>I. ricinus</td><td>UH9</td><td>Forest</td><td>B. afzelii</td><td>99.9</td><td>CP002933</td></tr><tr><td>HT375</td><td>I. ricinus</td><td>UH1</td><td>Grassland</td><td>B. valaisiana</td><td>99.3</td><td>MG972813</td></tr><tr><td>KS18/1496</td><td>Sorex araneus</td><td>UH12</td><td>Grassland</td><td>B. afzelii</td><td>100</td><td>MG972813</td></tr><tr><td>KS19/1709</td><td>Microtus arvalis</td><td>UH16</td><td>Grassland</td><td>B. garinii</td><td>100</td><td>CP028861</td></tr><tr><td>KS19/2049</td><td>M. arvalis</td><td>UH1</td><td>Grassland</td><td>B. afzelii</td><td>100</td><td>CP018262</td></tr></table>",
+        "bbox": [
+            92,
+            137,
+            907,
+            588
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "of small mammal species per site (Additional fle  1: Table S4). ",
+        "bbox": [
+            89,
+            613,
+            487,
+            643
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Out of 132 positive tick samples, 69 recG gene PCR products were sequenced; this revealed the presence of six genospecies (Additional fle 1: Table S5 and Table 4): B. afzelii $\\left( n = 3 7 \\right)$ ), $B _ { \\cdot }$ . garinii ${ \\mathit { n } } = 1 6$ ), B. valaisiana $( n = 9 )$ , B. lusitaniae $( n = 3 )$ ), B. burgdorferi s.s. $\\scriptstyle ( n = 2 )$ , and $B _ { \\cdot }$ . spielmanii $( n = 2 )$ . All of the genospecies were detected in ticks collected from grasslands (IIb) and forests (IIa). However, the genospecies composition difered between habitats, with an almost equal genospecies distribution of B. afzelii and $B .$ . garinii ( $4 4 \\%$ vs. $3 5 \\%$ ) in the grasslands and a 4:1 ratio of $B$ . afzelii to B. garinii in forests $6 0 \\%$ vs. $1 5 \\%$ ). Te recG gene sequences showed very high (97.1– $1 0 0 \\%$ ) identity to GenBank entries of the corresponding reference strains (Table 4). ",
+        "bbox": [
+            87,
+            644,
+            489,
+            856
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MLST analysis ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            872,
+            189,
+            887
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MLST analyses were performed for 51 Borrelia-positive samples obtained from 46 I. ricinus complex ticks and ",
+        "bbox": [
+            89,
+            887,
+            489,
+            918
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "fve small mammals. Te MLST results were ambiguous for 16 samples, and thus STs could not be assigned for these. In total, the remaining 35 samples revealed 28 STs, 25 in ticks and three in small mammals, indicating a genetically diverse Borrelia population (Additional fle 1: Table S5). Only three STs were detected more than once, and all of these were from tick samples. Te most common of these was ST 347, belonging to B. afzelii, which was found in fve ticks from three diferent sites across both forest habitats (IIa and IIb), followed by ST 251 of B. garinii, which was detected in three ticks from two sites and habitats. Te third ST that was found multiple times was B. garinii ST 187, but only in ticks from two diferent spots in forests (IIa). Te three STs detected in common shrews and a common vole were not found in ticks (Additional fle 1: Table S5). In grasslands, 10 diferent STs were found in ticks (IIb) and two in small mammals (I). In forest sites, 17 STs were identifed in ticks (IIa) and one in small mammals (II). Te highest diversity of STs was noted for B. afzelii $( n = 1 6 )$ ), followed by ",
+        "bbox": [
+            505,
+            612,
+            907,
+            918
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            346,
+            50
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "Page 7 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B. garinii $( n = 9 )$ , B. valaisiana $\\scriptstyle ( n = 2 )$ ) and B. burgdorferi s.s. $( n = 1 )$ ). No STs were assigned for B. spielmanii or $B$ . lusitaniae. ",
+        "bbox": [
+            89,
+            108,
+            487,
+            154
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            170,
+            178,
+            183
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Small mammals are important reservoir hosts for B. burgdorferi s.l. [4, 12, 13, 37, 38]. In our study, 10 small mammal species were examined, almost all of which are recognized reservoir hosts of B. burgdorferi [4, 5, 12, 13]. Borrelia spp. DNA was found in eight out of the 10 species, but not in C. russula and S. minutus, most probably due to their low sample size. However, these two shrew species were found to be Borrelia positive in previous studies [4, 39]. ",
+        "bbox": [
+            89,
+            184,
+            487,
+            320
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Te mean prevalence in small mammals in this study was $6 . 2 \\%$ , which is in line with the results of previous European studies that showed prevalences of $1 . 2 \\mathrm { - } 2 4 \\%$ [40–46]. However, it was lower than in other studies with a lower number of small mammal species $( 3 1 . 2 \\mathrm { - } 4 9 . 1 \\% )$ [14, 31]. Although Apodemus had moderate to high prevalence (e.g. $2 5 . 4 \\substack { - 4 7 . 5 \\% } )$ in other studies [14, 31], in our study the lowest Borrelia spp. prevalence was in this genus. Tere was no seasonal pattern for Borrelia prevalence in small mammals, most probably because the samples derived only from spring and summer sampling. A similar absence of a seasonal pattern was also observed in a study from Spain [39]. ",
+        "bbox": [
+            89,
+            321,
+            487,
+            518
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dermacentor reticulatus ticks have been found to carry Borrelia in Germany [47, 48], but Borrelia-negative $D _ { * }$ reticulatus ticks have also been reported in several studies from Germany [14, 31, 49–51]. In our study, none of the D. reticulatus ticks $( n = 8 0 )$ ) was positive for B. burgdorferi s.l., although at two spots Borrelia DNA was detected in sympatric I. ricinus complex ticks. Tese fndings support the view that D. reticulatus is of minor importance in the natural life cycle of the B. burgdorferi species complex [3]. ",
+        "bbox": [
+            89,
+            518,
+            487,
+            670
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Borrelia prevalence in the I. ricinus complex in the current study was $1 3 \\%$ , which is in agreement with the results of European meta-analyses from the last decades, i.e. $1 3 . 7 \\%$ (1984–2003) and $1 2 . 3 \\%$ (2010–2016) [52, 53]. Te level of infection was higher in adults $( 2 0 . 4 \\% )$ than in nymphs $( 1 1 . 1 \\% )$ , as also found in other studies (18.6 vs. $1 0 . 1 \\%$ [52]; and 14.9 vs. $1 1 . 8 \\%$ [53]), and is a result of Borrelia transstadial transmission and a higher number of blood meals on reservoir hosts for adults. As seasonality was not an important explanatory variable in the GLMM analysis, the lack of signifcant diferences in prevalence between the seasons could be explained by the diferent seasonal ratios and activity levels of immature and adult ticks. ",
+        "bbox": [
+            89,
+            670,
+            487,
+            881
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Borrelia prevalence in ticks and small mammals differed signifcantly among grassland sites, which suggests ",
+        "bbox": [
+            89,
+            883,
+            487,
+            913
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "that local factors may impact the maintenance of pathogen circulation. Such factors could be land use that infuences the abundance of the potential hosts—not only small but also medium- and large-sized mammals, as well as birds. Interestingly, the prevalence was lower in ticks from forests (IIa) than from grasslands (IIb), possibly because of a higher diversity of wildlife in forests [54, 55]. ",
+        "bbox": [
+            504,
+            107,
+            902,
+            213
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our analysis showed that Borrelia spp. prevalence in ticks is positively correlated to the number of small mammal species per site: the more reservoir host species, the higher the infection probability in ticks. Tis seems to be in line with the dilution efect hypothesis [56, 57], which assumes that reservoir competence should vary between host species. In addition, in our study, almost all of the tested animals were reservoir hosts (e.g. [4]) with a different prevalence of Borrelia; therefore, an amplifcation efect was observed, meaning the more reservoir species the higher the prevalence in vectors. Te number of small mammal species per site did not infuence Borrelia prevalence in the hosts themselves. ",
+        "bbox": [
+            505,
+            213,
+            904,
+            408
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Six Borrelia genospecies were identifed in the present study. B. afzelii was predominant in ticks (37/69) and small mammals (7/8), followed by B. garinii [which was found in ticks (16/69) and small mammals (1/8)]; similar results have been previously reported [31, 58] for Germany and elsewhere in Europe [53]. Te other genospecies—B. valaisiana (6/69), B. lusitaniae (3/69), B. burgdorferi s.s. (2/69) and B. spielmanii (2/69)—were found only in ticks, and have been described before in ticks from Germany at similar frequencies [59, 60]. Te diversity of the detected genospecies was higher [14, 31, 58] or similar to that of other studies carried out in Germany, Belarus, and Romania [59–62]. Te reason for this might be the association of certain genospecies with the abundance of their respective reservoirs. Rodents are considered the main reservoir hosts for  following Borrelia genospecies: B. afzelii, B. lusitaniae, B. burgdorferi s.s. and B. spielmanii, while small birds for B. garinii, B. valaisiana as well as B. burgdorferi s.s. Some years ago, B. garinii OspA serotype 4 strains were reclassifed as B. bavariensis, as they use rodents as reservoir hosts instead of birds [11, 63–65]. However, as we did not sequence ospA, which could have been used to discriminate the genospecies, we could only compare the sample from M. arvalis (KS19/1709) to GenBank data; our recG sequence was a $1 0 0 \\%$ match to B. garinii (GenBank no. CP028861). Additionally, lizards are recognized reservoirs for B. lusitaniae, B. valaisiana and B. garinii, and larger mammals for B. burgdorferi s.s. ",
+        "bbox": [
+            505,
+            411,
+            904,
+            851
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MLST has been performed for Borrelia spp. genotyping in ticks from 21 European countries, but for vertebrate hosts only for six European countries (pubmlst. org, accessed on 1 Feb 2022). Our MLST analyses for ",
+        "bbox": [
+            505,
+            851,
+            902,
+            912
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            346,
+            50
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "Page 8 of 11 ",
+        "bbox": [
+            831,
+            39,
+            902,
+            51
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "tick- and small mammal-derived samples revealed 15 diferent STs that have been previously published. Most of these STs were previously detected in humans and/ or ticks from European countries. Six of these STs have been reported in ticks from eight European countries, but never from Germany. One ST (ST 467) that has not been previously reported in ticks was previously reported in a person from France [66]. ST 338, which was detected in a small mammal in the current study, has been formerly described in ticks from Austria (pubmlst.org). Te other ST found in the small mammals (ST 348) has been previously described from a person from Germany, but has never previously been reported for other animals. Additionally, we discovered 13 new STs that have never been reported before (STs 986–998): 12 from ticks and one from a shrew. Te STs found in the ticks did not overlap with those detected in the shrews and voles, suggesting that the ticks acquired the pathogens from other reservoir hosts. However, it should be borne in mind that the number of STs determined in the small mammals was very low. Tis high variety of STs (at least 28) indicates a very diverse Borrelia population, even at individual sites (e.g. E1, E3, UH1). Te quantity and variety of Borrelia STs refected the generally high plant and animal biodiversity of this region, which has many potential host species [20, 57, 67–69]. However, as we tested only small mammals, other potential host groups should be investigated in future research. ",
+        "bbox": [
+            87,
+            107,
+            492,
+            532
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            554,
+            189,
+            565
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tis study was conducted in an area of high biodiversity with numerous species of animals and plants. Our results showed a high species richness of small mammals $( n = 1 0 )$ , ticks $\\left( n = 3 \\right)$ and Borrelia genospecies $\\left( n = 6 \\right)$ . Likewise, the number of detected Borrelia STs $( \\geq 2 8 )$ was also very high. Te genetic variation of B. afzelii in ticks was not aligned with that in shrews and voles, which points to other vertebrate host species contributing to the life cycle of this pathogen. Te prevalence of Borrelia in ticks seemed to be infuenced by habitat, as in grassland habitats adjacent to forest the prevalence was higher than in the forested habitats. Even though the prevalence of Borrelia in ticks and small mammals was moderate, all the genospecies detected have zoonotic potential and constitute a disease risk for humans. Terefore, the attention of public health authorities should be drawn to the results presented here for this region of Germany. ",
+        "bbox": [
+            89,
+            568,
+            489,
+            843
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            867,
+            171,
+            877
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CI: Confdence interval; Ct: Cycle threshold; GLMM: Generalized linear mixed model; MLST: Multilocus sequence typing; PCR: Polymerase chain reaction; s.l.: Sensu lato; s.s.: Sensu stricto; STs: Sequence types. ",
+        "bbox": [
+            89,
+            878,
+            485,
+            913
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            107,
+            727,
+            122
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The online version contains supplementary material available at https://doi. org/10.1186/s13071-​022-​05326-​3 ",
+        "bbox": [
+            505,
+            125,
+            890,
+            149
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additional fle 1: Table S1. Results of a GLMM with a binomial error distribution for efects of habitat, small mammal species and season on Borrelia spp. infection probability in small mammals. Table S2. General‑ ized linear model for Borrelia spp. infection probability in small mammals according to the number of small mammal species per site. Table S3. Results of a GLMM with a binomial error distribution for efects of habitat, tick developmental stage and seasonality on Borrelia spp. infection prob‑ ability in ticks. Table S4. Generalized linear model results for Borrelia spp. infection probability in ticks according to the number of small mammal species detected per site. Table S5. Results of MLST analyses of Borrelia spp. samples from ticks and small mammals. ",
+        "bbox": [
+            515,
+            163,
+            889,
+            289
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            310,
+            621,
+            321
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The publication fee of this paper was covered by Leipzig University within the program of Open Access Publishing in the framework of the 16th CVBD World Forum Symposium. The authors would like to thank Dana Rüster for her excellent technical assistance and lab work, and Volker Fingerle for providing the positive controls. ",
+        "bbox": [
+            505,
+            321,
+            900,
+            379
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            389,
+            626,
+            400
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conceptualization, CI, JJ, RGU, MP, AO, NK; methodology, CI, AO, NK; sample collection, CI, KJ, AO, NK; validation, NK, AO, CI; formal analysis, NK, AO, ES; investigation, NK, AO, CA, ES, ZRS; data curation, NK; writing—original draft preparation, NK and AO; writing—review and editing, CI, JJ, RGU, KJ, ZRS, MP; visualization, NK and AO. All the authors have read and approved the fnal version of the manuscript. ",
+        "bbox": [
+            505,
+            401,
+            897,
+            470
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            481,
+            557,
+            492
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The small mammal trapping was commissioned and funded by the Federal Environment Agency within the Environment Research Plan of the German Federal Ministry for the Environment, Nature Conservation, Building, and Nuclear Safety (to JJ; grant number 3716484310) and partially supported by the Bundesministerium für Bildung und Forschung through the research net Zoonotic Infectious Diseases (consortium RoBoPub; grant number 01KI1721A/01KI2004A to RGU and 01KI1721A/01KI2004E to JJ). This study was also partially funded by the Veterinarian Faculty of the University of Leipzig through the Young Scientists Award (to NK). ",
+        "bbox": [
+            505,
+            492,
+            900,
+            594
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Availability of data and materials ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            606,
+            690,
+            617
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The datasets generated and analysed during the current study are available from the corresponding author. ",
+        "bbox": [
+            505,
+            617,
+            889,
+            641
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Declarations ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            658,
+            596,
+            670
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ethics approval and consent to participate ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            682,
+            741,
+            693
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Permits for small mammal trapping were approved by the Thuringia State Ofce of Consumer Protection (protocol code 22-2684-04-15-105/16). ",
+        "bbox": [
+            505,
+            693,
+            880,
+            716
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Consent for publication ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            727,
+            638,
+            739
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All the authors agreed to the publishing of the results. ",
+        "bbox": [
+            507,
+            739,
+            781,
+            751
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            762,
+            621,
+            773
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no conficts of interest. The funders were not involved in the study design, sample collection, or analyses. ",
+        "bbox": [
+            505,
+            773,
+            890,
+            796
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author details ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            807,
+            589,
+            817
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 Institute of Animal Hygiene and Veterinary Public Health, University of Leipzig, An den Tierkliniken 1, 04103 Leipzig, Germany. 2 Institute of Novel and Emerging Infectious Diseases, Friedrich-Loefer-Institut, Südufer 10, 17493 Greifswald, Insel Riems, Germany. 3 Institute for Parasitology, Centre for Infectious Diseases, Faculty of Veterinary Medicine, University of Leipzig, An den Tierkliniken 35, 04103 Leipzig, Germany. 4 Institute for Plant Protec‑ tion in Horticulture and Forests, Julius Kühn-Institute, Toppheideweg 88, 48161 Münster, Germany. ",
+        "bbox": [
+            505,
+            818,
+            890,
+            911
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            37,
+            347,
+            50
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "Page 9 of 11 ",
+        "bbox": [
+            831,
+            39,
+            905,
+            53
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Received: 10 February 2022 Accepted: 16 May 2022 Published online: 07 June 2022 ",
+        "bbox": [
+            90,
+            107,
+            366,
+            132
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            165,
+            154,
+            177
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Medlock JM, Hansford KM, Bormane A, Derdakova M, Estrada-Peña A, George J-C, et al. Driving forces for changes in geographical distribution of Ixodes ricinus ticks in Europe. Parasit Vectors. 2013;6:1. ",
+            "2. Drehmann M, Springer A, Lindau A, Fachet K, Mai S, Thoma D, et al. The spatial distribution of Dermacentor ticks (Ixodidae) in Germanyevidence of a continuing spread of Dermacentor reticulatus. Front Vet Sci. 2020;7:578220. ",
+            "3. Földvári G, Široký P, Szekeres S, Majoros G, Sprong H. Dermacentor reticula tus: a vector on the rise. Parasit Vectors. 2016;9:314. ",
+            "4. Gern L, Estrada-Peña A, Frandsen F, Gray JS, Jaenson T, Jongejan F, et al. European reservoir hosts of Borrelia burgdorferi sensu lato. Zentralbl Bakteriol. 1998;287:196–204. ",
+            "5. Brunner JL, LoGiudice K, Ostfeld RS. Estimating reservoir competence of Borrelia burgdorferi hosts: prevalence and infectivity, sensitivity, andspeci‑ fcity. J Med Entomol. 2008;45:139–47. ",
+            "6. Rizzoli A, Haufe H, Carpi G, Vourc HG, Neteler M, Rosa R. Lyme borreliosis in Europe. Euro Surveill. 2011. https://doi.org/10.2807/ese.16.27.19906-​en ",
+            "7. Bonnet S, La De Fuente J, Nicollet P, Liu X, Madani N, Blanchard B, et al. Prevalence of tick-borne pathogens in adult Dermacentor spp. ticks from nine collection sites in France. Vector Borne Zoonotic Dis. 2013;13:226–36. ",
+            "8. Mierzejewska EJ, Pawełczyk A, Radkowski M, Welc-Falęciak R, Bajer A. Pathogens vectored by the tick, Dermacentor reticulatus, in endemic regions and zones of expansion in Poland. Parasit Vectors. 2015;8:490. ",
+            "9. Waindok P, Schicht S, Fingerle V, Strube C. Lyme borreliae prevalence and genospecies distribution in ticks removed from humans. Ticks Tick Borne Dis. 2017;8:709–14. ",
+            "10. Margos G, Lane RS, Fedorova N, Koloczek J, Piesman J, Hojgaard A, et al. Borrelia bissettiae sp. nov. and Borrelia californiensis sp nov. prevail in diverse enzootic transmission cycles. Int J Syst Evol Microbiol. 2016;66:1447–52. ",
+            "11. Kurtenbach K, de Michelis S, Etti S, Schäfer SM, Sewell H-S, Brade V, et al. Host association of Borrelia burgdorferi sensu lato—the key role of host complement. Trends Microbiol. 2002;10:74–9. ",
+            "12. Humair PF, Turrian N, Aeschilimann A, Gern L. Borrelia burgdorferi in a focus of Lyme borreliosis: epizootiologic contribution of small mammals. Folia Parasitol (Praha). 1993;40:65–70. ",
+            "13. Kurtenbach K, Dizij A, Seitz HM, Margos G, Moter SE, Kramer MD, et al. Diferential immune responses to Borrelia burgdorferi in European wild rodent species infuence spirochete transmission to Ixodes ricinus L. (Acari: Ixodidae). Infect Immun. 1994;62:5344–52. ",
+            "14. Obiegala A, Król N, Oltersdorf C, Nader J, Pfefer M. The enzootic life-cycle of Borrelia burgdorferi (sensu lato) and tick-borne rickettsiae: an epidemio‑ logical study on wild-living small mammals and their ticks from Saxony, Germany. Parasit Vectors. 2017;10:115. ",
+            "15. Matuschka FR, Fischer P, Heiler M, Richter D, Spielman A. Capacity of Euro‑ pean animals as reservoir hosts for the Lyme disease spirochete. J Infect Dis. 1992;165:479–83. ",
+            "16. Margos G, Vollmer SA, Cornet M, Garnier M, Fingerle V, Wilske B, et al. A new Borrelia species defned by multilocus sequence analysis of house‑ keeping genes. Appl Environ Microbiol. 2009;75:5410–6. ",
+            "17. Buhnerkempe MG, Roberts MG, Dobson AP, Heesterbeek H, Hudson PJ, Lloyd-Smith JO. Eight challenges in modelling disease ecology in multihost, multi-agent systems. Epidemics. 2015;10:26–30. ",
+            "18. Keesing F, Brunner J, Duerr S, Killilea M, Logiudice K, Schmidt K, et al. Hosts as ecological traps for the vector of Lyme disease. Proc Biol Sci. 2009;276:3911–9. ",
+            "19. LoGiudice K, Duerr STK, Newhouse MJ, Schmidt KA, Killilea ME, Ostfeld RS Impact of host community composition on Lyme disease risk. Ecology. 2008;89:2841–9. ",
+            "20. LoGiudice K, Ostfeld RS, Schmidt KA, Keesing F. The ecology of infectious disease: efects of host diversity and community composition on Lyme disease risk. Proc Natl Acad Sci USA. 2003;100:567–71. ",
+            "21. Matuschka FR, Spielman A. Loss of Lyme disease spirochetes from Ixodes ricinus ticks feeding on European blackbirds. Exp Parasitol. 1992;74:151–8. "
+        ],
+        "bbox": [
+            95,
+            178,
+            485,
+            917
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "22. Richter D, Matuschka FR. Elimination of Lyme disease spirochetes from ticks feeding on domestic ruminants. Appl Environ Microbiol. 2010;76:7650–2. ",
+            "23. Wang G, Liveris D, Mukherjee P, Jungnick S, Margos G, Schwartz I. Molecu‑ lar typing of Borrelia burgdorferi. Curr Protoc Microbiol. 2014. https://doi. org/10.1002/9780471729259.mc12c05s34 ",
+            "24. Miller CL, Karna SLR, Seshu J. Borrelia host adaptation regulator (BadR) regulates rpoS to modulate host adaptation and virulence factors in Borrelia burgdorferi. Mol Microbiol. 2013;88:105–24. ",
+            "25. Anguita J, Hedrick MN, Fikrig E. Adaptation of Borrelia burgdorferi in the tick and the mammalian host. FEMS Microbiol Rev. 2003;27:493–504. ",
+            "26. Samuels DS. Gene regulation in Borrelia burgdorferi. Annu Rev Microbiol. 2011;65:479–99. ",
+            "27. Jeske K, Weber S, Pfaf F, Imholt C, Jacob J, Beer M, et al. Molecular detec‑ tion and characterization of the frst cowpox virus isolate derived from a bank vole. Viruses. 2019. https://doi.org/10.3390/v11111075 ",
+            "28. Jeske K, Jacob J, Drewes S, Pfefer M, Heckel G, Ulrich RG, et al. Hantavirus-Leptospira coinfections in small mammals from central Germany. Epide‑ miol Infect. 2021;149:e97. ",
+            "29. Siuda K. Kleszcze polski (Acari: Ixodida): systematyka i rozmieszczenie. Warszawa: Polskie Towarzystwo Parazytologiczne; 1993. (in Polish). ",
+            "30. Estrada-Peña A, Mihalca AD, Petney T, editors. Ticks of Europe and North Africa: a guide to species identifcation. Cham: Springer; 2017. ",
+            "31. Galfsky D, Król N, Pfefer M, Obiegala A. Long-term trends of tick-borne pathogens in regard to small mammal and tick populations from Saxony, Germany. Parasit Vectors. 2019;12:131. ",
+            "32. Schwaiger M, Péter O, Cassinotti P. Routine diagnosis of Borrelia burgdorferi (sensu lato) infections using a real-time PCR assay. Clin Microbiol Infect. 2001;7:461–9. ",
+            "33. Bates D, Mächler M, Bolker B, Walker S. Fitting linear mixed-efects models using lme4. J Stat Softw. 2015. https://doi.org/10.18637/jss.v067.i01 ",
+            "34. Lenth R, Singmann H, Love J, Buerkner P, Herve M. Emmeans: estimated marginal means, aka least-squares means: R package version; 2018. ",
+            "35. Moore JC. Diversity, taxonomic versus functional. In: Moore JC, editor. Encyclopedia of biodiversity. 2nd ed. Amsterdam: Academic press; 2013. p. 648–56. ",
+            "36. Estrada-Peña A, Nava S, Petney T. Description of all the stages of Ixodes inopinatus n. sp. (Acari: Ixodidae). Ticks Tick Borne Dis. 2014;5:734–43. ",
+            "37. de Boer R, Hovius KE, Nohlmans M, Gray JS. The woodmouse (Apodemus sylvaticus) as a reservoir of tick-transmitted spirochetes (Borrelia burgdorferi) in the Netherlands. Zentralbl Bakteriol. 1993;279:404–16. ",
+            "38. Kurtenbach K, Kampen H, Dizij A, Arndt S, Seitz HM, Schaible UE, et al. Infestation of rodents with larval Ixodes ricinus (Acari: Ixodidae) is an important factor in the transmission cycle of Borrelia burgdorferi s.l. in German woodlands. J Med Entomol. 1995;32:807–17. ",
+            "39. Barandika JF, Hurtado A, García-Esteban C, Gil H, Escudero R, Barral M, et al. Tick-borne zoonotic bacteria in wild and domestic small mammals in northern Spain. Appl Environ Microbiol. 2007;73:6166–71. ",
+            "40. Gryczyńska A, Gortat T, Kowalec M. Urban rodent reservoirs of Borrelia spp. in Warsaw, Poland. Epidemiol Infect. 2018;146:589–93. ",
+            "41. Siński E, Pawełczyk A, Bajer A, Behnke J. Abundance of wild rodents, ticks and environmental risk of Lyme borreliosis: a longitudinal study in an area of Mazury Lakes district of Poland. Ann Agric Environ Med. 2006;13:295–300. ",
+            "42. Kybicová K, Kurzová Z, Hulínská D. Molecular and serological evidence of Borrelia burgdorferi sensu lato in wild rodents in the Czech Republic. Vector Borne Zoonotic Dis. 2008;8:645–52. ",
+            "43. Marsot M, Sigaud M, Chapuis JL, Ferquel E, Cornet M, Vourc’h G. Intro‑ duced Siberian chipmunks (Tamias sibiricus barberi) harbor more-diverse Borrelia burgdorferi sensu lato genospecies than native bank voles (Myodes glareolus). Appl Environ Microbiol. 2011;77:5716–21. ",
+            "44. Pascucci I, Di Domenico M, Dall’Acqua F, Sozio G, Cammà C. Detection of Lyme disease and Q fever agents in wild rodents in Central Italy. Vector Borne Zoonotic Dis. 2015;15:404–11. ",
+            "45. Gray JS, Kirstein F, Robertson JN, Stein J, Kahl O. Borrelia burgdorferi sensu lato in Ixodes ricinus ticks and rodents in a recreational park in southwestern Ireland. Exp Appl Acarol. 1999;23:717–29. ",
+            "46. Khanakah G, Kocianová E, Vyrosteková V, Rehácek J, Kundi M, Stanek G. Seasonal variations in detecting Borrelia burgdorferi sensu lato in rodents from north eastern Austria. Wien Klin Wochenschr. 2006;118:754–8. "
+        ],
+        "bbox": [
+            510,
+            107,
+            902,
+            903
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            39,
+            347,
+            51
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "Page 10 of 11 ",
+        "bbox": [
+            826,
+            40,
+            904,
+            53
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "47. Kahl O, Janetzki C, Gray JS, Stein J, Bauch RJ. Tick infection rates with Borrelia: Ixodes ricinus versus Haemaphysalis concinna and Dermacentor reticulatus in two locations in eastern Germany. Med Vet Entomol. 1992;6:363–6. ",
+            "48. Kohn M, Krücken J, McKay-Demeler J, Pachnicke S, Krieger K, von Samson-Himmelstjerna G. Dermacentor reticulatus in Berlin/Brandenburg (Germany): activity patterns and associated pathogens. Ticks Tick Borne Dis. 2019;10:191–206. ",
+            "49. Richter D, Kohn C, Matuschka FR. Absence of Borrelia spp., Candidatus Neoehrlichia mikurensis, and Anaplasma phagocytophilum in questing adult Dermacentor reticulatus ticks. Parasitol Res. 2013;112:107–11. ",
+            "50. Opalińska P, Wierzbicka A, Asman M. The PCR and nested PCR detec‑ tion of Borrelia burgdorferi sensu lato, Anaplasma phagocytophilum and Babesia microti in Dermacentor reticulatus F. collected in a new location in Poland (Trzciel, western Poland). Acta Parasitol. 2016;61:849–54. ",
+            "51. Kovryha N, Tsyhankova A, Zelenuchina O, Mashchak O, Terekhov R, Rogovskyy AS. Prevalence of Borrelia burgdorferi and Anaplasma phagocytophilum in ixodid ticks from southeastern Ukraine. Vector Borne Zoonotic Dis. 2021;21:242–6. ",
+            "52. Rauter C, Hartung T. Prevalence of Borrelia burgdorferi sensu lato geno‑ species in Ixodes ricinus ticks in Europe: a metaanalysis. Appl Environ Microbiol. 2005;71:7203–16. ",
+            "53. Strnad M, Hönig V, Růžek D, Grubhofer L, Rego R. Europe-wide metaanalysis of Borrelia burgdorferi sensu lato prevalence in questing Ixodes ricinus ticks. Appl Environ Microbiol. 2017. https://doi.org/10.1128/AEM. 00609-​17 ",
+            "54. Burton V, Moseley D, Brown C, Metzger MJ, Bellamy P. Reviewing the evidence base for the efects of woodland expansion on biodiversity and ecosystem services in the United Kingdom. For Ecol Manage. 2018;430:366–79. ",
+            "55. Ciccarese L, Mattsson A, Pettenella D. Ecosystem services from forest restoration: thinking ahead. New For. 2012;43:543–60. ",
+            "56. Ostfeld RS, Keesing F, Eviner V. Infectious disease ecology: efects of eco‑ systems on disease and of disease on ecosystems. Princeton: Princeton University Press; 2008. ",
+            "57. Ostfeld RS, Keesing F. Biodiversity series: the function of biodiversity in the ecology of vector-borne zoonotic diseases. Can J Zool. 2000;78:2061–78. ",
+            "58. Răileanu C, Tauchmann O, Vasić A, Wöhnke E, Silaghi C. Borrelia miyamotoi and Borrelia burgdorferi (sensu lato) identifcation and survey of tickborne encephalitis virus in ticks from north-eastern Germany. Parasit Vectors. 2020;13:106. ",
+            "59. Springer A, Jordan D, Glass A, Kahl O, Fingerle V, Girl P, et al. Borrelia infections in ageing ticks: relationship with morphometric age ratio in feld-collected Ixodes ricinus nymphs. Microorganisms. 2022. https://doi. org/10.3390/microorganisms10010166 ",
+            "60. Springer A, Raulf M-K, Fingerle V, Strube C. Borrelia prevalence and spe‑ cies distribution in ticks removed from humans in Germany, 2013–2017. Ticks Tick Borne Dis. 2020;11:101363. ",
+            "61. Reye AL, Stegniy V, Mishaeva NP, Velhin S, Hübschen JM, Ignatyev G, et al. Prevalence of tick-borne pathogens in Ixodes ricinus and Dermacentor reticulatus ticks from diferent geographical locations in Belarus. PLoS ONE. 2013;8:e54476. ",
+            "62. Raileanu C, Moutailler S, Pavel I, Porea D, Mihalca AD, Savuta G, et al. Borrelia diversity and co-infection with other tick borne pathogens in ticks. Front Cell Infect Microbiol. 2017;7:36. ",
+            "63. Rudenko N, Golovchenko M, Grubhofer L, Oliver JH. Updates on Borrelia burgdorferi sensu lato complex with respect to public health. Ticks Tick Borne Dis. 2011;2:123–8. ",
+            "64. Huegli D, Hu CM, Humair P-F, Wilske B, Gern L. Apodemus species mice are reservoir hosts of Borrelia garinii OspA serotype 4 in Switzerland. J Clin Microbiol. 2002;40:4735–7. ",
+            "65. Margos G, Fingerle V, Reynolds S. Borrelia bavariensis: vector switch, niche invasion, and geographical spread of a tick-borne bacterial parasite. Front Ecol Evol. 2019. https://doi.org/10.3389/fevo.2019.00401 ",
+            "66. Gallais F, de Martino SJ, Sauleau EA, Hansmann Y, Lipsker D, Lenormand C, et al. Multilocus sequence typing of clinical Borreliella afzelii strains: population structure and diferential ability to disseminate in humans. Parasit Vectors. 2018;11:374. ",
+            "67. Ostfeld RS, Keesing F. Biodiversity and disease risk: the case of Lyme disease. Conserv Biol. 2000;14:722–8. "
+        ],
+        "bbox": [
+            90,
+            107,
+            487,
+            903
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "68. Ostfeld RS, Keesing F. Efects of host diversity on infectious disease. Annu Rev Ecol Evol Syst. 2012;43:157–82. ",
+            "69. Dantas-Torres F. Climate change, biodiversity, ticks and tick-borne dis‑ eases: the butterfy efect. Int J Parasitol Parasites Wildl. 2015;4:452–61. "
+        ],
+        "bbox": [
+            509,
+            107,
+            900,
+            154
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Publisher’s Note ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            170,
+            636,
+            183
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Springer Nature remains neutral with regard to jurisdictional claims in pub‑ lished maps and institutional afliations. ",
+        "bbox": [
+            505,
+            184,
+            887,
+            207
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ready to submit your research? Choose BMC and benefit from: ",
+        "text_level": 1,
+        "bbox": [
+            529,
+            751,
+            833,
+            764
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• fast, convenient online submission ",
+            "• thorough peer review by experienced researchers in your field ",
+            "• rapid publication on acceptance ",
+            "• support for research data, including large and complex data types ",
+            "• gold Open Access which fosters wider collaboration and increased citations ",
+            "• maximum visibility for your research: over 100M website views per year "
+        ],
+        "bbox": [
+            536,
+            774,
+            892,
+            860
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "At BMC, research is always in progress. ",
+        "bbox": [
+            529,
+            872,
+            749,
+            884
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Learn more biomedcentral.com/submissions ",
+        "bbox": [
+            529,
+            892,
+            764,
+            903
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/52e59a67d13b101b888338375d26bce38c40376f3485e20097ff7818d3f55080.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            788,
+            881,
+            816,
+            902
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BMC ",
+        "bbox": [
+            821,
+            881,
+            892,
+            902
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Król et al. Parasites & Vectors (2022) 15:195 ",
+        "bbox": [
+            90,
+            39,
+            344,
+            51
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "Page 11 of 11 ",
+        "bbox": [
+            826,
+            40,
+            902,
+            51
+        ],
+        "page_idx": 10
+    }
+]

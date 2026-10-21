@@ -1,0 +1,1235 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.536,
+                0.063,
+                0.898,
+                0.084
+            ],
+            "angle": 0,
+            "content": "European Journal of Epidemiology 17: 189-194, 2001. © 2001 Kluwer Academic Publishers. Printed in the Netherlands."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.103,
+                0.124,
+                0.537,
+                0.143
+            ],
+            "angle": 0,
+            "content": "Hantavirus infections in Greece – an update"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.103,
+                0.172,
+                0.327,
+                0.188
+            ],
+            "angle": 0,
+            "content": "A. Papa & A. Antoniadis"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.19,
+                0.878,
+                0.216
+            ],
+            "angle": 0,
+            "content": "Department of Microbiology (WHO Collaborating Centre for Reference and Research on Arboviruses and Haemorrhagic Fever Viruses), School of Medicine, Aristotelian University of Thessaloniki, Thessaloniki, Greece"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.231,
+                0.355,
+                0.244
+            ],
+            "angle": 0,
+            "content": "Accepted in revised form 21 May 2001"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.273,
+                0.485,
+                0.372
+            ],
+            "angle": 0,
+            "content": "Abstract. Hantaviruses are emerging viruses spread worldwide and cause hemorrhagic fever with renal syndrome (HFRS) or hantavirus pulmonary syndrome (HPS). Two pathogenic hantaviruses are present in Greece: Dobrava/Belgrade virus (DOBV) and Puumala virus (PUUV). The predominant one is DOBV, carried in Greece by the rodent Apodemus"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.273,
+                0.896,
+                0.372
+            ],
+            "angle": 0,
+            "content": "flavicollis. Most human infections are sporadic, but epidemic outbreaks were also described. The severity of the disease ranges from a mild or moderate form to severe and fatal cases. Several endemic foci for HFRS have been identified. Phylogenetic analysis of hantavirus sequences revealed a stable geographical distribution."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.386,
+                0.745,
+                0.401
+            ],
+            "angle": 0,
+            "content": "Key words: Dobrava virus, Greece, Hantavirus, Hemorrhagic fever with renal syndrome"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.103,
+                0.426,
+                0.188,
+                0.44
+            ],
+            "angle": 0,
+            "content": "Introduction"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.454,
+                0.485,
+                0.61
+            ],
+            "angle": 0,
+            "content": "Hippocrates already gave the initial description of many infectious diseases in the fifth century BC. However, mankind, entering the 21st century, is still in front of 'emerging' diseases. Hantaviruses are excellent paradigms of 'emerging or reemerging viruses' as they are old viruses but they appear unexpectedly in new regions causing new infectious diseases in humans. Changes in environmental conditions, as well as war conflicts, may change the dynamics of the rodent population and subsequently the epidemiology of hantaviruses [1, 2]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.611,
+                0.485,
+                0.936
+            ],
+            "angle": 0,
+            "content": "Hantaviruses belong to the largest virus family, the Bunyaviridae. They are enveloped negative-stranded RNA viruses, with a tripartite genome of S (small), M (medium) and L (large) segments encoding a nucleocapsid protein N, the two glycoproteins G1 and G2 and a viral RNA polymerase, respectively [3]. They are transmitted to humans via inhalation of aerosolized excreta of silently lifelong infected carrier rodents. Hantaan (HTN), Seoul (SEO), Dobrava/Belgrade (DOB) and Puumala (PUU) viruses are known to cause an acute febrile nephropathy known as hemorrhagic fever with renal syndrome (HFRS) in Asia and Europe, while Sin Nombre (SN) and related viruses cause hantavirus pulmonary syndrome (HPS) in America [4, 5]. This geographic distinction is due to the different geographic distribution of the rodent hosts. Several other hantaviruses, including Prospect Hill (PH), Thailand (THAI), Thottapalayam (TPM), Kabarovsk (KBR), Tula (TUL) and Topografov (TOP) have been described, but they are not at present implicated with any disease in humans."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.426,
+                0.896,
+                0.581
+            ],
+            "angle": 0,
+            "content": "Every hantavirus is associated with specific primary rodent reservoirs within the family Muridae. HTN, SEO, DOB viruses are associated with rodents belonging to the Murinae subfamily (genera Apodemus and Rattus), PUU and PH are associated with rodents of the Arvicolinae subfamily (genera Clethrionomys and Microtus), while SN and related viruses that have been implicated in HPS are either proven or suspected to be associated with murid rodents of the Sigmodontinae subfamily (genera Peromyscus, Sigmodon, Oligoryzomys etc.)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.583,
+                0.896,
+                0.837
+            ],
+            "angle": 0,
+            "content": "In Europe, two hantaviruses are so far associated with disease to humans: DOBV and PUUV. DOBV is carried by Apodemus flavicollis, the yellow-necked mouse and causes severe HFRS in the Balkans; PUUV is carried by the red bank vole, Clethrionomys glareolus, and causes nephropathia epidemiica, a milder form of HFRS, mostly in the northern Europe. During the last years a number of HFRS cases due to DOBV were reported in several European countries outside Balkans: in Russia [6], Estonia [7], Germany [8, 9] and Slovakia [10]. All these cases were mild or moderate and none of them was fatal. Screening for infected rodents revealed that the striped field mouse, \\(A\\). agrarius, represents the main reservoir for DOBV in central and eastern Europe [11-14]. Probably the different rodent host is related to the difference of the pathogenicity of the virus and the severity of the disease."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.514,
+                0.866,
+                0.763,
+                0.881
+            ],
+            "angle": 0,
+            "content": "Hantavirus epidemiology in Greece"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.894,
+                0.896,
+                0.937
+            ],
+            "angle": 0,
+            "content": "HFRS is endemic in the Balkan Peninsula, where isolated cases as well as outbreaks have been reported in Albania [15], Bulgaria [16, 17], Romania [18], and"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.102,
+                0.072,
+                0.129,
+                0.083
+            ],
+            "angle": 0,
+            "content": "190"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.1,
+                0.486,
+                0.128
+            ],
+            "angle": 0,
+            "content": "in different republics and provinces of the former Yugoslavia [19-26]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.129,
+                0.486,
+                0.368
+            ],
+            "angle": 0,
+            "content": "The study on HFRS in Greece began on 1980. The first serological evidence for HFRS in Greece was reported in 1981 [27], 5 years after the isolation of the etiologic agent of Korean hemorrhagic fever by Lee et al. [28]. In 1982, the first HFRS cases were serologically diagnosed in Greece and the clinical symptoms of the disease as it appears in Greece were described [29, 30]. From the description of the first HFRS cases up to date a number of approximately 210 cases were diagnosed in Greece. The diagnosis was based mainly on the clinical symptoms and the rising immunofluorescence antibody (IgG and IgM) titers to HTNV. Recently, when molecular approaches are also available, diagnosis was also achieved by reverse transcriptase-polymerase chain reaction (RT-PCR) followed by phylogenetic analysis."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.37,
+                0.486,
+                0.539
+            ],
+            "angle": 0,
+            "content": "There is a seasonal distribution of the disease from May to October, with a peak in July and August, which is linked with the crops harvesting period [31]. Similar distribution is observed in other Balkan countries, differing from HFRS in Asia and other parts of Europe [32]. Groups at risk are farmers, shepherds, woodcutters, hunters and military personnel. Serological surveys for the prevalence of hantavirus from selected human populations revealed hantavirus-specific antibodies in \\(4\\%\\) \\((0 - 14\\%)\\) [31]. Higher percentage was observed among individuals with an outdoors occupational risk."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.54,
+                0.486,
+                0.652
+            ],
+            "angle": 0,
+            "content": "Several endemic foci with a high number of seropositive individuals have been identified. Pindos and Rhodope mountain chains (southwestern and southeastern part of Greece, respectively) could be considered as hyperendemic areas, as \\(80\\%\\) of the total HFRS cases occur at these two regions. No HFRS cases have been reported so far from Southern Greece and the islands."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.654,
+                0.486,
+                0.738
+            ],
+            "angle": 0,
+            "content": "The ratio of infected males to females is about 3:1 [31]. The mean age of HFRS patients is 36 years, ranging from 21 to 71 years. In the summer of 1997 an HFRS case was described in an 11-year old boy; this was the first HFRS case described in a child in Greece [33]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.739,
+                0.486,
+                0.937
+            ],
+            "angle": 0,
+            "content": "The mortality rate of hantavirus infections is approximately \\(9\\%\\) (patients die of shock and/or hemorrhage), although this figure is based on the most severe cases that are hospitalized [34]. However, during the last 4 years (1997-2000) although only a small number of serologically confirmed HFRS cases were hospitalized in Northern Greece (14 cases), three of them were fatal, that means a mortality rate of \\(21\\%\\). The overall rate, of course, is lower when milder and inapparent cases are also included. Elisaf et al. [35] examined 21 relatives and neighbors of a severely ill HFRS patient: 3/21 individuals had specific IgM antibodies to HTNV, and reported a recent influenza-like infection, suggesting that mild or"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.1,
+                0.897,
+                0.128
+            ],
+            "angle": 0,
+            "content": "asymptomatic cases may be more common than the severe type of the disease."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.129,
+                0.897,
+                0.242
+            ],
+            "angle": 0,
+            "content": "Most of the HFRS cases in Greece are sporadic, but epidemic outbreaks were also described. One HFRS outbreak was reported in July and August of 1983, when eight male shepherds, 23-66 years old, were admitted to a hospital in northwestern Greece. Five of the patients had a mild form of the disease, but three of them had a severe form, and one of them died on the day of admission with signs of shock [36]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.243,
+                0.897,
+                0.34
+            ],
+            "angle": 0,
+            "content": "Two pathogenic hantaviruses are present in Greece: DOBV and PUUV; the predominant one is DOBV, which in Greece is carried by the rodent \\(A\\). flavicollis (37-41). DOBV was recently isolated from the lungs of \\(A\\). flavicollis trapped at the northeastern part of Greece (Papa et al., paper accepted in J Clin Microbial)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.514,
+                0.37,
+                0.8,
+                0.384
+            ],
+            "angle": 0,
+            "content": "Clinical features and laboratory findings"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.398,
+                0.897,
+                0.653
+            ],
+            "angle": 0,
+            "content": "The clinical manifestations of HFRS in Greece range from a mild or moderate illness to severe cases, resembling the Asian form of HFRS caused by HTNV. The onset of the disease is usually sudden. The clinical symptoms and signs are fever, generalized myalgias, headache, abdominal pain, vomiting, back pain, flushing over the face and neck, hypotension, conjunctival injection and renal insufficiency; hemorrhagic manifestations, pulmonary infiltrates and pulmonary edema are present in smaller number of patients. The most common laboratory findings are proteinuria, hematuria, thrombocytopenia and elevated serum creatinine [32, 34]. In a number of patients elevated values of transamisases are also seen [42]. Approximately \\(30\\%\\) of the patients undergo hemodialysis or peritoneal dialysis for treatment of acute oliguric or anuric renal failure [34]. The hospitalization time is usually 2-3 weeks."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.654,
+                0.897,
+                0.753
+            ],
+            "angle": 0,
+            "content": "Treatment consists of supportive medical management including mainly monitoring of electrolytes and fluid intake and output with corrections, especially during the oliguric and diuretic phases. In most cases recovery is complete; however, cases with chronic renal failure after the acute episode of hantavirus nephropathy have been described [36]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.753,
+                0.897,
+                0.937
+            ],
+            "angle": 0,
+            "content": "A specific humoral response is usually detectable from the first days of the disease. The earliest detection of IgM antibodies was achieved by immunofluorescence assay on the fifth day of the disease [31]. The laboratory diagnosis is based mainly on serology. IgM and IgG hantavirus specific antibodies can be detected by immunofluorescence and ELISA methods. However, a high cross reactivity of HTNV, DOBV and SEOV is observed, even by neutralization assays during the acute phase [26]. Therefore, reliable typing of hantavirus infections should be based on either comparison of neutralization titers from convalescent-phase sera using an adequate panel of hanta"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.871,
+                0.072,
+                0.896,
+                0.084
+            ],
+            "angle": 0,
+            "content": "191"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.1,
+                0.485,
+                0.128
+            ],
+            "angle": 0,
+            "content": "viruses, or RT-PCR on patient/rodent samples with subsequent sequencing and phylogenetic analysis [43]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.129,
+                0.485,
+                0.269
+            ],
+            "angle": 0,
+            "content": "Using neutralization assays, a PUU case was detected in Greece. Focus reduction neutralization test (FRNT) against the four hantaviruses reported to cause HFRS (PUUV, DOBV, HTNV and SEOV) was performed. A clear PUU-specific reactivity of neutralizing antibodies in the acute and late convalescent samples of the patient was observed. This case represents the southernmost PUU infection in Europe [41]. Probably some subclinical HFRS cases in Greece are due to PUU infections."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.27,
+                0.485,
+                0.341
+            ],
+            "angle": 0,
+            "content": "Using molecular methods the first genetic evidence for the association of DOBV with severe HFRS was achieved [37]. Furthermore, it was found that DOBV was the etiologic agent for all the severe HFRS cases, which were positive, by PCR [38]."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.103,
+                0.363,
+                0.239,
+                0.376
+            ],
+            "angle": 0,
+            "content": "The carrier rodents"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.391,
+                0.485,
+                0.674
+            ],
+            "angle": 0,
+            "content": "Greece is a country at the meeting point of three continents: Europe, Asia and Africa. A great number of rodent species are circulating, belonging to Murinae and Arvicolinae subfamilies [44]. Small mammal surveys were conducted by our department in different endemic areas. Apodemus flavicollis, the yellow-necked mouse, was the most common rodent in the fields adjacent to villages and at the lower ranges of mountain pastures [40, 45]. In a recent rodent survey in northern Greece, \\(A\\). flavicollis was the most commonly captured species (87% of captures) [40]. In Nevrokopi village, a small town nearby the Greek-Bulgarian border, a overall hantavirus prevalence of 13% was found in \\(A\\). flavicollis. Nested RT-PCR was performed on RNA extracted from homogenized tissues of captured rodents. Phylogenetic analysis revealed that the amplified sequences of \\(A\\). flavicollis rodents were clustering together with DOBV sequences obtained from human HFRS cases, implicating this rodent species as the reservoir of DOBV in Greece [39]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.676,
+                0.485,
+                0.859
+            ],
+            "angle": 0,
+            "content": "While the presence of \\( C. \\) glareolus and \\( A. \\) agrarius has been reported in Greece [44, 46], yet they are not common, and were never captured during our field trapping surveys. During the last years DOBV sequences were detected also in the striped field mouse, \\( A. \\) agrarius, in Estonia [11, 13], Russia [12], Slovakia [14] and Slovenia [47]. These data suggest that \\( A. \\) agrarius rodents, which were associated with HTNV in Asia, carry also DOBV in Central and Eastern Europe. So far, we have not detected in Greece any \\( A. \\) agrarius infected with hantavirus, neither had we detected sequences from human HFRS cases clustering with DOB-A. agrarius sequences."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.103,
+                0.881,
+                0.27,
+                0.895
+            ],
+            "angle": 0,
+            "content": "Molecular epidemiology"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.909,
+                0.485,
+                0.937
+            ],
+            "angle": 0,
+            "content": "RT-PCR methods followed by sequencing and phylogenetic analysis have the ability to identify the"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.1,
+                0.896,
+                0.128
+            ],
+            "angle": 0,
+            "content": "exact hantavirus strain and to determine the clustering and the genetic distances among different strains."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.129,
+                0.896,
+                0.639
+            ],
+            "angle": 0,
+            "content": "Dobrava virus was originally isolated from the lungs of an \\(A\\). flavicollis in Dobrava village, Slovenia in 1992, and had been suggested to be associated with HFRS in the former Yugoslavia [48]. Belgrade virus was originally isolated from the blood and urine of patients suffering from severe HFRS [49]. These two viruses are now recognized genetically virtually identical, and thus are considered the same virus [50]. The first direct genetic evidence for the association of DOBV with severe HFRS was given in 1996 by the use of RT-PCR for the examination of blood samples from two HFRS patients in Greece [37]. It was shown that these viruses (Nevrokopi-B and Pindos) were both related to DOBV, and that the genetically diverse Dobrava viruses form a monophyletic clade separate from other hantaviruses associated with Murinae rodents (HTN, SEO, THAI). A. flavicollis captured at the same area where one of the patients was infected, found to carry DOBV sequences, which were \\(98.3\\%\\) identical at the nucleotide level to the sequences of the HFRS patient [39]. Following these investigations, a retrospective serological and genetic study of serum samples taken from HFRS cases was conducted in order to find out the distribution of hantaviruses in Greece [38]. Phylogenetic analysis of the partial S and M segments showed that the virus that was responsible for all the PCR-positive HFRS cases was the Dobrava virus. In addition, phylogenetic analysis of the partial S-segment fragments demonstrated three major lineages among the Greek sequences that were distinguished by geographic location [38]. This clear geographical clustering was due mostly to the fact that small rodents have a very small acting area. Additional molecular studies showed that DOBV is associated in Greece by the rodent \\(A\\). flavicollis [39, 40]."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.64,
+                0.897,
+                0.879
+            ],
+            "angle": 0,
+            "content": "A phylogenetic tree based on 272-bp fragments of the hantavirus S RNA segment is seen in Figure 1. Three lineages are distinct in the DOBV clade: one from Estonia, a second one from Russia, Slovenia and Slovakia, and a third one from Slovenia, Slovakia and Greece. The sequences in the first and the second lineages are derived from \\( A \\) agrarius, whereas sequences in the third lineage are derived either from \\( A \\) flavicollis, or from human samples taken from Greek HFRS patients. The third lineage is further subdivided into two smaller clusters: one from Slovenia, Slovakia and Northeastern Greece, and a second one from Central and Northeastern Greece. Greek sequences derived from human HFRS cases and \\( A \\) flavicollis rodents differ approximately \\( 15\\% \\) at the nucleotide level from sequences derived from \\( A \\) agrarius."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.881,
+                0.896,
+                0.937
+            ],
+            "angle": 0,
+            "content": "Sequences AP9Af and AP13Af were derived from tissues from \\(A\\) flavicollis trapped in 1999; they had \\(1.1\\%\\) nucleotide difference with the sequence derived from the HFRS patient TD, who was infected at the"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.102,
+                0.071,
+                0.13,
+                0.084
+            ],
+            "angle": 0,
+            "content": "192"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.139,
+                0.1,
+                0.856,
+                0.616
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.097,
+                0.622,
+                0.9,
+                0.716
+            ],
+            "angle": 0,
+            "content": "Figure 1. Phylogenetic tree based on 272-bp sequences of the hantavirus S segments. PHYLIP software package [51] was used to prepare 100 bootstrap replicates of the sequence data, with values above \\(60\\%\\) indicated at the nodes. Horizontal distances are proportional to nucleotide differences (see bar scale), while vertical branches are for visual clarity only. All sequences are available in GenBank. Greek sequences have the following accession numbers: AF060014-AF060024, AF039525, AJ276305 and AJ276306. Abbreviations of the viruses are as follows: HTN = Hantaan; SEO = Seoul; SN = Sin Nombre; KBR = Khabarovsk; BAY = Bayou; TUL = Tula; PUU = Puumala; BCC = Black Creek Canal; ELMC = El Moro Canyon."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.098,
+                0.735,
+                0.488,
+                0.82
+            ],
+            "angle": 0,
+            "content": "same area in 1986. Similar close genetic relation, independent of time, but exclusively dependent on geographical region, among different Greek DOBV sequences, was observed in a retrospective study [38]. These data show the slow evolution of DOBV and the stable geographical distribution of different strains."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.099,
+                0.838,
+                0.182,
+                0.851
+            ],
+            "angle": 0,
+            "content": "Conclusion"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.098,
+                0.866,
+                0.487,
+                0.938
+            ],
+            "angle": 0,
+            "content": "It is evident that both DOBV and PUUV are endemic in Greece and cause HFRS. The predominant one is DOBV, carried in Greece by the rodent \\(A\\).flavicollis. In contrast to the rest of Europe where mild PUU or DOB cases are present, the majority of the Greek"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.735,
+                0.899,
+                0.763
+            ],
+            "angle": 0,
+            "content": "HFRS cases are caused by DOBV, they are more severe, but hopefully not very frequent."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.764,
+                0.899,
+                0.835
+            ],
+            "angle": 0,
+            "content": "Diverse hantaviruses, not always recognized, are spread worldwide causing infectious diseases to humans. There is still a lot of work to be done in order to understand the epidemiology of hantaviruses and their rodent (or other) hosts in every part of the world."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.512,
+                0.857,
+                0.593,
+                0.87
+            ],
+            "angle": 0,
+            "content": "References"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.518,
+                0.884,
+                0.899,
+                0.937
+            ],
+            "angle": 0,
+            "content": "1. Hjelle B, Glass GE. Outbreak of hantavirus infection in the four corners region of the United States in the wake of the 1997-1998 El Niño-Southern oscillation. J Infect Dis 2000; 181: 1569-1573."
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.87,
+                0.072,
+                0.898,
+                0.084
+            ],
+            "angle": 0,
+            "content": "193"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.1,
+                0.486,
+                0.151
+            ],
+            "angle": 0,
+            "content": "2. Bugert JJ, Welzel TM, Zeier M, Darai G. Hantavirus infection-haemorrhagic fever in the Balkans - potential nephrological hazards in the Kosovo war. Nephrol Dial Transplant 1999; 14: 1843-1844."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.152,
+                0.486,
+                0.19
+            ],
+            "angle": 0,
+            "content": "3. Schmaljohn C. Molecular biology of hantaviruses. In: Elliott R (ed.), The Bunyaviridae, New York: Plenum Press, 1996: 63-90."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.191,
+                0.486,
+                0.242
+            ],
+            "angle": 0,
+            "content": "4. Nichol ST, Spiropoulou CF, Morzunov S, et al. Genetic identification of a hantavirus associated with an outbreak of acute respiratory illness. Science 1993; 262: 914-917."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.243,
+                0.486,
+                0.269
+            ],
+            "angle": 0,
+            "content": "5. Schmaljohn C, Hjelle B. Hantaviruses: A global disease problem. Emerg Infect Dis 1997; 3: 95-104."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.27,
+                0.486,
+                0.307
+            ],
+            "angle": 0,
+            "content": "6. Lundkvist A, Apekina N, Myasnikov Y, Vapalahti O, Vaheri A, Plyusnin A. Dobrava hantavirus outbreak in Russia. Lancet 1997; 350: 781-782."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.308,
+                0.486,
+                0.347
+            ],
+            "angle": 0,
+            "content": "7. Lundkvist A, Vasilenko V, Golovljova I, Plyusnin A, Vaheri A. Human Dobrava hantavirus infections in Estonia. Lancet 1998; 352: 369."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.348,
+                0.486,
+                0.399
+            ],
+            "angle": 0,
+            "content": "8. Meisel H, Lundkvist A, Gantzer K, Bar W, Sibold C, Kruger DH. First case of infection with hantavirus Dobrava in Germany. Eur J Clin Microbiol Infect Dis 1998; 17: 884-885."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.108,
+                0.4,
+                0.486,
+                0.45
+            ],
+            "angle": 0,
+            "content": "9. Mentel R, Bordihn N, Wegner U, Wendel H, Niklasson B. Hantavirus Dobrava infection with pulmonary manifestation. Med Microbiol Immunol (Berl) 1999; 188: 51-53."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.451,
+                0.486,
+                0.502
+            ],
+            "angle": 0,
+            "content": "10. Sibold C, Meisel H, Lundkvist A, et al. Short report: Simultaneous occurrence of Dobrava, Puumala, and Tula Hantaviruses in Slovakia. Am J Trop Med Hyg 1999; 61: 409-411."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.503,
+                0.486,
+                0.543
+            ],
+            "angle": 0,
+            "content": "11. Plyusnin A, Vapalahti O, Vasilenko V, Henttonen H, Vaheri A. Dobrava hantavirus in Estonia: Does the virus exist throughout Europe? Lancet 1997; 349: 1369-1370."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.543,
+                0.486,
+                0.581
+            ],
+            "angle": 0,
+            "content": "12. Plyusnin A, Nemirov K, Apekina N, Plyusnina A, Lundkvist A, Vaheri A. Dobrava hantavirus in Russia. Lancet 1999; 353: 207."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.582,
+                0.486,
+                0.633
+            ],
+            "angle": 0,
+            "content": "13. Nemirov K, Vapalahti O, Lundkvist A, et al. Isolation and characterization of Dobrava hantavirus carried by the striped field mouse (Apodemus agrarius) in Estonia. J Gen Virol 1999; 80: 371-379."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.634,
+                0.486,
+                0.685
+            ],
+            "angle": 0,
+            "content": "14. Sibold C, Ulrich R, Labuda M, et al. Dobrava hantavirus causes hemorrhagic fever with renal syndrome in central Europe and is carried by two different Apodemus mice species. J Med Virol 2001; 63: 158-167."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.686,
+                0.486,
+                0.724
+            ],
+            "angle": 0,
+            "content": "15. Eltari E, Nuti M, Hasko I, Gina A. Haemorrhagic fever with renal syndrome in a case in northern Albania. Lancet 1987; 2(8569): 1211."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.725,
+                0.486,
+                0.763
+            ],
+            "angle": 0,
+            "content": "16. Verbev P, Gabev E. Haemorrhagic nephroso-nephritis in Bulgaria. J Hyg Epidemiol Microbiol Immunol 1963; 7: 136-144."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.764,
+                0.486,
+                0.815
+            ],
+            "angle": 0,
+            "content": "17. Chumakov M, Shindarov L, Gavrilovskaya I, Vasilenko Sv, Gorbachkova E, Katzarov G. Seroepidemiology of haemorrhagic fever with renal syndrome in Bulgaria. Acta Virol 1988; 32: 261-266."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.816,
+                0.486,
+                0.855
+            ],
+            "angle": 0,
+            "content": "18. Manasia M, Olinic N, Zagreanu I, Serban A. Hemorrhagic fever with renal syndrome: Report of 11 observations. Int Urol Nephrol 1977; 9: 177-184."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.856,
+                0.486,
+                0.893
+            ],
+            "angle": 0,
+            "content": "19. Heneberg D, Heneberg N, Sebek Z. Experiences in the study of natural foci of Zoonoses in Yugoslavia. Med Glas 1970; 24: 297-305."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.894,
+                0.486,
+                0.932
+            ],
+            "angle": 0,
+            "content": "20. Gaon J, Karlovac M, Gresikova M, et al. Epidemiological features of hemorrhagic fever. Folia Med Sar 1968; 3: 23-43."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.102,
+                0.1,
+                0.486,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.1,
+                0.897,
+                0.151
+            ],
+            "angle": 0,
+            "content": "21. Vesenjak-Hirjan J, Hrbar A, Vince-Ribaric V, Borcic B, Brudnjak Z. An outbreak of hemorrhagic fever with a renal syndrome in the Plitvice Lakes area (preliminary report). Folia Parasitol (Praha) 1971; 18: 275-279."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.152,
+                0.897,
+                0.19
+            ],
+            "angle": 0,
+            "content": "22. Gligic A, Obravodovic M, Stojanovic R, et al. Epidemic hemorrhagic fever with renal syndrome in Yugoslavia, 1986. Am J Trop Med Hyg 1989; 41: 102-108."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.191,
+                0.897,
+                0.242
+            ],
+            "angle": 0,
+            "content": "23. Gligic A, Stojanovic R, Obradovic M, et al. Hemorrhagic fever with renal syndrome in Yugoslavia: Epidemiologic and epizootiologic features of a nationwide outbreak in 1989. Eur J Epidemiol 1992; 8: 816-825."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.243,
+                0.897,
+                0.281
+            ],
+            "angle": 0,
+            "content": "24. Avsic-Zupanc T, Cizman B, Gligic A, Hoofd G, van der Groen G. Evidence for hantavirus disease in Slovenia, Yugoslavia. Acta Virol 1989; 33: 327-337."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.282,
+                0.897,
+                0.332
+            ],
+            "angle": 0,
+            "content": "25. Hukic M, Kurt A, Torstensson S, Lundkvist A, Wiger D, Niklasson B. Haemorrhagic fever with renal syndrome in north-east Bosnia. Lancet 1996; 347(8993): 56-57."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.334,
+                0.897,
+                0.411
+            ],
+            "angle": 0,
+            "content": "26. Lundkvist A, Hukic M, Horling J, Gilljam M, Nichol S, Niklasson B. Puumala and Dobrava viruses cause haemorrhagic fever with renal syndrome (HFRS) in Bosnia-Herzegovina: Evidence of highly cross-neutralizing antibody responses in early patient sera. J Med Virol 1997; 53: 51-59."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.412,
+                0.897,
+                0.45
+            ],
+            "angle": 0,
+            "content": "27. Lee HW, Antoniadis A. Serological evidence for Korean haemorrhagic fever in Greece. Lancet 1981; 1(8224): 832."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.451,
+                0.897,
+                0.49
+            ],
+            "angle": 0,
+            "content": "28. Lee HW, Baek LJ, Johnson KM. Isolation of Hantaan virus, the etiologic agent of Korean hemorrhagic fever, from wild urban rats. J Infect Dis 1982; 146: 638-644."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.491,
+                0.897,
+                0.542
+            ],
+            "angle": 0,
+            "content": "29. Antoniades A, Pyrpasopoulos M, Sion M, Daniel S, Peters CJ. Two cases of hemorrhagic fever with renal syndrome in northern Greece. J Infect Dis 1984; 149: 1011-1013."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.543,
+                0.897,
+                0.593
+            ],
+            "angle": 0,
+            "content": "30. Antoniadis A, Le Duc JW, Acritidis N, Alexiou-Daniel S, Kyparissi A, Saviolakis GA. Hemorrhagic fever with renal syndrome in Greece: Clinical and laboratory characteristics. Rev Infect Dis 1989; 11: 5891-5896."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.595,
+                0.897,
+                0.646
+            ],
+            "angle": 0,
+            "content": "31. Antoniadis A, Le Duc JW, Daniel-Alexiou S. Clinical and epidemiological aspects of hemorrhagic fever with renal syndrome (HFRS) in Greece. Eur J Epidemiol 1987; 3: 295-301."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.647,
+                0.897,
+                0.724
+            ],
+            "angle": 0,
+            "content": "32. Avsic-Zupanc T. Hantaviruses and hemorrhagic fever with renal syndrome in the Balkans. In: Saluzzo JF, Dodet B (eds), Factors in the Emergence and Control of Rodent-borne Viral Diseases (Hantavirus and Arenal Diseases), Éditions scientifiques et Médicales Elsevier SAS, 1999: 93-98."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.725,
+                0.897,
+                0.763
+            ],
+            "angle": 0,
+            "content": "33. Eboriadou M, Kalevrosoglou I, Varlamis G, Mitsiakos G, Papa A, Antoniadis A. Hantavirus nephropathy in a child. Nephrol Dial Transplant 1999; 14: 1040-1041."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.764,
+                0.897,
+                0.789
+            ],
+            "angle": 0,
+            "content": "34. Papadimitriou MG, Antoniadis A. Hantavirus nephropathy in Greece. Lancet 1994; 343: 1038."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.79,
+                0.897,
+                0.828
+            ],
+            "angle": 0,
+            "content": "35. Elisaf M, Antoniadis A, Siamopoulos K. Mild human infections of HFRS in northwestern Greece. J Virol Dis 1993; 1: 28-30."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.829,
+                0.897,
+                0.879
+            ],
+            "angle": 0,
+            "content": "36. Siamopoulos KC, Elisaf M, Antoniadis A, Moutsopoulos HM. Hemorrhagic fever with renal syndrome in an endemic area of Greece. Am J Nephrol 1992; 12: 170-173."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.88,
+                0.897,
+                0.932
+            ],
+            "angle": 0,
+            "content": "37. Antoniadis A, Stylianakis A, Papa A, et al. Direct genetic detection of Dobrava virus in Greek and Albanian patients with hemorrhagic fever with renal syndrome. J Infect Dis 1996; 174: 407-410."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.513,
+                0.1,
+                0.897,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.102,
+                0.072,
+                0.129,
+                0.083
+            ],
+            "angle": 0,
+            "content": "194"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.1,
+                0.1,
+                0.486,
+                0.138
+            ],
+            "angle": 0,
+            "content": "38. Papa A, Johnson AM, Stockton PC, et al. Retrospective serological and genetic study of the distribution of hantaviruses in Greece. J Med Virol 1998; 55: 321-327."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.101,
+                0.14,
+                0.486,
+                0.177
+            ],
+            "angle": 0,
+            "content": "39. Papa A, Spiropoulou C, Nichol S, Antoniadis A. Tracing Dobrava hantavirus infection. J Infect Dis 2000; 181: 2116-2117."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.179,
+                0.484,
+                0.229
+            ],
+            "angle": 0,
+            "content": "40. Papa A, Mills JN, Kouidou S, Ma B, Papadimitriou E, Antoniadis A. Preliminary characterization and natural history of hantaviruses in rodents in northern Greece. Emerg Infect Dis 2000; 6: 654-655."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.231,
+                0.485,
+                0.268
+            ],
+            "angle": 0,
+            "content": "41. Papa A, Pliakogiannis Th, Lundkvist A, Antoniadis A. First case of Puumala virus infection in Greece. Infection 2000; 28: 334-335."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.27,
+                0.485,
+                0.319
+            ],
+            "angle": 0,
+            "content": "42. Elisaf M, Stefanaki S, Repanti M, Korakis H, Tsianos E, Siamopoulos KC. Liver involvement in hemorrhagic fever with renal syndrome. J Clin Gastroenterol 1993; 17: 33-37."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.322,
+                0.485,
+                0.398
+            ],
+            "angle": 0,
+            "content": "43. Plyusnin A, Vapalahti O, Lundkvist A, Henttonen H, Vaheri A. Hantaviruses in Europe: An overview. In: Saluzzo JF, Dodet B (eds), Factors in the Emergence and Control of Rodent-borne Viral Diseases (Hantavirus and Arenal Diseases). Éditions scientifiques et Médicales Elsevier SAS, 1999: 85-91."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.103,
+                0.401,
+                0.485,
+                0.437
+            ],
+            "angle": 0,
+            "content": "44. Ondrias JC. The taxonomy and geographical distribution of the rodents of Greece. Sangetierkunkliche Mitteilungen 1966; 14 (Sonderheft): 1-136."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.102,
+                0.44,
+                0.485,
+                0.49
+            ],
+            "angle": 0,
+            "content": "45. LeDuc JW, Antoniades A, Siamopoulos K. Epidemiological investigations following an outbreak of hemorrhagic fever with renal syndrome in Greece. Am J Trop Med Hyg 1986; 35: 654-659."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.1,
+                0.1,
+                0.486,
+                0.49
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.1,
+                0.897,
+                0.138
+            ],
+            "angle": 0,
+            "content": "46. Vohralik V, Sofianidou Th. Small mammals (Insectivora, Rodentia) of Thrace, Greece. Acta Univ Carolinae - Biol 1992; 36: 341-369."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.141,
+                0.897,
+                0.202
+            ],
+            "angle": 0,
+            "content": "47. Avsic-Zupanc T, Nemirov K, Petrovec M, et al. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: Co-existence of two distinct genetic lineages within the same natural focus. J Gen Virol 2000; 81: 1747-1755."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.205,
+                0.897,
+                0.254
+            ],
+            "angle": 0,
+            "content": "48. Avsic-Zupanc T, Xiao S-Y, Gligic A, van der Groen G, LeDuc JW. Characterization of Dobrava virus: A hantavirus from Slovenia. J Med Virol 1992; 38: 132-137."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.257,
+                0.897,
+                0.306
+            ],
+            "angle": 0,
+            "content": "49. Gligic A, Dimkovic N, Xiao SY, et al. Belgrade virus: A new hantavirus causing severe hemorrhagic fever with renal syndrome in Yugoslavia. J Infect Dis 1992; 166: 113-120."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.309,
+                0.897,
+                0.358
+            ],
+            "angle": 0,
+            "content": "50. Taller AM, Xiao SY, Godec MS, et al. Belgrade virus, a cause of hemorrhagic fever with renal syndrome in the Balkans, is closely related to Dobrava virus of field mice. J Infect Dis 1993; 168: 750-753."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.361,
+                0.897,
+                0.385
+            ],
+            "angle": 0,
+            "content": "51. Felsenstein J. PHYLIP (Phylogeny Inference Package), version 3.5c, 1993."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.513,
+                0.1,
+                0.897,
+                0.385
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.425,
+                0.899,
+                0.463
+            ],
+            "angle": 0,
+            "content": "Address for correspondence: Dr Anna Papa, Department of Microbiology, School of Medicine, Aristotelian University of Thessaloniki, 54006 Thessaloniki, Greece"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.465,
+                0.81,
+                0.475
+            ],
+            "angle": 0,
+            "content": "Phone: +30-31-999159; Fax: +30-31-999149"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.478,
+                0.701,
+                0.489
+            ],
+            "angle": 0,
+            "content": "E-mail: annap@med.auth.gr"
+        }
+    ]
+]

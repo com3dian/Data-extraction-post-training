@@ -1,0 +1,1805 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Anzeiger für Schädlingskunde Pflanzenschutz Umweltschutz "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                50,
+                921,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "54. Jahrgang  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Heft 4, April 1981 "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                133,
+                360,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Anz. Schädlingskde., Pflanzenschutz, Umweltschutz 54, 49-53 (1981) "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                173,
+                564,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\odot"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 1981, Verlag Paul Parey, Berlin und Hamburg "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                187,
+                425,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ISSN 0340-7330/InterCode: ASUMDT "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                199,
+                363,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lehrstuhl für angewandte Zoologie der Universität München "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                223,
+                491,
+                239
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Zur Verbreitung, Ernährung und Populationsdynamik der Rötelmaus (Clethrionomys glareolus) und der Gelbialsmaus (Apodemus flavicollis) in einem Waldgebiet der Bayerischen Alpen "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                247,
+                634,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Von W. BÄUMLER "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                326,
+                219,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mit 6 Abbildungen und einer Tabelle "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                353,
+                363,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                379,
+                157,
+                393
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Distribution, nutrition and population dynamics of the bank vole (Clethrionomys glareolus) and the yellow-necked field mouse (Apodemus flavicollis) "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                401,
+                457,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "in a mountain forest of the Bavarian Alps "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                456,
+                402,
+                471
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nearly 1,300 small mammals, resp. 814 bank voles and 362 yellow-necked field mice were captured during the years 1977-1980 in an area of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50\\mathrm{km}^2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in Chiemgau near Ruhrpolding (Bavaria) in different altitudes and forest stands. After a rich seed production of beech (Fagus sylvatica) und spruce (Picea abies) in the year 1977 both species reproduced during the following winter under the snow cover. Until the following spring the density was increased 40- resp. 30-fold compared to the lowest density level in spring 1979. An analysis of the stomach contents showed that mice and voles had consumed mainly beechnuts in the winter 1977/78. In the following springtime seedlings of beech and maple were preferred until the cotyledones faded. Then mushrooms, first of all Ascomycetae and herbs were the main components in the diet. With these changes of nutrition the fertility and as a consequence also the number of animals were reduced beginning in summer 1978 until spring 1979. The density decreased at first in the high populated areas resp. in the lower altitudes of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "650 - 900\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in mixed forests and later also in the higher altitudes of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1200 - 1450\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in spruce forests. In the following years the fertility (weight of gonads, number of embryos, percentage of pregnant and lactating females) of both species was increased continuously again without any detectable influence of food or season. However there was nearly no seed production in this last period of observation and the density remained low. "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                474,
+                489,
+                774
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Einleitung "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                783,
+                188,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Für Untersuchungen über die Okologie und Populationsdynamik von Mäusen bieten Gebirge, wie z. B. die Alpen, besonderss gänstige Voraussetzungen. Unterschiede des Klimas, des Bodens oder der Vegetation sind hier auf engstem Raum sehr deutlich ausgeprügt. Deshalb ist der Einfluss verschiedener Umweltfaktoren auf die Verbreitung, Dichte und Populationsentwicklung von Mäusen im Gebirge möglich erherkennbar als in standörtlich weniger differenzierten Gebieten. Dies belege bisherige Untersuchungen über "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                801,
+                491,
+                939
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mäuse im Alpenraum z. B. von Burg (1923), KAHMANN (1950), LANGENSTEIN-Issel (1950), HEINRICH (1951), V. WETTSTEIN (1954), CLAude (1967), GRUBER und KAHMANN (1968), RADDA (1968), MAHNERT (1970), sowie von Pfaller und TENORA (1972). "
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                377,
+                915,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eigene Untersuchungen über den Einfluss alpiner Kleinsäuger auf die Verjüngung des Bergmischwaldes in den Chiemgauer Alpen (BÄUMLER und HOHENADL, 1980) boten Gelegenheit, die Verbreitung, Ernährung und Populationsentwicklung von 2 dominanten Mäusearten, damit der Rötelmaus und der Gelbhalsmaus, in dieser Waldgebiet etwas eingehender zu studieren. "
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                445,
+                915,
+                552
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Herrn Prof. P. Burschel, Lehrstuhl für Waldbau, München, der diese Untersuchungen im Rahmen eines Forschungsprojekte über die Verjungung in thisem Bergmischwaldgebiet ermöglicht und Herrn Prof. W. SCHWENKE, der die vorliegende Arbeit angegeregt hat, Herrn H. SOMMER, techn. Ass., und Herrn Dipl. Forstw. NAGELE, die mir bei den Freiland- und Laborarbeiten geholfen haben, der Bayerrischen Staatsforstverwaltung, der Deutschen Forschungsgemeinschaft (DFG) und allen, die diesen Projekt fordern und unterstützen, sei an dieser Stelle gedankt. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                553,
+                915,
+                665
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Material und Methodik "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                508,
+                674,
+                711,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Im Bereich der Forstämter Ruhpolding und Traunstein (Chiemgau, Oberbayern) wurden in den Jahren 1977-81 in Höhenlagen zwischen 700-1500 m in verschiedene characteristischen Biotopen这点 Waldgebiets Kleinsaugerfänge mit Schlag- und Verbendfallen durchgeführt. In einem etwa  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50\\mathrm{km}^2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " große Waldgebiet waren vom Lehrstuhl für Waldbau, München, 26 Versuchsflächen angelegt worden. Diese ca. 0,5 ha große Versuchsparzellen mit einer 0,1-0,2 ha großen wilddicht gezäuntekernfläche,lagen in Höhenstufen zwischen 800 und  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1250\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", in Nord-, Nordwest- und Sudexposition an 12-35° geneigten Hangen. Der Fichten-Tannen-Buchenwald war hier entweder noch vollig geschlossen oder infolge von 4 Behandlungssformen,)namlich leidfter und starker Schirmschlag, Femelschlag und Kahlschlag, unterschiedlich stark aufgelucht. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                691,
+                914,
+                858
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Auf diesen Flächen wurden ab Juni 1977 bis September 1980 in Zeitabständen von 3-5 Monaten jeweils 27 Schlagfallen 2-5 Tage lang aufgestellt und i.d. R. tatsächlich kontrolliert. Zusätzlich wurden gelegentlich Fänge auf Wiesen und Almflächen in den Tal-und Hochlagen, sowie in Latschenfeldern und in Felspartien in Höhenlagen von 650—1500 m durchgeführt. Eine genaue Beschreibung der "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                858,
+                914,
+                936
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "U. S. Copyright Clearance Center Code Statement: 0340—7330/81/5404—0049$02.50/0 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                958,
+                680,
+                974
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Versuchsflächen, der Anordnung der Fallen und der Dichtschaftzung wurde bereits früher gegeben (BAUMLER und HoHENADL, 1980). Bei der Berechnung der relativen Dichte, bzw. bei der Ermittlung des Prozentsatzes der besetzten Fallen wurde hier stets nur das Fangergebnis der beiden ersten Nächte berücksichtigt. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                84,
+                489,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Die Totfänge wurden nach dem Aufsammeln(sofort in einer transportablen Tiefkuhltruhe eingefroren, ins Labor gebracht und hier bisher untersucht. Bei der Sektion der Tiere wurden folgende Daten erfasst: Art, Altersstufe (juvenil, subadult, adult und senescent), Geschlecht, Körperlänge, Gewicht des Körpers mit und ohne Verdauungstrakt, Gewicht des gefüllten Magens, der Leber, der Milz, des Herzzens, der Nieren und Nebennieren, der Gonaden, bzw. des Hodens und des Nebenhodens ohne Fettanhang, sowie des Uterus. Notiert wurden ferner bei den weiblichen Tiernen die Zahl der Embryonen, der Status \"säugend\" oder \"nicht säugend\" anhand der Ausbildung der Zitzen, Offnung oder Verschluß der Vulva, das Vorhandensein von Gelbkörpern in den Ovarien, sowie Zahl und Sätze der Uterusnarben. Bei den Männchen wurde die Lage der Hoden, \"inguinal\" oder „skrotal\",vermerkt. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                154,
+                489,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Der Mageninhalt wurde nach dem von HANSSON (1970) beschriebenen Verfahren gereinigt, mazeriert, gegebenenfalls angefasst und mikroskopisch analysiert. Folgende Bestandteile wurden anteilmäßig geschetzt: Samen und Keimlunge, wobei solche von Waldbäumen, insbesondere von Buche, Fichte oder Ahorn anhand charakteristischer mikroskopischer Merkmale, wie z. B. Größe und Form der Stärkekorner, Vorhandensein bestimmter Kristallformen, Schalenreste usw. gesondert erhoben wurden. Ferner wurde der Anteil von Krautern, Gräsen, Insekten, Pilzmyzel, bzw. von Pilzsporen und nicht definierten Substanzen am Gesamtvolumen des Mageninhalts geschählt. Alle Daten wurden auf Lochkarten gestanzt und mittels EDV ausgewertet, wobei teils eigene, teils BMDP-Programme (Dixon, 1979) verwendet wurden. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                330,
+                491,
+                498
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Ergebnisse "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                512,
+                191,
+                526
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. MauSEDichte "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                528,
+                215,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Tab. 1 sind zunachst die Fänge, geordnet nach der Häufigkeit, aufgeführrt. Im Zeitraum vom August 1977 bis zum Oktober 1980 wurden in thisem Gebiet 1304 Mäuse gefangen, wobei stets die Rötelmaus gefolgt von der Gelbhalsmaus dominierte (Tab. 1). Im Gesamtdurchschnitt waren  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4,6\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " der Fallen von thisen beiden Arten nach einer Nacht besetzt. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                543,
+                491,
+                640
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/03405142ff8c1913e0f222c459e2258dc4793f499bc9657299871921e46fbfb2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Tabelle 1. Fangergebnisse in ca. 25000 Fallennächten im Zeitraum vom August 1977 bis Oktober 1980 "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Tierart</td><td>N Anzahl der gelefgenen Tiere</td><td>Abundanz 0/% be-setzte Fallen pro Nacht</td><td>Dominanz 0/% vom gesamten Fang-ergebnis</td></tr><tr><td>Rötelmaus</td><td>814</td><td>3,2</td><td>62,4</td></tr><tr><td>Clethrionomls glareolus</td><td></td><td></td><td></td></tr><tr><td>Celbalsmaus</td><td>362</td><td>1,4</td><td>27,7</td></tr><tr><td>Apodemus flavicollis</td><td></td><td></td><td></td></tr><tr><td>Kurzohrmaus</td><td>69</td><td>0,3</td><td>5,3</td></tr><tr><td>Pitymys subterraneus</td><td></td><td></td><td></td></tr><tr><td>Waldspitzmaus</td><td>31</td><td>0,1</td><td>2,4</td></tr><tr><td>Sorex araneus</td><td></td><td></td><td></td></tr><tr><td>Erdmaus</td><td>15</td><td>0,1</td><td>1,1</td></tr><tr><td>Microtus agrestis</td><td></td><td></td><td></td></tr><tr><td>Alpenspitzmaus</td><td>9</td><td>0,1</td><td>0,7</td></tr><tr><td>Sorex alpinus</td><td></td><td></td><td></td></tr><tr><td>Haselmaus</td><td>4</td><td>0,1</td><td>0,3</td></tr><tr><td>Muscardinus avellanarius</td><td></td><td></td><td></td></tr><tr><td>insgesamt</td><td>1304</td><td>5,1</td><td>100,0</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                87,
+                676,
+                493,
+                939
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Die Mäusedichte war allerdings räumlich und zeitlich sehr unterschied. Im Mai 1978 erreichten die Rötel- und die Gelbalsmaus Dichtemaxima mit 8,7 bzw.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2,8^{0/0}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " besetzten Fallen in rund 1200 Fallennächten (= Anzahl der Fallen  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Anzahl der Nächte). Im gleichen Monat des folgenden Jahres wurde die geringste Dichte mit  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0,2^{0/0}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " bzw.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0,1^{0/0}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " besetzten Fallen in thisem Gebiet beobachtet. Dies entspricht einem Dichteunterschied von etwa  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "40:1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " bei der Rötelmaus und  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30:1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " bei der Gelbalsmaus. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                84,
+                915,
+                221
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Die Dichtezunahme beider Mäusearten im Herbst 1977 und Frühjahr 1978 stand offensichtlich im Zusammenhang mit einem Waldsamenjahr. Nach Erhebungen von VeItsISTAs (1980) fielen im Jahr 1977/78 bis zu  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "137\\mathrm{kg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Buchheckern und  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "29\\mathrm{kg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Fichtensamen pro ha auf den Versuchsflächen nieder. Dadurch wurde die Nahrungsbasis dieser samen- und keimlingsfressenden Mäuse verbessert und eine starke Vermehrung auch in den Wintermonaten 1977/78 erhögt. Im darauffolgenden Jahr 1978 standen ab Juli keine unverholzten Keimlinge mehr zur Verfügung und es fielen auch kaum noch Samen nieder. Die Dichte der Mäuse ging dann wieder auf die genannten Minimalwerte zurück. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                221,
+                915,
+                398
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6a47cdc71a43ead3b47d067c63dff45253d7171d9673ad9f357c868477a38fda.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Abb.1. Dichteentwicklung der Rötel- und Gelbhalsmaus im Bergmischwald (Fichte, Buche, Tanne) in Höhenlagen von 800 bis  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1200\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " und im Hochlagen-Fichtenwald zwischen 1200 und  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1500\\mathrm{m}"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                513,
+                406,
+                917,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wie der Abb. 1 ferner zu entnahmen ist, erfolgte der Dichteanstieg zunähst in den unteren Hanglagen bzw. in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "800 - 900\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", wo reichlich Buchheckern niedergefallen waren. In den Hochlagen über  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1200\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", wo fast nur Fichtensamen zur Verfügung standen, wurde das Dichtemaximum erst im Juli 1978 erreicht, als die Dichteentwicklung in den tieferen Lagen bereits rücklaufig war. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                671,
+                917,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Auch die räumlichen Dichteunterschiede waren hier sehr deutlich ausgeprügt (Abb. 2). Betrachtet man den gesamten Untersuchungszeitraum 1977 bis 1980, so waren auf den Flächen im unteren Teil der Höhe im Durchschnitt  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5,8\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " der Fallen von der Rötelmaus besetzt, während das Minimum mit nur  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0,5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " besetzten Fallen an der Baumgrenze bzw. auf den nadelwaldreichen Nordseiten, in Rinnen mit Kaltluftabflüß und in ebenen Tallagen beobachtet wurde. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                783,
+                917,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Allgemein wurde der Eindruck gewonnen, daß diese Waldwuhlmaus hier vor allem Dort zahlreich auftrat, "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                909,
+                917,
+                939
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "50 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                52,
+                107,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W. BÄUMLER: Zur Verbreitung, Ernährung und Populationsdynamik der Rötelmaus "
+                    }
+                ]
+            },
+            "bbox": [
+                217,
+                52,
+                778,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/10b5f08fe7210af5409ab9fd5d983b7098bb0a4fc53606e4adf718697888ad76.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Abb. 2. Die Bevolkierungsdichte der Rötelmaus, der Gelb-halsmaus und der übrigen Mäusearten in verschiedene Hohenstufen "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                86,
+                486,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "wo Himbeeren und Brombeeren üppiger wuchsen, insbesondere also in den warmen unteren Hanglagen, wo die organische Auflage des Waldbodens rasch zersetzt wurde und wo tiefründige Böden, wie z. B. terra fusca oder Braunerden mit einem spaltenreichen Untergrund entwickelt waren. Als ein Überangebot an Waldsamen vorhanden war, spielte wahrrscheinlich das Angebot an Nistmöglichkeiten eine wichtige Rolle. In dieser Zeit wurde das Dichtemaximum in hohlraumreichen Blockfeldern der unteren Hanglagen beobachtet. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                375,
+                486,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kältere Lagen und flachgrundige Böden mit kiesigem-steinigem Untergund und mit Grasbewuchs, z. B. Rendsina-Böden wurden dagegen von dieser Waldwuhlmausweitgehend gemieden. Hier wurde in windgeschützten Mulden und in Schneetälden, in denen sich Feinerde angesammelt hatte, gelegentlich die Kurzohrmaus (Pitymys subterraneus) gefangen (Tab. 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                523,
+                486,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Die Verbreitung der Gelbhalsmaus war dagegen weniger differenziert. D.h. diese Langschwanzmaus wurde auf allen untersuchen Standorten in dieser Waldgebiet, in den Hoch- und Tallagen, auf den Nord- und Südseiten, in Mulden und auf Geländeruppen in annahernd gleicher Dichte aber stets weniger haufig als die Rötelmaus angetroffen. Selfst auf Almwiesen, wo nur sehr weniger Rötelmause gefangen wurden, besetzte diese Langschwanzmaus noch knapp  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\text{‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " der Fallen in rund 1200 Fallennächten. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                633,
+                486,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eine sichere systematische Abgrenzung aller Individuen von der Waldmaus (A. sylvaticus) oder eine morphologische Differenzierung der Individuen aus verschiedene Höhenlagen, wie sie HEINRICH (1951) vorgenommen hat, war hier allerdings nicht möglich (vgl. NIETHAMMER, 1979) und bleibt weiteren Untersuchungen vorbehalten. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                770,
+                486,
+                867
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vorerst kann man nur sagen, daß die als Gelb-halsmäuse angesprochenen Individuen hier besonderss zahlreich im Bereich von bewohnten und unbewohn- ten Hütten und auf Flächen mit einer Ruderalflora auftraten. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                868,
+                486,
+                938
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/380d29e1597d249cc734110efcd1382c36145d2e4d5f8fc648f57eedf10a3dc2.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Abb.3.Die Abhängigkeit der MauSEDichte vom Grad der Auflichtung des Waldes "
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Rötelmaus "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Gelbghalsmaus "
+                    },
+                    {
+                        "type": "text",
+                        "content": "sonstige Arten "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                87,
+                910,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Für die Verbreitung dieser beiden Mäusearten war ferner der Grad der Auflichtung des Waldes von Bedeutung (Abb. 3). Aber auch hier war der Einfluss auf die Wohndichte bei der Rötelmaus wiederum deutlicher ausgeprügt  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathrm{Chi}^2 = 26,1 > \\mathrm{Chi}_4^2;0,05 = 9,5)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " als bei der Gelbhalsmaus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathrm{Chi}^2 = 4,1 < \\mathrm{Chi}_4^2;0,05 = 9,5)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Abb. 3). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                294,
+                914,
+                389
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. Ernährung "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                398,
+                625,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Im Hinblick auf das beobachtete Dichtemaximum nach einem Waldsamenjahr im Mai 1978 und das folgende Minimum im Mai 1979 erschienen die Ernährung der Tiere von besonderem Interesse. Wie der Abb.4 zu entnahmen ist, bestand der Mageninhalt im November 1977 bei beiden Arten vorwiegend aus Bucheckern. Ahorn- und Fichtensamen, die in geringen Mengen niedergefallen waren, konnten nur vereinzelt nachgewiesen werden. Im Frühjahr 1978 wurden dann vorwiegend Keimlinge der austreibenden Waldsamen gefressen, insbesondere Buche und Ahorn. Nachdem diese Keimlinge im Juli verholzten und von den Mausen nicht mehr gerne angenommen waren, wie entsprechende Füfterungsversuche zeigten, waren im Magen vernehrt Reste von Krautern und Gräsern vorhanden. Als dann im folgenden Herbst Gräser und Kräuter abweilkten, ernährt sie sich die Rötelmaus i.e. L. von Pilzen, wobei Ascomyceten überwogen. Bemerkenswert ist, daß mit dieser Umstellung der Ernährung eine fast schlagartige Abnahme der Fruchtbarkeit und der Dichte beider Arten verbunden war. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                414,
+                912,
+                714
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3. Fruchtbarkeit und Vermehrung "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                502,
+                727,
+                769,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In der Abb. 5 ist gaz denochs die Dichte-entwicklung der Rötelmaus und darüber im Vergleich dazu die Veränderung einiger Parameter der Fruchtbarkeit dieser dominanten Art darestellt. Bemerkenswert ist zunachst, daß der Weibchenanteil in der Progradationsphase im Herbst 1977 mit  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "34\\text{‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " signifikant  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathrm{Chi}^2 = 13,6\\mathrm{Chi}_1^2;0,01 = 6,6)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " geringer war als zur Zeit des Dichtemaximums im Juni 1978, wo  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "67\\text{‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " der Rötelmauspopulation aus Weibchen bestand. In den beiden folgenden Jahren 1979 und 1980 war das Geschlechterverhältnis dann wieder ausgegliichen, bzw. vom Verhältnis  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1:1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " nicht signifikant verschieden. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                743,
+                910,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bislang ist nicht geklärt, worauf diese Verschiebungen des Geschlechterverhältnisses zurückzuführen sind. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                909,
+                910,
+                938
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W. BÄUMLER: Zur Verbreitung, Ernährung und Populationsdynamik der Rötelmaus "
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                52,
+                780,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "51 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                52,
+                914,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e97d6b926c53a1ec73003870b7a26f38673bfdb2e1ddbc895e8fb5137b3c0958.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Abb.4. Die Zusammensetzung des Mageninhalts bei der Rötel- und der Gelbhalsmaus in verschiedene Phasen der Bevölkerungsentwicklung "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                87,
+                489,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Verletzungen, die bei hoher Dichte z. B. bei Feldmaus-mannchen halten beobachtet wurden, bzw. Bißwunden, die i. d. R. aus Kämpfen der Mannchen untereinander herrühren und eine Eliminierung des mannlichen Geschlechts bedingten (FRANK, 1953; BÄUMLER, 1976), wurden hier bei keiner Mauseart bemerkt. Wahrscheinlich ist aber die Abwanderrungsrate der Mannchen bei hoher Dichte größter als die der Weibchen, Denn in ungeeigneten Biotopen, z. B. in den Hochlagen, auf Wiesen und Weideflächen wurden auch in der Gradationsphase signifikant  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\mathrm{Chi}^2 = 10,2"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{Chi}_1^2"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0,01 = 6,6)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ) mehr Mannchen  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(72\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ) als Weibchen  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(28\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " gefangen. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                377,
+                489,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Der starke Rückgang der Populationsdichte im Herbst 1978 war ferner vorgezeichnet durch die fast schlagartige Verminderung der Fertility und fast vollige Einstellung der Vermehrung bereits im Juni 1978, als die Keimlinge der Waldbäume verholzten und als Hauptnahrungsquelle nicht mehr zur Vergebung standen. Innerhalb eines Monats (3.5. - 12.6. 1978) ging der Anteil der trächtigen Weibchen von  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "48\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " auf  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " zurück und der Anteil der Embryonen an der Gesamtpopulation sank gleichzeitig von  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "55\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " auf  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "15\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ab. Der Prozentsatz der laktierenden Weibchen nahm etwas langsamer ab und erreichte erst im Herbst 1978 fast 0 (Abb. 5). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                554,
+                489,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ebenso drastisch wie bei den Weibchen wurde auch die Fruchtbarkeit der Mannchen mit der Verschlechte-rung der Nahrungsvorsorgung im Juni 1978 reduziert. Das durchschnittliche Hodengewicht sank vom Opti- mum im Mai 1978 mit  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "23,6\\pm 9,4\\mathrm{mg}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " pro g Körpergewicht  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 50)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " auf  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9,7\\pm 9,6\\mathrm{mg / g}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " imDMAuaffol-genden Monat  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 76)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " hochsignifikant ab. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                731,
+                489,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ganzählich wie bei der Rötelmaus verlief die Entwicklung bei der Gelbhalmsmaus (Abb. 6). Eine Verschreibung des Geschlechterverhältnisses wurde hier allerdings nicht beobachtet. Nachdem im Juni 1978 das Dichtemaximum erreicht worden war, sank auch bei der Gelbhalmsmaus die Fruchtbarkeit, bzw. das Gewicht der Gonaden sowie der Anteil trächtiger und sägender Weibchen auf sehr niedrige Werte ab. Der "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                828,
+                491,
+                940
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ded61885583479e8977dc3c5b8ce1e679744ecfd2dda72cc7c684322c0f4f124.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Abb. 5. Die Änderung der Fruchtbarkeit der Rötelmaus im Vergleich zur Dichteentwicklung. Die  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "95 \\text{‰}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-Vertrauensbereiche wurden nach den Angaben von Sachs (1979) ermittelt "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                511,
+                88,
+                915,
+                482
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "eigentliche Zusammenbruch der Bevölkerungsdichte erfolgte dann wie bei der Rötelmaus mit einiger Verzügerung erst im Spätherbst 1978. Danach nahm auch die Fertilität der Gelbhalsmaus über die zwei folgenden Jahre hinweg wieder zu. Die Populationsdichte blieb jedoch bei beiden Arten auf einem relativ niedrigem Niveau (Abb. 5 und 6). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                541,
+                915,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Es liegt auf der Hand, daß das Nahrungsangebot für die Bevölkerungsentwicklung dieser beiden Arten entscheidend war. Wahrscheinlich spielten jedoch noch andere Faktoren eine wichtige Rolle. Z. B. wurde die Fertilität, bzw. das Gonadengewicht der Rötemäuse in der Laborzucht durch eine Änderung der Ernährung nicht in dem Ausmaß beeinflübt, wie das im Freiland in den verschiedenen Gradationsphasen der Fall war. Um welche Fertilitätsfaktoren es sich damit handelt, müssen erst weitere Untersuchungen zeigen. Man kann vorerst nur vermuten, daß die relativ große Fruchtbarkeit im Jahr 1980 wohl deshalb nicht zu einem starken Dichteanstieg führende, weil nicht genugend Nahrungsenergie zur Verfügung stand, bzw. weil keine nennenswerte Menge an Waldsamen niedergefallen war. Wahrscheinlich konnte deshalb ein großer Teil der Nestlinge nicht aufgezogen werden. Nach Beobachtungen von MIGULA (1969) und eigenen Erfahrungen aus der Laborzucht benötigen Müase ganz allgemein für das Säugen der Jungen wesentlich mehr und höherwertige Nahrung als für die Haltung der Tiere, bzw. für das Austragen von Embryonen "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                638,
+                915,
+                940
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "52 "
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                54,
+                106,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W. BÄUMLER: Zur Verbreitung, Ernährung und Populationsdynamik der Rötelmaus "
+                    }
+                ]
+            },
+            "bbox": [
+                217,
+                52,
+                778,
+                66
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "notwendig ist. Nach BuJALSKA (1977) ist zudem die Nestlingsmortaltität ein Schlüsselfaktor für die Populationsentwicklung der Rötelmaus. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                84,
+                489,
+                127
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d160975e34bffe3586577b0294c6648e0b19cf52fb7747ade8d92637b75e03a8.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Abb.6.Dichteentwicklung und Anderung der Fertilität bei der Gelbhalsmaus (vgl.Abb.5) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                135,
+                493,
+                531
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Zusammenfassung "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                572,
+                221,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nach einem Waldsamenjahr stieg die Populationsdichte der Rötel- und der Gelbalsmaus bis zum Juni des folgenden Jahres auf das 40- bzw. 30fadhe bzw. auf schätzungsweise 40 Rötermäuse und 15 Gelbalsmäuse pro ha (s. BÄUMLER und HOHENADL, 1980) an. Das Minimum mit einer geschätzten Dichte von 0,5-1 Indiv./ha wurde im Frühjahr des nachsten Jahres erreicht. Eine starke Einschränkung der Fruchtbarkeit bzw. eine Reduktion der Gonaden sowie eine Verminderung der Anzahl trächtiger und saugender Weibchen ging dem Zusammenbruch der Bevölkerungsdichte voraus. Danach erfolgte wieder eine kontinuierliche Zunahme der Fruchtbarkeit bei beiden Arten. Die Dichte blieb jedoch niedrig, vermutlich deshalb, weil die Nahrungsbasis nicht wesentlich verbessert wurde, bzw. weil bislang keine nennenswerte Menge an Samen mehr niedergefallen ist. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                588,
+                484,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hinsichtlich der räumlichen Verteilung war eine deutliche Abhängigkeit von der Höhenlage, der Vegetation, der "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                765,
+                484,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bodenart und der Behandlung des Waldes erkennbar. Die Unterschiede in den ökologischen Ansprüchen waren hier allerdings bei der Rötelmaus deutlicher ausgeprügt als bei der Gelbhalsmaus. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                84,
+                917,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Literaturverzeichnis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                141,
+                661,
+                155
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "BURG, G., 1923: Die Rötelmaus der Schweiz. Zool. Palae- arct., Dresden, 1, 64-67. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "BAUMLER, W., 1977: Herbizideinsatz und Mäuse in Forstkulturen. Anz. Schädlingskde., Pflanzenschutz, Umweltschutz 50, 51-55. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "BAUMLER, W., und HOHENADL, W., 1980: Über den Einfluss alpiner Kleinsäuger auf die Verjungung in einem Bergmischwald der Chiemgauer Alpen. Forstw. Centralbl. 4, 207-221. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "BUJALSKA, G., 1977: Regulatory mechanisms and dynamics of an island population of Clethribionomys glareolus (Schreber, 1780). Eppo Bull. 7, 411-414. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "CLAUDE, C., 1967: Morphologie und Altersstruktur von zwei schweizerischen Rötelmauspopulationen, Clethriomomys glareolus (Schreber, 1780). Z. f. Saugieterkde. 32, 159-166. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DIXON, J., 1979: BMDP Biomedical Computer Programs. Univ. Calif. Press, 880 S. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "FRANK, F., 1966: Verschiebung des Geschlechterverhältnisses in der Wuhlmausgruppe (Microtidae). Naturwiss. 53, S. 90. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "GRUBER, U., und KAHMANN, H., 1968: Eine biometrische Untersuchung an alpinen Rötelmausen (Clethrionomys glareolus, Schreber, 1780). SäugetierkdI. Mitt. 16, 310-338. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "HEINRICH, G., 1951: Die deutschen Waldmäuse. Zool. Jahrb., Systematik 80, 99-122. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "KAHMANN, H., 1950: Lebensbild der Kurzohrmaus in den Alpen. Natur und Volk 80, 71-77. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "LANGENSTEIN-IsSEL, B., 1950: Biologische und ökologische Untersuchungen über die Kurzohrmaus (Pitymys subterraneus de Sélys-Longchamps). Pflanzenbau und Pflanzenschutz 1, 145—183. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "MAHNERT, V., 1970: Über Endo- und Ektoparasiten von Kleinsägern in den Ostalpen (Nordtirol). Diss. Phil. Fak. Univ. Innsbruck, 139 S. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "MIGULA, P., 1969: Bioenergetics of pregnancy and lactation in the European common vole. Acta theriol. 14, 167-179. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "PFALLER, K., und TENORA, F., 1972: Über Cestoden-Larvenstadien aus Muriden und Microtiden (Rodentia) in Tirol. Ber. Nat.-med. Ver. Innsbruck 59, 25-28. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "RADDA, A., 1968: Populationsstudien an Rötelmauscn. Oecologia 1, 219-235. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "SACHS, L., 1980: Statistische Auswertungsmethoden. 3. Aufl. Springer-Verlag, Berlin, Heidelberg, New York, 545 S. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "VELTSISTAS, T., 1980: Die Samenproduktion einiger Waldbäume alpiner Bergmischwälder im Chiemgau. Diss. Univ. München, in Vorber. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "WETSTEIN, O. v., 1954: Über die Rötelmäuse Osterreichs. SäugetierkdI. Mitt. 2, 118-124. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "ZEJDA, J., 1966: Notes on the population dynamics in the Bank vole, Clethbrionomys glareolus (Schreber, 1780). Lynx 6, 191-194. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                157,
+                914,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Anschrift des Verfassers: Dr. habil. W. BÄUMLER, Lehrstuhl für angewandte Zoologie der Universität München, Amalienstraße 52, 8000 München. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                752,
+                912,
+                788
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "W. BÄUMLER: Zur Verbreitung, Ernährung und Populationsdynamik der Rötelmaus "
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                52,
+                780,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "53 "
+                    }
+                ]
+            },
+            "bbox": [
+                893,
+                54,
+                915,
+                66
+            ]
+        }
+    ]
+]

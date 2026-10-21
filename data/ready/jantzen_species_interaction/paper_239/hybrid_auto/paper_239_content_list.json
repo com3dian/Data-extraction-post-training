@@ -1,0 +1,995 @@
+[
+    {
+        "type": "text",
+        "text": "Multiple Co-infections of Rodents with Hantaviruses, Leptospira, and Babesia in Croatia ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            140,
+            841,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ante Tadin, Nenad Turk, Miša Korva, Josip Margaletić, Relja Beck, Marko Vucelj, Josipa Habus, ",
+        "bbox": [
+            124,
+            224,
+            875,
+            243
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Petra Svoboda, $^{1}$ Tatjana Avšić Županc, $^{3}$ Heikki Henttonen, $^{6}$ and Alemka Markotić $^{1,7}$ ",
+        "bbox": [
+            197,
+            242,
+            802,
+            257
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            310,
+            161,
+            323
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hantaviruses, Leptospira spp., and Babesia spp. are rodent-borne pathogens present worldwide. We studied multiple co-infections of small rodents in Croatia with all three pathogens. Twenty-eight Apodemus flavicollis and 16 Myodes glareolus were tested for the presence of hantavirus RNA by real-time RT-PCR, Leptospira strains by renoculture method and Babesia DNA by PCR. Anti-hantavirus antibodies and anti-Leptospira antibodies were detected by serological methods. Very high infection rates with each pathogen were found in A. flavicollis: 20 of 28 rodents (71%) were infected with Dobrava virus, 13 rodents (46%) were infected with Leptospira, and 5 rodents (18%) were infected with Babesia. Multiple co-infections with all three pathogens were found in 3 of 28 (11%) A. flavicollis animals, suggesting that the same rodent host can be infected with several pathogens at the same time. Dual infections with both hantaviruses and Leptospira were found in 7 of 44 rodents (16%), with hantaviruses and Babesia in 2 rodents (5%), and double infection with both Leptospira and Babesia were found in 1 rodent (2%). Since hantaviruses, Leptospira, and Babesia have similar geographical distributions, it is to be expected that in other parts of the world multiple co-infections, representing a serious threat to public health, can be found. ",
+        "bbox": [
+            96,
+            337,
+            905,
+            518
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Babesia—Hantavirus—Leptospirosis—Rodent-borne—Zoonosis ",
+        "bbox": [
+            96,
+            534,
+            640,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            585,
+            187,
+            598
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CROATIA IS AN IMPORTANT NATURAL FOCUS for many Crodent-borne zoonoses like leptospirosis, babesiosis, and hemorrhagic fever with renal syndrome (HFRS), because of its diverse forest ecology and its abundance of different species of small rodents (Margaletic et al. 2003; Markotic et al. 2009). Rodents serve as reservoirs for etiologic agents of all three diseases. HFRS is caused by hantaviruses, which are transmitted to humans through inhalation of aerosols of infected excretions. Leptospirosis is a bacterial disease that is transmitted to humans mainly through contact with water containing urine from infected animals, and babesiosis is caused by the protozoan blood parasite Babesia, which is transmitted to humans by ticks. ",
+        "bbox": [
+            94,
+            613,
+            491,
+            792
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All of Croatia except for the coastal region and the islands is endemic for hantaviruses (Markotić et al. 1996; Markotić et al. ",
+        "bbox": [
+            94,
+            792,
+            491,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2002). Puumala virus (PUUV) and Dobrava-Belgrade virus (DOBV) are the main causative viruses of HFRS in Croatia (Markotić et al. 2002; Cvetko et al. 2005; Miletić Medved et al. 2002), while Tula and Saaremaa viruses were also detected in small rodents (Scharninghausen et al. 2002; Plyusnina et al. 2010). Main rodent reservoirs of hantaviruses in Croatia are the yellow-necked mouse (Apodemus flavicollis), the striped field mouse (Apodemus agrarius), and the bank vole (Myodes glareolus) (Cvetko et al. 2005; Ledina et al. 2002). The two biggest HFRS outbreaks were recorded in Croatia in 1995 (Markotić et al. 1996,2002; Ledina et al. 2002) and 2002 (Miletić Medved et al. 2002; Cvetko et al. 2005), with over 150 and 400 HFRS cases, respectively. Sporadic cases are recorded annually. During the 1995 outbreak, PUUV and DOBV were for the first time molecularly characterized, and their coexistence in a narrow region was confirmed (Markotić et al. 2002). ",
+        "bbox": [
+            504,
+            584,
+            903,
+            820
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "VECTOR-BORNE AND ZOONOTIC DISEASES ",
+        "bbox": [
+            96,
+            41,
+            380,
+            53
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Volume 12, Number 5, 2012 ",
+        "bbox": [
+            96,
+            53,
+            267,
+            64
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "$\\langle \\widehat{\\mathbb{C}}\\rangle$ Mary Ann Liebert, Inc. ",
+        "bbox": [
+            96,
+            65,
+            243,
+            75
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "DOI: 10.1089/vbz.2011.0632 ",
+        "bbox": [
+            96,
+            75,
+            267,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "<sup>1</sup>University Hospital for Infectious Diseases \"Dr. Fran Mihaljevic,\" Research Department, Zagreb, Croatia. ",
+        "bbox": [
+            109,
+            848,
+            901,
+            859
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "$^{2}$ Faculty of Veterinary Medicine, University of Zagreb, Department of Microbiology and Infectious Diseases with Clinic, Zagreb, Croatia. ",
+        "bbox": [
+            112,
+            859,
+            901,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "$^{3}$ Institute of Microbiology & Immunology, Faculty of Medicine, Department of Virology, Ljubljana, Slovenia. ",
+        "bbox": [
+            112,
+            872,
+            746,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "$^{4}$ Faculty of Forestry, University of Zagreb, Zagreb, Croatia. ",
+        "bbox": [
+            112,
+            883,
+            459,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "5Croatian Veterinary Institute, Zagreb, Croatia. ",
+        "bbox": [
+            112,
+            895,
+            387,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "$^{6}$ Finnish Forest Research Institute, Vantaa, Finland. ",
+        "bbox": [
+            112,
+            906,
+            411,
+            917
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "<sup>7</sup>Medical Faculty, University of Rijeka, Rijeka, Croatia. ",
+        "bbox": [
+            112,
+            917,
+            429,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "388 ",
+        "bbox": [
+            486,
+            944,
+            514,
+            955
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Leptospirosis is present in Croatia (Golubic et al. 2003; Perić et al. 2005), with a mean yearly incidence of $1.83 / 100,000$ inhabitants (Balen-Topic et al. 2010). Previous analysis of Leptospira spp. isolates in small rodents captured in 11 different regions of inland Croatia showed the presence of serogroups Sejroe, Pomona, and Australis. The molecular typing revealed that the isolates belonged to three different species: L. borgpetersenii, L. kirschneri, and L. interrogans (Turk et al. 2003). The same genomic species were found among the human isolates, confirming the genomic diversity of Leptospira circulating in Croatia (Turk et al. 2009). ",
+        "bbox": [
+            91,
+            71,
+            488,
+            223
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The first case of human infection with B. microti in Europe was reported in 2007 (Hildebrandt et al. 2007), but earlier seroepidemiological studies from Croatia (Topolovec et al. 2003) and Germany (Hunfeld et al. 1998) suggest that human exposure occurs regularly. B. microti was also reported to be present in ticks (Duh et al. 2001) and small rodents (Duh et al. 2003) in Europe, and only recently also in M. glareolus and A. flavicollis in Croatia (Beck et al. 2011). ",
+        "bbox": [
+            91,
+            223,
+            488,
+            335
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here we describe multiple co-infections of small rodents with hantaviruses, Leptospira, and Babesia in one special natural focus, the Zutica forest. Zutica is a very old polyvalent forest ecosystem situated on the edge of Lonjsko Polje Nature Park in the central Posavina region 40 kilometers southeast of the capital city of Zagreb. The Zutica forest is a very valuable forest management complex. Being a retention area for high waters of the river Sava, its larger part is also an oil-gas field. The pedunculate oak (Quercus robur L.) represents $75\\%$ of the tree species in this area, and it is home to numerous species of small rodents, including M. glareolus, M. arvalis, M. agrestis, A. agrarius, A. sylvaticus, and A. flavicollis. In our study we focused on hantaviruses and Leptospira, because they represent rodent-borne zoonoses in Croatia of significant public health importance. It is also known from previous studies that both pathogens co-exist in the same geographical areas. We additionally searched for Babesia microti, because it has recently been found in Croatian rodents (Beck et al. 2011), and there are no data regarding multiple co-infections with these three pathogens. ",
+        "bbox": [
+            94,
+            335,
+            488,
+            613
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            632,
+            256,
+            645
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Animal samples ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            652,
+            202,
+            667
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During a survey on the relative abundance and population development of small rodents in November 2007 in the Žutica forest, a total of 44 animals were trapped using Sherman-type live traps. One-hundred fifty traps were set along three transecting lines on $2.7\\mathrm{ha}$ of forest area. Trapping effort was $29\\%$ . The animals were euthanized, weighed, measured, and then aseptically dissected. Kidney, lung, heart, and blood samples were collected and stored at $-80^{\\circ}\\mathrm{C}$ until processing. Animal experimentation guidelines approved by the American Society of Mammalogists (American Society of Mammalogists, Animal Care and Use Committee, 1998) were followed. ",
+        "bbox": [
+            91,
+            672,
+            488,
+            840
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detection of anti-hantavirus antibodies ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            853,
+            349,
+            867
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Whole blood samples were analyzed for the presence of PUUV antibodies and Saarema virus (SAAV)/DOBV antibodies using indirect fluorescent antibody testing (IFAT) as described previously (Brummer-Korvenkontio et al. 1980). In ",
+        "bbox": [
+            91,
+            875,
+            488,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "brief, PUUV Sotkamo strain- and SAAV Saarema strain-infected Vero E6 cells fixed with acetone were used to bind anti-hantavirus antibodies from whole blood samples of rodents. Anti-hantavirus antibodies were further detected with FITC anti-mouse polyclonal conjugate (Dako A/S, Glostrup, Denmark). Scattered, granular fluorescence in the cytoplasm of infected Vero E6 cells was considered a positive reaction. ",
+        "bbox": [
+            501,
+            71,
+            900,
+            170
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detection and phylogenetic analysis of hantavirus RNA ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            181,
+            861,
+            196
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Total cellular RNA was extracted from lung tissue using TriPure Reagent (Roche Applied Science, Indianapolis, IN). For detection of DOBV RNA in rodents of genus Apodemus, real-time RT-PCR assay was performed for amplification of a specific 183-base pair region within the DOBV M genome segment (Saksida et al. 2008). ",
+        "bbox": [
+            501,
+            203,
+            900,
+            286
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For detection of PUUV RNA in rodents of genus Myodes, real-time RT-PCR assay was performed for amplification of a specific 97-base pair region within the PUUV S genome segment (Korva et al. 2009). Both assays are specific and detect only DOBV RNA and PUUV RNA, respectively. All data analysis was done with Rotor-Gene 5 software. ",
+        "bbox": [
+            501,
+            286,
+            900,
+            369
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to perform phylogenetic analysis of detected DOBV RNA, nested PCR was done to amplify a 290-bp region of the DOBV M segment as previously described (Chu et al. 1995; Avsic-Zupanc et al. 2000). Four PCR products were sequenced on both strands using the BigDye Terminator Cycle Sequencing Ready Reaction Kit (ABI PRISM PE; Applied Biosystems, Carlsbad, CA) and the same primers as for PCR amplification. DOBV nucleotide sequences are deposited in GenBank as HQ327701, HQ327702, HQ327703, and HQ327704. ",
+        "bbox": [
+            501,
+            369,
+            900,
+            494
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Leptospira infection: Serology and culturing ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            508,
+            792,
+            523
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Blood was collected by cardiac puncture and microscopic agglutination testing (MAT) was performed as previously described (Dikken et al. 1978), using a reference battery of 12 serovars comprising 10 pathogenic serogroups. The serovars used as live antigens were: Grippothyphosa, Sejroe, Australis, Pomona, Canicola, Icterohaemorrhagiae, Tarassovi, Saxkoebing, Ballum, Bataviae, Poi, and Hardjo. Samples were screened at a dilution of 1:25 and reactives were further double titrated to the end point. ",
+        "bbox": [
+            501,
+            527,
+            900,
+            654
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kidney tissue was sampled using a small Pasteur capillary pipette and immediately inoculated into homemade Korthof's medium used for isolation and stabilization of isolates. Subsequently, stabilized isolates were subcultured to Ellinghausen-McCullough-Johnson-Harris (EMJH) liquid medium for typing to get a density suitable for serological determination. ",
+        "bbox": [
+            501,
+            652,
+            900,
+            737
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Serological typing of Leptospira isolates ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            750,
+            769,
+            765
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To identify isolates to the serogroup level, the MAT was performed following the standard procedure (Dikken et al. 1978), using a panel of 41 rabbit anti-Leptospira reference antisera. The reference antisera used in this study were from the collection kept at the Koninklijk Instituut voor de Tropen (KIT), Amsterdam, The Netherlands. ",
+        "bbox": [
+            501,
+            770,
+            900,
+            854
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detection of Babesia DNA ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            867,
+            681,
+            881
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Total cellular DNA was extracted from lung tissue using TriPure Reagent (Roche Applied Science). Detection of B. microti was performed by amplification of a fragment ",
+        "bbox": [
+            501,
+            888,
+            900,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "RODENTS CO-INFECTED WITH MULTIPLE PATHOGENS ",
+        "bbox": [
+            94,
+            41,
+            491,
+            54
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "389 ",
+        "bbox": [
+            870,
+            42,
+            898,
+            53
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$(\\sim 560\\mathrm{bp})$ of the small subunit ribosomal RNA gene as previously described (Beck et al. 2011). ",
+        "bbox": [
+            96,
+            71,
+            491,
+            99
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genetic determination of rodents ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            113,
+            316,
+            126
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A cytochrome b fragment was amplified using DNA isolated from Apodemus rodents using the primers L 14771 (5'-CA ACATTCGTAAAACCCACC-3') and H 15149 (5'-AAACTG CAGCCCCTCAGAATGATATTTGTCCTCA-3') (Irwin et al. 1991). Amplification by PCR was performed using Platinum PCR SuperMix (1,1x) (Invitrogen Life Technologies, Carlsbad, CA). Five $\\mu$ L of DNA and $1\\mu \\mathrm{L}$ of $25\\mathrm{mM}$ $\\mathrm{MgCl_2}$ were added per reaction. The initial denaturation and activation step at $96^{\\circ}\\mathrm{C}$ for $2\\mathrm{min}$ was followed by 40 cycles of $1\\mathrm{min}$ of denaturation at $94^{\\circ}\\mathrm{C}$ , $1\\mathrm{min}$ of annealing at $54^{\\circ}\\mathrm{C}$ , and $1\\mathrm{min}$ of elongation at $72^{\\circ}\\mathrm{C}$ . PCR products were visualized on $1\\%$ agarose gel, further purified using the QIAquick PCR Purification Kit (Qiagen, Hilden, Germany), and sequenced using the BigDye Terminator Cycle Sequencing Ready Reaction Kit (ABI PRISM PE; Applied Biosystems) and primer L 14771. A computer-based nucleotide search of the GenBank databases was performed with the BLAST search program. ",
+        "bbox": [
+            94,
+            133,
+            493,
+            371
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            383,
+            155,
+            396
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Forty-four rodents were analyzed for infections with hantaviruses, Leptospira, and Babesia, and for the presence of anti-hantavirus and anti-Leptospira antibodies. All 28 Apodemus mice were genetically confirmed as $A$ flavicollis and 16 morphologically as $M$ glareolus. The presence of hantavirus RNA ",
+        "bbox": [
+            94,
+            402,
+            491,
+            474
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "was confirmed in 23 of 44 rodents $(52\\%)$ : DOBV in 20 of 28 A. flavicollis $(71\\%)$ , and PUUV in 3 of 16 M. glareolus $(19\\%)$ . Anti-hantavirus antibodies were detected in 19 of 44 rodents $(43\\%)$ : anti-SAAV/DOBV in 16 of 28 A. flavicollis $(57\\%)$ , and anti-PUUV in 3 of 16 M. glareolus $(19\\%)$ . Leptospiral antibodies were detected in 28 of 44 blood samples $(64\\%)$ , with the highest titer of 1:125. Leptospira infection was confirmed by isolation in 13 of 44 rodents $(30\\%)$ , all A. flavicollis. Twelve Leptospira isolates were identified as serogroup Australis and one isolate as serogroup Grippotyphosa. B. microti was detected in 6 of 44 rodents $(14\\%)$ : in 5 of 28 A. flavicollis $(18\\%)$ and in 1 of 16 M. glareolus $(6\\%)$ (Table 1). ",
+        "bbox": [
+            504,
+            71,
+            903,
+            238
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Current infection with all three pathogens was evident in 3 of 44 rodents $(7\\%)$ , dual infection with hantaviruses and Leptospira in 7 rodents $(16\\%)$ , dual infection with hantaviruses and Babesia in 2 rodents $(5\\%)$ , dual infection with Leptospira and Babesia in 1 rodent $(2\\%)$ , hantavirus infection only in 11 rodents $(25\\%)$ , and Leptospira infection only in 1 rodent $(2\\%)$ while 19 rodents $(43\\%)$ were shown to be uninfected. Infections with DOBV, Leptospira, and Babesia were found in 3 of 28 A. flavicollis $(11\\%)$ (Table 1). ",
+        "bbox": [
+            504,
+            238,
+            903,
+            362
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four Croatian Dobrava virus nucleotide sequences (HQ327701, HQ327702, HQ327703, and HQ327704) showed a high degree of similarity $(99.6 - 100\\%)$ , while the deduced amino acid sequences were $100\\%$ identical. Croatian DOBV sequences cluster together with neighboring Slovenian DOBV sequences AJ252000, AJ252005, AJ252002, AJ252006, AJ252004, and AJ252001. A high degree of nucleotide similarity $(92.3 - 94.6\\%)$ was found between them. ",
+        "bbox": [
+            504,
+            362,
+            903,
+            473
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0433fb73686167e9e988bb61a37faaefeadb1f58843862565f176ecef4390525.jpg",
+        "table_caption": [
+            "TABLE 1. INFECTION PROFILES OF 28 YELLOW-NECKED MICE AND 16 BANK VOLES CAPTURED IN THE ZUTICA FOREST, CROATIA, IN 2007"
+        ],
+        "table_footnote": [
+            "aAfla, Apodemus flavicollis; Mgla, Myodes glareolus. ",
+            "$^{b}$ DOBV, Dobrava virus; PUUV, Puumala virus. ",
+            "$^{\\mathrm{c}}$ SAAV, Saaremavirus. "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">Number of rodents</td><td rowspan=\"2\">Speciesa</td><td colspan=\"2\">Hantavirus</td><td colspan=\"2\">Leptospira</td><td>Babesia</td></tr><tr><td>RNAb</td><td>Antibodyc</td><td>Serogroup</td><td>Antibody</td><td>DNA</td></tr><tr><td>4</td><td>Afla</td><td>DOBV</td><td>Pos(SAAV/DOBV)</td><td>Australis</td><td>Pos</td><td>Neg</td></tr><tr><td>3</td><td>Afla</td><td>DOBV</td><td>Neg</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>3</td><td>Afla</td><td>DOBV</td><td>Pos(SAAV/DOBV)</td><td>Australis</td><td>Pos</td><td>Pos</td></tr><tr><td>3</td><td>Afla</td><td>DOBV</td><td>Neg</td><td>Australis</td><td>Pos</td><td>Neg</td></tr><tr><td>2</td><td>Afla</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>2</td><td>Afla</td><td>Neg</td><td>Pos(SAAV/DOBV)</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>2</td><td>Afla</td><td>DOBV</td><td>Pos(SAAV/DOBV)</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>2</td><td>Afla</td><td>DOBV</td><td>Pos(SAAV/DOBV)</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>1</td><td>Afla</td><td>DOBV</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>1</td><td>Afla</td><td>DOBV</td><td>Pos(SAAV/DOBV)</td><td>Neg</td><td>Pos</td><td>Pos</td></tr><tr><td>1</td><td>Afla</td><td>Neg</td><td>Neg</td><td>Australis</td><td>Pos</td><td>Pos</td></tr><tr><td>1</td><td>Afla</td><td>DOBV</td><td>Pos(SAAV/DOBV)</td><td>Grippotyphosa</td><td>Pos</td><td>Neg</td></tr><tr><td>1</td><td>Afla</td><td>Neg</td><td>Neg</td><td>Australis</td><td>Pos</td><td>Neg</td></tr><tr><td>1</td><td>Afla</td><td>Neg</td><td>Pos(SAAV/DOBV)</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>1</td><td>Afla</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>6</td><td>Mgla</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>5</td><td>Mgla</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>2</td><td>Mgla</td><td>Neg</td><td>Pos (PUUV)</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td>1</td><td>Mgla</td><td>PUUV</td><td>Pos (PUUV)</td><td>Neg</td><td>Pos</td><td>Neg</td></tr><tr><td>1</td><td>Mgla</td><td>PUUV</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Pos</td></tr><tr><td>1</td><td>Mgla</td><td>PUUV</td><td>Neg</td><td>Neg</td><td>Neg</td><td>Neg</td></tr><tr><td colspan=\"7\">Total 44</td></tr><tr><td colspan=\"2\">Number of positive rodents</td><td>23</td><td>19</td><td>13</td><td>28</td><td>6</td></tr><tr><td colspan=\"2\">Prevalence (%)</td><td>52</td><td>43</td><td>30</td><td>64</td><td>14</td></tr></table>",
+        "bbox": [
+            94,
+            518,
+            906,
+            891
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "390 ",
+        "bbox": [
+            99,
+            42,
+            125,
+            54
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "TADIN ET AL. ",
+        "bbox": [
+            802,
+            42,
+            901,
+            54
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            71,
+            174,
+            85
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This article presents the first and unique findings of multiple co-infections among small rodents with hantaviruses, Leptospira, and Babesia. In one old natural focus in the Sava River Valley in Croatia, the Zutica forest, we found a high percentage of dual and triple infections with the tested pathogens. The Sava Valley, together with other parts of central and northeastern Croatia, was previously known as a focal point for infections of small rodents with all three pathogens (Borcić et al. 1982,1996; Cvetko et al. 2005; Beck et al. 2011). Our intention was to demonstrate that the same rodents can be simultaneously infected with several pathogens that are endemic in a specific area. ",
+        "bbox": [
+            91,
+            92,
+            488,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PUUV and DOBV were previously known to coexist in Croatia (Markotić et al. 2002), with PUUV causing the majority of diseases (Miletic Medved et al. 2002; Markotić et al. 2002, Cvetko et al. 2005). Although DOBV infections were found in different parts of the country (Markotić et al. 2002), this is the first finding of such high prevalence $(71\\%)$ of DOBV infections in A. flavicollis in one small isolated area. PUUV, carried by M. glareolus, is considered the main causative agent of HFRS in Europe and Croatia as well (Vapalahti et al. 2003; Cvetko et al. 2005), but our study indicates that small and specific ecological niches can be focal points for DOBV infections in small rodents. Because the Zutica forest appeared to be the isolated endemic niche for DOBV, we considered possible molecular differences in comparison to other DOBV strains in the region. However, DOBV from this region clusters together with DOBV from Slovenia, as was previously described in an analysis of the S genome segment (Markotić et al. 2002). ",
+        "bbox": [
+            94,
+            258,
+            488,
+            493
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, $A$ . flavicollis from the Žutica forest showed an infection ratio (according to our renoculture method) with leptospires of $46\\%$ , which is much higher than that seen in a previous study in Croatia, where only $2.9\\%$ of $A$ . flavicollis rodents were infected (Turk et al. 2003). Such a high prevalence of Leptospira infection among small rodents has not previously been reported. Serogroup determination of isolated Leptospira strains revealed the seroprevalence of the serogroups Australis and Grippotyphosa, which is in accord with previously described serogroups present in rodents and humans in Croatia (Borcić et al. 1982; Turk et al. 2003; Golubic et al. 2003; Balen-Topic et al. 2010). The latest investigation of human leptospirosis in Croatia showed the highest prevalence of antibodies against serogroup Australis among clinically ill patients (Balen-Topic et al. 2010), a finding also in accord with the results obtained in this study. ",
+        "bbox": [
+            91,
+            494,
+            488,
+            715
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To date only one case of dual infection with hantaviruses and Leptospira spp. has been described in small rodents. One bank vole (M. glareolus) was shown to be infected with PUUV and L. interrogans serogroup Australis serovar Lora (Cvetko et al. 2006). ",
+        "bbox": [
+            91,
+            715,
+            488,
+            784
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This study is the first to describe dual infections with DOBV and leptospires in rodents. A high infection ratio $(36\\%)$ of $A$ flavicollis with both pathogens was found. Both dual infections with DOBV and serogroup Australis, as well as dual infections with DOBV and serogroup Grippotyphosa, were found. Dual infections with hantaviruses and leptospires are also described in humans (Kudesia et al. 1988; Markotic et al. 2002). Rodents infected with both pathogens at the same time may present a special threat to human health because there is a higher possibility that humans may also be infected with ",
+        "bbox": [
+            91,
+            785,
+            490,
+            924
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "both pathogens. Dual infection in humans can lead to a more severe clinical picture (Markotić et al. 2002). It has been shown that dual infections in humans can also affect some immune parameters (e.g., TNF- $\\alpha$ and sCD23), which can play an important role in immunopathogenesis (Markotić et al. 2002). Since HFRS and leptospirosis have very similar clinical pictures, and in many parts of the world are present in the same endemic regions (Schmaljohn et al. 1997; Levett 2001), it is important to have data about the distribution of these infections among small rodents, and to consider the possibility of dual infections among patients. ",
+        "bbox": [
+            501,
+            71,
+            900,
+            224
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Simultaneous infection with DOBV, Leptospira, and Babesia was found in $11\\%$ of A. flavicollis, which indicates that in the area triple infections are quite common. At this point it is difficult to say if multiple infections have any impact on the rodent host itself, but it is evident that rodents can be infected with multiple pathogens that share the same ecological niche. Rodents that are co-infected with several pathogens can represent a greater threat to humans, because there is a higher possibility that more than one pathogen will be transmitted to humans and cause disease. Multiple co-infections in humans with all three pathogens is a phenomenon about which much remains unknown, including data about how these organisms interact during transmission and disease. ",
+        "bbox": [
+            501,
+            224,
+            900,
+            402
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Multiple co-infections of animal vectors and humans have been previously described. Ixodes ticks can be simultaneously infected with Babesia, Borrelia, and Anaplasma, and transmit all three pathogens to humans (Swanson et al. 2006). Co-infection with four genera of bacteria (Borrelia, Bartonella, Anaplasma, and Ehrlichia) was found in a Ixodes sinensis tick in China (Sun et al. 2008). Co-infections with malaria and leptospirosis in humans have also been described (Wongsrichanalai et al. 2003). In general, multiple infections in humans can lead to a more severe clinical picture. The symptoms of co-infections are often nonspecific, which also makes diagnosis difficult. ",
+        "bbox": [
+            501,
+            404,
+            900,
+            556
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To the best of our knowledge, our study is the first to demonstrate co-infection of rodents with hantaviruses, Leptospira, and Babesia in natural conditions. Awareness of the presence and spread of such co-infections among rodents would be the basis for predicting co-infections in the human population, and allow preparation of public health measures. Testing for the presence of all described pathogens in patients should be considered in regions where co-infections in rodents have been detected. ",
+        "bbox": [
+            501,
+            556,
+            900,
+            681
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            691,
+            637,
+            705
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants 143-1430115-0103, 068-1430115-2119, 053-1430115-2116, and J-29-2007 from the Ministry of Science, Education and Sports of Republic Croatia. ",
+        "bbox": [
+            501,
+            712,
+            898,
+            753
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Author Disclosure Statement ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            763,
+            712,
+            777
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "No competing financial interests exist. ",
+        "bbox": [
+            519,
+            785,
+            769,
+            799
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            809,
+            586,
+            821
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Avsic-Zupanc T, Nemirov K, Petrovec M, et al. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: co-existence of two distinct genetic lineages within the same natural focus. J Gen Virol 2000; 81:1747-1755. ",
+            "Balen-Topic M, Habus J, Milas Z, et al. Human leptospirosis in Croatia: current status of epidemiology and clinical characteristics. Trans R Soc Trop Med Hyg 2010; 104:202-206. "
+        ],
+        "bbox": [
+            503,
+            830,
+            900,
+            924
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "RODENTS CO-INFECTED WITH MULTIPLE PATHOGENS ",
+        "bbox": [
+            94,
+            41,
+            491,
+            54
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "391 ",
+        "bbox": [
+            870,
+            42,
+            897,
+            53
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Beck R, Vojta L, Curkovic S, et al. Molecular survey of Babesia microti in wild rodents in central Croatia. Vector Borne Zoonotic Dis 2011; 11:81-83. ",
+            "Borcić B, Kovacic H, Sebek Z, et al. Small terrestrial mammals as reservoirs of leptospirosis in the Sava Valley (Croatia). Folia Parasitol 1982; 29:177-182. ",
+            "Borcić B, Puntarić D, Turković B, et al. New natural focus of hemorrhagic fever with renal syndrome in Novska, Croatia. Croat Med J 1996; 37:115-118. ",
+            "Brummer-Korvenkontio M, Vaheri A, Hovi T, et al. Nephropathia epidemiaca: detection of antigen in bank voles and serologic diagnosis of human infection. J Infect Dis 1980; 141:131-134. ",
+            "Chu YK, Jennings GB, Schmaljohn CS. A vaccinia virus-vectored Hantaan virus vaccine protects hamsters from challenge with Hantaan and Seoul viruses but not Puumala virus. J Virol 1995; 69:6417-6423. ",
+            "Cvetko L, Markotic A, Plyusnina A, et al. Puumala virus in Croatia in the 2002 HFRS outbreak. J Med Virol 2005; 77:290-294. ",
+            "Cvetko L, Turk N, Markotic A, et al. Short report: Dual infections with Puumala virus and Leptospira interrogans serovar lora in a bank vole (Clethrionomys glareolus). Am J Trop Med Hyg 2006;74:612-614. ",
+            "Dikken H, Kmety E. Serological typing methods of leptospires. In: Methods in Microbiology. Bergan T, Norris JR, eds. London: Academic Press, 1978; 11:259-307. ",
+            "Duh D, Petrovec M, Avsic-Zupanc T. Diversity of Babesia infecting European sheep ticks (Ixodes ricinus). J Clin Microbiol 2001; 39:3395-3397. ",
+            "Duh D, Petrovec M, Trilar T, et al. The molecular evidence of Babesia microti infection in small mammals collected in Slovenia. Parasitology 2003; 126:113-117. ",
+            "Golubic D, Markotic A. Leptospirosis and hemorrhagic fever with renal syndrome in northwestern Croatia. [in Croatian] Acta Med Croatica 2003; 57:369-372. ",
+            "Hildebrandt A, Hunfeld KP, Baier M, et al. First confirmed autochthonous case of human Babesia microti infection in Europe. Eur J Clin Microbiol Infect Dis 2007; 26:595-601. ",
+            "Hunfeld KP, Allwinn R, Peters S, et al. Serologic evidence for tick-borne pathogens other than Borrelia burgdorferi (TOBB) in Lyme borreliosis patients from Midwestern Germany. Wien Klin Wochenschr 1998; 110:901-908. ",
+            "Irwin DM, Kocher TD, Wilson AC. Evolution of cytochrome b gene of mammals. J Mol Evol 1991; 32:128-144. ",
+            "Korva M, Duh D, Saksida A, et al. The hantaviral load in tissues of naturally infected rodents. Microbes Infect 2009; 11:344-351. ",
+            "Kudesia G, Christie P, Walker E, et al. Dual Infection with Leptospira and Hantavirus. Lancet 1988; 1:1397. ",
+            "Ledina D, Bradaric N, Borci C, et al. Dinara-New natural focus of hemorrhagic fever with renal syndrome in Croatia. Croat Med J 2002; 43:576-580. ",
+            "Levett PN. Leptospirosis. Clin Microbiol Rev 2001; 14:296-326. ",
+            "Margaletić J. Small rodents in the forest ecosystem as infectious disease reservoir. [in Croatian] Acta Med Croatia 2003; 57:421-426. ",
+            "Markotic, A, Cvetko Krajinovic, L, Margaletic, J, et al. Zoonoses and vector-borne diseases in Croatia—a multidisciplinary approach. Vet Ital 2009; 45:55-66. "
+        ],
+        "bbox": [
+            98,
+            71,
+            491,
+            811
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Markotic A, Kuzman I, Babic K, et al. Double trouble: Hemorrhagic fever with renal syndrome and Leptospirosis. Scand J Infect Dis 2002; 34:221-224. ",
+            "Markotic A, LeDuc JW, Hlaca D, et al. Hantaviruses are likely threat to NATO forces in Bosnia and Herzegovina and Croatia. Nat Med 1996; 2:269-270. ",
+            "Markotic A, Nichol ST, Kuzman I, et al. Characteristics of Puumala and Dobrava infections in Croatia. J Med Virol 2002; 66:542-551. ",
+            "Miletic Medved M, Markotic A, Cebalo L, et al. Haemorrhagic fever with renal syndrome in Croatia. Lancet 2002; 360: 415-416. ",
+            "Perić L, Simašek D, Barbic J, et al. Human leptospirosis in eastern Croatia, 1969-2003: epidemiological, clinical, and serological features. Scand J Infect Dis 2005; 37:738-741. ",
+            "Plyusnina A, Cvetko Krajinovic L, Margaletic J, et al. Genetic evidence for the presence of two distinct Hantaviruses associated with apodemus mice in Croatia and analysis of local strains. J Med Virol 2011; 83:108-114. ",
+            "Saksida A, Duh D, Korva M, et al. Dobrava virus RNA load in patients who have hemorrhagic fever with renal syndrome. J Infect Dis 2008; 197:681-685. ",
+            "Scharninghausen JJ, Pfeffer M, Meyer H, et al. Genetic evidence for Tula virus in Microtus arvalis and Microtus agrestis populations in Croatia. Vector Borne Zoonotic Dis 2002; 2:19-27. ",
+            "Schmaljohn CS, Hjelle B. Hantaviruses: A global disease problem. Emerg Infect Dis 1997; 3:95-104. ",
+            "Sun J, Liu Q, Lu L, et al. Coinfection with four genera of bacteria (Borrelia, Bartonella, Anaplasma, and Ehrlichia). Vector Borne Zoonotic Dis 2008; 8:791-795. ",
+            "Swanson SJ, Neitzel D, Reed KD, et al. Coinfections acquired from Ixodes ticks. Clin Microbiol Rev 2006; 19:708-727. ",
+            "Topolovec J, Puntaric D, Antolovic-Pozgain A, et al. Serologically detected \"new\" tick-borne zoonose in eastern Croatia. Croat Med J 2003; 44:626-629. ",
+            "Turk N, Milas Z, Margaletic J, et al. Molecular characterization of Leptospira spp. strains isolated from small rodents in Croatia. Epidemiol Infect 2003; 130:159-166. ",
+            "Turk N, Milas Z, Mojcec V, et al. Molecular analysis of Leptospira spp. isolated from humans by restriction fragment length polymorphism, real-time PCR and pulsed-field gel electrophoresis. FEMS Microbiol Lett 2009; 300:174-179. ",
+            "Vapalahti O, Mustonen J, Lundkvist A, et al. Hantavirus infections in Europe. Lancet Infect Dis 2003; 3:653-661. ",
+            "Wongsrichanalai C, Murray CK, Gray M, et al. Co-infection with malaria and leptospirosis. Am J Trop Med Hyg 2003; 68: 583-585. "
+        ],
+        "bbox": [
+            508,
+            71,
+            901,
+            691
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Address correspondence to: ",
+        "bbox": [
+            718,
+            709,
+            901,
+            722
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ante Tadin ",
+        "bbox": [
+            831,
+            723,
+            901,
+            734
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "University Hospital for Infectious Diseases \"Dr. Fran Mihaljevic\" ",
+        "bbox": [
+            509,
+            736,
+            901,
+            750
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mirogojska 8 ",
+        "bbox": [
+            820,
+            751,
+            901,
+            763
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10000 Zagreb ",
+        "bbox": [
+            816,
+            765,
+            901,
+            777
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Croatia ",
+        "bbox": [
+            856,
+            777,
+            901,
+            790
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "E-mail: ante.tadin@bfm.hr ",
+        "bbox": [
+            733,
+            797,
+            901,
+            811
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "392 ",
+        "bbox": [
+            99,
+            42,
+            125,
+            54
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "TADIN ET AL. ",
+        "bbox": [
+            802,
+            42,
+            901,
+            54
+        ],
+        "page_idx": 4
+    }
+]

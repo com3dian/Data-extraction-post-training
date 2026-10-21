@@ -1,0 +1,2851 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.873,
+                0.0,
+                0.894,
+                0.017
+            ],
+            "angle": 0,
+            "content": "#"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.9,
+                0.004,
+                0.998,
+                0.014
+            ],
+            "angle": 0,
+            "content": "Check for updates"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.035,
+                0.235,
+                0.047
+            ],
+            "angle": 0,
+            "content": "Received: 15 December 2023"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.255,
+                0.036,
+                0.38,
+                0.048
+            ],
+            "angle": 0,
+            "content": "Accepted: 6 June 2024"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.054,
+                0.249,
+                0.066
+            ],
+            "angle": 0,
+            "content": "DOI: 10.1111/1365-2664.14711"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.073,
+                0.087,
+                0.267,
+                0.101
+            ],
+            "angle": 0,
+            "content": "RESEARCH ARTICLE"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.699,
+                0.073,
+                0.858,
+                0.091
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.861,
+                0.069,
+                0.923,
+                0.095
+            ],
+            "angle": 0,
+            "content": "BRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.138,
+                0.828,
+                0.194
+            ],
+            "angle": 0,
+            "content": "Forest composition shapes seed-rodent interactions in a gradient of broadleaves and conifers"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.224,
+                0.628,
+                0.243
+            ],
+            "angle": 0,
+            "content": "Pedro Mittelman | Scott M. Appleby | Niko Balkenhol"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.273,
+                0.304,
+                0.298
+            ],
+            "angle": 0,
+            "content": "Wildlife Sciences, University of Göttingen, Göttingen, Germany"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.312,
+                0.168,
+                0.323
+            ],
+            "angle": 0,
+            "content": "Correspondence"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.325,
+                0.167,
+                0.335
+            ],
+            "angle": 0,
+            "content": "Pedro Mittelman"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.338,
+                0.233,
+                0.349
+            ],
+            "angle": 0,
+            "content": "Email: uchoa.mitt@gmail.com"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.363,
+                0.187,
+                0.374
+            ],
+            "angle": 0,
+            "content": "Funding information"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.376,
+                0.268,
+                0.387
+            ],
+            "angle": 0,
+            "content": "Deutsche Forschungsgemeinschaft,"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.389,
+                0.268,
+                0.399
+            ],
+            "angle": 0,
+            "content": "Grant/Award Number: 316045089/"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.401,
+                0.131,
+                0.411
+            ],
+            "angle": 0,
+            "content": "GRK2300"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.073,
+                0.426,
+                0.234,
+                0.439
+            ],
+            "angle": 0,
+            "content": "Handling Editor: Cecile Remy"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.338,
+                0.282,
+                0.409,
+                0.297
+            ],
+            "angle": 0,
+            "content": "Abstract"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.337,
+                0.302,
+                0.907,
+                0.394
+            ],
+            "angle": 0,
+            "content": "1. Non-native tree species and mixed forests have been increasingly employed in forestry practice as a safeguard against climate change and as a tool to foster biodiversity while providing economic benefits. Though these changes in forest composition may affect animal communities and ecosystem processes, they are seldom studied through a plant-animal interaction perspective."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.337,
+                0.398,
+                0.907,
+                0.547
+            ],
+            "angle": 0,
+            "content": "2. Here we investigated how forests with varying proportions of a native broadleaf (Fagus sylvatica) and two conifers (introduced Pseudotsuga menziesii and native Picea abies) affect rodents and their interactions with seeds. We surveyed terrestrial small mammal communities, estimated species' densities, assessed seed preference by rodents, collected data on environmental variables (understory density and tree basal area), measured Fagus sylvatica seed production and tracked 1200 seeds of Fagus sylvatica in 20 different forest plots in northern Germany in a mast and non-mast year for Fagus sylvatica."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.337,
+                0.551,
+                0.907,
+                0.701
+            ],
+            "angle": 0,
+            "content": "3. Forest composition influenced the interactions between rodents and seeds. In forests with a lower proportion of broadleaves, beech seeds were harvested faster and in greater quantities, had diminished survival and were less often cached. These results are in agreement with three other findings: (a) seed fate responded to the proportion of broadleaves and conifers irrespective of conifer tree identity, (b) rodents preferred nutritious beech seeds over small conifer seeds, and (c) higher proportions of seeds were harvested during the period when beech seeds were scarce (non-mast year)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.337,
+                0.705,
+                0.907,
+                0.854
+            ],
+            "angle": 0,
+            "content": "4. Synthesis and applications: This work provides evidence of how forest composition can affect plant-animal interactions without necessarily altering animal communities or population densities. Specifically, we found no differences between forests with native and non-native conifer trees regarding small mammal community, seed-rodent interactions or seed fate. Furthermore, rodents may provide a service in mixed forests by primarily preying upon seeds of Fagus sylvatica, a superior-competitive species, and thus mitigate beech dominance over conifer species."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.337,
+                0.302,
+                0.907,
+                0.854
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.072,
+                0.904,
+                0.911,
+                0.929
+            ],
+            "angle": 0,
+            "content": "This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.073,
+                0.93,
+                0.73,
+                0.943
+            ],
+            "angle": 0,
+            "content": "© 2024 The Author(s). Journal of Applied Ecology published by John Wiley & Sons Ltd on behalf of British Ecological Society."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.074,
+                0.956,
+                0.105,
+                0.965
+            ],
+            "angle": 0,
+            "content": "1944"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.126,
+                0.956,
+                0.307,
+                0.967
+            ],
+            "angle": 0,
+            "content": "wileyonlinelibrary.com/journal/jpe"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.751,
+                0.956,
+                0.924,
+                0.967
+            ],
+            "angle": 0,
+            "content": "J Appl Ecol. 2024;61:1944-1954."
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.179,
+                0.038
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.647,
+                0.026,
+                0.873,
+                0.056
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology E BRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.894,
+                0.027,
+                0.924,
+                0.039
+            ],
+            "angle": 0,
+            "content": "1945"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.337,
+                0.065,
+                0.43,
+                0.077
+            ],
+            "angle": 0,
+            "content": "KEYWORDS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.079,
+                0.909,
+                0.107
+            ],
+            "angle": 0,
+            "content": "Douglas fir, European beech, forest admixtures, forest management, granivory, non-native tree species, scatter-hoarding, seed predation"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.146,
+                0.279,
+                0.161
+            ],
+            "angle": 0,
+            "content": "1 | INTRODUCTION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.181,
+                0.486,
+                0.444
+            ],
+            "angle": 0,
+            "content": "In many parts of the world, forests are experiencing increased disturbances associated with climate change (Seidl et al., 2017), which can exacerbate the ongoing biodiversity crisis (Johnson et al., 2017). Two important factors influencing biodiversity in temperate forests are tree species composition and management practices (Gossner et al., 2014; Leidinger et al., 2021). The use of mixed forests is a promising method to maintain natural processes and biodiversity while also maintaining forest commercial productivity (Brockerhoff et al., 2017). Tree mixtures most often incorporate naturally occurring broadleaves with cultivated conifer trees, providing a wider range of resources, habitat features and micro-environmental conditions that promote biodiversity (Scherer-Lorenzen, 2014). Nonnative trees are also under consideration for extensive utilisation in managed forests, either in isolation or in mixed stands, since they show some signs of resistance to climate change while still maintaining high productivity (Pötzelsberger et al., 2020)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.447,
+                0.487,
+                0.56
+            ],
+            "angle": 0,
+            "content": "In central Europe, non-native Douglas-fir (Pseudotsuga menziesii) has shown reduced vulnerability to extreme weather compared to the more commonly employed Norway spruce (Picea abies), which has been severely impacted by drought in recent years (Popkin, 2021; Vitali et al., 2017). However, Douglas-fir's impact on European forest ecosystems remains a subject of debate, exacerbated by a paucity of studies on the matter (Thomas et al., 2022)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.563,
+                0.487,
+                0.644
+            ],
+            "angle": 0,
+            "content": "Granivorous rodents, for instance, can be affected by forest composition and non-native species (Appleby & Balkenhol, 2023; Malo et al., 2013), which can lead to changes in seed-rodent interactions, alter processes like seed dispersal and predation, and ultimately influence germination and forest regeneration (Godó et al., 2022)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.646,
+                0.487,
+                0.877
+            ],
+            "angle": 0,
+            "content": "In Central European forests, small mammals maintain a close relationship with European beech (Fagus sylvatica), consuming and caching its seeds, thereby influencing beech regeneration (Zwolak, Bogdzielicz, Wrobel, et al., 2016). Caching of beech seeds by rodents plays a vital role in the germination success of beech, due to the favourable microhabitat provided for buried seeds (Zwolak, Bogdzielicz, Wrobel, et al., 2016) and the vulnerability of uncached seeds to winter frost on the soil surface (Jensen, 1985). Furthermore, increased seed production by beech during mast events plays an important role in determining small mammal abundance and shaping population cycles (Zwolak et al., 2021). Nevertheless, the interaction between beech and rodents in a mixed forest context has rarely been studied (but see Perea et al., 2012 for mixed beech-oak stands), and—as far as we know—never in mixtures with Douglas-fir."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.879,
+                0.487,
+                0.943
+            ],
+            "angle": 0,
+            "content": "Two common small mammal species found across Central European forests are the yellow-necked mouse (Apodemus flavicollis) and the bank vole (Clethrionomys glareolus). Bank voles prefer habitats with dense understory vegetation, while yellow-necked"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.148,
+                0.925,
+                0.228
+            ],
+            "angle": 0,
+            "content": "mice also inhabit closed canopy forests with less ground vegetation (Amori et al., 2015; Baláž et al., 2016). Although both species are considered generalists, yellow-necked mice rely heavily on seeds, while bank voles more readily consume soft plant material like shoots and seedlings in the absence of seeds (Butet & Delettre, 2011)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.23,
+                0.927,
+                0.493
+            ],
+            "angle": 0,
+            "content": "Here, we studied a range of different forest compositions including monocultures of European beech, Norway spruce and Douglas-fir as well as mixed forests including European beech and each of the two conifer species. Our objective was to investigate the effects of economically important tree species on the interactions between rodents and seeds. We focused on European beech as the dominant tree species under natural conditions, Norway spruce as a commonly employed conifer in forestry practice and Douglas-fir as a non-native conifer increasingly cultivated in Central Europe. To better capture the effects of forest composition on seed interactions, we also quantified two forest features that play an important role in seed fate; (1) beech seed production, which has a major influence on total food resources available for small mammals in forest habitats (Jensen, 1985) and (2) the amount of understory vegetation, which is known to affect small mammals' abundance and activity (Menezes et al., 2018)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.497,
+                0.925,
+                0.594
+            ],
+            "angle": 0,
+            "content": "Our main question was: (1) Are rodents' interactions with seeds affected by forest composition? Additionally, we addressed the following questions: (2) What roles do understory vegetation and seed production play in seed fate in the context of stands with different tree composition? And (3) does non-native Douglas-fir have a different effect on seed fate than native Norway spruce?"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.597,
+                0.927,
+                0.793
+            ],
+            "angle": 0,
+            "content": "We hypothesised that (1) forest composition will affect small mammal community composition and populations densities; this, in turn, would lead to different responses in terms of seed predation and seed dispersal (e.g. higher seed predation in plots with higher animal abundance); (2) greater understory vegetation will increase small mammal numbers and activity, increasing seed predation, while greater seed production will decrease proportional seed predation and increase seed caching due to greater seed availability per capita and satiation of rodents; (3) forest plots with non-native Douglas-fir will have reduced small mammal numbers since Douglas-fir is a novel and nutrient-poor resource; this reduction in animals' abundance will decrease number of interactions and seed harvesting (Table 1)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.828,
+                0.825,
+                0.842
+            ],
+            "angle": 0,
+            "content": "2 MATERIALS AND METHODS"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.511,
+                0.861,
+                0.659,
+                0.877
+            ],
+            "angle": 0,
+            "content": "2.1 Study area"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.896,
+                0.925,
+                0.943
+            ],
+            "angle": 0,
+            "content": "Our study was conducted between 2021 and 2023 at four sites, each comprised of five study plots, in the state of Lower Saxony, Germany. All 20 plots were 0.5-hectare in size, in state-managed"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.075,
+                0.028,
+                0.105,
+                0.038
+            ],
+            "angle": 0,
+            "content": "1946"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.13,
+                0.033,
+                0.352,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.821,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.073,
+                0.058,
+                0.64,
+                0.419
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Hypothesis</td><td>Evidence found</td><td>Effect</td></tr><tr><td>(1a) Forest composition influences rodent communities and populations&#x27; abundance</td><td>No</td><td>/</td></tr><tr><td>(1b) Forest composition influences rodents&#x27; interactions with seeds</td><td>Yes</td><td>Beech presence decreases seed harvesting, and increases seed survival and seed caching</td></tr><tr><td>(2a) Amount of understory vegetation influences rodent communities and populations&#x27; abundance</td><td>Only for bank vole densities</td><td>Plots with more understory plants had higher bank vole densities</td></tr><tr><td>(2b) Amount of understory vegetation influences rodents&#x27; interactions with seeds</td><td>Only for seed harvesting and survival</td><td>Plots with more understory plants had higher seed harvesting and lower seed survival rates</td></tr><tr><td>(2c) Seed production influences rodents&#x27; interactions with seeds</td><td>Yes</td><td>Mast year decreases seed harvesting, and increases seed survival and seed caching</td></tr><tr><td>(3) Douglas-fir has different effects on rodents and their interactions compared to Norway spruce</td><td>No</td><td>/</td></tr></table>"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.663,
+                0.057,
+                0.923,
+                0.084
+            ],
+            "angle": 0,
+            "content": "TABLE 1 Summary of results according to each initially postulated hypothesis."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.464,
+                0.486,
+                0.594
+            ],
+            "angle": 0,
+            "content": "forests older than 60 years. Sites were split between two regions, with two sites in the south within the Solling uplands, and two sites in the northeast of Lower Saxony neighbouring the Sudheide and the Elbe River. Southern sites have a mean annual temperature of \\(8.5^{\\circ}\\mathrm{C}\\), elevations from 277 to \\(493\\mathrm{m}\\), 815-1029 mm annual rainfall and mostly loamy soils. Northern sites have a mean annual temperature of \\(9.3^{\\circ}\\mathrm{C}\\), elevations from 47 to \\(138\\mathrm{m}\\), 672-746 mm annual rainfall and mostly sandy soils (Foltran et al., 2022)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.597,
+                0.487,
+                0.727
+            ],
+            "angle": 0,
+            "content": "At each site, five forest plots were chosen that capture a gradient of European beech and conifer proportions, consisting of pure plots of each of the three species (three plots), as well as admixtures of beech with Douglas-fir and beech with Norway spruce (two plots). Replicating this design across four different sites allowed us to assess the impact of forest composition in general, and to capture possible differences between Norway-spruce and Douglas-fir."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.761,
+                0.45,
+                0.777
+            ],
+            "angle": 0,
+            "content": "2.2 Forest structure—Tree species' basal area"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.795,
+                0.486,
+                0.892
+            ],
+            "angle": 0,
+            "content": "We recorded the diameter at breast height (DBH) and species of each tree in our forest plots in 2017 and updated this information yearly; total basal area for each tree species was calculated as \\(\\mathfrak{m}^2\\) per ha. Forest plots did not experience significant tree mortality, harvest or any major changes regarding basal area between 2021 and 2022."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.896,
+                0.487,
+                0.943
+            ],
+            "angle": 0,
+            "content": "Trees other than our three focal species always comprised less than \\(6\\%\\) of a forest plot's basal area. Thus, we used beech basal area as a measure that encompasses both the amount of beech and"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.464,
+                0.925,
+                0.527
+            ],
+            "angle": 0,
+            "content": "the (inverse) proportion of conifers in our forests. Douglas-fir and Norway spruce had very similar effects on our measured variables (see forest composition results) and for most analyses we grouped them together as 'conifers'."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.562,
+                0.72,
+                0.578
+            ],
+            "angle": 0,
+            "content": "2.3 Understory survey"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.597,
+                0.925,
+                0.71
+            ],
+            "angle": 0,
+            "content": "The composition of the forest understory was assessed between June and July 2021. In each forest plot, we systematically surveyed six quadrats of \\(100\\mathrm{m}^2\\) (\\(10 \\times 10\\mathrm{m}\\)) and counted the number of saplings, shrubs, herbaceous plants and any ground vegetation between 30 and \\(80\\mathrm{cm}\\) in height. We used the total count of all categories of plants to represent the understory composition of each plot."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.744,
+                0.702,
+                0.76
+            ],
+            "angle": 0,
+            "content": "2.4 Seed production"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.779,
+                0.925,
+                0.943
+            ],
+            "angle": 0,
+            "content": "We measured beech seed production in study plots where beech represented \\(10\\%\\) or more of the total plot basal area (12 out of 20 forest plots). Measurements were taken during the last week of October in both 2021 and 2022 using a stratified random approach: each study plot was divided in five systematically selected subplots and inside each, two \\(0.25\\mathrm{m}^2\\) quadrats were randomly placed and seeds counted (Chianucci et al., 2021). During these years there were no masting events of Douglas-fir or Norway spruce, and conifer seeds were mostly ignored by rodents when beech was present (see seed preference results)."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.179,
+                0.038
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.647,
+                0.026,
+                0.87,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.893,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "1947"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.063,
+                0.374,
+                0.096
+            ],
+            "angle": 0,
+            "content": "2.5 | Small mammal survey-Species composition and density estimation"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.114,
+                0.486,
+                0.295
+            ],
+            "angle": 0,
+            "content": "Each forest plot was surveyed for terrestrial small mammals during July and August of 2021 and 2022 using Sherman traps arranged in a six-by-six grid with traps placed \\(10\\mathrm{m}\\) apart, covering \\(0.25\\mathrm{ha}\\). Each survey lasted three or four nights in 2021 and three nights in 2022, with traps set on the evening of the first day and removed after being checked on the morning of the last day. Traps were checked twice per day, once at dawn and once in the late afternoon. Captured animals were identified to species and uniquely marked by injecting a passive integrated transponder (PIT-tag) (Peddymark \\(1.4\\mathrm{mm} \\times 10\\mathrm{mm}\\) ISO 11784/5 FDX-B) and given a secondary mark by trimming a small patch of their fur."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.329,
+                0.212,
+                0.344
+            ],
+            "angle": 0,
+            "content": "2.6 Seed fate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.364,
+                0.486,
+                0.744
+            ],
+            "angle": 0,
+            "content": "To assess seed fate, we attached a stainless-steel wire (100 mm in length, 0.2 mm in diameter) and a numbered pink plastic tag to each beech seed (wire and tag combined weighed 0.15 g). This method replicated the technique used by Xiao et al. (2006) and many other recent seed-tracking studies (Yu et al., 2023; Zwolak, Bogdzielicz, Wróbel, et al., 2016) and has been shown to not affect removal rates by rodents (Wróbel & Zwolak, 2013). Beech seeds were obtained from the State Forest Department of Lower-Saxony and discarded if they had holes or any sign of attack by invertebrates. Seed stations were composed of 10 tagged seeds placed on the forest floor with a camera trap (Browning BTC-8A) positioned to record videos of animals interacting with seeds. We set three seed stations at each plot during the third week of October each year, at a distance of at least \\(30\\mathrm{m}\\) from one another. In total, 1200 seeds were tracked over both years. Tagged seeds were checked 1, 2, 4 and 8 days after placement. We defined seed fates as follows: (1) Seed harvesting: all seeds that rodents interacted with, whether eaten in situ or transported away from the seed pile; (2) seed survival: viable seeds not eaten by rodents (either seeds not harvested or cached); (3) seed caching: seeds taken away from seed piles and buried in the soil (here 'seed dispersal' and 'seed caching' are synonyms because all dispersed seeds that remained viable after 8 days were cached)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.777,
+                0.262,
+                0.793
+            ],
+            "angle": 0,
+            "content": "2.7 Seed preference"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.813,
+                0.486,
+                0.943
+            ],
+            "angle": 0,
+            "content": "To assess seed preference between beech and conifer seeds by rodents, we placed seed removal boxes in eight mixed forest plots (1 per plot) that had a relatively equal amount of beech and conifer trees (35%–65% of each in the mixture). The wooden boxes had a 15 cm diameter plate filled half with beech (40 seeds, between 9.8 and 11.2 g) and half with either Norway spruce (150 seeds, between 5.7, and 6.2 grams) or Douglas-fir (150 seeds, between 4.3 and 4.9 g). Conifer seeds were placed on plates with wings and woody scales"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.065,
+                0.925,
+                0.128
+            ],
+            "angle": 0,
+            "content": "the same way they are found on the forest floor. Each box had openings on the sides to allow rodents to enter and a camera-trap to record animal seed removal behaviour. Boxes were placed in May 2023 and retrieved 30 days later."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.511,
+                0.163,
+                0.722,
+                0.179
+            ],
+            "angle": 0,
+            "content": "2.8 Statistical analyses"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.198,
+                0.925,
+                0.36
+            ],
+            "angle": 0,
+            "content": "Because two species of Apodemus mice accounted for more than \\(90\\%\\) of interactions with seeds (see Section 3) and individual mouse species could not be identified from videos, we combined the two species to estimate 'mouse density', as well as bank vole density on our plots using spatially explicit capture-recapture models (Efford et al., 2009–R package secr–M. Efford & Efford, 2023). We estimated the density of each species for each forest plot separately for each year, but modelled sigma and g0 combining the 2 years as these parameters varied more between plots than between years."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.364,
+                0.927,
+                0.476
+            ],
+            "angle": 0,
+            "content": "To assess the impact of forest composition and understory vegetation on small mammal densities, we used linear mixed models, with the estimates obtained from the spatially explicit capture-recapture models (without the uncertainty associated with these estimates) as response variables. We included beech basal area, the number of understory plants per hectare and year as explanatory variables, and the site as a random effect."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.48,
+                0.926,
+                0.659
+            ],
+            "angle": 0,
+            "content": "To estimate the probabilities of seed harvest, survival and caching according to the understory vegetation density, mouse density, mast year and beech basal area, we used generalised linear mixed models (GLMMs) with a binomial response, with site and seed stations as nested random factors. Missing seeds were not included in survival and cache analyses because of their unknown fate, but they were considered as harvested seeds. Models were fitted using the 'lme4' package in R software (Bates et al., 2015) and checked for residual correlation, heteroscedasticity, or under-/overdispersion with the package 'DHARMa' (Hartig & Lohse, 2022)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.663,
+                0.926,
+                0.842
+            ],
+            "angle": 0,
+            "content": "To not over-rely on \\( p \\)-values (Sullivan & Feinn, 2012), we also report effect sizes for all our analyses. We decided to use most metrics as 'numbers per hectare' to ease the interpretation of absolute effect sizes, such as beech basal area (\\( m^2 \\) per ha), understory vegetation (number of understory plants per ha) and density of small mammals (estimated individuals per ha). In the case of binomial GLMMs we chose odds ratios as estimators of effect size; the odds ratio is the average factor by which the probability of the response variable being 1 (e.g. the probability of a seed being cached) will change given an increase in one unit of the independent variable."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.846,
+                0.925,
+                0.943
+            ],
+            "angle": 0,
+            "content": "We also used structural equation models (SEM) applied by the package 'lavaan' in R (Rosseel, 2012) to connect all our measured variables in a single model. To develop the SEM, we initially assumed that all measured environmental variables could influence seed fate and animal densities and then we eliminated non-significant variables from our model structure one by one, checking if the model"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.075,
+                0.028,
+                0.105,
+                0.038
+            ],
+            "angle": 0,
+            "content": "1948"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.129,
+                0.033,
+                0.352,
+                0.055
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology E BRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.82,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.065,
+                0.488,
+                0.145
+            ],
+            "angle": 0,
+            "content": "improved its fit by bootstrapping estimates of the comparative fit index (CFI) until a final model was obtained. The SEM was used to validate the results obtained by GLMMs and to report standardised effect sizes, so the influence among all variables could be comparable."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.18,
+                0.266,
+                0.194
+            ],
+            "angle": 0,
+            "content": "2.9 Ethics statement"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.214,
+                0.487,
+                0.277
+            ],
+            "angle": 0,
+            "content": "Small mammal surveys were approved by the internal animal welfare committee of the University of Göttingen (permit number: 33.9-42502-04-18/2790) and are in compliance with the German Animal Welfare Act."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.312,
+                0.208,
+                0.326
+            ],
+            "angle": 0,
+            "content": "3 | RESULTS"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.071,
+                0.345,
+                0.471,
+                0.379
+            ],
+            "angle": 0,
+            "content": "3.1 | Effect of forest composition and understory vegetation on small mammal density"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.397,
+                0.487,
+                0.477
+            ],
+            "angle": 0,
+            "content": "Across both years, 794 captures of 401 individuals resulted from a total trapping effort of 4716 trap nights. Six different species of small mammals were captured (Table S1), but two species represented more than \\(89\\%\\) of all captures: the yellow-necked mouse \\((45.1\\%)\\) and the bank vole \\((44\\%)\\) (Figure S1)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.48,
+                0.487,
+                0.659
+            ],
+            "angle": 0,
+            "content": "Neither species richness nor the Shannon diversity index was related to the basal area of beech, Doulgas-fir or Norway spruce on our study plots (Table S2, Figure S2). During our study period, mice (Apodemus spp.) and bank vole densities did not show any clear pattern in relation to forest composition, even when taking the amount of understory vegetation into account (Table S3, Figure S3). Nevertheless, there was a pronounced difference between sites in terms of community composition (Figure S1); the majority of animals captured at the southern sites (\\(>57\\%\\) of all captured individuals) were bank voles, and at the northern sites, over \\(70\\%\\) were yellow-necked mice."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.663,
+                0.487,
+                0.793
+            ],
+            "angle": 0,
+            "content": "The amount of understory vegetation was not correlated with beech basal area in forest plots (lmm; estimate \\(= -49.5\\), \\(p\\)-value \\(= 0.347\\)). Douglas-fir basal area showed a small, marginally significant correlation with the amount of understory vegetation (estimate \\(= 79.75\\), \\(p\\)-value \\(= 0.053\\)) while Norway spruce did not (estimate \\(= -57.17\\), \\(p\\)-value \\(= 0.139\\)). Understory vegetation had a positive effect on bank vole densities but no effect on mouse densities (Table S3)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.828,
+                0.475,
+                0.843
+            ],
+            "angle": 0,
+            "content": "3.2 Seed fate and animals interacting with seeds"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.862,
+                0.487,
+                0.943
+            ],
+            "angle": 0,
+            "content": "After 8 days of seed tracking, out of the 1200 seeds placed in both years, 725 (60.4%) were harvested. Of the 725 harvested seeds, 239 went missing with unknown fate (33.01% of harvested seeds), 449 were eaten (61.92%), and 36 were cached (4.97%). Camera traps placed at seed stations revealed that most harvesting events"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.065,
+                0.925,
+                0.195
+            ],
+            "angle": 0,
+            "content": "were done by mice (90% of all interactions). We were not able to differentiate between yellow-necked mice (Apodemus flavicollis) and wood mice (Apodemus sylvaticus) from recorded footage. However, since wood mice were only present on 4 of 20 forests plots and represented only \\(8\\%\\) of all captured mice, it is safe to attribute most harvesting events to yellow-necked mice. Other animals recorded interacting with seeds were bank voles (\\(\\approx 9\\%\\) of interactions) and common shrews (\\(\\approx 1\\%\\))."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.229,
+                0.911,
+                0.261
+            ],
+            "angle": 0,
+            "content": "3.3 | Effect of forest composition and understory vegetation on seed fate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.281,
+                0.925,
+                0.494
+            ],
+            "angle": 0,
+            "content": "The basal area of beech trees in our forest plots strongly influenced the fate of beech seeds (Figure 1). In both years, beech basal area was associated with decreased probability of seed harvesting (odds ratio \\(= -1.203\\); \\(p\\)-value \\(< 0.001\\)), a slower harvest rate (effect size \\(= 0.042\\), \\(p\\)-value \\(< 0.005\\)), greater seed survival (odds ratio \\(= 1.242\\), \\(p\\)-value \\(< 0.001\\)) and a higher probability of seed caching (odds ratio \\(= 1.075\\), \\(p\\)-value \\(< 0.005\\)). A summary of models' results is available in Table S4. Adding Douglas-fir or Norway spruce basal area to our models did not help to further explain seed fate (Table S5). Furthermore, we reran seed fate analyses selecting only plots with European beech and Douglas-fir or European beech and Norway Spruce and found the same trends regarding the effect of beech basal area on seed fate (Figure S4)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.497,
+                0.927,
+                0.727
+            ],
+            "angle": 0,
+            "content": "Greater amounts of understory vegetation increased the proportion of seeds harvested (odds ratio \\(= 1.008\\); \\(p\\)-value \\(= 0.016\\)) and harvesting speed (effect size \\(= 0.0019\\); \\(p\\)-value \\(< 0.005\\)), reduced seed survival (odds ratio \\(= -1.010\\); \\(p\\)-value \\(= 0.005\\)) and had a small negative but statistically non-significant effect on the proportion of seeds cached (odds ratio \\(= -1.006\\); \\(p\\)-value \\(= 0.0103\\)). Since understory vegetation was not significantly associated with beech basal area, these two variables had complementary effects on seed fate. We observed more seed removal in plots with Douglas-fir than in plots with similar proportions of Norway spruce, but this effect was non-significant (pairwise t-test: effect size: 5.37 more seeds removed per plot (18% increase), \\(p = 0.062\\)) and disappeared when understory vegetation was accounted for in our models."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.761,
+                0.802,
+                0.777
+            ],
+            "angle": 0,
+            "content": "3.4 Yearly beech seed production"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.796,
+                0.925,
+                0.876
+            ],
+            "angle": 0,
+            "content": "Mean seed production was substantially different between years (paired t-test; effect size=150.3, p-value <0.001). In 2021, mean seed production was 10.4 seeds per \\(\\mathrm{m}^2\\) (SD=4.2, min=4.4, max=18), in 2022 seed production was 15 times higher: 160.7 seeds per \\(\\mathrm{m}^2\\) (SD=60.8, min=88, max=305.6)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.879,
+                0.925,
+                0.943
+            ],
+            "angle": 0,
+            "content": "Beech seed production was correlated with the total beech basal area in each forest plot, both in mast and non-mast years (linear mixed model: 2021: estimate \\(= 0.51\\), \\(p\\)-value \\(< 0.001\\); 2022: estimate \\(= 7.86\\), \\(p\\)-value \\(< 0.001\\))."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.179,
+                0.038
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.647,
+                0.026,
+                0.87,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.894,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "1949"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.182,
+                0.057,
+                0.5,
+                0.269
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.514,
+                0.058,
+                0.816,
+                0.267
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.184,
+                0.279,
+                0.5,
+                0.475
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.515,
+                0.279,
+                0.811,
+                0.474
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.185,
+                0.486,
+                0.5,
+                0.67
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.515,
+                0.486,
+                0.811,
+                0.67
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.21,
+                0.671,
+                0.486,
+                0.739
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.526,
+                0.671,
+                0.805,
+                0.739
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.071,
+                0.753,
+                0.911,
+                0.796
+            ],
+            "angle": 0,
+            "content": "FIGURE 1 Seed fate probability according to beech basal area in 2021 (non-mast year) and 2022 (mast year). Each green dot represents a seed. Filled blacked lines are significant model predictions of seed fate probability with increasing beech basal area. The dashed line represents non-significant model predictions. Grey bands are models' \\(95\\%\\) confidence interval around predictions."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.811,
+                0.428,
+                0.827
+            ],
+            "angle": 0,
+            "content": "3.5 Effect of seed production on seed fate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.846,
+                0.486,
+                0.943
+            ],
+            "angle": 0,
+            "content": "The effects of forest composition on seed harvesting, survival and caching followed similar patterns in both the mast and non-mast year (Figure 1). However, during the mast year, seeds were less likely to be harvested (harvesting probability decreased by 2.34 times, paired t-test: \\( p \\)-value \\( < 0.001 \\)). The proportion of removed seeds found alive increased by 4.02 times (paired t-test; \\( p \\)-value \\( < 0.001 \\))"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.813,
+                0.924,
+                0.843
+            ],
+            "angle": 0,
+            "content": "and proportion of cached seeds increased 3.5 times (paired t-test; \\( p \\)-value \\( = 0.039 \\)) in the mast year compared to the non-mast year."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.877,
+                0.919,
+                0.893
+            ],
+            "angle": 0,
+            "content": "3.6 | Effects of small mammal density on seed fate"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.912,
+                0.925,
+                0.943
+            ],
+            "angle": 0,
+            "content": "Bank vole densities were not related to any seed fate outcome (seed harvesting: odds ratio=1.068, \\( p \\)-value=0.291; survival:"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.075,
+                0.028,
+                0.105,
+                0.038
+            ],
+            "angle": 0,
+            "content": "1950"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.129,
+                0.033,
+                0.352,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.82,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.065,
+                0.488,
+                0.162
+            ],
+            "angle": 0,
+            "content": "odds ratio \\(= -1.088\\), \\(p\\)-value \\(= 0.301\\); caching: odds ratio \\(= 1.072\\), \\(p\\)-value \\(= 0.298\\). Mouse densities had a positive effect on seed harvesting (odds ratio \\(= 1.363\\), \\(p\\)-value \\(< 0.001\\)), a negative effect on seed survival (odds ratio \\(= -1.291\\), \\(p\\)-value \\(< 0.001\\)) and a small positive effect on seed caching (odds ratio \\(= 1.068\\), \\(p\\)-value \\(= 0.013\\); Table S4, Figure 2)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.196,
+                0.262,
+                0.213
+            ],
+            "angle": 0,
+            "content": "3.7 Seed preference"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.231,
+                0.487,
+                0.36
+            ],
+            "angle": 0,
+            "content": "Video analyses from seed boxes revealed that beech seeds were preferentially removed or eaten in situ compared to either Norway spruce or Douglas-fir seeds. When both beech and conifer seeds were available, rodents chose beech seeds consistently (98% of the time, 283 out of 289 harvesting events). Conifer seeds were primarily harvested after all beech seeds had already been eaten or removed. When rodents interacted with conifer seeds, seeds were often eaten in situ (114 interactions, 95% of total) and rarely carried away (six interactions, 5%)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.395,
+                0.245,
+                0.41
+            ],
+            "angle": 0,
+            "content": "4 | DISCUSSION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.43,
+                0.487,
+                0.56
+            ],
+            "angle": 0,
+            "content": "We assessed the fate of Fagus sylvatica seeds at 20 forest plots across Northern Germany in a mast and non-mast year and examined its relationship with forest composition, seed production, small mammal densities and understory vegetation (Table 1). Beech seeds were harvested faster and in greater quantities in plots with more conifer trees. This can be attributed to rodents' preference for nutritious large beech seeds compared to the much smaller seeds of Douglas fir and Norway spruce, as seen in our seed preference experiments"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.065,
+                0.925,
+                0.161
+            ],
+            "angle": 0,
+            "content": "and other seed selection studies (e.g. Moore et al., 2022). In conifer-dominated forests, trees bearing large seeds are rarer and thus beech seeds have a relatively higher value, leading to their preferential harvest. This in line with studies showing that perceived food value increases in resource-scarce environments (Delgado et al., 2014; Vander Wall et al., 2019)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.165,
+                0.927,
+                0.344
+            ],
+            "angle": 0,
+            "content": "Higher beech basal area was related to higher seed caching and survival rates due to the strong influence of beech on the total amount of available resources in forest plots. Greater resource abundance is known to increase rodent satiation and reduce total seed predation (Predator Satiation Hypothesis, Janzen, 1971) and to increase seed caching (Predator Dispersal Hypothesis-Vander Wall, 2002; Xiao et al., 2013). Our results lend support to both hypotheses: Plots with a greater proportion of beech had greater seed survival, with lower proportions of harvested and eaten seeds (predator satiation hypothesis), and showed an increase in the proportion of cached seeds (predator dispersal hypothesis)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.347,
+                0.927,
+                0.561
+            ],
+            "angle": 0,
+            "content": "Seed production estimates clearly characterised a year of very low seed production (2021) versus a mast year (2022) (Ascoli et al., 2017). This strongly affected seed fate outcomes: higher seed harvesting and predation rates were noted not only when beech seeds were scarce in space (conifer-dominated plots) but also when they were scarce in time (non-mast years; Figure 2). Both patterns occurred simultaneously, from low seed production years in plots with little beech presence (scarcity scenario) to high seed production years in plots dominated by beech trees (abundance scenario), creating stark contrasts in seed fate. For instance, seed survival probability varied from \\(3\\%\\) in the low seed production year at conifer-dominated plots to \\(98\\%\\) in the mast year in beech-dominated plots (Figure 1). Seed caching was also influenced by the amount"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.195,
+                0.574,
+                0.813,
+                0.884
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.07,
+                0.9,
+                0.92,
+                0.943
+            ],
+            "angle": 0,
+            "content": "FIGURE 2 Diagram depicting the results for the final structural equation model. Numbers closer to each arrow show standardised effect sizes for each relation. Arrow width is proportional to effect size. Green arrows represent positive effects of one variable over another and red arrows represent negative ones. Asterisks show the degree of statistical significance (\\(^{*}p < 0.05\\), \\(^{**}p < 0.01\\), \\(^{***}p < 0.005\\))."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labtiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.179,
+                0.038
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.647,
+                0.026,
+                0.87,
+                0.056
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.893,
+                0.027,
+                0.924,
+                0.039
+            ],
+            "angle": 0,
+            "content": "1951"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.065,
+                0.488,
+                0.195
+            ],
+            "angle": 0,
+            "content": "of beech trees and the masting event, with both increasing caching rates, as previously observed in resource abundant scenarios (Rong et al., 2013; Souza et al., 2023). Harvesting rates were lower in the mast year, but it should be noted that the absolute number of seeds harvested was likely higher, (as expected for masting plants—Vander Wall, 2010), since the 2.34 times decrease in the proportion of harvested seeds was accompanied by 15.4 times increase in seed production."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.198,
+                0.486,
+                0.311
+            ],
+            "angle": 0,
+            "content": "Forest plots with higher amounts of understory vegetation had higher seed harvesting rates without an increase in mouse densities. We surmise that this effect is due to an increase in animals' exploratory and foraging behaviour (Boone et al., 2021). Forest stand characteristics seem to be directly influencing interactions and seed fate through behavioural changes, without altering community composition or animal densities."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.314,
+                0.489,
+                0.793
+            ],
+            "angle": 0,
+            "content": "We must point out some limitations of our study: some plots presented high uncertainty associated with density estimates, especially ones with very low rodent numbers where lots of recaptures are necessary. Nevertheless, when we did not use density estimates in our models, we found similar effects of forest composition on seed fate, and northern sites (where most mice were found) had higher seed harvesting and caching rates, and lower seed survival (Figure S5), that is the same effect as greater mouse densities. Second, we surveyed only one mast and one non-mast year. However, other studies which surveyed beech forests found similar effects of mast years on seed fate (Jensen, 1985; Zwolak, Bogdiewicz, Wróbel, & Crone, 2016). Moreover, we should mention that mouse densities were at their lowest point during our study period, probably due to a long period without beech masting (previous masting year was in 2018). We did not measure mouse densities after the masting in 2022, when population density would likely increase substantially, and we might have seen an effect of beech basal area on mouse populations. After the masting year, we would expect low rates of seed caching and survival (Zwolak et al., 2023) as seed production returns to a low level, but mouse numbers are still high. Nevertheless, higher mouse densities could subsequently push mice to sub-optimal habitats (Zwolak, Bogdiewicz, & Rychlik, 2016), like conifer stands, weakening this effect. Appleby and Balkenhol (2023), estimated small mammal densities including a year after a beech mast event and found that mice were present at higher densities in pure beech as compared to conifer forests; but found no effect of forest composition on bank voles. Overall, this in line with our findings that yellow-necked mice rely more heavily on beech seeds than other small mammals in our study area."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.828,
+                0.334,
+                0.844
+            ],
+            "angle": 0,
+            "content": "4.1 Management implications"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.863,
+                0.489,
+                0.944
+            ],
+            "angle": 0,
+            "content": "In mixed forest plots, beech seeds were overwhelmingly preferred by rodents compared to conifer seeds. When rodents did harvest conifer seeds, they were mostly eaten in situ. Accordingly, other studies point out that small conifer seeds are mostly eaten and rarely cached (Lobo, 2014; Wang & Chen, 2009). Thus, a reduced"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.065,
+                0.927,
+                0.412
+            ],
+            "angle": 0,
+            "content": "number of interactions between rodents and conifer seeds would be beneficial for conifers. As a result, Apodemus species may counterbalance the competitive advantages of beech over conifer trees (Küppers, 1985; Schmid, 2002) by preferentially preying on beech seeds. In that manner, conifer seeds would be protected by the presence of a more preferred resource. This effect would function similarly to 'Predator-mediated Coexistence'—where predators regulate competitively superior prey species, allowing the persistence of other less competitive species in the community (often applied to animal predation—Caswell, 1978; Paine, 1966, but also valid here for seed predation). Another relevant theory that can explain our results are 'Associational Effects' (Hay, 1986; Underwood et al., 2014), when the interaction between a resource and a consumer is influenced by the identity of neighbouring individuals. Associational effects are usually employed in herbivory contexts where plant species associations can be used to reduce herbivory (Tudoran et al., 2021). Similarly, here we surmise that beech presence in forest stands may mitigate granivory of conifer seeds. Thus, the dominance achieved by beech trees through changes in soil properties and light access (Peters, 2013; Schmid, 2002) may be partially alleviated by mice's strong predation on beech seeds."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.414,
+                0.927,
+                0.577
+            ],
+            "angle": 0,
+            "content": "Douglas-fir is being considered as an alternative species to be widely employed in Central European forestry (Spiecker et al., 2019), thus it is crucial to understand the implications of cultivating this non-native species on wildlife before these changes are put into action. Here, forest plots composed of Douglas-fir and Norway spruce were not very different regarding small mammal composition, abundance, or seed fate. Seed fate responded to the proportion of beech and conifers irrespective of conifer tree identity. Thus, general tree traits like seed size and abundance seem to be driving this interaction rather than tree species per se."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.58,
+                0.927,
+                0.76
+            ],
+            "angle": 0,
+            "content": "Overall, our findings lead to three practical implications for forest management: (1) Long-term rodenticide use in mixed forests may prove disadvantageous, considering rodents' role in mitigating beech over-dominance. (2) Coordinated sowing of conifer seeds concurrent with beech masting can be advantageous, leveraging the combined effect of beech preference and availability to reduce rodent predation of sown seeds. (3) The adoption of Douglas-fir in forestry practices in Central Europe might be a viable option as it presents no apparent ecological disruption in rodent communities or their interactions with seeds when compared to Norway spruce forests."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.511,
+                0.794,
+                0.707,
+                0.809
+            ],
+            "angle": 0,
+            "content": "5 CONCLUSIONS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.829,
+                0.927,
+                0.944
+            ],
+            "angle": 0,
+            "content": "The environmental context can directly influence plant-animal interactions without necessarily altering animal community composition or population densities. This might be even more relevant for synzoochory interactions where environmental context might be able to change the degree of antagonism/mutualism (Sawaya et al., 2018; Zwolak et al., 2023). Specifically, seed fate rates, like predation and dispersal, might be highly influenced by tree composition. Although"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.075,
+                0.028,
+                0.105,
+                0.038
+            ],
+            "angle": 0,
+            "content": "1952"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.129,
+                0.033,
+                0.352,
+                0.054
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.82,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.065,
+                0.486,
+                0.177
+            ],
+            "angle": 0,
+            "content": "forest composition effects on seed fate exist between broadleaves and conifers, no difference in effects could be observed between the non-native Douglas-fir and the widely employed Norway spruce. In the long term, mice may contribute to the maintenance of mixed stands by mitigating beech dominance over conifer species through strong predation on beech seeds and reduced consumption of conifer seeds."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.197,
+                0.277,
+                0.21
+            ],
+            "angle": 0,
+            "content": "AUTHOR CONTRIBUTIONS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.214,
+                0.486,
+                0.295
+            ],
+            "angle": 0,
+            "content": "Pedro Mittelman, Scott M. Appleby and Niko Balkenhol conceived the ideas and designed methodology; Pedro Mittelman and Scott M. Appleby collected the data. Pedro Mittelman analysed the data. Pedro Mittelman led the writing of the manuscript. All authors contributed critically to the drafts and gave final approval for publication."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.314,
+                0.252,
+                0.326
+            ],
+            "angle": 0,
+            "content": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.331,
+                0.486,
+                0.428
+            ],
+            "angle": 0,
+            "content": "We thank all members of the RTG 2300 project for their support, the students and technicians that helped with data collection, and Alice Penanhoat and Larissa Topanotti for providing data about understory vegetation. This study was supported by Deutsche Forschungsgemeinschaft (DFG), grant number 316045089/GRK 2300. Open Access funding enabled and organised by Projekt DEAL."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.447,
+                0.354,
+                0.459
+            ],
+            "angle": 0,
+            "content": "CONFLICT OF INTEREST STATEMENT"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.464,
+                0.334,
+                0.476
+            ],
+            "angle": 0,
+            "content": "The authors declare no conflict of interest."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.497,
+                0.324,
+                0.509
+            ],
+            "angle": 0,
+            "content": "DATA AVAILABILITY STATEMENT"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.071,
+                0.513,
+                0.485,
+                0.543
+            ],
+            "angle": 0,
+            "content": "Data are available from GRO.data at https://doi.org/10.25625/47SCUZ (Mittelman, 2024)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.072,
+                0.563,
+                0.127,
+                0.575
+            ],
+            "angle": 0,
+            "content": "ORCID"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.072,
+                0.578,
+                0.447,
+                0.593
+            ],
+            "angle": 0,
+            "content": "Pedro Mittelman https://orcid.org/0000-0003-0428-463X"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.596,
+                0.443,
+                0.61
+            ],
+            "angle": 0,
+            "content": "Scott M. Appleby https://orcid.org/0000-0002-2031-2752"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.578,
+                0.447,
+                0.61
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.63,
+                0.175,
+                0.642
+            ],
+            "angle": 0,
+            "content": "REFERENCES"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.647,
+                0.486,
+                0.7
+            ],
+            "angle": 0,
+            "content": "Amori, G., Castigiani, V., Locasciulli, O., & Luiselli, L. (2015). Long-term density fluctuations and microhabitat use of sympatric Apodemus flavicollis and Myodes glareolus in central Italy. Community Ecology, 16(2), 196-205. https://doi.org/10.1556/168.2015.16.2.7"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.702,
+                0.486,
+                0.754
+            ],
+            "angle": 0,
+            "content": "Appleby, S. M., & Balkenhol, N. (2023). Douglas fir and Norway spruce have similar effects on small mammal density, but not survival, in Central European managed forests. *Mammalian Biology*, 104, 25-39. https://doi.org/10.1007/s42991-023-00384-1"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.756,
+                0.486,
+                0.848
+            ],
+            "angle": 0,
+            "content": "Ascoli, D., Maringer, J., Hacket-Pain, A., Conedera, M., Drobyshev, I., Motta, R., Cirolli, M., Kantorowicz, W., Zang, C., Schueler, S., Croise, L., Piussi, P., Berretti, R., Palaghianu, C., Westergren, M., Lageard, J. G. A., Burkart, A., Gehrig Bichsel, R., Thomas, P. A., ... Vacchiano, G. (2017). Two centuries of masting data for European beech and Norway spruce across the European continent. Ecology, 98(5), 1473. https://doi.org/10.1002/ecy.1785"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.849,
+                0.486,
+                0.901
+            ],
+            "angle": 0,
+            "content": "Baláž, I., Jakab, I., Tulis, F., & Ambros, M. (2016). Spatial density of two sympatric species Yellow-necked Mouse Apodemus flavicollis and Bank vole Clethrionomys glareolus in different environment. Folia Oecologica, 43(2), 121-128."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.903,
+                0.486,
+                0.942
+            ],
+            "angle": 0,
+            "content": "Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). Fitting linear mixed-effects models using lme4. Journal of Statistical Software, 67(1), 1-48. https://doi.org/10.18637/jss.v067.i01"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.074,
+                0.647,
+                0.486,
+                0.942
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.057,
+                0.925,
+                0.109
+            ],
+            "angle": 0,
+            "content": "Boone, S. R., Brehm, A. M., & Mortelliti, A. (2021). Seed predation and dispersal by small mammals in a landscape of fear: Effects of personality, predation risk and land-use change. Oikos, 2022, 1-15. https://doi.org/10.1111/oik.08232"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.111,
+                0.926,
+                0.19
+            ],
+            "angle": 0,
+            "content": "Brockerhoff, E. G., Barbaro, L., Castagneyrol, B., Forrester, D. I., Gardiner, B., González-Olabarria, J. R., Lyver, P. O., Meurisse, N., Oxbrough, A., Taki, H., Thompson, I. D., Van Der Plas, F., & Jactel, H. (2017). Forest biodiversity, ecosystem functioning and the provision of ecosystem services. *Biodiversity and Conservation*, 26(13), 3005-3035. https://doi.org/10.1007/s10531-017-1453-2"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.191,
+                0.926,
+                0.231
+            ],
+            "angle": 0,
+            "content": "Butet, A., & Delettre, Y. R. (2011). Diet differentiation between European arvicoline and murine rodents. Acta Theriologica, 56(4), 297. https://doi.org/10.1007/s13364-011-0049-6"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.232,
+                0.925,
+                0.27
+            ],
+            "angle": 0,
+            "content": "Caswell, H. (1978). Predator-mediated coexistence: A nonequilibrium model. The American Naturalist, 112(983), 127-154. https://doi.org/10.1086/283257"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.271,
+                0.926,
+                0.35
+            ],
+            "angle": 0,
+            "content": "Chianucci, F., Tattoni, C., Ferrara, C., Ciolli, M., Brogi, R., Zanni, M., Apollonio, M., & Cutini, A. (2021). Forest ecology and management evaluating sampling schemes for quantifying seed production in beech (Fagus sylvatica) forests using ground quadrats. Forest Ecology and Management, 493(April), 119294. https://doi.org/10.1016/j.foreco.2021.119294"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.352,
+                0.925,
+                0.404
+            ],
+            "angle": 0,
+            "content": "Delgado, M. M., Nicholas, M., Petrie, D. J., & Jacobs, L. F. (2014). Fox squirrels match food assessment and cache effort to value and scarcity. PLoS One, 9(3), e92892. https://doi.org/10.1371/journal.pone.0092892"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.406,
+                0.791,
+                0.418
+            ],
+            "angle": 0,
+            "content": "Efford, M., & Efford, M. M. (2023). Package 'secr'."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.42,
+                0.926,
+                0.485
+            ],
+            "angle": 0,
+            "content": "Efford, M. G., Borchers, D. L., & Byrom, A. E. (2009). Density estimation by spatially explicit capture-recapture: Likelihood-based methods. In Modeling demographic processes in marked populations (pp. 255-269). Boston, MA: Springer. https://doi.org/10.1007/978-0-387-78151-8_11"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.487,
+                0.926,
+                0.552
+            ],
+            "angle": 0,
+            "content": "Foltran, E. C., Ammer, C., & Lamersdorf, N. (2022). Douglas fir and Norway spruce admixtures to beech forests along in Northern Germany—Are soil nutrient conditions affected? bioRxiv, 2020.09.25.313213. https://doi.org/10.1101/2020.09.25.313213"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.554,
+                0.925,
+                0.607
+            ],
+            "angle": 0,
+            "content": "Godó, L., Valkó, O., Borza, S., & Deák, B. (2022). A global review on the role of small rodents and lagomorphs (clade Glires) in seed dispersal and plant establishment. Global Ecology and Conservation, 33, e01982. https://doi.org/10.1016/j.gecco.2021.e01982"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.608,
+                0.926,
+                0.673
+            ],
+            "angle": 0,
+            "content": "Gossner, M. M., Schall, P., Ammer, C., Ammer, U., Engel, K., Schubert, H., Simon, U., Utschick, H., & Weisser, W. W. (2014). Forest management intensity measures as alternative to stand properties for quantifying effects on biodiversity. *Ecosphere*, 5(9), 1-111. https://doi.org/10.1890/ES14-00177.1"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.675,
+                0.925,
+                0.713
+            ],
+            "angle": 0,
+            "content": "Hartig, F., & Lohse, L. (2022). DHARMa: Residual diagnostics for hierarchical (multi-level/mixed) regression models, R package version 0.4. 6; 2022."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.715,
+                0.925,
+                0.766
+            ],
+            "angle": 0,
+            "content": "Hay, M. E. (1986). Associational plant defenses and the maintenance of species diversity: Turning competitors into accomplices. The American Naturalist, 128(5), 617-641. https://doi.org/10.1086/284593"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.768,
+                0.925,
+                0.807
+            ],
+            "angle": 0,
+            "content": "Janzen, D. H. (1971). Seed predation by animals. Annual Review of Ecology and Systematics, 2(1), 465-492. https://doi.org/10.1146/annurev.es.02.110171.002341"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.809,
+                0.925,
+                0.86
+            ],
+            "angle": 0,
+            "content": "Jensen, T. S. (1985). Seed-seed predator interactions of European Beech, Fagus silvatica and forest rodents, Clethrionomys glareolus and Apodemus flavicollis. Oikos, 44(1), 149. https://doi.org/10.2307/3544056"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.862,
+                0.925,
+                0.915
+            ],
+            "angle": 0,
+            "content": "Johnson, C. N., Balmford, A., Brook, B. W., Buettel, J. C., Galetti, M., Guangchun, L., & Wilmshurst, J. M. (2017). Biodiversity losses and conservation responses in the Anthropocene. Science, 356(6335), 270-275. https://doi.org/10.1126/science.aam9317"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.916,
+                0.925,
+                0.942
+            ],
+            "angle": 0,
+            "content": "Küppers, M. (1985). Carbon relations and competition between woody species in a Central European hedgerow: IV. Growth form and"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.513,
+                0.057,
+                0.926,
+                0.942
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.074,
+                0.027,
+                0.178,
+                0.038
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.648,
+                0.029,
+                0.87,
+                0.052
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.894,
+                0.027,
+                0.924,
+                0.037
+            ],
+            "angle": 0,
+            "content": "1953"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.104,
+                0.057,
+                0.486,
+                0.082
+            ],
+            "angle": 0,
+            "content": "partitioning. Oecologia, 66, 343-352. https://doi.org/10.1007/BF00378296"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.076,
+                0.084,
+                0.486,
+                0.164
+            ],
+            "angle": 0,
+            "content": "Leidinger, J., Blaschke, M., Ehrhardt, M., Fischer, A., Gossner, M. M., Jung, K., Kienlein, S., Kozak, J., Michler, B., Mosandl, R., Seibold, S., Wehner, K., & Weisser, W. W. (2021). Shifting tree species composition affects biodiversity of multiple taxa in Central European forests. Forest Ecology and Management, 498, 119552. https://doi.org/10.1016/j.foreco.2021.119552"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.165,
+                0.485,
+                0.218
+            ],
+            "angle": 0,
+            "content": "Lobo, N. (2014). Conifer seed predation by terrestrial small mammals: A review of the patterns, implications, and limitations of top-down and bottom-up interactions. Forest Ecology and Management, 328, 45-54. https://doi.org/10.1016/j.foreco.2014.05.019"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.218,
+                0.486,
+                0.271
+            ],
+            "angle": 0,
+            "content": "Malo, A. F., Godsall, B., Prebble, C., Grange, Z., McCandless, S., Taylor, A., & Coulson, T. (2013). Positive effects of an invasive shrub on aggregation and abundance of a native small rodent. Behavioral Ecology, 24(3), 759-767. https://doi.org/10.1093/beheco/ars202"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.272,
+                0.485,
+                0.323
+            ],
+            "angle": 0,
+            "content": "Menezes, J. F. S., Mourão, G. M., & Kotler, B. P. (2018). Understory cover increases patch use in rodent Thrichomys fosteri. Ethology Ecology & Evolution, 30(3), 267-276. https://doi.org/10.1080/03949370.2017.1354921"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.325,
+                0.485,
+                0.364
+            ],
+            "angle": 0,
+            "content": "Mittelman, P. (2024). Data from \"Forest composition shapes seed-rodent interactions in a gradient of broadleaves and conifers.\" GRO.data. https://doi.org/10.25625/47SCUZ"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.366,
+                0.485,
+                0.417
+            ],
+            "angle": 0,
+            "content": "Moore, N. B., Stephens, R. B., & Rowe, R. J. (2022). Nutritional and environmental factors influence small mammal seed selection in a northern temperate forest. *Ecosphere*, 13(4), e4036. https://doi.org/10.1002/ecs2.4036"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.419,
+                0.485,
+                0.457
+            ],
+            "angle": 0,
+            "content": "Paine, R. T. (1966). Food web complexity and species diversity. The American Naturalist, 100(910), 65-75. https://doi.org/10.1086/282400"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.46,
+                0.485,
+                0.512
+            ],
+            "angle": 0,
+            "content": "Perea, R., San Miguel, A., Martínez-Jauregui, M., Valbuena-Carabaña, M., & Gil, L. (2012). Effects of seed quality and seed location on the removal of acorns and beechnuts. European Journal of Forest Research, 131(3), 623-631. https://doi.org/10.1007/s10342-011-0536-y"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.513,
+                0.485,
+                0.538
+            ],
+            "angle": 0,
+            "content": "Peters, R. (2013). Beech forests (Vol. 24). Springer Science & Business Media."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.54,
+                0.485,
+                0.565
+            ],
+            "angle": 0,
+            "content": "Popkin, G. (2021). Forest fight. Science, 374(6572), 1184-1189. https://doi.org/10.1126/science.acx9733"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.567,
+                0.486,
+                0.632
+            ],
+            "angle": 0,
+            "content": "Pötzelsberger, E., Spiecker, H., Neophytou, C., Mohren, F., Gazda, A., & Hasenauer, H. (2020). Growing non-native trees in European forests brings benefits and opportunities but also has its risks and limits. Current Forestry Reports, 6(4), 339-353. https://doi.org/10.1007/s40725-020-00129-0"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.634,
+                0.486,
+                0.687
+            ],
+            "angle": 0,
+            "content": "Rong, K., Yang, H., Ma, J., Zong, C., & Cai, T. (2013). Food availability and animal space use both determine cache density of Eurasian red squirrels. PLoS One, 8(11), e80632. https://doi.org/10.1371/journal.pone.0080632"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.688,
+                0.486,
+                0.727
+            ],
+            "angle": 0,
+            "content": "Rosseel, Y. (2012). Lavaan: An R package for structural equation modeling. Journal of Statistical Software, 48, 1-36. https://doi.org/10.18637/jss.v048.i02"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.728,
+                0.486,
+                0.793
+            ],
+            "angle": 0,
+            "content": "Sawaya, G. M., Goldberg, A. S., Steele, M. A., & Dalgleish, H. J. (2018). Environmental variation shifts the relationship between trees and scatterhoarders along the continuum from mutualism to antagonism. Integrative Zoology, 13(3), 319-330. https://doi.org/10.1111/1749-4877.12311"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.795,
+                0.486,
+                0.847
+            ],
+            "angle": 0,
+            "content": "Scherer-Lorenzen, M. (2014). The functional role of biodiversity in the context of global change. In *Forests and global change* (pp. 195-237). Cambridge University Press. https://doi.org/10.1017/CBO9781107323506.011"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.849,
+                0.486,
+                0.901
+            ],
+            "angle": 0,
+            "content": "Schmid, I. (2002). The influence of soil type and interspecific competition on the fine root system of Norway spruce and European beech. Basic and Applied Ecology, 3(4), 339-346. https://doi.org/10.1078/1439-1791-00116"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.075,
+                0.903,
+                0.486,
+                0.942
+            ],
+            "angle": 0,
+            "content": "Seidl, R., Thom, D., Kautz, M., Martin-Benito, D., Peltoniemi, M., Vacchiano, G., Wild, J., Ascoli, D., Petr, M., Honkaniemi, J., Lexer, M. J., Trotsiuk, V., Mairota, P., Svoboda, M., Fabrika, M., Nagel, T. A.,"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.074,
+                0.057,
+                0.486,
+                0.942
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.541,
+                0.057,
+                0.924,
+                0.096
+            ],
+            "angle": 0,
+            "content": "& Reyer, C. P. O. (2017). Forest disturbances under climate change. Nature Climate Change, 7(6), 395-402. https://doi.org/10.1038/nclimate3303"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.098,
+                0.925,
+                0.15
+            ],
+            "angle": 0,
+            "content": "Souza, F. C., Viana-Junior, A. B., Mittelman, P. U., & de Azevedo, F. C. C. (2023). Tree density-dependence effects on seed dispersal of a large-seeded tropical tree. Journal of Tropical Ecology, 39, e17. https://doi.org/10.1017/S0266467423000068"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.151,
+                0.925,
+                0.176
+            ],
+            "angle": 0,
+            "content": "Spiecker, H., Lindner, M., & Schuler, J. K. (2019). Douglas-fir: An option for Europe. European Forest Institute."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.178,
+                0.924,
+                0.217
+            ],
+            "angle": 0,
+            "content": "Sullivan, G. M., & Feinn, R. (2012). Using effect size—Or why the \\(P\\) value is not enough. Journal of Graduate Medical Education, 4(3), 279-282. https://doi.org/10.4300/JGME-D-12-00156.1"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.218,
+                0.924,
+                0.271
+            ],
+            "angle": 0,
+            "content": "Thomas, F. M., Rzepecki, A., & Werner, W. (2022). Non-native Douglas fir (Pseudotsuga menziesii) in Central Europe: Ecology, performance and nature conservation. Forest Ecology and Management, 506, 119956. https://doi.org/10.1016/j.foreco.2021.119956"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.272,
+                0.924,
+                0.338
+            ],
+            "angle": 0,
+            "content": "Tudoran, A., Bylund, H., Nordlander, G., Oltean, I., & Puentes, A. (2021). Using associational effects of European beech on Norway spruce to mitigate damage by a forest regeneration pest, the pine weevil Hylobius abietis. Forest Ecology and Management, 486(January), 118980. https://doi.org/10.1016/j.foreco.2021.118980"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.339,
+                0.924,
+                0.392
+            ],
+            "angle": 0,
+            "content": "Underwood, N., Inouye, B. D., & Hambäck, P. A. (2014). A conceptual framework for associational effects: When do neighbors matter and how would we know? The Quarterly Review of Biology, 89(1), 1-19. https://doi.org/10.1086/674991"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.393,
+                0.924,
+                0.418
+            ],
+            "angle": 0,
+            "content": "Vander Wall, S. B. (2002). Masting in animal-dispersed pines facilitates seed dispersal. Ecology, 83(12), 3508-3516."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.419,
+                0.924,
+                0.472
+            ],
+            "angle": 0,
+            "content": "Vander Wall, S. B. (2010). How plants manipulate the scatter-hoarding behaviour of seed-dispersing animals. Philosophical Transactions of the Royal Society, B: Biological Sciences, 365(1542), 989-997. https://doi.org/10.1098/rstb.2009.0205"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.514,
+                0.473,
+                0.924,
+                0.525
+            ],
+            "angle": 0,
+            "content": "Vander Wall, S. B., Dimitri, L. A., Longland, W. S., & White, J. D. M. (2019). Seed value influences cache pilfering rates by desert rodents. Integrative Zoology, 14(1), 75-86. https://doi.org/10.1111/1749-4877.12358"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.527,
+                0.924,
+                0.579
+            ],
+            "angle": 0,
+            "content": "Vitali, V., Buntgen, U., & Bauhus, J. (2017). Silver fir and Douglas fir are more tolerant to extreme droughts than Norway spruce in southwestern Germany. Global Change Biology, 23(12), 5108-5119. https://doi.org/10.1111/gcb.13774"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.581,
+                0.924,
+                0.632
+            ],
+            "angle": 0,
+            "content": "Wang, B., & Chen, J. (2009). Seed size, more than nutrient or tannin content, affects seed caching behavior of a common genus of Old World rodents. Ecology, 90(11), 3023-3032. https://doi.org/10.1890/08-2188.1"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.634,
+                0.924,
+                0.673
+            ],
+            "angle": 0,
+            "content": "Wrobel, A., & Zwolak, R. (2013). The choice of seed tracking method influenced fate of beech seeds dispersed by rodents. Plant Ecology, 214(3), 471-475. https://doi.org/10.1007/s11258-013-0183-0"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.674,
+                0.924,
+                0.727
+            ],
+            "angle": 0,
+            "content": "Xiao, Z., Jansen, P. A., & Zhang, Z. (2006). Using seed-tagging methods for assessing post-dispersal seed fate in rodent-dispersed trees. Forest Ecology and Management, 223(1-3), 18-23. https://doi.org/10.1016/j.foreco.2005.10.054"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.728,
+                0.924,
+                0.793
+            ],
+            "angle": 0,
+            "content": "Xiao, Z., Zhang, Z., & Krebs, C. J. (2013). Long-term seed survival and dispersal dynamics in a rodent-dispersed tree: Testing the predator satiation hypothesis and the predator dispersal hypothesis. Journal of Ecology, 101(5), 1256-1264. https://doi.org/10.1111/j.1365-2745.12113"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.795,
+                0.924,
+                0.861
+            ],
+            "angle": 0,
+            "content": "Yu, F., Zhang, L., Wang, Y., Yi, X., Zhang, S., Ma, J., Dong, Z., Chen, G., & Ma, K. (2023). High rodent abundance increases seed removal but decreases scatter-hoarding and seedling recruitment along an elevational gradient. Integrative Zoology, 18(5), 843-858. https://doi.org/10.1111/1749-4877.12695"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.862,
+                0.924,
+                0.914
+            ],
+            "angle": 0,
+            "content": "Zwolak, R., Bogdzielicz, M., & Rychlik, L. (2016). Beech masting modifies the response of rodents to forest management. Forest Ecology and Management, 359, 268-276. https://doi.org/10.1016/j.foreco.2015.10.017"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.513,
+                0.916,
+                0.924,
+                0.942
+            ],
+            "angle": 0,
+            "content": "Zwolak, R., Bogdzielicz, M., Wróbel, A., & Crone, E. E. (2016). Advantages of masting in European beech: Timing of granivore satiation and"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.513,
+                0.057,
+                0.925,
+                0.942
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.021,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labtiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.075,
+                0.028,
+                0.105,
+                0.038
+            ],
+            "angle": 0,
+            "content": "1954"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.129,
+                0.032,
+                0.352,
+                0.055
+            ],
+            "angle": 0,
+            "content": "Journal of Applied Ecology EBRITISH ECOLOGICAL SOCIETY"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.82,
+                0.027,
+                0.924,
+                0.038
+            ],
+            "angle": 0,
+            "content": "MITTELMAN ET AL."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.103,
+                0.064,
+                0.486,
+                0.103
+            ],
+            "angle": 0,
+            "content": "benefits of seed caching support the predator dispersal hypothesis. Oecologia, 180(3), 749-758. https://doi.org/10.1007/s00442-015-3511-3"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.105,
+                0.486,
+                0.157
+            ],
+            "angle": 0,
+            "content": "Zwolak, R., Clement, D., Sih, A., & Schreiber, S. J. (2021). Mast seeding promotes evolution of scatter-hoarding. Philosophical Transactions of the Royal Society, B: Biological Sciences, 376(1839), 20200375. https://doi.org/10.1098/rstb.2020.0375"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.074,
+                0.159,
+                0.485,
+                0.211
+            ],
+            "angle": 0,
+            "content": "Zwolak, R., Clement, D., Sih, A., & Schreiber, S. J. (2023). Granivore abundance shapes mutualism quality in plant-scatterhoarder interactions. New Phytologist, 241, 1840-1850. https://doi.org/10.1111/nph.19443"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.074,
+                0.064,
+                0.486,
+                0.211
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.073,
+                0.231,
+                0.294,
+                0.243
+            ],
+            "angle": 0,
+            "content": "SUPPORTING INFORMATION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.248,
+                0.486,
+                0.277
+            ],
+            "angle": 0,
+            "content": "Additional supporting information can be found online in the Supporting Information section at the end of this article."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.281,
+                0.486,
+                0.311
+            ],
+            "angle": 0,
+            "content": "Table S1. Number of individuals and captures of each small mammal species during our study period."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.314,
+                0.486,
+                0.394
+            ],
+            "angle": 0,
+            "content": "Table S2. Results of linear mixed effect models predicting species richness and diversity according to stand composition (basal area of area of Norway spruce—Picea abies, Douglas-fir—Pseudotsuga menziesii, and European beech—Fagus sylvatica), year and the amount of understory vegetation on forest plots."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.397,
+                0.486,
+                0.477
+            ],
+            "angle": 0,
+            "content": "Table S3. Results of linear mixed models predicting the density of bank voles (Clethrionomys glareolus) and mouse (Apodemus sp) according to stand composition (basal area of area of Norway spruce—Picea abies, Douglas-fir—Pseudotsuga menziesii, and European beech—Fagus sylvatica), year and the amount of understory vegetation."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.072,
+                0.481,
+                0.486,
+                0.511
+            ],
+            "angle": 0,
+            "content": "Table S4. Results of Generalized Linear Mixed Models with binomial distribution for seed harvesting, seed survival and, seed caching"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.072,
+                0.281,
+                0.486,
+                0.511
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.065,
+                0.924,
+                0.095
+            ],
+            "angle": 0,
+            "content": "according to beech basal area, amount of understory vegetation, mice density and year."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.098,
+                0.889,
+                0.111
+            ],
+            "angle": 0,
+            "content": "Table S5. Model comparison with different species basal area."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.115,
+                0.924,
+                0.144
+            ],
+            "angle": 0,
+            "content": "Figure S1. Proportion of individual captures during different years and in different regions of our surveyed plots."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.148,
+                0.924,
+                0.211
+            ],
+            "angle": 0,
+            "content": "Figure S2. Richness and diversity (Shannon Index) according to the basal area of Norway spruce (Picea abies), Douglas-fir (Pseudotsuga menziesii) and European beech (Fagus sylvatica) in each surveyed plot."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.215,
+                0.924,
+                0.277
+            ],
+            "angle": 0,
+            "content": "Figure S3. Bank vole and mouse (Apodemus sp.) densities according to the basal area of Norway spruce (Picea abies), Douglas-fir (Pseudotsuga menziesii) and European beech (Fagus sylvatica) in each surveyed plot."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.281,
+                0.924,
+                0.327
+            ],
+            "angle": 0,
+            "content": "Figure S4. Seed fate probability according to beech basal area using only Douglas-fir and beech plots (1st column) or only Norway Spruce and beech (2nd column)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.331,
+                0.924,
+                0.361
+            ],
+            "angle": 0,
+            "content": "Figure S5. Seed fate probability according to beech basal area in Northern (mouse abundant) and Southern (vole abundant) sites."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.51,
+                0.115,
+                0.924,
+                0.361
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.532,
+                0.407,
+                0.894,
+                0.488
+            ],
+            "angle": 0,
+            "content": "How to cite this article: Mittelman, P., Appleby, S. M., & Balkenhol, N. (2024). Forest composition shapes seed-rodent interactions in a gradient of broadleaves and conifers. Journal of Applied Ecology, 61, 1944-1954. https://doi.org/10.1111/1365-2664.14711"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.968,
+                0.02,
+                0.983,
+                0.98
+            ],
+            "angle": 90,
+            "content": "13652664, 2024, 8, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14711 by Readcube (Labiva Inc.), Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+        }
+    ]
+]

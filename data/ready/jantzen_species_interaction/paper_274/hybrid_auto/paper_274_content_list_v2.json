@@ -1,0 +1,2524 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Detection of Rickettsia spp. in Fleas Collected from Small Mammals in Slovakia, Central Europe "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                171,
+                140,
+                821,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ivana Heglasová, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{1,2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Bronislava Víchová, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and Michal Stanko "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{1,3}"
+                    }
+                ]
+            },
+            "bbox": [
+                267,
+                224,
+                725,
+                242
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                93,
+                295,
+                158,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This survey is aimed at investigation of species composition of fleas removed from small terrestrial mammals captured in rural, suburban, and urban types of habitat and molecular screening of the presence and diversity of Rickettsia species in collected ectoparasites. In total, 279 fleas (Siphonaptera) belonging to 9 species of 2 families, Ceratophyllidae and Hystrichopsyllidae, were collected from 115  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(46\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " out of 250 trapped small mammals of eight species (Apodemus agrarius, Apodemus flavicollis, Apodemus uralensis, Myodes glareolus, Microtus arvalis, Microtus subterraneus, Crocidura leucodon, and Sorex minutus). Rickettsia spp. were found in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (7/279) of tested fleas, namely in Ctenophthalmus agyretes, Ctenophthalmus solutus, Ctenophthalmus uncinatus, Megabothris turbidus, and Amalareus penicilliger. Rickettsia felis, Rickettsia helvetica, and unidentified Rickettsia species were detected in fleas infesting small mammals in Eastern Slovakia. The results of the study suggest that some species of rickettsiae have a different range of arthropod vectors. "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                321,
+                903,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: fleas, Rickettsia felis, Rickettsia helvetica, small mammals, Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                488,
+                665,
+                503
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                93,
+                541,
+                184,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsiae ARE OBLIGATE intracellular Gram-negative bacteria from the order Rickettsiales with a worldwide distribution. Many species are responsible for serious diseases in humans and other mammals (Raoult and Roux 1997, Parola et al. 2013). They are transmitted through arthropod vectors such as ticks, mites, fleas, and lice (Raoult and Roux 1997, Weinert et al. 2009, Mitrkova et al. 2015). Recent studies have shown that genus Rickettsia could be divided into several different phylogenetic groups: the spotted fever group (SFG) (e.g., Rickettsia africae, Rickettsia sibirica, and Rickettsia slovaca); the typhus group (TG) (Rickettsia typhi and Rickettsia prowazekii); the transitional group (TRG) (Rickettsia akari and Rickettsia felis); and as own groups Rickettsia helvetica, R. canadensis, and Rickettsia bellii (Murray et al. 2016). "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                569,
+                488,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Slovakia, six species of rickettsiae have thus far been identified in vectors (R. slovaca, Rickettsia raoultii, Rickettsia monacensis strains IRS3 and IRS4, R. helvetica, R. africae, and R. felis) (Skeyova et al. 2012, 2013, Spitalska et al. 2015). In this region, R. africae, R. felis, and R. helvetica have been detected in fleas. R. africae, the etiological agent of African tick-bite fever, was identified in Ceratophyllus garei flea col "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                777,
+                488,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "lected from migrating bird species, Acrocephalus scirpaceus, during spring migration from Africa to Europe (Sekeyova et al. 2012). In the world,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " . africae has also been detected in several species of ticks (Rhipicephalus, Hyalomma, Haemaphysalis, or Amblyomma) (Mediannikov et al. 2012, Orkun et al. 2014). "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                541,
+                900,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Slovakia, R. felis was detected in Ctenophthalmus sol-lutus flea collected from Apodemus agrarius (Spitalska et al. 2015). R. felis, the causative agent of flea-borne spotted fever, also known as cat flea typhus, is primarily associated with the cat flea Ctenocephalides felis, which is the main arthropod reservoir as well as the vector (Abdad et al. 2011). R. felis has also been identified molecularly in other species of fleas, ticks, mites, lice, and mosquitoes (Aedes sp.) (Socolovschi et al. 2012, Brown and Macaluso 2016). Members of the genus Rickettsia are primarily transmitted vertically, by transstadial and transovarial transmission, within a flea population. However, horizontal transmission of R. felis between cat fleas was also documented (Wedincamp and Foil 2002, Hirunkanokpun et al. 2011). "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                611,
+                900,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fleas are holometabolous insects with hematophagous images. They are significant ectoparasites of many mammals and birds but are mainly associated with wild small mammals (Krasnov 2008). In previous surveys in Slovakia,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">30"
+                    },
+                    {
+                        "type": "text",
+                        "content": " species of fleas infesting small mammals were recorded (Rosicky "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                805,
+                900,
+                875
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by UPPSALA UNIVERSITETSBILIOTEK from www.liebertpub.com at 05/09/20. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                11,
+                282,
+                32,
+                718
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "VECTOR-BORNE AND ZOONOTIC DISEASES "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                39,
+                377,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Volume XX, Number XX, 2020 "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                54,
+                274,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\odot"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Mary Ann Liebert, Inc. "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                65,
+                241,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1089/vbz.2019.2567 "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                75,
+                263,
+                87
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "^{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Institute of Parasitology, Slovak Academy of Sciences, Košice, Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                893,
+                547,
+                907
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "^{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Department of Zoology, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                906,
+                686,
+                917
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "^{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Institute of Zoology, Slovak Academy of Sciences, Bratislava, Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                917,
+                542,
+                931
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                946,
+                501,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1957, Jurik 1962, Stanko 1987, 1992). Fleas are known vectors of various pathogens. including the etiological agents of plague (Yersinia pestis), bartonellosis (Bartonella henselae), and rickettsiosis (R. typhi, R. prowazekii, R. africae, and R. felis) (Raoult and Roux 1997, Bitman et al. 2010). The host becomes usually infected by flea feces coming into contact with injured skin (Azad and Beard 1998). "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                71,
+                491,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Recently, several studies regarding the fleas and rickettsiae they transmit were published in Slovakia (Sekeyova et al. 2012, Spitalská et al. 2015, Vichová et al. 2018). However, information on the diversity of rickettsiae in fleas in different regions of Slovakia is still limited. Therefore, the main aim of this study was to screen fleas collected from small mammals that were captured in Eastern Slovakia (Central Europe), for the presence and diversity of Rickettsia spp. In this publication, examinations of fleas represent only one part of the complex results focused on the role of arthropods parasitic on small mammals in the circulation of rickettsia. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                170,
+                491,
+                320
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Material and Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                339,
+                251,
+                352
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Fleas sampling "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                359,
+                200,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fleas were collected from rodents and shrews at three sampling sites in Eastern Slovakia during the years 2014-2016. The sampling sites were described in detail in Heglasova et al. (2018). The first study site, a Botanical garden, with deciduous forest vegetation, is located in the center of Košice city (208 meters a.s.l.;  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "48^{\\circ}446 \\cdot 84''\\mathrm{N}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ";  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "21^{\\circ}14'16 \\cdot 14''\\mathrm{E}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). It represents an urban habitat with a significant anthropogenic impact. The second site, Čermel' valley, is characterized by the presence of mixed forest vegetation, with a predominance of beech, hornbeam, and spruce (208-600 meters a.s.l.;  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "48^{\\circ}45'46 \\cdot 67''\\mathrm{N}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ";  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "21^{\\circ}8'8 \\cdot 17''\\mathrm{E}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and it represents a suburban habitat. The third site, with mixed forest vegetation and a predominance of beech, oak, and hornbeam, is located in the Slovak Karst National Park, near the Hrhov village (200-220 meters a.s.l.;  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "48^{\\circ}34'53.9''\\mathrm{N}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ";  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20^{\\circ}46'44.4''\\mathrm{E}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and it represents a rural habitat. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                380,
+                491,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Live-trapping of small mammals was carried (two times per year) out during May/June and September/October in years from 2014 to 2016, respectively. Rodent sampling was described in detail in Heglasova et al. (2018). Captured small mammals were euthanized in accordance with the licenses of the Ministry of Environment of the Slovak Republic No. 4874/2011-2.2 and 4559/2015-2.3. Each rodent individual was checked for the presence of fleas. All collected fleas were stored in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "70\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ethanol until identification. The species and sex of fleas were determined based on morphological characteristics under a light microscope using the morphological keys and published descriptions (Rosicky 1957). "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                588,
+                491,
+                753
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DNA extraction and molecular analyses "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                771,
+                359,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fleas were washed with sterile water, dried on air, transferred to individual tubes, and crushed with a sterile scalpel. Genomic DNA was extracted individually from each flea using alkaline hydrolysis method (Rijpkema et al. 1996). All DNA samples were stored at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-20^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for further processing. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                792,
+                491,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subsequently, all DNA samples were screened for the presence of Rickettsia spp. by nested PCR amplification of the 381-bp long fragment of the citrate synthase gene (gltA), using the genus-specific primers RpCS.877p and RpCS.1258n (Regnery et al. 1991) and inner primer pair "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                861,
+                491,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RpCS.896p and RpCS.1233n (Choi et al. 2005) resulting in 337-bp long PCR product. To further characterize Rickettsia species, chosen three out of seven gltA positive amplicons were subsequently analyzed for the presence of the fragments of another gene loci (ompA and ompB) encoding outer membrane proteins A and B (Regnery et al. 1991, Roux et al. 1996, Roux and Raoult 2000), with primers RR190.70F/RR190.701R and 120-2788/120-3599, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                71,
+                901,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "R. helvetica identification was based on the PCR amplification of the gltA and ompB genes, and R. felis was identified based on amplification of the gltA, ompA, and ompB genes (Roux et al. 1996, Roux and Raoult 2000, Portillo et al. 2017). After PCR analyses, all positive samples with amplified gltA, ompA, and ompB gene fragments were purified using Isolate II PCR and Gel Kit (Bioline) and sequenced. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                183,
+                901,
+                280
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Accession numbers of obtained nucleotide sequences "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                294,
+                862,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nucleotide sequences of the fragments of gltA gene obtained in this study from fleas were submitted to the GenBank database under the following accession numbers: R. felis (MN276063), R. helvetica (MN276064, MN276065). "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                315,
+                901,
+                369
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                383,
+                563,
+                396
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Flea communities "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                405,
+                625,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In total, 279 fleas (Siphonaptera) belonging to nine species of two families, Ceratophyllidae and Hystrichopsyllidae, were screened for Rickettsia spp. The most frequent flea species was Ctenopthalmus agyrites  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 105)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", followed by C. solutus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 63)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Ctenopthalmus assimilis  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 49)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Megabothris turbidus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 17)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Amalareus penicilliger  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 15)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Hystrichopsylla orientalis  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 15)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Ctenopthalmus uncinatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 12)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Doratopsylla dasycnema  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and Nosopsyllus fasciatus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 1)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The greatest abundance and diversity of the fleas removed from small mammals were detected in rural habitat of Slovak Karst region with totally collected 169 fleas of 8 species, followed by suburban habitat, Čermel', with 97 fleas of 4 species, and urban area of Botanical Garden in the Košice city, with 13 fleas of 2 species. Two most common flea species (C. agyrites, C. solutus) were detected in all surveyed regions (Table 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                425,
+                901,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All 250 small mammals trapped in the previous study by Heglasova et al. (2018) were screened for the presence of fleas in this study. Totally, fleas were removed from 115  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(46\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " out of 250 trapped small mammals belonging to eight species (A. agrarius, Apodemus flavicollis, Apodemus ur-alensis, Myodes glareolus, Microtus arvalis, Microtus subterraneus, Crocidura leucodon, and Sorex minutus). "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                647,
+                901,
+                743
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of Rickettsia spp. in fleas "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                758,
+                771,
+                771
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of rickettsiae was identified in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agyretes,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " solutus,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " uncinatus,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " turbidus, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " penicilliger fleas collected from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " flavicollis,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " glareolus, respectively. Fleas infesting small mammals tested negative for SFG rickettsiae in the previous study realized in this region (Heglasova et al. 2018). The overall prevalence of Rickettsia spp. in the tested fleas was  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (7/279). Five infected fleas originated from Čermel', one flea from Botanical garden, and one from the Slovak Karst region. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                777,
+                901,
+                902
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All seven gltA-PCR positive amplicons were sequenced. Nucleotide sequence of gltA gene (MN276065), amplified "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                902,
+                901,
+                930
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by UPPSALA UNIVERSITETSBIBLITEK from www.liebertpub.com at 05/09/20. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                284,
+                29,
+                715
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                42,
+                109,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "HEGLASOVÁ, VÍCHOVÁ, AND STANKO "
+                    }
+                ]
+            },
+            "bbox": [
+                624,
+                41,
+                901,
+                55
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ce51362e8195fb4a98a9195f63c5d8cb54f71d13e10a165175644964f82bca9a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1. EXAMINED FLEAS (SIPHONAPERA) FROM SMALL MAMMALS IN THREE DIFFERENT SITES OF EAST SLOVAKIA "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Flea species</td><td>Slovak Karst (natural)</td><td>Čermel&#x27; (suburban)</td><td>Botanical garden (urban)</td><td>Hosts of fleas</td></tr><tr><td>Amalareus penicilliger</td><td>-</td><td>15 (9♀, 6♂)</td><td>-</td><td>Apodemus flavicollis Myodes glareolus</td></tr><tr><td>Ctenophthalmus agyrites</td><td>49 (32♀, 17♂)</td><td>54 (32♀, 22♂)</td><td>2♀</td><td>Apodemus agrarius A. flavicollis M. glareolus Microtus arvalis Microtus subterraneus</td></tr><tr><td>Ctenophthalmus assimilis</td><td>49 (27♀,22♂,)</td><td>-</td><td>-</td><td>A. agrarius A. flavicollis M. arvalis</td></tr><tr><td>Ctenophthalmus solutus</td><td>35 (19♀, 16♂)</td><td>17 (8♀, 9♂)</td><td>11(7♀, 4♂)</td><td>A. agrarius A. flavicollis M. arvalis M. glareolus</td></tr><tr><td>Ctenophthalmus uncinatus</td><td>1♀</td><td>11 (4♀, 7♂)</td><td>-</td><td rowspan=\"2\">A. flavicollis M. glareolus Crocidura leucodon Sorex minutus</td></tr><tr><td>Doratopsylla dasycnema</td><td>2♂</td><td>-</td><td>-</td></tr><tr><td>Hystrichopsylla orientalis</td><td>15 (7♀, 8♂)</td><td>-</td><td>-</td><td>A. agrarius A. flavicollis C. leucodon M. arvalis</td></tr><tr><td>Megabothris turbidus</td><td>17 (11♀, 6♂)</td><td>-</td><td>-</td><td>A. agrarius A. flavicollis M. glareolus</td></tr><tr><td>Nosopsyllus fasciatus</td><td>1♂</td><td>-</td><td>-</td><td>A. flavicollis</td></tr><tr><td>Total</td><td>169 (97♀, 72♂)</td><td>97 (53♀, 44♂)</td><td>13 (9♀, 4♂)</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                91,
+                89,
+                901,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "from C. agyrites male flea, collected from rickettsia-negative A. agrarius from Čermel', showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " identity with at least 50 R. helvetica isolates (MK875721-MK875725, MK875700-MK875719) from Ixodes spp. ticks from Slovakia that are deposited in the Genbank database. Nucleotide sequence of gltA gene (MN276064), amplified from C. uncinatus female flea collected from rickettsia-negative A. flavicollis from the locality Čermel' showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "99.69\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with R. helvetica (MG190375) from small mammal's ear biopsy from Slovakia and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "99.08\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with R. helvetica (MF673863) from Ixodes ricinus tick from Slovakia. The fragments of the ompB gene were not successfully amplified in tested samples of R. helvetica. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                513,
+                488,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The third partial nucleotide sequence of gltA gene (MN276063), amplified from C. solutus female flea collected from rickettsia-negative A. agrarius from Botanical Garden in Košice city, showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "99.08\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with R. felis (JF448471-JF448473) from South Korean A. agrarius mice. The ompA gene fragment sequences from C. solutus showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "98.08\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with R. felis (AF191026) and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "98.07\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with R. felis (HM636635, EU012496) from infected fleas from dogs in Yucatan and Mexico, respectively. The nucleotide sequence of the ompB gene fragment sequences showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "99.87\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with R. felis (MG266432) from Arvicola amphibius rodent in Germany. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                696,
+                488,
+                861
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Four out of seven gltA-PCR positive amplicons were not closely identified. Three partial nucleotide sequence of gltA gene amplified from two male and one female of A. penicilliger collected from M. glareolus captured in Cermel showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "96.83\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with uncultured Rickettsia sp. clone 42-2 "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                861,
+                488,
+                931
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(MF459640) from C. felis in Uganda and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "96.78\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with uncultured Rickettsia sp. isolate Turbo (MK860201) from Homo sapiens in Colombia. One partial nucleotide sequence of gltA gene amplified from one M. turbidus male from M. glareolus captured in Hrhov, Slovak Karst region showed  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "99.66\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " similarity with uncultured Rickettsia sp. clone (KX179467) from M. turbidus fleas collected from A. agrarius in Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                513,
+                900,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                503,
+                632,
+                586,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, R. felis, R. helvetica, and Rickettsia sp. were detected in fleas removed from wild small mammals captured in three different habitat types in Eastern Slovakia. The overall prevalence of rickettsiae was  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (7/279). The low prevalence of Rickettsia spp. indicates that fleas seem to be less important in the transmission of Rickettsia species than ticks. Small mammals were analyzed for the presence of rickettsiae in the previous study of Heglasova et al. (2018) with prevalent  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "11\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (27 positive/245 tested rodents). "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                652,
+                900,
+                777
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In total 250 small mammals of 11 species A. agrarius, A. flavicollis, A. uralensis, Micromys minutus (Muriade), M. glareolus, M. arvalis, M. subterraneus (Cricetidae) and C. leucodon, Crocidura suaveolens, Neomys fodiens, and S. minutus (Soricidae) were captured in rural, suburban, and urban habitats of Eastern Slovakia. Ear biopsies of 245 individuals, belonging to eight species, were examined for the presence of SFG rickettsiae in the study previously published by Heglasova et al. (2018). All seven Rickettsia-positive fleas from this study were collected from Rickettsia-negative rodents. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                779,
+                900,
+                931
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by UPPSALA UNIVERSITETSBIBLITEK from www.liebertpub.com at 05/09/20. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                284,
+                29,
+                715
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RICKETTSIA SPP. IN FLEAS "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                41,
+                282,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                42,
+                898,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Different degrees of host specificity were observed in individual flea species. Most of the fleas collected in this study have a broad host range and infest wild mice, voles, and insectivores. Rickettsia-positive flea species from this study belong into generalists (A. penicilliger, C. agyrites, and M. turbidus) and species with narrower host range (C. solutus and C. uncinatus) (Rosický 1957). Previous surveys showed a similar composition of flea communities in small mammals. "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                71,
+                491,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "R. felis was identified in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " solutus female flea collected from A. agrarius inhabiting the urban area of Košice city. Similar findings were published by Špitalská et al. (2015); R. felis was identified in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " solutus male flea collected from A. agrarius. R. felis circulates through a broader spectrum of vectors and has been detected in at least 30 species of fleas, ticks, mites, and lice (Abdad et al. 2011, Brown and Macaluso 2016, Thu et al. 2019). This species of rickettsia is primarily associated with the cat flea  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " felis, which is the main arthropod reservoir as well as the vector (Abdad et al. 2011), but it was also identified in other species of fleas from the genera Xenopsylla, Archeopsylla, Anomiopsyllus, Hystrichopsylla, and Ctenophthalmus removed from rodents and insectivores (Stevenson et al. 2005, Bitam et al. 2006, Radzijevskaja et al. 2018). This rickettsia species have been identified in ticks from genera Rhipicephalus, Ornithodoros, and in mites from the genera Laelaps and Hyperlaelaps (Reeves et al. 2006, Oliveira et al. 2008, Parola et al. 2013, Radzijevskaja et al. 2018). "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                183,
+                491,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica was identified in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agyrites males collected from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " uncinatus female from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " flavicollis. Similarly, Spitalska et al. (2015) identified  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agyrites males collected from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius. In the study of Sprong et al. (2009),  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica was identified in fleas amplified from  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " glareolus and Apodemus sylvaticus in the Netherlands. I. ricinus tick is the main vector of the most common species  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica across Europe (Oteo and Portillo 2012).  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica has been identified in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">10"
+                    },
+                    {
+                        "type": "text",
+                        "content": " tick species of genera Ixodes, Haemaphysalis, and Dermacentor (Parola et al. 2005, Hornok et al. 2010, Tijssse-Klasen et al. 2013, Marcutan et al. 2016). In Slovakia, the presence of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica and so  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " monacensis was also identified in ectoparasitic mites Laelapidae and Trombiculidae infesting rodents (Mitkova et al. 2015). "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                431,
+                491,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Research and study of rickettsiae have revealed the great diversity of the hosts involved in their circulation. Species of rickettsiae such as  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " felis,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " helvetica,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " africae, or  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " monacensis are associated with several different species of ticks belonging to different genera or subfamilies, as well as with fleas or mites. These species belong to a group of rickettsiae that seem to have less specific preferences on arthropod vectors (Heglasova et al. unpublished data). "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                626,
+                491,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In contrast, there is a group of rickettsiae that seem to be associated with several tick species within the same genus. For instance,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " slovaca associated with several tick species within the same genus, mainly with  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": " marginatus and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": " reticulatus across Europe (Skeyova et al. 1998, Parola et al. 2005, 2013, Spitalska et al. 2012, Minichova et al. 2017). Similar findings were published by Socolovschi et al. (2009) and Merhej and Raoult (2011). The results of the study suggest that some species of rickettsiae have a different range of arthropod vectors. "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                737,
+                491,
+                861
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                96,
+                882,
+                189,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Altogether, nine flea species were recorded on sampled small mammals from Slovakia. The occurrence of human "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                902,
+                491,
+                930
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "pathogenic  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " felis and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R"
+                    },
+                    {
+                        "type": "text",
+                        "content": " .helvetica was recorded in fleas removed from small mammals collected in habitats with various degree of anthropogenic use (urban, suburban, and rural). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                71,
+                901,
+                114
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                131,
+                640,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors thank Ladislav Mošanský, PhD. Monika Onderová for help with rodent trapping, flea collections, and technical assistance. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                151,
+                901,
+                193
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Author Disclosure Statement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                210,
+                715,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No competing financial interests exist. "
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                229,
+                777,
+                244
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding Information "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                261,
+                656,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The study was supported by the projects VEGA 1/0084/18, APVV-16-0518, and by the Research & Development Operational Program funded by the ERDF: environmental protection against parasitozoonoses under the influence of global climate and social changes (code ITMS: 26220220116; 0.2). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                282,
+                901,
+                351
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                368,
+                589,
+                381
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Abdad MY, Stenos J, Graves S. Rickettsia felis, an emerging flea-transmitted human pathogen. Emerg Health Threats J 2011; 4:7168. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Azad AF, Beard CB. Rickettsial pathogens and their arthropod vectors. Emerg Infect Dis 1998; 4:179-186. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bitam I, Parola P, De La Cruz KD, Matsumoto K, et al. First molecular detection of Rickettsia felis in fleas from Algeria. Am J Trop Med Hyg 2006; 74:532-535. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bitman I, Dittmar K, Parola P, Whiting MF, et al. Fleas and flea-borne diseases. Int J Infect Dis 2010; 14:667-676. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Brown LD, Macaluso KR. Rickettsia felis, an emerging fea-borne rickettsiosis. Curr Trop Med Rep 2016; 3:27-39. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Choi YJ, Jang WJ, Ryu JS, Lee SH, et al. Spotted fever group and typhus group rickettsioses in humans, South Korea. Emerg Infect Dis 2005; 11:237-244. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heglasova I, Vichova B, Kraljik J, Mošansky L, et al. Molecular evidence and diversity of the spotted-fevergroup Rickettsia spp. in small mammals from rural, suburban and urban areas of Eastern Slovakia. Ticks Tick Borne Dis 2018; 9: 1400-1406. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hirunkanokpun S, Thepparit C, Foil LD, Macaluso KR. Horizontal transmission of Rickettsia felis between cat fleas, Ctenocephalides felis. Mol Ecol 2011; 20:4577-4586. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hornok S, Mel ML, Perreten A, Farkas R, et al. Molecular investigation of hard ticks (Acari: Ixodidae) and fleas (Siphonaptera: Pulicidae) as potential vectors of rickettsial and mycoplasmal agents. Vet Microbiol 2010; 140:98-104. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jurik M. Contribution to the knowledge of Czechoslovakia fleas II (Nosopsylus Jordan, 1933). Biologia 1962; 16:383-388. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Krasnov BR. Functional and Evolutionary Ecology of Fleas: A Model for Ecological Parasitology. Cambridge: Cambridge University press, 2008:1-593. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Márcuţan ID, Zsuzsa K, Ionica AM, D’Amico G, et al. Spotted fever group rickettsiae in ticks of migratory birds in Romania. Parasit Vectors 2016; 9:294. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mediannikov O, Diatta G, Zolia Y, Balde MC, et al. Tick-borne rickettsiae in Guinea and Liberia. Ticks Tick Borne Dis 2012; 3:43-48. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Merhej V, Raoult D. Rickettsial evolution in the light of comparative genomics. Biol Rev Camb Philos Soc 2011; 86:379-405. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                388,
+                901,
+                928
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by UPPSALA UNIVERSITETSBIBLITEK from www.liebertpub.com at 05/09/20. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                17,
+                284,
+                29,
+                715
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                42,
+                109,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "HEGLASOVÁ, VÍCHOVÁ, AND STANKO "
+                    }
+                ]
+            },
+            "bbox": [
+                624,
+                41,
+                901,
+                55
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Minichová L, Hamsiková Z, Mahriková L, Slovak M, et al. Molecular evidence of Rickettsia spp. in ixodid ticks and rodents in suburban, natural and rural habitats in Slovakia. Parasit Vectors 2017; 10:158. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mitkova K, Berthová L, Kaluz S, Kazimirova M, et al. First detection of Rickettsia helvetica and  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "R."
+                            },
+                            {
+                                "type": "text",
+                                "content": " monacensis in ectoparasitic mites (Laelapidae and Trombiculidae) infesting rodents in south-western Slovakia. Parasitol Res 2015; 114: 2465-2472. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Murray GGR, Weinert LA, Rhule EL, Welch JJ. The phylogeny of Rickettsia using different evolutionary signatures: How tree-like is bacterial evolution? Syst Biol 2016; 65:265-279. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Oliveira KA, Oliveira LS, Dias CC, Silva A, Jr., et al. Molecular detection of Rickettsia felis in ticks and fleas from an endemic area for Brazilian spotted fever. Mem Inst Oswaldo Cruz 2008; 103:191-194. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Orkun Ö, Karaer Z, Çakmak A, Nalbantoğlu S. Spotted fever group rickettsiae in ticks in Turkey. Ticks Tick Borne Dis 2014; 5:213-218. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Oteo JA, Portillo A. Tick-borne rickettsioses in Europe. Tick-STick Borne Dis 2012; 3:271-278. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Parola P, Paddock CD, Raoult D. Tick-borne rickettsioses around the world: Emerging diseases challenging old concepts. Clin Microbiol Rev 2005; 18:719-756. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Parola P, Paddock CD, Socolovschi C, Labruna MB, et al. Update on tick-borne rickettsioses around the world: A geographic approach. Clin Microbiol Rev 2013; 26:657-702. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Portillo A, de Sousa R, Santibáñez S, Duarte A, et al. Guidelines for the detection of Rickettsia spp. Vector Borne Zoonotic Dis 2017; 17:23-32. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Radzijevskaja J, Kaminskiene E, Lipatova I, Mardosaité-Busaitiene D, et al. Prevalence and diversity of Rickettsia species in ectoparasites collected from small rodents in Lithuania. Parasit Vectors 2018; 11:375. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Raoult D, Roux V. Rickettsioses as paradigms of new or emerging infectious diseases. Clin Microbiol Rev 1997; 10:694-719. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Reeves WK, Loftis AD, Sanders F, Spinks MD, et al. Borrelia, Coxiella, and Rickettsia in Carios capensis (Acari: Argasidae) from a Brown Pelican (Pelecanus occidentalis) Rookery in South Carolina, USA. Exp Appl Acarol 2006; 39:321-329. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Regnery RL, Spruill CL, Plikaytis BD. Genotypic identification of rickettsiae and estimation of intraspecies sequence divergence for portions of two rickettsial genes. J Bacteriol 1991; 173:1576-1589. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rijpkema S, Golubic D, Moelkenboer M, Verbeek-De Kruif N, et al. Identification off our genomic groups of Borrelia burgdorferi sensu lato in Ixodes ricinus ticks collected in a Lyme borreliosis endemic region of northern Croatia. Exp Appl Acarol 1996; 20:23-30. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rosicky B. Fleas - Aphaniptera. Fauna Czechoslovakia 1957; 10:1-439. Publishing House of the Czechoslovak Academy of Sciences, Praha. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Roux V, Fournier PE, Raoult D. Differentiation of spotted fever group rickettsiae by sequencing and analysis of restriction fragment length polymorphism of PCR amplified DNA of the gene encoding the protein rOmpA. J Clin Microbiol 1996; 34: 2058-2065. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Roux V, Raoult D. Phylogenetic analysis of members of the genus Rickettsia using the gene encoding the outer-membrane protein rOmpB (ompB). Int J Syst Evol Microbiol 2000; 50: 1449-1455. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova Z, Mediannikov O, Roux V, Subramanian G, et al. Identification of Rickettsia africae and Wolbachia sp. in "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                73,
+                488,
+                906
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ceratophyllus garei fleas from passerine birds migrated from Africa. Vector Borne Zoonotic Dis 2012; 12:539-543. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova Z, Roux V, Xu W, Rehacek J, et al. Rickettsia slovaca sp. nov., a member of the spotted fever group rickettsiae. Int J Syst Bacteriol 1998; 48:1455-1462. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova Z, Socolovschi C, Spitalska E, Kocianova E, et al. Update on rickettsioses in Slovakia. Acta Virol 2013; 57:180-199. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Socolovski C, Mediannikov O, Raoult D, Parola P. The relationship between spotted fever group Rickettsiae and ixodid ticks. Vet Res 2009; 40:34. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Socolovski C, Pages F, Raoult D. Rickettsia felis in Aedes albopictus mosquitoes, Libreville, Gabon. Emerg Infect Dis 2012; 18:1687-1689. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sprong H, Wielinga PR, Fonville M, Reusken C, et al. Ixodes ricinus ticks are reservoir hosts for Rickettsia helvetica and potentially carry flea-borne Rickettsia species. Parasite Vector 2009; 2:41. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stanko M. Fleas (Siphonaptera) of small mammals of the northern part of Krupinská planina. Proceedings of the Central Slovak Museum in Banská Bystrica, Natural Sciences 1987; 6:108-117. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stanko M. The current state of knowledge of fleas (Siphonaptera) of small mammals of the Košice agglomeration. Proceedings of the East Slovak Museum in Košice, Natural Sciences 1992; 32-33:87-95. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stevenson HL, Labruna MB, Montenieri JA, Kosoy MY, et al. Detection of Rickettsia flesis in a new world flea species Anomiopsyllus nudata (Siphonaptera: Ctenophthalmidae). J Med Entomol 2005; 42:163-167. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Spitalská E, Boldis V, Mośansky L, Sparagano O, et al. Rickettsia species in fleas collected from small mammals in Slovakia. Parasitol Res 2015; 114:4333-4339. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Spitalska E, Stefanidesova K, Kocianova E, Boldis V. Rickettsia slovaca and Rickettsia raoultii in Dermacentor marginatus and Dermacentor reticulatus ticks from Slovak Republic. Exp Appl Acarol 2012; 57:189-197. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Thu MJ, Qiu Y, Matsuno K, Kajihara M, et al. Diversity of spotted fever group rickettsiae and their association with host ticks in Japan. Sci Rep 2019; 9:1500. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tijssse-Klasen E, Hansford KM, Jahfari S, Phipps P, et al. Spotted fever group rickettsiae in Dermacentor reticulatus and Haemaphysalis punctata ticks in the UK. Parasit Vectors 2013; 6:212. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Víchová B, Bona M, Miterpáková M, Kraljik J, et al. Fleas and ticks of red foxes as vectors of canine bacterial and parasitic pathogens, in Slovakia, Central Europe. Vector Borne Zoonotic Dis 2018; 18:611-619. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wedincamp J, Jr., Foil LD. Vertical transmission of Rickettsia felis in the cat flea (Ctenocephalides felis Bouché). J Vector Ecol 2002; 27:96-101. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Weinert LA, Werren JH, Aebi A, Stone GN, et al. Evolution and diversity of Rickettsia bacteria. BMC Biol 2009; 7:6. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                898,
+                773
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Address correspondence to: "
+                    }
+                ]
+            },
+            "bbox": [
+                712,
+                784,
+                898,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ivana Heglasova "
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                799,
+                898,
+                811
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Institute of Parasitology "
+                    }
+                ]
+            },
+            "bbox": [
+                735,
+                811,
+                898,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Slovak Academy of Sciences "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                827,
+                898,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hlinkova 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                840,
+                898,
+                853
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Košice 040 01 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                854,
+                898,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                839,
+                867,
+                898,
+                880
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: heglasova@saske.sk "
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                891,
+                898,
+                905
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by UPPSALA UNIVERSITETSBILIOTEK from www.liebertpub.com at 05/09/20. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                11,
+                282,
+                31,
+                718
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "RICKETTSIA SPP. IN FLEAS "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                41,
+                282,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                42,
+                898,
+                54
+            ]
+        }
+    ]
+]

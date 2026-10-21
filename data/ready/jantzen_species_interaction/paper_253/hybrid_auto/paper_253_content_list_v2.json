@@ -1,0 +1,2969 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "R E S EAR CH "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                114,
+                221,
+                131
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Open Access "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                771,
+                114,
+                897,
+                132
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Candidatus Neoehrlichia mikurensis in rodents in an area with sympatric existence of the hard ticks Ixodes ricinus and Dermacentor reticulatus, Germany "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                151,
+                899,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cornelia Silaghi1*, Dietlinde Woll2 , Monia Mahling3 , Kurt Pfister1 and Martin Pfeffer2 "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                290,
+                680,
+                308
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                100,
+                341,
+                171,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Background: Candidatus Neoehrlichia mikurensis (CNM) has been described in the hard tick Ixodes ricinus and rodents as well as in some severe cases of human disease. The aims of this study were to identify DNA of CNM in small mammals, the ticks parasitizing them and questing ticks in areas with sympatric existence of Ixodes ricinus and Dermacentor reticulatus in Germany. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                364,
+                892,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Methods: Blood, transudate and organ samples (spleen, kidney, liver, skin) of 91 small mammals and host-attached ticks from altogether 50 small mammals as well as questing I. ricinus ticks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( n { = } 7 8 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") were screened with a real-time PCR for DNA of CNM. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                428,
+                885,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the small mammals were positive for CNM-DNA. The majority of the infected animals were yellow-necked mice (Apodemus flavicollis) and bank voles (Myodes glareolus). Small mammals with tick infestation were more often infected with CNM than small mammals without ticks. Compared with the prevalence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sim } 2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the questing I. ricinus ticks, twice the prevalence in the rodents provides evidence for their role as reservoir hosts for CNM. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                477,
+                885,
+                552
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusion: The high prevalence of this pathogen in the investigated areas in both rodents and ticks points towards the need for more specific investigation on its role as a human pathogen. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                557,
+                843,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: Candidatus Neoehrlichia mikurensis, Bank vole, Yellow-necked mouse, Ixodes ricinus, Dermacentor reticulatus, Recreational area, Host survey, Vector-host relation "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                593,
+                838,
+                624
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Background "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                89,
+                646,
+                189,
+                662
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodents are reservoir hosts for several zoonotic and emerging pathogens [1]. Furthermore, rodents and other small mammals serve as main feeding and maintenance hosts for the developmental stages of various tick species. They play an important role in the endemic cycles of tick-borne pathogens by being reservoir hosts for those as well as being drivers for the tick population itself (e.g. the tick-borne encephalitis-virus or Babesia microti) [2-4]. Thus, the health of human beings can be "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                663,
+                487,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "seriously impaired by contact with rodents or ticks, which have previously fed on them. Ticks found on small mammals can be either exophilic or endophilic. Exophilic species such as the anthrophilic Ixodes ricinus may act as bridge vectors between large mammalian species including humans and small mammals [5]. The developmental stages of Dermacentor reticulatus or endophilic species (e.g. I. trianguliceps) are more specialised regarding their hosts and may provide stable niche cycles for pathogens such as Anaplasma phagocytophilum and B. microti [6-8]. A new pathogen belonging to the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-proteobacteria (family Anaplasmataceae) was detected in the late 1990s in I. ricinus in the Netherlands and Italy as well as in a Norway rat (Rattus norvegicus) in China and was initially called Ehrlichia-like (or Schotti "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                646,
+                907,
+                873
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                39,
+                393,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasites &Vectors "
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                40,
+                907,
+                90
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Correspondence: cornelia.silaghi@tropa.vetmed.uni-muenchen.de 1 Comparative Tropical Medicine and Parasitology, Ludwig-Maximilians-Universität München, Leopoldstr. 5, D-80802 Munich, Germany Full list of author information is available at the end of the article "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                825,
+                467,
+                883
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BioMed Central "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                892,
+                280,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© 2012 Silaghi et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. "
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                892,
+                862,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "variant, E. walkerii, Rattus-strain) due to a diverging 16S rRNA gene sequence [9-11]. Further findings in rats and I. ovatus ticks in Japan and the passaging of the agent in laboratory rats led to its description as the new species Candidatus Neoehrlichia mikurensis (CNM) in 2004 [12]. Although in parts genetically characterized, it was not possible till the present time to isolate the bacterium in vitro, thus formally remaining the taxonomical status as Candidatus. A recent study comparing 16S rRNA and groEL gene sequences confirmed the identity or very close relationship of sequences from the initial findings of the Ehrlichia-like organisms with the new species [13]. This emerging zoonotic intracellular tickborne pathogen forms a separate cluster in the family Anaplasmataceae together with the North American Cand. N. lotoris, which has been detected in raccoons [14-16]. CNM has been shown to be a human pathogen as it has been identified in the blood of febrile human patients in Germany, Sweden, Switzerland and the Czech Republic, and a dog in Germany. Most of these patients were immunocompromised due to splenectomy or immunosuppressive therapy and the reported diseases were severe, including hemorraghic events, recurrent fever of up to 8 months and even lethal outcome [14,17-21]. I. ricinus is most likely the vector for CNM in Europe, but the reservoir host is not fully known; however, rodents have been suggested [13]. Several studies have identified DNA of CNM in questing or host-attached I. ricinus in Europe including Germany [11,13,22,23]. However, potential reservoir hosts have thus far not been examined in Germany. Accordingly, in this study the occurrence of DNA of CNM was identified in small mammals, the ticks parasitizing them and questing ticks in recreational areas with co-existing I. ricinus and D. reticulatus populations in Germany. The aims were (i) to identify their infection rates, (ii) to determine the suitable screening material in rodents for epidemiological studies and (iii) to assess the co-infections with other pathogens in these areas where several pathogens have been found in rodents and ticks before [24,25]. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                110,
+                492,
+                715
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                730,
+                161,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals were trapped and euthanized in a metropolitan area of Leipzig from August 2010 to November 2011 (Permission-No 36.45.12/4/10-026 of the city of Leipzig). All ticks found on the small mammals were collected. Questing ticks collected during 2008 and 2009 with the flagging method in Leipzig (Saxony), near Munich (Bavaria) and the Saarland were also available for this study. For the latter two sites no rodents were trapped. The sampling sites, results of the tick collection, procedures of the rodent trapping, rodent species trapped, necropsy, and DNA extraction from animal tissues, host-attached and questing ticks have been "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                745,
+                485,
+                925
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "described in detail previously [25]. Additionally to the 80 previously described animals, 5 yellow-necked mice (Apodemus flavicollis) and 6 bank voles (Myodes glareolus) were available from November 2011. Blood "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\mathrm { n = 4 0 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), transudate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\ n = 9 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and organ samples [spleen "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\ n = 9 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), kidney "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\ n = 8 9 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), liver "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\ n = 9 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", skin "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\ n = 9 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "] of 91 small mammals, as well as all host-attached ticks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ \\mathrm { n } { = } 3 6 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; 234 I. ricinus, 117 D. reticulatus, 1 I. trianguliceps, 11 Ixodes spp., 1 Dermacentor spp., 1 without species identification due to damage) from altogether 50 small mammals, and questing I. ricinus ticks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\mathrm { n = 7 8 2 } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", in a total of 730 samples, as some nymphs were pooled) were screened for DNA of CNM. For 51 of the small mammals, no blood could be drawn prior to necropsy, for 2 animals no kidney sample, and for one animal each no spleen and no liver sample were available. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                109,
+                904,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A real-time PCR previously published and targeting the groEL gene was used for the detection of CNM-DNA with modifications [13]. The reaction was carried out in an AB7500fast (Applied Biosystems, Germany) in a total volume of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "using "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the Universal fast TaqMan Master Mix (Applied Biosystems), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of molecular grade water, the following three primers (all "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\mu \\mathrm { M } ;"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 8 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "NMikGroEL-F2 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 '"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-CCTTGAAAATATAGCAAGAT CAGGTAG-3,’ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 9 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "NMikGroEL rev1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 '"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-CCACCACG TAACTTATTTAGCACTAAAG-3’ and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 9 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "NMikGroEL rev2 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-CCACCACGTAACTTATTTAGTACTAAAG-3’) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 4 \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the probe NMikGroEL-P2a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 '"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-FAM-C CTCTACTAATTATTGCTGAAGATGTAGAAGGTGAA GC-BHQ1-3’. 5μl of DNA-template was added to each reaction. The cycling conditions were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 20sec followed by 40 cycles "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 3sec; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 30sec). To each reaction, a negative control (molecular grade water) and a positive control (DNA of CNM from naturally infected I. ricinus, confirmed by sequencing) were added. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                351,
+                904,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data on the occurrence of A. phagocytophilum, Babesia spp. and Rickettsia spp. in questing adult I. ricinus as well as of the small mammals and their ticks with A. phagocytophilum and Babesia spp. was available from previous investigations in the same animals and ticks. Hence, coinfections with CNM were analyzed [24,25]. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                639,
+                904,
+                728
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistical analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                745,
+                633,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Exact confidence intervals of the prevalences of small mammals and questing ticks (CI "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") were computed with the Clopper and Pearson method. For the questing ticks, differences in the infection rates with CNM between sex of ticks, collection sites and region were computed with logistic regression model using R 2.13.1 as described [25] (R Developmental Core Team 2011 [26]). Positive detection rates were compared among all groups (sex, sites, regions) by use of a procedure for simultaneous tests for general linear hypotheses in parametric models, which adjusts for multiplicity and "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                760,
+                904,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                39,
+                396,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 2 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                836,
+                40,
+                905,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c3233ddd12d871668e60d0d52b4bbad230b9809df06c15a7cc396920c6309088.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Ta ble 1 PCR resu lts for detection of DNA of Candidatus Neoeh rl ich ia m i ku rensis i n 9 1 sma l l ma m ma ls from recreationa l a reas i n Lei pzig (20 1 0–20 1 1 ) "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a pos i t ive i n a n y o rg a n ; pos ., pos i t ive; n .a ., n ot ava i l a b l e . "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Small mammalian species</td><td rowspan=\"2\">Total number of animals</td><td colspan=\"4\">Blood</td><td colspan=\"3\">Transudate</td><td colspan=\"3\">Spleen</td><td colspan=\"3\">Kidney</td><td colspan=\"3\">Liver</td><td colspan=\"3\">Skin</td></tr><tr><td>Pos, anya</td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>(%)</td></tr><tr><td>Apodemus flavicollis Yellow-necked mouse</td><td>37</td><td>24</td><td>12</td><td>18</td><td>(66.6)</td><td>20</td><td>37</td><td>(54.1)</td><td>23</td><td>37</td><td>(62.2)</td><td>23</td><td>36</td><td>(63.9)</td><td>16</td><td>36</td><td>(44.4)</td><td>0</td><td>37</td><td>(0)</td></tr><tr><td>Apodemus agrarius Striped field mouse</td><td>3</td><td>1</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td><td>1</td><td>3</td><td>(33.3)</td><td>1</td><td>3</td><td>(33.3)</td><td>0</td><td>3</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td></tr><tr><td>Myodes glareolus Bank vole</td><td>42</td><td>23</td><td>7</td><td>21</td><td>(33.3)</td><td>19</td><td>42</td><td>(45.2)</td><td>22</td><td>42</td><td>(52.4)</td><td>21</td><td>41</td><td>(51.2)</td><td>18</td><td>42</td><td>(42.9)</td><td>1</td><td>42</td><td>(2.0)</td></tr><tr><td>Arvicola amphibius European water vole</td><td>3</td><td>0</td><td>n.a.</td><td></td><td></td><td>0</td><td>3</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td></tr><tr><td>Talpa europaea Common mole</td><td>1</td><td>0</td><td>n.a.</td><td></td><td></td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td></tr><tr><td>Crocidura russula Greater white-toothed shrew</td><td>4</td><td>0</td><td>n.a.</td><td></td><td></td><td>0</td><td>4</td><td>(0)</td><td>0</td><td>3</td><td>(0)</td><td>0</td><td>4</td><td>(0)</td><td>0</td><td>4</td><td>(0)</td><td>0</td><td>4</td><td>(0)</td></tr><tr><td>Sorex araneus Common shrew</td><td>1</td><td>0</td><td>n.a.</td><td></td><td></td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td><td>0</td><td>1</td><td>(0)</td></tr><tr><td>Total</td><td>91</td><td>48</td><td>19</td><td>40</td><td>(47.5)</td><td>39</td><td>91</td><td>(42.9)</td><td>46</td><td>90</td><td>(51.1)</td><td>45</td><td>89</td><td>(50.6)</td><td>34</td><td>90</td><td>(37.8)</td><td>1</td><td>91</td><td>(1.1)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                71,
+                374,
+                889,
+                625
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285  \nhttp://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                931,
+                90,
+                957,
+                396
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 3 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                945,
+                836,
+                955,
+                905
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "controls the overall type I error rate [27]. The latter approach was also used for the calculation of differences in co-infection rates. P-values "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ < } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were regarded as statistically significant. No modelling was attempted for the infestations of small mammals with ticks due to the irregular intervals of trapping. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                109,
+                485,
+                200
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                215,
+                149,
+                228
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                230,
+                200,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Altogether 48 out of 91 ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") small mammals had detectable CNM-DNA in one or more of their organs or body fluids. 24 out of 37 yellow-necked mice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 4 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 7 . 5 \\substack { - 7 9 . 8 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and 23 out of 42 bank voles "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 4 . 8 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 8 . 7 \\substack { - 7 0 . 2 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") as well as 1 out of 3 striped field mice (A. agrarius) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 3 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": 0.8- "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 0 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were positive. None of the insectivore species was positive. Most animals were positive in the spleen and the kidney (Table 1). A total of 19 out of 40 blood samples "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 4 7 . 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were positive. Animals that tested positive in the blood also tested positive in transudate, kidney, spleen and liver, with the exception that 4 of those animals were negative in the liver. The positive striped field mouse (out of three), however, tested negative in both blood and transudate, but was found to contain CNM-DNA in both spleen and kidney. One bank vole was positive exclusively in the blood. However, 6 animals positive in other organs were negative in the blood samples. One bank vole was positive in the skin sample and this animal was also positive in all other samples whereas all other animals were negative in the skin samples. One yellow-necked mouse was positive only in the kidney. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                245,
+                485,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Looking at the trapping months, 0 out of 8 animals "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { - } 3 6 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") caught from March to May, 13 out of 25 ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 2 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": 31.3-72.2%) caught in June, 25 "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                593,
+                485,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "out of 33 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 7 . 7 \\substack { - 8 8 . 9 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in August, 6 out of 14 ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 2 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 . 7 \\mathrm { - } 7 1 . 1 \\% "
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in October, and 4 out of 11 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 6 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 9 \\substack { - 6 9 . 2 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in November were positive. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                109,
+                904,
+                168
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks on small mammals "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                186,
+                673,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals with tick infestation [any tick species: 31 out of 53 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 8 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 4 . 1 \\substack { - 7 1 . 9 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "); I. ricinus infestation: 30 out of 49 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 1 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 6 . 2 \\substack { - 7 4 . 8 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")] were more often infected with CNM than small mammals without ticks (17 out of 38, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 4 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 8 . 6 \\substack { - 6 1 . 7 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Altogether 27 ticks from 12 rodents were positive. Those were 15 out of 234 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 4 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "I. ricinus (9 larvae, 6 nymphs), 9 out of 117 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 7 . 7 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") D. reticulatus (all nymphs), 2 Ixodes spp. larvae and 1 larva for which species identification was not possible. The positive I. ricinus, 2 Ixodes spp. and the unidentified larva were from 11 individual mammals (5 yellow-necked mice, 5 bank voles, 1 striped field mouse) and of those animals, altogether "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 0 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(10/11) were positive for CNM and of those 5 in the blood (for 4 no blood was available). The positive "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { * }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". reticulatus were collected from 3 bank voles and all (3/3) of them were positive, also in blood. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                200,
+                904,
+                456
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Questing ticks "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                472,
+                606,
+                486
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A total of 539 I. ricinus from recreational areas in Leipzig, 128 I. ricinus from Bavaria and 115 I. ricinus from the Saarland were screened for the presence of CNM-DNA. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                488,
+                904,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Altogether, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 . 2 \\ \\mathrm { ~ - ~ } \\ 2 6 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "I. ricinus were positive for DNA of CNM. The range of infection rate is the minimal and maximal infection rate (MinIR, MaxIR), assuming that either only one or all of the nymphs in a pool were positive: 89/297 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 . 8 \\substack { - 3 5 . 5 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the females, 75/313 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 9 . 4 \\substack { - 2 9 . 1 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the males and 25-44/172 (19 individuals and 6 pools) of the "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                533,
+                904,
+                638
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5203d953a2dad29bb938af0750c566d0e1da4ad2467de8b57e7699bcffd3c32b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Infection rates with Candidatus Neoehrlichia mikurensis in questing Ixodes ricinus ticks from recreational areas in Bavaria, the Saarland and in and around the city of Leipzig, Saxony "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a cannot be exactly provided due to varying numbers (up to 5) of nymphs in the pools; The range of infection rate is the minimal and maximal infection rate (MinIR, MaxIR), assuming that either only one or all of the nymphs in a pool were positive. pos "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "text",
+                        "content": "positive. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Region</td><td></td><td colspan=\"3\">Female</td><td colspan=\"3\">Male</td><td colspan=\"3\">Nymph</td><td colspan=\"3\">Total</td></tr><tr><td></td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>(%)</td><td>Pos</td><td>Total</td><td>\\( (\\%)^a \\)</td><td>Pos</td><td>Total</td><td>\\( (\\%)^a \\)</td></tr><tr><td rowspan=\"7\">Leipzig</td><td></td><td>67</td><td>212</td><td>(31.6)</td><td>52</td><td>219</td><td>(23.7)</td><td>20-28</td><td>108</td><td>(18.5-25.9)</td><td>139-147</td><td>539</td><td>(25.8-27.3)</td></tr><tr><td>Site</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>E</td><td>7</td><td>45</td><td>(15.6)</td><td>8</td><td>56</td><td>(14.3)</td><td>3</td><td>6</td><td>(50)</td><td>18</td><td>107</td><td>(16.8)</td></tr><tr><td>F</td><td>2</td><td>6</td><td>(33.3)</td><td>1</td><td>4</td><td>(25.0)</td><td>1-5</td><td>10</td><td>(10-50)</td><td>4-9</td><td>20</td><td>(20.0-45.0)</td></tr><tr><td>G</td><td>0</td><td>6</td><td>(0)</td><td>0</td><td>2</td><td>(0)</td><td>0</td><td>13</td><td>(0)</td><td>0</td><td>21</td><td>(0)</td></tr><tr><td>H</td><td>35</td><td>74</td><td>(47.3)</td><td>18</td><td>53</td><td>(34.0)</td><td>10-14</td><td>45</td><td>(22.2-31.1)</td><td>63-67</td><td>172</td><td>(36.6-39.0)</td></tr><tr><td>I</td><td>23</td><td>81</td><td>(28.4)</td><td>25</td><td>104</td><td>(24.0)</td><td>6</td><td>34</td><td>(17.6)</td><td>54</td><td>219</td><td>(24.7)</td></tr><tr><td>Bavaria</td><td></td><td>5</td><td>42</td><td>(11.9)</td><td>5</td><td>58</td><td>(8.6)</td><td>1</td><td>28</td><td>(3.6)</td><td>11</td><td>128</td><td>(8.6)</td></tr><tr><td>Saarland</td><td></td><td>17</td><td>43</td><td>(39.5)</td><td>18</td><td>36</td><td>(50.0)</td><td>4-12</td><td>36</td><td>(11.1-33.3)</td><td>39-47</td><td>115</td><td>(33.9-40.1)</td></tr><tr><td>All regions</td><td></td><td>89</td><td>297</td><td>(29.7)</td><td>75</td><td>313</td><td>(24.0)</td><td>25-44</td><td>172</td><td>(14.5-25.6)</td><td>189-208</td><td>782</td><td>(24.2-26.6)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                679,
+                907,
+                891
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                41,
+                394,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 4 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                41,
+                904,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "nymphs (MinIR: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 6 { - } 2 4 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and MaxIR: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\% \\mathrm { C I }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 . 9 \\substack { - 3 7 . 3 \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") were positive. Details for the individual sites and regions are shown in Table 2. Comparing regions pairwise with a linear hypothesis, significantly fewer ticks were positive in Bavaria than in Leipzig "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { ( \\mathrm { p < 0 . 0 0 1 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), but in the Saarland, significantly more ticks were infected than in Leipzig "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { ( \\mathrm { p < 0 . 0 0 1 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Logistic regression models were used to assess the effects of sex/ developmental stage and site and sex/developmental stage and region, respectively. A pairwise comparison between the major collection sites in Leipzig (E, H, I) revealed statistically significant differences between sites E and H "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( \\mathrm { p { < } } 0 . 0 0 1 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and H and I "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\mathtt { p } = 0 . 0 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). There were no statistically significant differences between male and female ticks, but between females and nymphs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { ( \\mathrm { p < 0 . 0 0 1 } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and males and nymphs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\mathtt { p } = 0 . 0 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                109,
+                485,
+                350
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Co-infections "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                366,
+                183,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The animals, host-attached and questing ticks have been investigated for A. phagocytophilum, Babesia spp. and Rickettsia spp. (questing ticks only) in previous studies [24,25]. The following double infections with CNM were observed (for nymphs, only those investigated individually were considered for co-infections, resulting in a total of 101 nymphs): (i) with B. microti in 11 ticks (7 males, 4 females; 1 in the Saarland; 10 in Leipzig), (ii) with B. divergens in 2 ticks in Bavaria (1 male, 1 female), (iii) with Babesia sp. EU1 in 1 male tick in Leipzig, (iv) with A. phagocytophilum in 22 ticks (10 males, 10 females, 2 nymphs; 4 in Bavaria; 5 in the Saarland; 13 in Leipzig), (v) with R. helvetica in 16 ticks (10 males, 6 females; 7 in the Saarland; 9 in Leipzig), (vi) with Rickettsia spp. in one further female I. ricinus in the Saarland. Six ticks (5 males, 1 female) had a triple infection with CNM, A. phagocytophilum and R. helvetica (4 in the Saarland and 2 from Leipzig). The statistical analysis of co-infection taking into account both stage and sex of the tick as well as collection site, was performed for double infections with CNM (all coinfections in general, and CNM with Rickettsia spp., Babesia spp. and A. phagocytophilum, respectively). For the purpose of this analysis, triple infected ticks were counted as double infected with each of the pathogens. No statistically significant effects of stage and sex regarding co-infections of any type could be found. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                382,
+                485,
+                788
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                804,
+                174,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, we investigated small mammals, their ticks and questing I. ricinus for the occurrence of DNA of CNM in areas with sympatric I. ricinus and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { * }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". reticulatus populations. Rodents have been found to harbour CNM and this group of animals has thus been suggested as reservoir hosts [12-14,28-31]. The high infection rates of yellow-necked mice and bank voles in the present "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                820,
+                485,
+                925
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "study corroborate this hypothesis. DNA of CNM was also detected in a striped field mouse, but the number of animals "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( \\ n = 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") was too low to draw a conclusion from this finding. We found the highest percentage of infected animals in August, when the developmental stages of both I. ricinus and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { * }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". reticulatus are most active [4,32]. Rodents were still infected in October and November, but DNA was not detected in the animals in spring. Hence, it may be that the rodents cannot carry the infection over the winter. All the same, the number of animals caught in spring was low, and to prove this hypothesis, more systematic studies with a larger number of animals are needed. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                109,
+                904,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We compared different organs as material for detection of DNA of CNM in epidemiological studies. During experimental infection of rats, infection was not observed after 15 days in blood, spleen and liver, weak infection in the spleen after 30 days, and infection in all three sample types after 60 days. Histologically, the agent was recognized in the spleen sinus endothelial cells forming intracellular inclusions in the cytoplasm. Consequently, blood does not seem to be an ideal target material, because infection may be detectable only after more than 30 days, assuming the course of infection in mice is similar to the one observed in rats. Experimentally infected mice did not have detectable CNM-DNA in their spleen after 10 days [12]. Our finding that blood samples were negative when other organs were positive may therefore reflect different time points of infection [12], but further experimental infections of mice are lacking thus far. According to our own results and a comparison with experimental infection in the literature, we conclude that spleen and kidney are the best organ material for detection of DNA of CNM in epidemiological studies involving rodents. Skin seems unsuitable for the detection of DNA of CNM. At any rate, all results taken together strongly argue for a systemic course of infection [12,13], which is supported by observations in human patients. Fehr et al. [18] and von Loewenich et al. [20] detected DNA of CNM in peripheral blood samples of human patients. Peková et al. [19] were able to show the agent in patients’ granulocytes in transmission electron microscopy. In spite of this, the agent has as yet not been observed in blood smears. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                306,
+                904,
+                771
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In comparison to previous studies from other areas in Europe, the prevalence rates in the small rodents in the present study were high and similar to the initial investigations in Japan where 7 out of 15 wild caught Norway rats were infected [12]. In Sweden, between 4 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of rodents (bank voles, field voles (Microtus agrestis), wood mice (A. sylvaticus) and yellow-necked mice), but no shrews were infected. In different sites in Sweden the prevalence ranged from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[29]. The fact that blood was used in that study may account for the lower "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                775,
+                904,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                39,
+                396,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 5 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                836,
+                40,
+                905,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "prevalence compared to our study. In the Netherlands, spleens were investigated and prevalence was higher: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of wood mice, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of common voles, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of bank voles, but none of the two yellow-necked mice were infected. Shrews were not infected either [13]. Our findings strongly support the hypothesis that rodents may be competent reservoir hosts and that they may play an important role in the endemic cycle of CNM [29]. In line with the findings in Sweden and the Netherlands, we did not detect CNM in any insectivore species [13,29]. With a prevalence about twice as high as in questing ticks a reservoir function of the rodents seems highly likely at least for the season of the year when ticks are active. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                109,
+                489,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Altogether "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of host-attached I. ricinus ticks (larvae and nymphs) were positive, which is lower in comparison to questing ticks. When interpreting this result, it has to be taken into account that the questing ticks and the rodents and their ticks were from different years (2009: questing ticks; 2010/11: rodents and their ticks). Tick-host-pathogen cycles are influenced by a lot of factors, many of which are still largely unknown and may account for differences in prevalence rates at different time points. Variations have, for example, been shown in the prevalence over several years with A. phagocytophilum in ticks [33]. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                321,
+                489,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Previously investigated questing D. reticulatus collected from vegetation had no detectable DNA of CNM in them [13,34]. All positive developmental stages of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". reticulatus from the present study were from bank voles that were positive for CNM in the blood; therefore it may be assumed that the detection of CNM-DNA represents the blood meal. The same can be said for the I. ricinus larvae from the small mammals, as they were all engorged. It is not known yet whether transovarial transmission occurs, but 55 larval pools from questing larvae were negative [13]. Unfortunately, we did not have questing larvae available for the present study. It seems likely that CNM cannot be transmitted transovarially and experimental evidence for transstadial transmission is also lacking, thus, an experimental setting to uncover the epidemiological transmission cycle is needed. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                504,
+                489,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Average prevalences of CNM in questing I. ricinus or I. persulcatus ticks in several Eurasian countries range from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[9,13,14,22,23,35-42]. Thereby, the prevalence rates in I. ricinus seem to average around "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", whereas the prevalence in I. persulcatus seems to be lower, reaching up to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", but staying in general around or below "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[23,30,43]. Most previous studies used conventional PCR; sometimes combined with sequencing and/or hybridization with oligonucleotide probes for species identification. The increased sensitivity of realtime PCR used in the present and another study may also account for the increased detection rate of DNA of "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                745,
+                490,
+                925
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CNM in these studies [13,23]. In our investigated area, the rodents and ticks seem to provide a very efficient system for CNM to thrive on and to develop such high prevalence. Whether this persists over time needs further systematic and longitudinal investigations in both ticks and host species. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                109,
+                905,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Co-infections of CNM in ticks in our study with R. helvetica, A. phagocytophilum and B. microti may be explained by using the same (suggested) reservoir host animals [3,44,45]. No difference was found in prevalence between males and females in infection rates, which is in line with our findings [13]. Data from northern Italy found females significantly more often co-infected with more than one pathogen [36], whereas in our study, there was a tendency in the opposite direction comparing female ticks with male ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                200,
+                907,
+                351
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                366,
+                596,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The high prevalence of CNM in this study in metropolitan and recreational areas points towards the necessity for a larger scale surveillance of risk populations and/or humans after being bitten by ticks, in order to get a picture of the full scale public health impact. Especially among immunocompromised patients with fever of unknown origin this may be largely underdiagnosed. First and foremost, isolation of the pathogen should now be attempted in order to develop diagnostic tools such as specific serological tests and to study the transmission cycle and pathogenic properties of the agent in experimental and controlled settings. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                380,
+                907,
+                564
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Competing interests "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                573,
+                623,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors declare that they have no competing interests. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                583,
+                813,
+                596
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Authors’ contributions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                607,
+                635,
+                617
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CS and MP conceived the idea and design of the study. CS, DW and MP carried out field and laboratory work. MM performed the statistical analysis. CS analysed the data and wrote the manuscript. DW, MP and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { K P }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "critically revised the manuscript. All authors read and approved the final version of the manuscript. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                617,
+                895,
+                675
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                687,
+                613,
+                698
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors thank Claudia Thiel and Tim Tiedemann for excellent technical assistance. The help of Carolin Karnath and Claudia Freigang during rodent trapping is gratefully acknowledged. Publication of this article was sponsored by Bayer Animal Health. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                698,
+                905,
+                744
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Author details "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                755,
+                589,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Comparative Tropical Medicine and Parasitology, Ludwig-Maximilians-Universität München, Leopoldstr. 5, D-80802 Munich, Germany. 2 Institute of Animal Hygiene and Veterinary Public Health, University of Leipzig, Leipzig, Germany. 3 Statistical Consulting Unit, Department of Statistics, Ludwig-Maximilians-Universität München, Munich, Germany. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                766,
+                892,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 15 October 2012 Accepted: 2 December 2012 "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                844,
+                808,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published: 7 December 2012 "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                856,
+                665,
+                867
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                878,
+                571,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Goeijenbier M, Wagenaar J, Goris M, Martina B, Henttonen H, Vaheri A, Reusken C, Hartskeerl R, Osterhaus A, Van Gorp E: Rodent-borne hemorrhagic fevers: under-recognized, widely spread and preventable - "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                890,
+                899,
+                926
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                39,
+                396,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 6 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                836,
+                40,
+                907,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "epidemiology, diagnostics and treatment. Crit Rev Microbiol 2012, epub June 7th, 2012. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Bolzoni L, Rosà R, Cagnacci F, Rizzoli A: Effect of deer density on tick infestation of rodents and the hazard of tick-borne encephalitis. II: population and infection models. Int J Parasitol 2012, 42:373–381. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Karbowiak G: Zoonotic reservoir of Babesia microti in Poland. Pol J Microbiol 2004, 53(Suppl):61–65. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Hillyard PD: Ticks of North-West Europe. Dorchester: The Dorset Press; 1996. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Oliver JH, Lin T, Gao L, Clark KL, Banks CW, Durden LA, James AM, Chandler FW: An enzootic transmission cycle of Lyme borreliosis spirochetes in the southeastern United States. Proc Natl Acad Sci 2003, 100:11642–11645. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Bown KJ, Begon M, Bennett M, Birtles RJ, Burthe S, Lambin X, Telfer S, Woldehiwet Z, Ogden NH: Sympatric Ixodes trianguliceps and Ixodes ricinus ticks feeding on field voles (Microtus agrestis): potential for increased risk of Anaplasma phagocytophilum in the United Kingdom? Vector Borne Zoonotic Dis 2006, 6:404–410. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Bown KJ, Lambin X, Telford GR, Ogden NH, Telfer S, Woldehiwet Z, Birtles RJ: Relative importance of Ixodes ricinus and Ixodes trianguliceps as vectors for Anaplasma phagocytophilum and Babesia microti in field vole (Microtus agrestis) populations. Appl Environ Microbiol 2008, 74:7118–7125. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Randolph SE: Quantifying parameters in the transmission of Babesia microti by the tick Ixodes trianguliceps amongst voles (Clethrionomys glareolus). Parasitology 1995, 110(Pt 3):287–295. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Schouls LM, Van De Pol I, Rijpkema SG, Schot CS: Detection and identification of Ehrlichia, Borrelia burgdorferi sensu lato, and Bartonella species in Dutch Ixodes ricinus ticks. J Clin Microbiol 1999, 37:2215–2222. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. Pan HUA, Liu S, Ma Y, Tong S, Sun Y: Ehrlichia-like organism gene found in small mammals in the Suburban district of Guangzhou of China. Ann N Y Acad Sci 2003, 990:107–111. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Sanogo YO, Parola P, Shpynov S, Camicas JL, Brouqui P, Caruso G, Raoult D: Genetic diversity of bacterial agents detected in ticks removed from asymptomatic patients in northeastern Italy. Ann N Y Acad Sci 2003, 990:182–190. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Kawahara M, Rikihisa Y, Isogai E, Takahashi M, Misumi H, Suto C, Shibata S, Zhang C, Tsuji M: Ultrastructure and phylogenetic analysis of ‘Candidatus Neoehrlichia mikurensis' in the family Anaplasmataceae, isolated from wild rats and found in Ixodes ovatus ticks. Int J Syst Evol Microbiol 2004, 54:1837–1843. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. Jahfari S, Fonville M, Hengeveld P, Reusken C, Scholte EJ, Takken W, Heyman P, Medlock J, Heylen D, Kleve J, Sprong H: Prevalence of Neoehrlichia mikurensis in ticks and rodents from North-west Europe. Parasit Vectors 2012, 5:74. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Rar V, Golovljová I: Anaplasma, Ehrlichia, and \"Candidatus Neoehrlichia\" bacteria: pathogenicity, biodiversity, and molecular genetic characteristics, a review. Infect Genet Evol 2011, 11:1842–1861. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. Yabsley MJ, Murphy SM, Luttrell MP, Wilcox BR, Ruckdeschel C: Raccoons (Procyon lotor), but not rodents, are natural and experimental hosts for an ehrlichial organism related to “Candidatus Neoehrlichia mikurensis”. Vet Microbiol 2008, 131:301–308. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Munderloh UG, Yabsley MJ, Murphy SM, Luttrell MP, Howerth EW: Isolation and establishment of the raccoon Ehrlichia-like agent in tick cell culture. Vector Borne Zoonotic Dis 2007, 7:418–425. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. Diniz PP, Schulz BS, Hartmann K, Breitschwerdt EB: \"Candidatus Neoehrlichia mikurensis\" infection in a dog from Germany. J Clin Microbiol 2011, 49:2059–2062. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Fehr JS, Bloemberg GV, Ritter C, Hombach M, Luscher TF, Weber R, Keller PM: Septicemia caused by tick-borne bacterial pathogen Candidatus Neoehrlichia mikurensis. Emerg Infect Dis 2010, 16:1127–1129. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. Peková S, Vydra J, Kabicková H, Franková S, Haugvicova R, Mazal O, Cmejla R, Hardekopf DW, Jancuskova T, Kozak T: Candidatus Neoehrlichia mikurensis infection identified in 2 hematooncologic patients: benefit of molecular techniques for rare pathogen detection. Diagn Microbiol Infect Dis 2011, 69:266–270. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Von Loewenich FD, Geissdorfer W, Disque C, Matten J, Schett G, Sakka SG, Bogdan C: Detection of \"Candidatus Neoehrlichia mikurensis\" in two patients with severe febrile illnesses: evidence for a European sequence variant. J Clin Microbiol 2010, 48:2630–2635. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. Welinder-Olsson C, Kjellin E, Vaht K, Jacobsson S, Wenneras C: First case of human \"Candidatus Neoehrlichia mikurensis\" infection in a febrile "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                112,
+                487,
+                924
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "patient with chronic lymphocytic leukemia. J Clin Microbiol 2010, 48:1956–1959. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. Fertner ME, Molbak L, Boye Pihl TP, Fomsgaard A, Bodker R: First detection of tick-borne \"Candidatus Neoehrlichia mikurensis\" in Denmark 2011. Euro Surveill 2012, 17(8):pii=20096. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. Richter D, Matuschka FR: \"Candidatus Neoehrlichia mikurensis,\" Anaplasma phagocytophilum, and lyme disease spirochetes in questing european vector ticks and in feeding ticks removed from people. J Clin Microbiol 2012, 50:943–947. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. Silaghi C, Hamel D, Thiel C, Pfister K, Pfeffer M: Spotted fever group rickettsiae in ticks, Germany. Emerg Infect Dis 2011, 17:890–892. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. Silaghi C, Woll D, Hamel D, Pfister K, Mahling M, Pfeffer M: Babesia spp. and Anaplasma phagocytophilum in questing ticks, ticks parasitizing rodents and the parasitized rodents - Analyzing the host-pathogen-vector interface in a metropolitan area. Parasit Vectors 2012, 5:191. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. Team RDC: R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing; 2011. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. Hothorn T, Bretz F, Westfall P: Simultaneous inference in general parametric models. Biom J 2008, 50:346–363. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. Beninati T, Piccolo G, Rizzoli A, Genchi C, Bandi C: Anaplasmataceae in wild rodents and roe deer from Trento Province (northern Italy). EurJ Clin Microbiol Infect Dis 2006, 25:677–678. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. Andersson M, Raberg L: Wild rodents and novel human pathogen Candidatus Neoehrlichia mikurensis, Southern Sweden. Emerg Infect Dis 2011, 17:1716–1718. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. Rar VA, Livanová NN, Panov VV, Doroschenko EK, Pukhovskaya NM, Vysochina NP, Ivanov LI: Genetic diversity of Anaplasma and Ehrlichia in the Asian part of Russia. Ticks Tick Borne Dis 2010, 1:57–65. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "31. Pan L, Zhang L, Wang G, Liu Q, Yu Y, Wang S, Yu H, He J: Rapid, simple, and sensitive detection of Anaplasma phagocytophilum by loopmediated isothermal amplification of the msp2 gene. J Clin Microbiol 2011, 49:4117–4120. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "32. Arthur DR: Ticks - A monograph of the Ixodoidea. London, UK: Cambridge University Press; 1960. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "33. Grzeszczuk A, Stanczak J: Highly variable year-to-year prevalence of Anaplasma phagocytophilum in Ixodes ricinus ticks in northeastern Poland: a 4-year follow-up. Ann N Y Acad Sci 2006, 1078:309–311. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "34. Richter D, Kohn C, Matuschka FR: Absence of Borrelia spp., Candidatus Neoehrlichia mikurensis, and Anaplasma phagocytophilum in questing adult Dermacentor reticulatus ticks. Parasitol Res 2012, epub 8 Sep. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "35. van Overbeek L, Gassner F, van der Plas CL, Kastelein P, Nunes-da Rocha U, Takken W: Diversity of Ixodes ricinus tick-associated bacterial communities from different forests. FEMS Microbiol Ecol 2008, 66:72–84. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "36. Capelli G, Ravagnan S, Montarsi F, Ciocchetta S, Cazzin S, Porcellato E, Babiker AM, Cassini R, Salviato A, Cattoli G, Otranto D: Occurrence and identification of risk areas of Ixodes ricinus-borne pathogens: a costeffectiveness analysis in north-eastern Italy. Parasit Vectors 2012, 5:61. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "37. Lommano E, Bertaiola L, Dupasquier C, Gern L: Infections and co-infections of questing Ixodes ricinus ticks by emerging zoonotic pathogens in Western Switzerland. Appl Environ Microbiol 2012, epub 24 Apr. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "38. Alekseev AN, Dubinina HV, Van De Pol I, Schouls LM: Identification of Ehrlichia spp. and Borrelia burgdorferi in Ixodes ticks in the Baltic regions of Russia. J Clin Microbiol 2001, 39:2237–2242. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "39. Von Loewenich FD, Baumgarten BU, Schröppel K, Geissdörfer W, Röllinghoff M, Bogdan C: High diversity of ankA sequences of Anaplasma phagocytophilum among Ixodes ricinus ticks in Germany. J Clin Microbiol 2003, 41:5033–5040. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "40. Wielinga PR, Gaasenbeek C, Fonville M, de Boer A, de Vries A, Dimmers W, Akkerhuis Op Jagers G, Schouls LM, Borgsteede F, van der Giessen JW: Longitudinal analysis of tick densities and Borrelia, Anaplasma, and Ehrlichia infections of Ixodes ricinus ticks in different habitat areas in The Netherlands. Appl Environ Microbiol 2006, 72:7594–7601. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "41. Špitalská E, Boldis V, Kostanová Z, Kocianová E, Stefanidesová K: Incidence of various tick-borne microorganisms in rodents and ticks of central Slovakia. Acta Virol 2008, 52:175–179. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "42. Rar VA, Fomenko NV, Dobrotvorsky AK, Livanova NN, Rudakova SA, Fedorov EG, Astanin VB, Morozova OV: Tickborne pathogen detection, Western Siberia, Russia. Emerg Infect Dis 2005, 11:1708–1715. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "43. Shpynov S, Fournier P-E, Rudakov N, Tarasevich I, Raoult D: Detection of members of the genera rickettsia, anaplasma, and ehrlichia in ticks "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                112,
+                902,
+                924
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                40,
+                339,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                52,
+                396,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 7 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                836,
+                40,
+                905,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "collected in the asiatic part of Russia. Ann N Y Acad Sci 2006, 1078:378–383. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "44. Schex S, Dobler G, Riehm J, Müller J, Essbauer S: Rickettsia spp. in wild small mammals in Lower Bavaria, South-Eastern Germany. Vector Borne Zoonotic Dis 2011, 11:493–502. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "45. Woldehiwet Z: The natural history of Anaplasma phagocytophilum. Vet Parasitolol 2010, 167:108–122. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                112,
+                475,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "doi:10.1186/1756-3305-5-285 "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                204,
+                253,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cite this article as: Silaghi et al.: Candidatus Neoehrlichia mikurensis in rodents in an area with sympatric existence of the hard ticks Ixodes ricinus and Dermacentor reticulatus, Germany. Parasites & Vectors 2012 5:285. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                215,
+                467,
+                258
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Submit your next manuscript to BioMed Central and take full advantage of: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                537,
+                762,
+                878,
+                791
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Convenient online submission "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Thorough peer review "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• No space constraints or color figure charges "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Immediate publication on acceptance "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Inclusion in PubMed, CAS, Scopus and Google Scholar "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Research which is freely available for redistribution "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                805,
+                838,
+                894
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Silaghi et al. Parasites & Vectors 2012, 5:285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                40,
+                339,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "http://www.parasitesandvectors.com/content/5/1/285 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                52,
+                396,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 8 of 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                836,
+                40,
+                905,
+                52
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Submit your manuscript at "
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                911,
+                675,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.biomedcentral.com/submit "
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                921,
+                702,
+                930
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "0 "
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                911,
+                786,
+                930
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BioMed Central "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                914,
+                880,
+                926
+            ]
+        }
+    ]
+]

@@ -1,0 +1,3308 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Original article "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                182,
+                171,
+                197
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Diversity and prevalence of spotted-fever group rickettsiae in ixodid ticks across Slovakia, Central Europe "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                206,
+                806,
+                249
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5aa3357effaccc6ce1aee86317a1f7df244a6267ee789372a1c3ec7e5104fa18.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                838,
+                185,
+                889,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ivana Heglasova´ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { a } } , ^ { * } \\oplus"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Bronislava Víchova´ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { b } _ { \\oplus }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Michal Stanko b,c "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                261,
+                578,
+                279
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a Department of Biology and Environmental Studies, Faculty of Natural Sciences, Matej Bel University, Tajovsk´eho 40, 974 01 Banska ´ Bystrica, Slovakia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "b Institute of Parasitology, Slovak Academy of Sciences, Hlinkova 3, 040 01 Koˇsice, Slovakia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "c Institute of Zoology, Slovak Academy of Sciences, Dúbravska ´ cesta 9, 845 06 Bratislava, Slovakia "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                286,
+                756,
+                320
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A R T I C L E I N F O "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                349,
+                194,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                374,
+                109,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                385,
+                87,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                395,
+                139,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsiae "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                407,
+                115,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GltA "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                418,
+                84,
+                427
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                428,
+                102,
+                438
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "A B S T R A C T "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                334,
+                349,
+                435,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Habitats with the sympatric occurrence of several ixodid tick species are significant from an epidemiological perspective. These habitats can influence the diversity and prevalence of tick-borne pathogens, and their monitoring can help estimate the risk of infection. A total of 1260 questing ticks from five species (Ixodes ricinus, Dermacentor marginatus, Dermacentor reticulatus, Haemaphysalis concinna, and Haemaphysalis inermis) were collected from vegetation using the flagging method in three different habitats in eastern Slovakia. Additionally, 900 rodent-attached ticks of six species (I. ricinus, Ixodes trianguliceps, D. marginatus, D. reticulatus, H. concinna, and H. inermis) collected from 149 small mammals belonging to seven species (Apodemus flavicollis, Apodemus agrarius, Microtus arvalis, Myodes glareolus, Micromys minutus, Crocidura leucodon, and Crocidura suaveolens) were selected for molecular analyses. DNA obtained from rodent-attached and questing ticks was tested by nested PCR targeting the gltA gene to determine the presence of Rickettsia spp. The ompA, ompB, and sca4 genes were amplified and sequenced to identify rickettsiae species. The overall prevalence of rickettsiae in questing and rodent-attached ticks was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. Overall studied localities, the most diverse spectrum of rickettsiae species, including R. helvetica, R. monacensis, R. raoultii, and R. slovaca, was recorded in questing and rodent-attached ticks in the natural habitat of the Slovak Karst. The dominant species, R. helvetica "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 2 . 9 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", was identified in two species of questing and rodent-attached ticks, specifically I. ricinus and H. concinna, and in rodent-attached D. reticulatus ticks. Rickettsia raoultii "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 0 . 4 ~ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was identified in questing and rodent-attached D. marginatus, D. reticulatus, and in questing H. concinna. Additionally, this study provides the first input of pathogenic R. raoultii in I. trianguliceps obtained from the striped field mouse (A. agrarius). Rickettsia monacensis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 . 0 ~ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was detected in questing and rodent-attached I. ricinus, while Rickettsia slovaca "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( 3 . 6 ~ \\% \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") was found in questing and rodent-attached D. marginatus ticks. Natural biotopes with different tick species and hosts significantly affect the diversity and prevalence of rickettsiae. "
+                    }
+                ]
+            },
+            "bbox": [
+                332,
+                374,
+                939,
+                627
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                664,
+                164,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsiae are a diverse group of obligate intracellular bacteria, characterized by small genomes and a gram-negative cell wall structure. Rickettsiae from the spotted fever group (SFG) are often transmitted through arthropod vectors and can cause various human infections. Although primarily detected in ticks, they can also be found in fleas and mites (Raoult and Roux, 1997; Abdad et al., 2011; Portillo et al., 2017; Adem, 2019; Heglasova ´ et al., 2020a). Some species, such as R. helvetica and R. felis, are identified in a broad spectrum of arthropods. However, the primary vectors of R. helvetica and R. felis are I. ricinus ticks and "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                689,
+                485,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ctenocephalides felis fleas, respectively (Abdad et al., 2011; Heglasova´ et al., 2020a). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                664,
+                937,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsial diseases are typically zoonotic, affecting both animals and humans, with mammals occasionally serving as reservoir hosts for the pathogens. In particular, small mammals are important hosts for the immature stages of ixodid ticks and may contribute to the maintenance and circulation of rickettsiae in enzootic cycles. Several members of the genus Rickettsia are responsible for significant human diseases. These infections may manifest with a broad spectrum of clinical symptoms, ranging from mild febrile illness to severe, life-threatening multisystem involvement. The global burden of these diseases is often "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                691,
+                937,
+                810
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                42,
+                631,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ELSEVIER "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                74,
+                164,
+                163
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents lists available at ScienceDirect "
+                    }
+                ]
+            },
+            "bbox": [
+                379,
+                75,
+                621,
+                88
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases "
+                    }
+                ]
+            },
+            "bbox": [
+                339,
+                105,
+                660,
+                124
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "journal homepage: www.elsevier.com/locate/ttbdis "
+                    }
+                ]
+            },
+            "bbox": [
+                334,
+                145,
+                665,
+                160
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "TICKS and MTICK-BORNE M DISEASES "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                66,
+                937,
+                160
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Corresponding author. "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                843,
+                203,
+                854
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail addresses: ivana.heglasova@umb.sk (I. Heglasov´a), vichova@saske.sk (B. Víchova), ´ stankom@saske.sk (M. Stanko). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                856,
+                739,
+                867
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.1016/j.ttbdis.2025.102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                876,
+                309,
+                887
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 9 September 2024; Received in revised form 6 May 2025; Accepted 12 May 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                889,
+                557,
+                901
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Available online 23 May 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                902,
+                225,
+                912
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "1877-959X/© 2025 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                912,
+                937,
+                925
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "underestimated due to misdiagnosis, as symptoms can mimic other febrile illnesses. However, rickettsial diseases are an important public health concern, particularly in areas where vector populations are expanding. In Slovakia, R. slovaca, R. raoultii, R. monacensis, R. helvetica, and R. felis have been identified in arthropods and hosts (e.g., small mammals) using various molecular methods (Boldiˇs et al., 2008; Sekeyova ´ et al., 2013; Spitalsk ˇ a ´ et al., 2015; Minichova ´ et al., 2017; Heglasov´a et al., 2018). Additionally, cases of human rickettsiosis have been confirmed in the region (Mittermayer et al., 1980; Kova´ˇcova ´ et al., 2006; Zubrikova ´ et al., 2022). "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                65,
+                485,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ixodes ricinus is the most common and widely distributed tick species in Slovakia (Hanincov´a et al., 2003; Derdakov´ a ´ et al., 2014; Svehlovˇ a´ et al., 2014; Stanko et al., 2022). It is a recognized vector of multiple infectious agents, including tick-borne encephalitis virus (TBEV), Borrelia spp., Rickettsia spp., Anaplasma spp., and Babesia spp. Dermacentor spp. are vectors of a wide range of pathogens, such as viruses, bacteria (e.g., Rickettsia spp., Anaplasma sp., Francisella tularensis), and parasites of the genus Babesia (Nosek, 1972; Sekeyova ´ et al., 1998; Zivkovic et al., 2007; Spitalskˇ ´a et al., 2012; Garcia-Vozmediano et al., 2020; Boldiˇs et al., 2008; Foldv¨ ari ´ et al., 2013; Jongejan et al., 2015, 2016). In the study by Heglasov´a et al. (2018), R. slovaca was detected in wild rodents but only in habitats with the sympatric occurrence of D. marginatus and D. reticulatus ticks. Dermacentor spp. are known vectors of R. raoultii and R. slovaca. The presence of R. slovaca is expected, especially in sites with Dermacentor spp. ticks. These tick species prefer inundated forests and forest-steppe areas in southwestern and southeastern Slovakia (Cerný,ˇ 1972; Nosek, 1972; Stanko et al., 2022). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                197,
+                487,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Haemaphysalis concinna, H. punctata, and H. inermis are mostly found in the southern and central parts of the country (Stanko et al., 2022). Haemaphysalis inermis ticks are considered potential vectors of different bacterial pathogens, such as R. helvetica, R. raoultii, and Borrelia miyamotoi (Hornok et al., 2010; Heglasova ´ et al., 2020b; Ouarti et al., 2022). In H. concinna, members of the genera Babesia, Theileria, Borrelia, and Rickettsia, as well as Anaplasma phagocytophilum, have been detected (Hamˇsíkova ´ et al., 2016; Kazimírova ´ et al., 2018; Dwuznik-Szarek ˙ et al., 2021). However, the vector competence of Haemaphysalis tick species to transmit Rickettsia spp. remains unknown (Minichova ´ et al., 2017; Ouarti et al., 2022). "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                422,
+                485,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the present study, we aimed to evaluate the presence and diversity of rickettsiae in a wide spectrum of questing and host-attached ticks collected from different habitat types over three years. Long-term monitoring can help increase awareness, especially in areas with a high incidence of infected ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                566,
+                485,
+                631
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Materials and methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                646,
+                231,
+                658
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1. Tick sampling "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                673,
+                173,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Questing and rodent-attached ticks were collected from three sampling sites in eastern Slovakia during 2014–2016. The first site represents an urban habitat, specifically a botanical garden with deciduous forest vegetation, located in the center of Koˇsice "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 0 8 ~ \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "a.s.l.; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 8 ^ { \\circ } 4 4 ^ { \\prime } 4 6 . 8 4 ^ { \\prime \\prime } \\mathrm { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 ^ { \\circ } 1 4 ^ { \\prime } 1 6 . 1 4 ^ { \\prime \\prime } \\mathrm { ~ E ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The second site, Cerme ˇ ľ Valley, is characterized by mixed forest vegetation, predominantly beech, hornbeam, and spruce (220–410 m a.s.l.; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 8 ^ { \\circ } 4 5 ^ { \\prime } 4 6 . 6 7 ^ { \\prime \\prime } \\mathrm { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 ^ { \\circ } 8 ^ { \\prime } 8 . 1 7 ^ { \\prime \\prime } \\mathrm { E } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), representing a suburban habitat. The third site, located in the Slovak Karst National Park near the village of Hrhov (200–220 m a.s.l.; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 8 ^ { \\circ } 3 4 ^ { \\prime } 5 3 . 9 ^ { \\prime \\prime } \\mathrm { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 ^ { \\circ } 4 6 ^ { \\prime } 4 4 . 4 ^ { \\prime \\prime } \\mathrm { E } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), features mixed forest vegetation with a predominance of beech, oak, and hornbeam and represents a natural habitat. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                699,
+                485,
+                843
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Questing ticks were collected along small mammal-trapping transects by flagging a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 ~ \\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "white wool blanket over the vegetation for one hour during May–July and September–October in the years 2014 to 2016. Trapped rodents and rodent-attached ticks were collected at the same three study sites in eastern Slovakia as the questing ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                844,
+                485,
+                910
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Live trapping of small mammals was conducted in May–June and September–October from 2014 to 2016. Rodent sampling methods and "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                910,
+                485,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "results were described in detail by Heglasov´a et al. (2018). The captured small mammals were euthanized according to licenses from the Ministry of Environment of the Slovak Republic (No. 4874/2011–2.2 and No 4559/2015–2.3). The rodents and insectivores were identified to species level based on morphological characteristics (e.g., body size, tail, ears, legs), using standard identification keys by Pelik´an et al. (1979), Sl´adek and Moˇsanský (1985), and Andˇera and Hora´ˇcek (2005). In addition, sex and age class (juvenile, subadult, adult) were recorded for each individual. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                65,
+                937,
+                182
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Each small mammal was checked for the presence of ticks. All collected ticks were stored in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol until identification. The species and developmental stages of the ticks were determined based on morphological characteristics under a light microscope using the identification keys by Filippova (1977), Slovak ´ (2014), and Estrada-Pena ˜ et al. (2017). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                184,
+                937,
+                263
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2. DNA extraction and molecular analyses "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                277,
+                769,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The ticks were washed with sterile water, air-dried, transferred to individual tubes, and crushed with a sterile scalpel. The genomic DNA of questing I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\left( n = 1 1 6 4 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was extracted from each tick individually using alkaline hydrolysis (Rijpkema et al., 1996). Total DNA from rodent-attached I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 6 1 9 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and other species of rodent-attached and questing I. trianguliceps "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n ~ = ~ 2 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), D. marginatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n ~ = ~ 1 3 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), D. reticulatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 9 9 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "), H. concinna "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 9 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and H. inermis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( n = 3 0 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") was extracted from each tick individually using the DNeasy Blood & Tissue Kit (Qiagen®, Germany) according to the manufacturer’s instructions. All DNA samples were stored at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 2 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for further processing. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                303,
+                937,
+                433
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subsequently, all DNA samples were screened for the presence of Rickettsia spp. by nested PCR amplification of a fragment of the citrate synthase gene (gltA), using the genus-specific primers "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { R p C S . 8 7 7 p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and RpCS.1258n (Regnery et al., 1991) and the inner primer pair "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { R p C S } . 8 9 6 \\mathrm { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and RpCS.1233n (Choi et al., 2005), resulting in a 337-bp PCR product. To further characterize Rickettsia species, selected gltA-positive amplicons were analyzed for the presence of fragments of the gene loci (ompA, ompB, and sca4) encoding outer membrane proteins A, B, and surface cell antigen 4, as previously described (Regnery et al., 1991; Roux et al., 1996; Roux and Raoult, 2000; Sekeyova ´ et al., 2001), with primers RR190.70F, RR190.701R, 120–2788, 120–3599, and D1390r, D767f, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                435,
+                937,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia helvetica, R. monacensis, R. raoultii, and R. slovaca were identified by the amplification of the gltA, ompA, ompB, and sca4 genes followed by sequencing (Roux et al., 1996; Roux and Raoult, 2000; Sekeyov´a et al., 2001; Portillo et al., 2017). For each PCR, a sample with DNA from previously sequenced Rickettsia spp. was used as a positive control, and nuclease-free water was used as a negative control. Several randomly chosen PCR-positive samples from questing and rodent-attached ticks were purified using the Isolate II PCR and Gel Kit (Bioline) and sequenced (Sanger sequencing, dye terminator method) in both directions using the same primers as for the PCR amplification at the University of Veterinary Medicine and Pharmacy in Koˇsice, Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                593,
+                937,
+                738
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3. Accession numbers of obtained nucleotide sequences "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                752,
+                838,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nucleotide sequences of the 337 bp fragments of the gltA gene obtained in this study from questing and rodent-attached ticks were submitted to the GenBank database under the following accession numbers respectively: R. helvetica MK792533-MK792584, R. monacensis MK792585-MK792594, R. raoultii MK792595-MK792604, R. slovaca MK792605 and R. helvetica MK875680-MK875725, R. monacensis MK875726-MK875734, R. raoultii MK875735-MK875757, R. slovaca MK875758-MK875762. Additionally, fragments of ompB gene: R. monacensis PQ644884-PQ644886, PQ644895; R. slovaca PQ644888; R. raoultii PQ644887; ompA gene: R. monacensis PQ644894; R. slovaca; and sca4 gene: R. monacensis PQ644890-PQ644892; R. raoulti PQ644893. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                778,
+                937,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Heglasova ´ et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                144,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                42,
+                939,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                950,
+                504,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.4. Statistical analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                65,
+                198,
+                79
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The differences in the prevalence of rickettsial infection for ticks from vegetation and rodent-attached ticks between habitats were tested with the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\chi 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and Fisher’s exact test. GraphPad Prism, version 8.1.0 for Windows (GraphPad Software, San Diego, California, USA, www.gra phpad.com) was used for statistical analysis. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                90,
+                485,
+                158
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                170,
+                132,
+                182
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1. Ticks and small mammals collection "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                197,
+                299,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A total of 1260 questing ticks from five species (I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( n = 1 1 6 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", D. marginatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), D. reticulatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), H. concinna "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 4 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and H. inermis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 2 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") were collected by flagging vegetation during spring and summer (May/June/July) as well as autumn (September/October) of 2014–2016 (Table 1). Additionally, 250 small mammals representing 11 species (Apodemus agrarius, Apodemus flavicollis, Apodemus uralensis, Myodes glareolus, Crocidura leucodon, Crocidura suaveolens, Micromys minutus, Microtus arvalis, Microtus subterraneus, Neomys fodiens, and Sorex minutus) were captured in natural, suburban, and urban habitats in eastern Slovakia. Of the 250 trapped small mammals, 149 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 9 . 6 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") were infested with ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                223,
+                485,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Totally, 1102 ixodid ticks (920 larvae and 182 nymphs) were collected from small mammals. Of these, 900 ticks (868 larvae and 32 nymphs) representing six species (I. ricinus, I. trianguliceps, D. marginatus, D. reticulatus, H. concinna, and H. inermis) were further processed for molecular analysis in the present study (Table 2). Small mammals were examined in the previous study by Heglasova ´ et al. (2018). The selected rodent-attached ticks were dominated by I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 8 . 8 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", comprising 594 larvae and 25 nymphs. This was followed by D. marginatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 3 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 119 larvae), D. reticulatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 . 7 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 87 larvae), H. concinna "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 . 3 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 48 larvae), I. trianguliceps "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 18 larvae and 6 nymphs), and H. inermis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 2 larvae and 1 nymph). "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                368,
+                485,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Of the captured small mammals, 27 were rickettsia-positive (Heglasov´a et al., 2018). Six individuals of the three species of rickettsia-positive rodents (M. glareolus, A. flavicolis, and A. agrarius) from suburban and natural habitats carried rickettsia-positive ticks. Rickettsia helvetica was identified in the larva of I. ricinus from Rickettsia sp.-positive M. glareolus from the suburban area - Cermeˇ ľ. We also detected pathogenic R. raoultii in the larva of I. trianguliceps obtained from a Rickettsia-negative striped field mouse (A. agrarius) captured in Cermeˇ ľ. Other Rickettsia spp. from rodent-attached ticks collected from rickettsia-positive rodents could not be identified species level due to the low concentration of DNA. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                514,
+                485,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The highest diversity of questing tick species was recorded in the sylvatic/natural habitat (I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 4 2 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), D. marginatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", D. reticulatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), H. concinna "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n = 4 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and H. inermis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( n = 2 7 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). In this habitat, 116 small mammals of seven species (A. agrarius, A. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                659,
+                485,
+                712
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "flavicollis, A. uralensis, M. glareolus, C. leucodon, M. arvalis, S. minutus) were captured, and six species of rodent-attached ticks (I. ricinus, I. trianguliceps, D. marginatus, D. reticulatus, H. concinna, H. inermis) were collected. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                65,
+                937,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the suburban habitat, only I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 5 4 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") was recorded on vegetation. A total of 126 small mammals of six species (A. agrarius, A. flavicollis, M. glareolus, M. minutus, M. subterraneus, N. fodiens) were captured, and two tick species (I. ricinus, I. trianguliceps) were collected from the animal hosts. In the urban habitat, questing I. ricinus dominated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 9 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Eight rodents of three species (A. agrarius, A. flavicollis, and C. suaveolens) were captured in this habitat, but only one tick species (I. ricinus) was found on the animals. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                118,
+                937,
+                224
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2. The presence of SFG rickettsia spp. in questing and rodent-attached ticks "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                240,
+                927,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All 1260 questing ticks were individually analyzed for the presence of SFG Rickettsia spp. The overall prevalence of rickettsiae in ticks from vegetation was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 ~ \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 5 8 / 1 2 6 0 ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). DNA of Rickettsia spp. was detected in all developmental stages of four ixodid tick species from all study sites (Table 1). Haemaphysalis inermis ticks only the adult tested negative for the presence of rickettsiae. The overall prevalence of rickettsial infection was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 . 5 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the natural habitat, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 3 . 3 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the urban habitat, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 4 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the suburban habitat (Table 1), with no significant differences noted "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\chi ^ { 2 } = 4 . 0 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { d } \\mathbf { f } = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p = 0 . 1 3 3 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                279,
+                937,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A total of 900 randomly chosen rodent-attached ticks were individually screened for the presence of Rickettsia spp. Rickettsial DNA was detected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 . 0 ~ \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 8 0 / 9 0 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of the ticks collected from rodents. The prevalence of rickettsial infection was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the natural habitat and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 3 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the suburban habitat (Table 2). The prevalence of rickettsiae was not calculated for rodent-attached ticks from the Botanical Garden sampling site due to the low number of ticks tested "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 6 / 2 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). A significant difference was confirmed between the natural and suburban habitats (Fisher’s exact test, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "p = 0 . 0 0 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; the urban habitat was not included in the test because the overall number of ticks was too small. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                399,
+                937,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Out of a total of 338 Rickettsia spp. gltA PCR-positive DNA samples obtained from rodent-attached and questing ticks, more than half "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "181), were selected for sequencing. This subset "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 8 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") included representatives of each tick species and developmental stage that tested positive for Rickettsia, selected from all study localities. A total of 168 nucleotide sequences were successfully obtained. Based on the sequencing of four genetic markers (gltA, ompA, ompB, and sca4), we confirmed the presence of R. helvetica "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in I. ricinus, H. concinna, and D. reticulatus. Additionally, R. raoultii was confirmed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 3 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in D. reticulatus, D. marginatus, H. concinna, and I. trianguliceps; R. monacensis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 6 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in I. ricinus; R. slovaca "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 6 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in D. marginatus; and Rickettsia sp. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 7 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in I. ricinus and H. inermis ticks (Tables 3 and 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                530,
+                937,
+                688
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BLAST analysis of the gltA and sca4 gene fragments of questing and rodent-attached ixodid ticks showed the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 . 1 \\mathrm { - } 1 0 0 \\mathrm { ~ \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity with the "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                689,
+                937,
+                715
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bc4777a52b95964a3f9b669171c1905cb89d1992f0e7db36cd22565a26a76b86.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Prevalencea of Rickettsia spp. in questing ticks in three habitat types in Slovakia. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "No. of Rickettsia-positive/no. of tested ticks. "
+                    }
+                ],
+                "html": "<table><tr><td>Habitat /tick stage</td><td colspan=\"2\">I. ricinus</td><td colspan=\"2\">D. reticulatus</td><td colspan=\"2\">D. marginatus</td><td colspan=\"2\">H. concinna</td><td colspan=\"2\">H. inermis</td><td>Total</td></tr><tr><td rowspan=\"4\">Slovak Karst (Natural)</td><td>M</td><td>10/67</td><td>M</td><td>1/7</td><td>M</td><td>4/4</td><td>M</td><td>0/3</td><td>M</td><td>0/10</td><td rowspan=\"4\">75/519 (14.5 %)\\( ^a \\)</td></tr><tr><td>F</td><td>8/44</td><td>F</td><td>1/5</td><td>F</td><td>4/8</td><td>F</td><td>0/2</td><td>F</td><td>0/17</td></tr><tr><td>N</td><td>37/245</td><td>N</td><td>0</td><td>N</td><td>0</td><td>N</td><td>0/10</td><td>N</td><td>0</td></tr><tr><td>L</td><td>5/67</td><td>L</td><td>0</td><td>L</td><td>0</td><td>L</td><td>5/30</td><td>L</td><td>0</td></tr><tr><td rowspan=\"4\">Čermel (Suburban)</td><td>M</td><td>8/62</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"4\">57/546 (10.4 %)</td></tr><tr><td>F</td><td>15/92</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td>34/383</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>L</td><td>0/9</td><td>-</td><td></td><td>-</td><td></td><td>-</td><td></td><td>-</td><td></td></tr><tr><td rowspan=\"4\">Botanical garden (Urban)</td><td>M</td><td>6/22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"4\">26/195 (13.3 %)</td></tr><tr><td>F</td><td>2/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td>13/106</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>L</td><td>5/54</td><td>-</td><td></td><td>-</td><td></td><td>-</td><td></td><td>-</td><td></td></tr><tr><td>Total</td><td></td><td>143/1164</td><td></td><td>2/12</td><td></td><td>8/12</td><td></td><td>5/45</td><td></td><td>0/27</td><td>158/1260 (12.5 %)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                58,
+                756,
+                937,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Heglasova ´ et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                144,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                42,
+                937,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                952,
+                504,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/947603267f3c01a7f329d7a647f6aee90b0670392f07e841bb29baf07a8f9c5d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Prevalencea of Rickettsia spp. in rodent-attached juvenile ticks in three habitat types in Slovakia. "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "No. of Rickettsia-positive/no. of tested tick. "
+                    }
+                ],
+                "html": "<table><tr><td>Habitat /tick stage</td><td colspan=\"2\">I. ricinus</td><td colspan=\"2\">I. trianguliceps</td><td>D. reticulatus</td><td>D. marginatus</td><td>H. concinna</td><td>H. inermis</td><td>Total</td></tr><tr><td rowspan=\"2\">Slovak Karst (Natural)</td><td>N</td><td>5/20</td><td>N</td><td>0/2</td><td>N -</td><td>N -</td><td>N -</td><td>N 1/1</td><td>158/736 (21.5 %)a</td></tr><tr><td>L</td><td>84/441</td><td>L</td><td>0/16</td><td>L 20/87</td><td>L 46/119</td><td>L 1/48</td><td>L 1/2</td><td></td></tr><tr><td rowspan=\"2\">Čermel (Suburban)</td><td>N</td><td>0/5</td><td>N</td><td>0/4</td><td></td><td></td><td></td><td></td><td>16/142 (11.3 %)</td></tr><tr><td>L</td><td>15/131</td><td>L</td><td>1/2</td><td>-</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td rowspan=\"2\">Botanical garden (Urban)</td><td>N</td><td>0/0</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6/22</td></tr><tr><td>L</td><td>6/22</td><td>-</td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td>Total</td><td></td><td>110/619</td><td></td><td>1/24</td><td>20/87</td><td>46/119</td><td>1/48</td><td>2/3</td><td>180/900 (20.0 %)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                58,
+                92,
+                937,
+                192
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7c10af1c7501ac6801cfb43f01b92f8b122d271c5209744fb3e2075ffb5bcef5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3 Rickettsia spp. in questing ticks. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Ticks</td><td>No. of Rickettsia-positive ticks/no. of tested ticks</td><td>Rickettsia spp.</td></tr><tr><td rowspan=\"3\">Ixodes ricinus</td><td rowspan=\"3\">143/1164</td><td>R. helvetica (n = 56)</td></tr><tr><td>R. monocensis (n = 6)</td></tr><tr><td>Rickettsiasp. (n = 2)</td></tr><tr><td>Dermacentor reticulatus</td><td>2/12</td><td>R. raoultii (n = 2)</td></tr><tr><td rowspan=\"2\">Dermacentor marginatus</td><td rowspan=\"2\">8/12</td><td>R. slovaca (n = 1)</td></tr><tr><td>R. raoultii (n = 6)</td></tr><tr><td rowspan=\"2\">Haemaphysalis concinna</td><td rowspan=\"2\">5/45</td><td>R. raoultii (n = 3)</td></tr><tr><td>R. helvetica (n = 1)</td></tr><tr><td>Haemaphysalis inermis</td><td>0/27</td><td>-</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                58,
+                257,
+                485,
+                443
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0997210b6888d0beef3f45e613349dc20d23e5239c70e658f229359f3397863c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4 Rickettsia spp. in ticks from small mammals. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Ticks</td><td>No. of Rickettsia-positive ticks/no. of tested ticks</td><td>Rickettsia spp.</td></tr><tr><td>Ixodes ricinus</td><td>110/619</td><td>R. helvetica (n = 46)R. monacensis (n = 10)Rickettsia sp. (n = 3)</td></tr><tr><td>Ixodes trianguliceps</td><td>1/24</td><td>R. raoultii (n = 1)</td></tr><tr><td>Dermacentor reticulatus</td><td>20/87</td><td>R. raoultii (n = 12)R. helvetica (n = 1)</td></tr><tr><td>Dermacentor marginatus</td><td>46/119</td><td>R. raoultii (n = 10)R. slovaca (n = 5)</td></tr><tr><td>Haemaphysalis concinna</td><td>1/48</td><td>R. helvetica (n = 1)</td></tr><tr><td>Haemaphysalis inermis</td><td>2/3</td><td>Rickettsia sp. (n = 2)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                58,
+                494,
+                485,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "nucleotide sequences of R. helvetica (e.g., MF673863, MF673861, KY231194-KY231199, KM288466-KM288468, MF163040). BLAST analysis of the gltA, ompB, and sca4 gene fragment sequences confirmed the presence of R. monacensis in both questing and rodent-attached I. ricinus. The sequences showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity with R. monacensis isolates from ixodid ticks across Europe (e.g., KU961970, KU961543, LN794217, KC137254, LN794217). "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                688,
+                485,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The nucleotide sequences of the gltA, ompB, and sca4 gene fragments from questing and rodent-attached D. marginatus showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 . 1 \\mathrm { - } 1 0 0 \\mathrm { ~ \\% ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity with R. slovaca sequences from the GenBank database (e.g., KY940286, KY940286, MF002538, CP003375, HQ232242, MG973876, MF002539, CP003375). Amplification of the ompA gene fragment of R. slovaca and R. monacensis from questing and rodent-attached ticks failed. "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                780,
+                485,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ten nucleotide sequences of the gltA, ompA, and ompB genes from H. concinna, D. marginatus, and D. reticulatus showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 . 7 \\mathrm { - } 1 0 0 \\mathrm { ~ \\% }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity with R. raoultii isolates from Dermacentor spp. ticks across Europe, Russia, Asia, and China (e.g., MK792595-MK792600, MK792603, "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                872,
+                485,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "KR131756, MF166732, MF166730, MG973878, HQ232252-HQ232258, EU036984, and others). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                221,
+                937,
+                248
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                264,
+                605,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the present study, a total of 2160 specimens belonging to several species of questing and rodent-attached ticks from different habitat types (a botanical garden - urban; Cerme ˇ ľ Valley - suburban; and the Slovak Karst National Park, near the village Hrhov - natural habitat) in Eastern Slovakia were screened for the presence of Rickettsia spp. Rickettsial DNA was found in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 . 0 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 8 0 / 9 0 0 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of rodent-attached ticks and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 . 5 ~ \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m = 1 5 8 / 1 2 6 0 \\mathrm { _ { \\it { l } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of questing ticks. The results of this study confirmed the presence of Rickettsia in six tick species, namely I. ricinus, I. trianguliceps, D. marginatus, D. reticulatus, H. concinna, and H. inermis, collected at the sampling sites in eastern Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                290,
+                937,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The highest prevalence of Rickettsia spp. was in questing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 4 . 5 ~ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and rodent-attached ticks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 1 . 5 ~ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") from the natural habitat of the Slovak Karst region, followed by an urban habitat and a suburban habitat for both questing and rodent-attached ticks. Only I. ricinus were found in the urban habitat, and this species appears to be the most significant vector of rickettsiae in this area. Based on the sequencing of four genetic markers (gltA, ompA, ompB, and sca4), R. helvetica, R. monacensis, R. raoultii, R. slovaca, and Rickettsia sp. were found in ixodid ticks. The most diverse spectrum of rickettsiae, with four identified species — R. helvetica, R. monacensis, R. raoultii, and R. slovaca — were recorded in questing ticks from the natural habitat of the Slovak Karst region. In the suburban habitat, the presence of two species, R. helvetica and R. monacensis, was detected, and in the urban habitat, only R. helvetica was confirmed in ticks. A similar species representation of Rickettsia occurred in rodent-attached ticks, with R. helvetica, R. monacensis, R. raoultii, and R. slovaca in the natural habitat; R. helvetica and R. raoultii in the suburban habitat; and R. helvetica in the urban habitat. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                422,
+                937,
+                645
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the studied areas, the most significant rodent hosts of the ticks are predominantly Apodemus spp. and Myodes spp. (Minichova ´ et al., 2017; Heglasova ´ et al., 2018). These rodent species are among the most abundant in Slovakia (Martiniakova ´ et al., 2010). The highest prevalence of Rickettsia spp. in rodents was detected in the Cermeˇ ľ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 6 . 0 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Heglasova ´ et al., 2018). Rickettsia helvetica was identified in I. ricinus from M. glareolus and R. raoultii in I. trianguliceps obtained from A. agrarius, both trapped in Cermeˇ ľ. Areas with a higher diversity of tick species exhibited a greater variety of Rickettsia species. In contrast, sites with lower tick species diversity tend to harbor a narrower spectrum of bacteria. For example, a higher prevalence of R. helvetica and R. monacensis, typically associated with I. ricinus, was observed in areas where this tick species is predominant. Rickettsia helvetica dominates in rodent hosts in locations with the significant occurrence of its vector, I. ricinus (Heglasova ´ et al., 2018). Thus, the composition of Rickettsia species in ticks parasitizing rodents in various habitats (natural, suburban, urban) is largely shaped by the specific tick species present. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                646,
+                937,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In our study, the sympatric occurrence of six tick species — I. ricinus, I. trianguliceps, D. marginatus, D. reticulatus, H. concinna, and H. inermis — were recorded in the natural habitat of the Slovak Karst region. Similarly, a relatively wide spectrum of Ixodes spp., Dermacentor spp., and Haemaphysalis spp. was reported in this location in the past (Nosek, "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                870,
+                937,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Heglasova ´ et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                147,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                42,
+                939,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                950,
+                504,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1971, 1972; Hubalek, ´ 1986, and others). In this study, R. slovaca was found in questing and rodent-attached D. marginatus ticks only in the natural environment. In a previous study in this region, one A. flavicollis tested positive for R. slovaca (Heglasova ´ et al., 2018). The results confirm long-term circulation of R. slovaca in the Slovak Karst region, with Dermacentor spp. as a potential reservoir. Similarly, pathogenic R. slovaca is found in Dermacentor spp. ticks in Eurasian areas (Sekeyova ´ et al., 1998; Raoult et al., 2002; Spitalskˇ ´a et al., 2012; Foldv¨ ari ´ et al., 2013; Parola et al., 2009; Minichova ´ et al., 2017, and others). Based on available data, the occurrence of R. slovaca is primarily associated with habitats where Dermacentor spp. ticks are present. The occurrence of Dermacentor ticks in the environment may indicate a risk of human infection. Rickettsia slovaca and R. raoultii were described as potential etiological agents of TIBOLA/DEBONEL/SENLAT disease in humans, which is associated with a tick bite, an inoculation eschar, and cervical adenopathies (Parola et al., 2009). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                65,
+                485,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia raoultii was detected in questing D. marginatus, D. reticulatus, and H. concinna ticks only in the natural habitat of the Slovak Karst. Rickettsia raoultii is usually associated with Dermacentor spp. (Spitalskˇ a ´ et al., 2012; Svehlovˇ a ´ et al., 2014). Evidence of R. raoulti in H. concinna ticks is interesting and represents the first data on the presence of the bacterium in this tick species. Previously published data revealed the presence of R. raoultii in D. reticulatus and H. inermis ticks in the same study area in the Slovak Karst National Park in southeastern Slovakia (Ouarti et al., 2022). From ticks attached to small mammals, R. raoultii was recorded in larvae of D. marginatus and D. reticulatus in the natural habitat, and one I. trianguliceps larva from the Cerme ˇ ľ Valley, representing the suburban habitat. This is the first evidence of R. raoultii infection in the endophilic tick species I. trianguliceps. However, it is not known whether H. concinna and I. trianguliceps are involved in the life cycle of R. raoultii. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                277,
+                485,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia monacensis was identified in larvae and nymphs of I. ricinus in both rural and suburban habitats. These rickettsiae have also been detected in Ixodes arboricola and H. concinna from Romania (Marcuțan˘ et al., 2016) and recently also in the flea Ctenophthalmus agyrtes in Lithuania (Radzijevskaja et al., 2018). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                475,
+                484,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The most prevalent rickettsial species, R. helvetica was detected in all developmental stages of I. ricinus, D. reticulatus, and H. concinna at all studied sites in eastern Slovakia. The most common tick species, I. ricinus, represents a vector and natural reservoir of R. helvetica, which is responsible for human rickettsioses diagnosed in Slovakia (Parola et al., 2005; Sekeyova ´ et al., 2012; Svehlovˇ ´a et al., 2014; Spitalskˇ ´a et al., 2014, 2016; Minichova ´ et al., 2017). In many other European countries and Japan, R. helvetica has also been confirmed in the genera Ixodes, Haemaphysalis, and Dermacentor (Fournier et al., 2002; Parola et al., 2005; Nijhof et al., 2007; Dobec et al., 2009; Hornok et al., 2010; Tijsse-Klasen et al., 2013; Tomassone et al., 2013; M˘arcuțan et al., 2016). In the study by Heglasova ´ et al. (2020a), R. helvetica was identified in C. agyrtes fleas collected from A. agrarius captured in the same suburban area. Additionally, R. helvetica was confirmed in small mammals belonging to the genera Apodemus, Myodes, and Microtus in natural and suburban habitats of Eastern Slovakia (Heglasova ´ et al., 2018). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                540,
+                485,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the forest area of the Cermeˇ ľ Valley, six species of small mammals and two tick species (I. ricinus, I. trianguliceps) were identified. Previously published studies from this area reported on the presence of several species of pathogens (e.g., R. felis, R. helvetica, B. miyamotoi) in rodents, ticks, and fleas (Spitalskˇ a ´ et al., 2015; Heglasov´a et al., 2018, 2020a, 2020b). The least diversity of hosts and vectors was found in the Botanical Garden, which represents an urban area. In this area, B. miyamotoi was identified in questing I. ricinus and R. felis in fleas collected from the small mammals (Heglasova ´ et al. 2020b). The widely distributed R. helvetica and R. felis can be expected in different groups of vectors. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                751,
+                485,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The highest prevalence and diversity of Rickettsia species were recorded in the Slovak Karst National Park, which represents a natural habitat and a unique locality with a sympatric occurrence of six tick "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                896,
+                484,
+                935
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "species. Similarly, the largest representation of small mammal hosts was recorded in the same region. Previously, several species of rickettsiae (R. slovaca, R. helvetica, R. raoultii, and Rickettsia sp.) have been identified in rodents, fleas, rodent-attached ticks, and questing ticks from vegetation sampled in the Slovak Karst area (Radzijevskaja et al., 2015; Heglasova ´ et al., 2018, 2020a; Ouarti et al., 2022). Additionally, another pathogen, B. miyamotoi, was identified in Ixodes spp. and Haemaphysalis spp. ticks, as well as in one rodent host species in areas of eastern Slovakia (Heglasova ´ et al., 2020b). The high density and diversity of vectors and hosts in the natural environments provide suitable conditions for the co-circulation of several species of pathogens. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                65,
+                936,
+                210
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                225,
+                611,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Human pathogens such as R. helvetica, R. slovaca, R. raoultii, and R. monacensis were detected in six species of questing and rodentattached ixodid ticks in Eastern Slovakia. The most prevalent, R. helvetica, was detected in I. ricinus, D. reticulatus, and H. concinna in the rural habitat. Rickettsia helvetica was detected at all studied sites, but exclusively in I. ricinus ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                250,
+                936,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia slovaca was found in questing and rodent-attached D. marginatus ticks only in natural environments. Rickettsia raoultii was detected in D. marginatus, D. reticulatus, and H. concinna in rural areas and in one I. trianguliceps larva in a suburban habitat. This is the first evidence of R. raoultii infection in the endophilic tick species I. trianguliceps. Rickettsia monacensis was identified in larvae and nymphs of I. ricinus in rural and suburban habitats. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                329,
+                936,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our results confirmed the highest prevalence and diversity of Rickettsia spp. in natural habitats with a sympatric occurrence of six tick species. Biotopes with a higher diversity of vectors and hosts influence the diversity and prevalence of rickettsiae (and other vector-borne pathogens). Monitoring these areas helps identify high-risk regions and enables targeted control strategies to reduce the incidence of infections. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                422,
+                936,
+                511
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                528,
+                638,
+                540
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All person who have made substantial contributions to the work reported in the manuscript (e.g., technical help, writing and editing assistance, general support), but who do not meet the criteria for authorship, are named in the Acknowledgements and have given us their written permission to be named. If we have not included an Acknowledgements, then that indicates that we have not received substantial contributions from non-authors. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                554,
+                936,
+                644
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Consent to participate and publish "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                660,
+                736,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All authors consent to participate in this study and agree to the publication of the manuscript in Ticks and Tick-borne Diseases. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                686,
+                936,
+                711
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CRediT authorship contribution statement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                726,
+                786,
+                737
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ivana Heglasova: ´ Formal analysis, Data curation, Conceptualization. Bronislava Víchova: ´ Conceptualization. Michal Stanko: Conceptualization. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                752,
+                936,
+                790
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of Interest "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                805,
+                633,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                831,
+                936,
+                868
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgment "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                512,
+                885,
+                625,
+                896
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The study was supported by the projects APVV-21-0166 and VEGA 2/0051/24. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                911,
+                936,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Heglasova ´ et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                144,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                952,
+                502,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data availability "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                65,
+                171,
+                78
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No data was used for the research described in the article. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                92,
+                428,
+                104
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                58,
+                118,
+                132,
+                129
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Abdad, M.Y., Stenos, J., Graves, S., 2011. Rickettsia felis, an emerging flea-transmitted human pathogen. Emerg. Health Threats J. 4, 7168. https://doi.org/10.3402/ehtj. v4i0.7168. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Adem, P.V., 2019. Emerging and re-emerging rickettsial infections. Semin. Diagn. Pathol. 36, 146–151. https://doi.org/10.1053/j.semdp.2019.04.005. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andˇera, M., Hora´ˇcek, I., 2005. Pozn´avame naˇse savce. 2. Pˇrepracovan´e vyd´aní. Sobot´ales, Praha. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Boldiˇs, V., Kocianov´a, E., Strus, ˇ J., Tuˇsek-Znidari ˇ ˇc, M., Sparagano, O.A., Stefanidesov ˇ ´a, K., Spitalsk ˇ ´a, E., 2008. Rickettsial agents in Slovakian ticks (acarina, ixodidae) and their ability to grow in vero and L929cell lines. Ann. N. Y. Acad. Sci. 1149, 281–285. https://doi.org/10.1196/annals.1428.090. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cerný, ˇ V., 1972. The tick fauna of Czechoslovakia. Folia Parasitol. (Praha) 19, 87–92. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Derdakov ´ a, ´ M., Vaclav, ´ R., Pangracova-Bla ´ nˇarov ´ a, ´ L., Selyemova, ´ D., Koˇci, J., Walder, G., Spitalskˇ ´a, E., 2014. Candidatus Neoehrlichia mikurensis and its cocirculation with anaplasma phagocytophilum in Ixodes ricinus ticks across ecologically different habitats of Central Europe. Parasit. Vectors 7, 160. https://doi.org/ 10.1186/1756-3305-7-160. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Dobec, M., Golubic, D., Punda-Polic, V., Kaeppeli, F., Sievers, M., 2009. Rickettsia helvetica in Dermacentor reticulatus ticks. Emerg. Infect. Dis. 15, 98–100. https://doi. org/10.3201/eid1501.080815. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Dwuznik-Szarek, ˙ D., Mierzejewska, E.J., Alsarraf, M., Alsarraf, M., Bajer, A., 2021. Pathogens detected in the tick Haemaphysalis concinna in western Poland: known and unknown threats. Exp. Appl. Acarol. 84, 769–783. https://doi.org/10.1007/s10493- 021-00647-x. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Estrada-Pena, ˜ A., Mihalca, A.D., Petney, T.N., 2017. Ticks of Europe and North Africa: a guide to species identification. Springer, Switzerland. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Filippova, N.A., 1977. Ixodid ticks of the subfamily ixodinae. Fauna SSSR, new ser. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Foldv¨ ´ari, G., Rigo, ´ K., Lakos, A., 2013. Transmission of Rickettsia slovaca and Rickettsia raoultii by male Dermacentor marginatus and Dermacentor reticulatus ticks to humans. Diagn. Microbiol. Infect. Dis. 76, 387–389. https://doi.org/10.1016/j. diagmicrobio.2013.03.005. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Foldv¨ ´ari, G., Siroký, ˇ P., Szekeres, S., Majoros, G., Sprong, H., 2016. Dermacentor reticulatus: a vector on the rise. Parasit. Vectors 9, 314. https://doi.org/10.1186/ s13071-016-1599-x. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fournier, P.E., Fujita, H., Takada, N., Raoult, D., 2002. Genetic identification of rickettsiae isolated from ticks in Japan. J. Clin. Microbiol. 40, 2176–2181. https:// doi.org/10.1128/jcm.40.6.2176-2181.2002. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Garcia-Vozmediano, A., Giglio, G., Ramassa, E., Nobili, F., Rossi, L., Tomassone, L., 2020. Dermacentor marginatus and Dermacentor reticulatus, and their infection by SFG Rickettsiae and Francisella-like endosymbionts, in mountain and periurban habitats of Northwestern Italy. Vet. Sci. 7, 157. https://doi.org/10.3390/vetsci7040157. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hamˇsíkova, ´ Z., Kazimírova, ´ M., Haruˇstiakov´a, D., Mahríkov´a, L., Slov´ak, M., Berthov´a, L., Kocianova, ´ E., Schnittger, L., 2016. Babesia spp. In ticks and wildlife in different habitat types of Slovakia. Parasit. Vectors 9, 292. https://doi.org/10.1186/ s13071-016-1560-z. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hanincov´a, K., Tarageľov´a, V., Koˇci, J., Schafer, ¨ S.M., Hails, R., Ullmann, A.J., Piesman, J.P., Labuda, M., Kurtenbacg, K., 2003. Association of Borrelia garinii and B. valaisiana with songbirds in Slovakia. Appl. Environ. Microbiol. 69, 2825–2830. https://doi.org/10.1128/AEM.69.5.2825-2830.2003. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heglasova, ´ I., Rudenko, N., Golovchenko, M., Zubrikova, ´ D., Miklisov´a, D., Stanko, M., 2020b. Ticks, fleas and rodent-hosts analyzed for the presence of Borrelia miyamotoi in Slovakia: the first record of Borrelia miyamotoi in a Haemaphysalis inermis tick. Ticks. Tick. Borne Dis. 11, 101456. https://doi.org/10.1016/j.ttbdis.2020.101456. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heglasova, ´ I., Víchov´a, B., Kraljik, J., Moˇsanský, L., Miklisov´a, D., Stanko, M., 2018. Molecular evidence and diversity of the spotted-fevergroup rickettsia spp. In small mammals from natural, suburban and urban areas of Eastern Slovakia. Ticks. Tick. Borne Dis. 9, 1400–1406. https://doi.org/10.1016/j.ttbdis.2018.06.011. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heglasova, ´ I., Víchov´a, Stanko, M., 2020a. Detection of rickettsia spp. In fleas collected from small mammals in Slovakia, Central Europe. Vector. Borne Zoonotic. Dis. 20, 652–656. https://doi.org/10.1089/vbz.2019.2567. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hornok, S., Meli, M.L., Perreten, A., Farkas, R., Willi, B., Beugnet, F., Lutz, H., Hofmann-Lehmann, R., 2010. Molecular investigation of hard ticks (Acari: ixodidae) and fleas (Siphonaptera: pulicidae) as potential vectors of rickettsial and mycoplasmal agents. Vet. Microbiol. 140, 98–104. https://doi.org/10.1016/j.vetmic.2009.07.013. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hubalek, ´ Z., 1986. Comparative biogeography of Bhanja virus in Europe. Acta Sc. Nat. Brno. 20, 1–50. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Choi, Y.J., Jang, W.J., Ryu, J.S., Lee, S.H., Park, K.H., Paik, H.S., Koh, Y.S., Choi, M.S., Kim, I.S., 2005. Spotted fever group and typhus group rickettsioses in humans, South Korea. Emerg. Infect. Dis. 11, 237–244. https://doi.org/10.3201/eid1102.040603. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jongejan, F., Ringenier, M., Putting, M., Berger, L., Burgers, S., Kortekaas, R., Lenssen, J., van Roessel, M., Wijnveld, M., Madder, M., 2015. Novel foci of Dermacentor reticulatus ticks infected with Babesia canis and Babesia caballi in The Netherlands and in Belgium. Parasit. Vectors 8, 232. https://doi.org/10.1186/s13071-015-0841-2. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kazimírov´a, M., Hamˇsíkov´a, Z., Spitalskˇ a, ´ E., Minichov´a, L., Mahríkov´a, L., Caban, R., Sprong, H., Fonville, M., Schnittger, L., Kocianov´a, E., 2018. Diverse tick-borne microorganisms identified in free-living ungulates in Slovakia. Parasit. Vectors 11, 495. https://doi.org/10.1186/s13071-018-3068-1. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                143,
+                482,
+                916
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kov´aˇcov´a, E., Sekeyova, ´ Z., Tr´avniˇcek, M., Bhide, M.R., Mardzinov´a, S., Curlik, ˇ J., Spanelovˇ ´a, D., 2006. Monitoring of humans and animals for the presence of various Rickettsiae and coxiella burnetii by serological methods. Ann. N. Y. Acad. Sci. 1078, 587–589. https://doi.org/10.1196/annals.1374.117. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "M˘arcut¸an, I.D., Zsuzsa, K., Ionic˘a, A.M., D’Amico, G., Mihalca, A.D., Vasile, C., S´andor, A. D., 2016. Spotted fever group rickettsiae in ticks of migratory birds in Romania. Parasit. Vectors 9, 294. https://doi.org/10.1186/s13071-016-1565-7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Martiniakov´a, M., Omelka, R., Janˇcov´a, A., Stawarz, R., Formicki, G., 2010. Heavy metal content in the femora of yellow-necked mouse (Apodemus flavicollis) and wood mouse (Apodemus sylvaticus) from different types of polluted environment in Slovakia. Environ. Monit. Assess. 171, 651–660. https://doi.org/10.1007/s10661- 010-1310-1. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Minichova, ´ L., Hamˇsíkova, ´ Z., Mahríkova, ´ L., Slovak, ´ M., Kocianova, ´ E., Kazimírova, ´ M., Skultˇ ´ety, Ľ., Katarína Stefanidesovˇ ´a, K., Spitalskˇ ´a, E., 2017. Molecular evidence of rickettsia spp. In ixodid ticks and rodents in suburban, natural and rural habitats in Slovakia. Parasit. Vectors 10, 1–12. https://doi.org/10.1186/s13071-017-2094-8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mittermayer, T., Brezina, R., Úrvolgyi, J., 1980. First report of an infection with R. slovaca. Folia Parasitol. (Praha) 27, 373–376. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nijhof, A.M., Bodaan, C., Postigo, M., Nieuwenhuijs, H., Opsteegh, M., Franssen, L., Jebbink, F., Jongejan, F., 2007. Ticks and associated pathogens collected from domestic animals in The Netherlands. Vector. Borne Zoonotic. Dis. 7, 585–595. https://doi.org/10.1089/vbz.2007.0130. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nosek, J., 1971. The ecology, bionomics and behaviour of Haemaphysalis (Aboimisalis) punctata tick in central Europe. Z. Parasitenkd. 37, 198–210. https://doi.org/ 10.1007/BF00259499. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nosek, J., 1972. The ecology and public health importance of dermacentor marginatus and D. reticulatus ticks in central Europe. Folia Parasitol. (Praha) 19, 93–102. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ouarti, B., Hamzaoui, B.E., Stanko, M., Laroche, M., Mediannikov, O., Parola, P., Sekeyova, ´ Z., 2022. Detection of rickettsia raoultii in dermacentor reticulatus and haemaphysalis inermis ticks in Slovakia. Biologia (Bratisl) 77, 1611–1617. https:// doi.org/10.1007/s11756-021-00789-8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Parola, P., Paddock, C.D., Raoult, D., 2005. Tick-borne rickettsioses around the world: emerging diseases challenging old concepts. Clin. Microbiol. Rev. 18, 719–756. https://doi.org/10.1128/cmr.18.4.719-756.2005. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Parola, P., Rovery, C., Rolain, J.M., Brouqui, P., Davoust, B., Raoult, D., 2009. Rickettsia slovaca and R. raoultii in tick-borne rickettsioses. Emerg. Infect. Dis. 15, 1105–1108. https://doi.org/10.3201/eid1507.081449. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pelik´an, J., Gaisler, J., Rodl, ˝ P., 1979. Naˇsi Savci. Academia, Praha. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Portillo, A., de Sousa, R., Santiba´nez, ˜ S., Duarte, A., Edouard, S., Fonseca, I.P., Marques, C., Novakova, M., Palomar, A.M., Santos, M., Silaghi, C., Tomassone, L., Zúquete, S., Oteo, J.A., 2017. Guidelines for the detection of rickettsia spp. Vector. Borne Zoonotic. Dis. 17, 23–32. https://doi.org/10.1089/vbz.2016.1966. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Radzijevskaja, J., Kaminskiene, ˙ E., Lipatova, I., Mardosaite-Busaitien˙ e, ˙ D., Balˇciauskas, L., Stanko, M., Paulauskas, A., 2018. Prevalence and diversity of Rickettsia species in ectoparasites collected from small rodents in Lithuania. Parasit. Vectors 11, 375. https://doi.org/10.1186/s13071-018-2947-9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Radzijevskaja, J., Paulauskas, A., Aleksandraviciene, A., Jonauskaite, I., Stanko, M., Karbowiak, G., Peťko, B., 2015. New records of spotted fever group rickettsiae in Baltic region. Microbes. Infect. 17, 874–878. https://doi.org/10.1016/j. micinf.2015.09.006. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Raoult, D., Lakos, A., Fenollar, F., Beytout, J., Brouqui, P., Fournier, P.E., 2002. Spotless rickettsiosis caused by Rickettsia slovaca and associated with Dermacentor ticks. Clin. Infect. Dis. 34, 1331–1336. https://doi.org/10.1086/340100. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Raoult, D., Roux, V., 1997. Rickettsioses as paradigms of new or emerging infectious diseases. Clin. Microbiol. Rev. 10, 694–719. https://doi.org/10.1128/cmr.10.4.694. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Regnery, R.L., Spruill, C.L., Plikaytis, B.D., 1991. Genotypic identification of rickettsiae and estimation of intraspecies sequence divergence for portions of two rickettsial genes. J. Bacteriol. 173, 1576–1589. https://doi.org/10.1128/jb.173.5.1576- 1589.1991. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rijpkema, S., Golubic, D., Moelkenboer, M., Verbeek-De Kruif, N., Schellekens, J., 1996. Identification of four genomic groups of Borrelia burgdorferi sensu lato in Ixodes ricinus ticks collected in a Lyme borreliosis endemic region of northern Croatia. Exp. Appl. Acarol. 20, 23–30. https://doi.org/10.1007/BF00051474. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Roux, V., Fournier, P.E., Raoult, D., 1996. Differentiation of spotted fever group rickettsiae by sequencing and analysis of restriction fragment length polymorphism of PCR amplified DNA of the gene encoding the protein rOmpA. J. Clin. Microbiol. 34, 2058–2065. https://doi.org/10.1128/jcm.34.9.2058-2065.1996. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Roux, V., Raoult, D., 2000. Phylogenetic analysis of members of the genus Rickettsia using the gene encoding the outer-membrane protein rOmpB (ompB). Int. J. Syst. Evol. Microbiol. 50, 1449–1455. https://doi.org/10.1099/00207713-50-4-1449. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova, ´ Z., Mediannikov, O., Subramanian, G., Kowalczewska, M., Quevedo-Diaz, M., Kocianova, ´ E., Raoult, D., 2012. Isolation of Rickettsia helvetica from ticks in Slovakia. Acta Virol. 56, 247–252. https://doi.org/10.4149/av_2012_03_247. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova, ´ Z., Roux, V., Raoult, D., 2001. Phylogeny of Rickettsia spp. inferred by comparing sequences of ‘gene D’, which encodes an intracytoplasmic protein. Int. J. Syst. Evol. Microbiol. 51, 1353–1360. https://doi.org/10.1099/00207713-51-4- 1353. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova, ´ Z., Roux, V., Xu, W., Rehˇ ´aˇcek, J., Raoult, D., 1998. Rickettsia slovaca sp. nov., a member of the spotted fever group rickettsiae. Int. J. Syst. Bacteriol 48, 1455–1462. https://doi.org/10.1099/00207713-48-4-1455. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sekeyova, ´ Z., Socolovschi, C., Spitalskˇ ´a, E., Kocianova, ´ E., Boldiˇs, V., Diaz, M.Q., Berthov´a, L., Bohacsova, ´ M., Valarikov´ a, ´ J., Fournier, P.E., Raoult, D., 2013. Update on rickettsioses in Slovakia. Acta Virol. 57, 180–199. https://doi.org/10.4149/av _2013_02_180. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sladek, ´ J., Moˇsanský, A., 1985. Cicavce okolo n´as. Osveta, Martin. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                66,
+                934,
+                920
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Heglasova ´ et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                146,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                42,
+                939,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                952,
+                504,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Slovak, ´ M., 2014. Obrazkový ´ kľúˇc lariev a nýmf klieˇsťov (Acari: ixodida) fauny Slovenska. Entomofauna carpathica 26, 12–18. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stanko, M., Derdakov´ a, ´ M., Spitalskˇ a, ´ E., Kazimírov´a, M., 2022. Ticks and their epidemiological role in Slovakia: from the past till present. Biologia (Bratisl.) 77, 1575–1610. https://doi.org/10.1007/s11756-021-00845-3. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Spitalsk ˇ ´a, E., Boldiˇs, V., Derdakov ´ a, ´ M., Selyemov´a, D., Rusnˇakov ´ a ´ Tarageľova, ´ V., 2014. Rickettsial infection in ixodes ricinus ticks in urban and natural habitats of Slovakia. Ticks. Tick. Borne Dis. 5, 161–165. https://doi.org/10.1016/j.ttbdis.2013.10.002. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Spitalsk ˇ ´a, E., Boldiˇs, V., Moˇsanský, L., Sparagano, O., Stanko, M., 2015. Rickettsia species in fleas collected from small mammals in Slovakia. Parasitol. Res. 114, 4333–4339. https://doi.org/10.1007/s00436-015-4713-7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Spitalsk ˇ ´a, E., Stanko, M., Moˇsanský, L., Kraljik, J., Miklisova, ´ D., Mahríkova, ´ L., Bona, M., Kazimírov´a, M., 2016. Seasonal analysis of rickettsia species in ticks in anagricultural site of Slovakia. Exp. Appl. Acarol. 68, 315–324. https://doi.org/ 10.1007/s10493-015-9941-0. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Spitalskˇ ´a, E., Stefanidesovˇ a, ´ K., Kocianov´a, E., Boldiˇs, V., 2012. Rickettsia slovaca and Rickettsia raoultii in dermacentor marginatus and dermacentor reticulatus ticks from Slovak Republic. Exp. Appl. Acarol. 57, 189–197. https://doi.org/10.1007/s10493- 012-9539-8. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                66,
+                480,
+                257
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Svehlov ˇ ´a, A., Berthov´a, L., Sallay, B., Boldiˇs, V., Sparagano, O.A.E., Spitask ˇ ´a, E., 2014. Sympatric occurrence of Ixodes ricinus, Dermacentor reticulatus and Haemaphysalis concinna ticks and Rickettsia and Babesia species in Slovakia. Ticks. Tick. Borne Dis. 5, 600–605. https://doi.org/10.1016/j.ttbdis.2014.04.010. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tijsse-Klasen, E., Hansford, K.M., Jahfari, S., Phipps, P., Sprong, H., Medlock, J.M., 2013. Spotted fever group rickettsiae in Dermacentor reticulatus and haemaphysalis punctata ticks in the UK. Parasit. Vectors 6, 212. https://doi.org/10.1186/1756-3305-6-212. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tomassone, L., Grego, E., Auricchio, D., Iori, A., Giannini, F., Rambozzi, L., 2013. Lyme borreliosis spirochetes and spotted fever group rickettsiae in ixodid ticks from Pianosa Island, Tuscany Archipelago, Italy. Vector. Borne Zoonotic. Dis. 13, 84–91. https://doi.org/10.1089/vbz.2012.1046. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zivkovic, Z., Nijhof, A.M., de la Fuente, J., Kocan, K.M., Jongejan, F., 2007. Experimental transmission of anaplasma marginale by male Dermacentor reticulatus. BMC. Vet. Res. 3, 32. https://doi.org/10.1186/1746-6148-3-32. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zubrikova, ´ D., Heglasov´a, I., Antolova, ´ D., Blanarov ˇ a, ´ L., Víchova, ´ B., 2022. A case report of rickettsia-like infection in a human patient from Slovakia. Biologia (Bratisl) 77, 1641–1644. https://doi.org/10.1007/s11756-021-00813-x. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                66,
+                932,
+                237
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "I. Heglasova ´ et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                58,
+                42,
+                144,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks and Tick-borne Diseases 16 (2025) 102490 "
+                    }
+                ]
+            },
+            "bbox": [
+                710,
+                42,
+                937,
+                52
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 "
+                    }
+                ]
+            },
+            "bbox": [
+                494,
+                950,
+                502,
+                960
+            ]
+        }
+    ]
+]

@@ -1,0 +1,4154 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "WOLF-UNGULATE INTERACTIONS WITHIN THE CONTEXT OF WOLF’S MAIN PREY POPULATION DECLINE IN CENTRAL RUSSIAN UPLAND "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                71,
+                905,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Anastasia O. Viricheva1,* , Elena M. Litvinova "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 { , } 3 \\textcircled { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Maria D. Chistopolova1 , Andrey D. Poyarkov1 , Jose A. Hernandez-Blanco1 "
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                123,
+                843,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 A.N. Severtsov Institute of Ecology and Evolution of the RAS, Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                238,
+                174,
+                757,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "*e-mail: givishka@yandex.ru "
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                191,
+                611,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 Lomonosov Moscow State University, Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                326,
+                206,
+                670,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 Kaluzhskie Zaseki State Nature Reserve, Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                317,
+                223,
+                680,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 01.04.2024. Revised: 11.07.2024. Accepted: 12.09.2024. "
+                    }
+                ]
+            },
+            "bbox": [
+                268,
+                252,
+                724,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Canis lupus (hereinafter – wolf) is a top predator specialised on large ungulates. In a community of multiple ungulate species, carnivores may exhibit a preference for one. Due to the decreasing availability of preferred species, interactions between wolves and other ungulates can change. We conducted our research from 2014 to 2019, which included an abrupt decline in the population of the wolf’s main prey, Sus scrofa, in the Kaluzhskie Zaseki State Nature Reserve, Russia. We ascertained the wolf diet (scats content analysis) and evaluated preferences using Jacobs’ index. The proportion in the diet of two ungulate species, Capreolus capreolus and Alces alces, increased after the Sus scrofa population declined, but the main prey became a non-ungulate species, namely Castor fiber. Wolves did not hunt Bison bonasus, and changes in Sus scrofa populations did not affect interactions between them. The presence of this species in the wolf diet is negligible and related to scavenging. Wolves showed a strong preference for Sus scrofa after decreasing its abundance. Dynamic interactions estimated from camera-trap data, using the coefficient of sociality, partly confirmed with analysis of preferences but also depending on other factors. The coefficient of sociality showed attraction species hardly presented in the diet only in the peripheral part of the wolf home range, where ungulates more frequently encounter subadult wolves. The decreasing population of wolf’s main prey influenced interactions with other ungulates to some extent since wolves increased the proportion of them in their diet to substitute Sus scrofa. In the absence of Sus scrofa, wolves tend to prefer middle- and small-sized prey. "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                272,
+                877,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Key words: Canis lupus, dynamic interactions, diet, interspecific relationships, food habits, large carnivores, predation, wild prey "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                481,
+                875,
+                510
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                225,
+                530,
+                339,
+                544
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of a predator is a crucial factor that affects the ungulate population and its spatial distribution. Deaths caused by predators are part of the natural mechanism of population regulation (Filonov & Kaletskaya, 1985; Messier & Crète, 1985; Kojola et al., 2004). In addition to direct killing the predator causes non-consumptive effects on prey (Preisser et al., 2005; Creel & Christianson, 2008; Anson et al., 2013; MacLeod et al., 2018). Sometimes non-consumptive effects have even more influence on prey than direct predation (Preisser et al., 2005). Nonconsumptive effects include the impact of a predator on prey spatial distribution (Sih, 1987; Mech, 1994; Lima, 1998; Gehr et al., 2018). A high abundance of prey remains in places where the abundance of the predator is low or even totally absent. As an example, this can be caused by intraspecific interactions of predators as in «buffer zones» described by Mech (1977, 1994) in Canis lupus Linnaeus, 1758 (hereinafter – wolf). Trying to avoid predators is one of the anti-predator mechanisms of prey (Caro et al., 2004; Creel & Christianson, 2008; Gehr et al., 2018). When prey and predator coexist, it triggers a game of prey anti-predator strategies refinement, and "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                546,
+                490,
+                938
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "an improvement of predator hunting strategies (Sih, 2005). Predators affect their prey, just as prey affects predators. Predators are often attracted to areas with a high concentration of prey (Sih, 2005; Kittle et al., 2017). At the same time, prey chooses places with feeding resources. Therefore, the distribution of prey’s feeding resources affects the distribution of predator-prey interactions (Fraker & Luttbeg, 2012). Prey also can choose among two strategies for using feeding resources: to stay at the place and spend more time on vigilance or to move between resource patches avoiding predators (Fraker & Luttbeg, 2012). Besides, if it is possible, prey prefers to occupy places where it is easier to hide from predators (Lull, 1904; Fuller & Keith, 1980; Caro et al., 2004; Baruzzi et al., 2017). Choosing an anti-predator strategy depends on both predator’s behaviour and environmental features such as the type and the distribution of feeding resources, the availability of shelters (Lull, 1904; Fuller & Keith, 1980; Caro et al., 2004; Baruzzi et al., 2017). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                529,
+                922,
+                871
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Decreasing prey abundance causes a response in a predator population. Sometimes the predator population declines following a decline in the prey population; in other cases, predation shifts to other types "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                872,
+                921,
+                938
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "of prey (Messier & Crète, 1985; Dale et al., 1994; Mech, 2007). Alteration in a predator-prey system can affect relationships between a predator and other prey species, if they are present. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                489,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Studies on predator-prey interactions in nature often include only prey selection. The predator’s reaction to prey density or availability changes in nature is rarely an object of a study since it requires a combination of the certain situation and an opportunity to carry out the research. There are various ways to assess the influence of prey density on a predator. The comparison of the areas with various prey densities (Messier, 1985; Capitani et al., 2004) does not allow us to understand how a predator can respond to alterations in a prey population. Evaluation of numerical and functional response (Dale et al., 1994; Mech & Boitani, 2003) is helpful in that case. Meanwhile to evaluate wolf predation, it is also important to take into account some important factors: a) the role of secondary food, b) the time lag of the wolf population dynamics from that of prey species, c) the variable speed of switching to other types of prey (Gasaway et al., 1983; Theberge, 1990). That is why the mutual influence of prey and predator space use is also important. There are two ways to assess interactions between animals: to assess overlap in home ranges (static interaction) and to analyse the simultaneous presence of animals (dynamic interaction) (MacDonald et al., 1980). The GPS-telemetry allows us to estimate space-time interactions between individual animals. However, it is hardly possible to tag a large part of the populations of a prey and a predator, which causes problems in the interpretation of results (Eriksen et al., 2009). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                139,
+                492,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Camera trapping is one of the methods commonly used in ecological studies of predator-prey interactions. One of the ways to analyse interactions between species is to compare certain indexes calculated for each species (Keim et al., 2019; Phumanee et al., 2021; Ogurtsov & Zheltukhin, 2022). Another way is to assess interactions directly using a single index showing the interaction of both species. Using models in analysing spatio-temporal interactions allows accounting for other factors, which can influence interactions between species such as habitat (Dormann et al., 2018), but requires a large sample size (Amir et al., 2022). In our study, we tried to apply the coefficient of sociality (Kenward et al., 1993) by analysing data from camera traps without linking to individuals. This coefficient was applied by Eriksen et al. (2009) in a study of prey-predator interactions to telemetry data, but this is the first time we apply it here to camera-trap data. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                627,
+                490,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This article considers predator-prey interactions using the example of wolf and its prey. The wolf’s main prey in most cases are large ungulates (Bibikov, 1985; Fuller, 1991; Mech & Boitani, 2003; Andersone & Ozoliņš, 2004; Capitani et al., 2004; Smith et al., 2004; Barja, 2009; Wagner et al., 2012; Zlatanova et al., 2014). In some ecosystems, the wolf’s diet consists primarily of ungulates of smaller sizes (Salvador & Abad, 1987; Valdmann et al., 1998; Barja, 2009; Nowak et al., 2011; Wagner et al., 2012), and large ungulates, such as Cervus canadensis Erxleben, 1777, C. elaphus Linnaeus, 1758 or Alces spp. are the main prey species in many habitats (Fritts & Mech, 1981; Bibikov, 1985; Mech, 1995; Kojola et al., 2004; Smith et al., 2004; Śmietana, 2005; Wikenros et al., 2009). In multi-prey ecosystems, the wolf tends to specialise in certain species, sometimes regardless of population density (Mech & Boitani, 2003; Capitani et al., 2004; Kojola et al., 2004; Stahler et al., 2006; Wikenros et al., 2009). Therefore, predators can respond to a decreasing availability of prey in two ways. The first is looking for the same species, expanding the search area, thereby increasing the home range. Such a reaction was shown for wolves (Messier, 1985; Jędrzejewski et al., 2007) as well as for nonsocial predators (Schmidt, 2008). Increasing of their mobility by using linear features of the landscape also helps predators to locate prey with low density (Kittle et al., 2017). The second way is by switching to new prey species, if there is such an opportunity (Messier & Crète, 1985; Dale et al., 1994). "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                73,
+                922,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A great chance to study the reaction of a predator, i.e. wolf, on the decline of abundance in its main prey appeared in the Kaluzhskie Zaseki State Nature Reserve (hereinafter – Kaluzhskie Zaseki SNR). The scat analysis showed that the wolf reliable preferred Sus scrofa Linnaeus, 1758 (hereinafter – wild boar) among several available species of ungulates (Hernandez-Blanco & Litvinova, 2003). However, at the beginning of 2015, the African swine fever (hereinafter – ASF) epizootic broke out in Kaluzhskie Zaseki SNR (Petrova et al., 2018; Zakharova et al., 2023) resulting in a sharp decline in the wild boar population. Thereby, new conditions could influence wolf interactions with other potential prey species. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                577,
+                922,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our working hypothesis is the assumption that a sharp decline of the main prey population may influence interactions of wolves with other present ungulates, including Bison bonasus (Linnaeus, 1758) (hereinafter – European bison). Hence, the research aims to investigate interactions between the wolf and ungulates before and after ASF epizootic. We considered two aspects of this problem, namely (1) dy-"
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                807,
+                922,
+                938
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "33 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "namic interactions between the wolf and ungulates and (2) contents of the wolf’s diet and its preferences. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                490,
+                107
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Material and Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                183,
+                122,
+                381,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Study area "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                109,
+                140,
+                201,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The study area "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 3 . 5 0 \\mathrm { - } 5 3 . 6 5 ^ { \\circ } \\mathrm { N } , 3 5 . 6 3 \\mathrm { - } 3 5 . 9 0 ^ { \\circ } \\mathrm { E } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "covers the south cluster of the Kaluzhskie Zaseki SNR "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 1 7 . 8 \\mathrm { k m } ^ { 2 } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and its surroundings, with a total area of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 0 ~ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It is located in the northwest part of the Central Russian Upland, in the Kaluga Region (Russia), near the border with Tula Region and Orel Region. The study period was from 2014 to 2019. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                155,
+                489,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The study area contains mostly broadleaf forests (Quercus spp., Acer spp., Fraxinus spp., Populus tremula L., Betula spp.) but also coniferous forests. Overgrown meadows and arable lands cover "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the study area (Hansen et al., 2013). The study area is characterised by a high level of habitat mosaicism (Melnik et al., 2007). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                269,
+                490,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The landscape includes a rolling plain with a developed river net comprising gully terrain. The climate is temperate continental with a mean annual temperature of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ 4 . 4 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The average annual precipitation is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 6 2 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(with a range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 0 { \\mathrm { - } } 7 0 0 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). A stable snow cover remains till the late March on average. The snow depth varies from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 ~ \\mathrm { c m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Smirnova et al., 1997). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                382,
+                490,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Four species of wild ungulates are constantly present in the Kaluzhskie Zaseki SNR, namely wild boar, Capreolus capreolus Linnaeus, 1758 (hereinafter – roe deer), Alces alces Linnaeus, 1758 (hereinafter – moose), and European bison. Two others (Cervus elaphus and Cervus nippon Temminck, 1838) are rare and known only on basis of single registrations. The European bison was released in Orlovskoye Polesie National Park, an adjacent Protected Area, during the 1990s in the framework of the species restoration project (see Belousova et al., 2002) and it reached Kaluzhskie Zaseki SNR in 2001 (Pererva & Pererva, 2003; Chistopolova et al., 2009), and now it is the most abundant ungulate species, being a part of the Srednyeruskaya Wisent population (Raczynsky, 2021). Wild boar was the most abundant species till 2014, but after the ASF epizootic, its density decreased and now it is relatively low. Mediumsized mammals, such as Castor fiber Linnaeus, 1758 (hereinafter – beaver), Lepus timidus Linnaeus, 1758 (hereinafter – hare), Nyctereutes procyonoides Gray, 1834, Meles meles Linnaeus, 1758, and Vulpes vulpes Linnaeus, 1758, also present and constitute a potential prey for wolves. Along with the wolf, large carnivore species comprise Lynx lynx Linnaeus, 1758 (1–3 individuals per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and Ursus arctos (the den-"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                514,
+                492,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sity is impossible to count since the registrations are rare). The population of Lynx lynx in the study area ranged from one male and two females to three males and four females during the study period. One wolf pack permanently uses the area of the south cluster of the Kaluzhskiye Zaseki SNR with up to 14 individuals presented, and the density of wolf was 7.6–11.9 individuals per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                205
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Wolf diet "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                541,
+                219,
+                618,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We estimated the wolf diet by analysing the composition of wolf scats. We collected scats during walking routes, which we conducted in all seasons for each year. We conducted the routes in both snow and snowless periods. Therefore, the sample reflects an average wolf diet for a year. Scats were disinfected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "70 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol, washed, and dried (Rozhnov et al., 2019). We identified species of mammals by hairs, using keys and standards of mammal hairs from atlases (Teerink, 1991; Chernova & Tselikova, 2004). If necessary, we analysed an imprint of a hair cuticle on polishing under a light microscope (Rozhnov et al., 2011). We registered the presence of birds, insects, or plant remains without identification of species. We calculated the proportion of identified species using the following formula: "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                236,
+                922,
+                495
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "P A _ {i} = \\frac {N _ {i}}{s} \\times 100 \\%",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/faeb8ba0e42369ad8871d2c91bccee187c5a3f5735f8391f04ff9b06207ca8aa.jpg"
+                }
+            },
+            "bbox": [
+                643,
+                497,
+                781,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "where N – number of identifications of certain species; s – total number of all identifications. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                529,
+                919,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For estimating the wolf diet, we used scat analysis without considering the size of prey, which could distort the results to some extent. However, we suppose this method gives enough information for assessment preferences in the diet. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                562,
+                921,
+                643
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To estimate preferences in the wolf diet, we used Jacobs’ index (D) representing modified Ivlev’s electivity index (Jacobs, 1974). This index ranges from -1 to 1, where negative values show avoidance and positive values show preference. When the index is 0, it means using the food item proportionally to its ratio in the environment. We analysed significance with Fisher’s exact test using Bonferroni correction. Necessary information about the population of prey species was gained from winter route counts (Priklonskiy, 1973) (for ungulates except for the European bison) and beaver counts, which started in 2018. We assessed the beaver population in late October – early November by a statistical method, based on the estimation of the number of beaver colonies and the proportion of colonies with juveniles (Yemelyan et al., 2009). We evaluated the European bison population using various "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                643,
+                922,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "34 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "methods including visual observations on feeding grounds, tracking, synchronous photo registration by camera traps during the total European bison counts in Russia. We did not estimate preferences for other prey species due to a lack of data on their population; besides their proportion in the wolf diet was negligibly small. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                492,
+                189
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Dynamic interactions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                109,
+                204,
+                292,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We used data from camera traps to evaluate dynamic interactions between the wolf and the European bison. Each camera trap location was distributed per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 { - } 2 \\ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Fig. 1). We placed camera traps in places most frequently visited by animals such as streams, roads, crossroads, and trails. We installed camera traps at a height of 60 cm above the ground so that snow cover, plants, and rising water levels on the steams would not interfere with detecting animals. We attached camera traps to the trees, where we also avoided getting plants into focus to prevent triggering the motion sensor (Rozhnov et al., 2019). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                219,
+                489,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In total, we used 38 camera trap stations with Bushnell Trophy Cam HD, Spromise s108, Spromise S308 and Reconyx PC900. We installed only one camera trap per station. After 2016, we changed the location of some camera traps so that each camera worked half of the season (1.5 months) at one station and half at another to increase the number of locations. We removed cameras four times per year in the middle of each season between two locations in order to allow cameras of each location to work half of each season. We analysed these locations as independent ones. Capturing efforts were of 53 987 trap-nights during the study period. The total number of stations increased from 27 to 66, resulting in adding new cameras and seasoning some station’s working schedules. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                414,
+                492,
+                677
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bef46fe417500a8e34660a3593665d5035384d922006e84d6bfe2db04ec20698.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. The distribution of camera traps in the Kaluzhskie Zaseki State Nature Reserve (Russia) and the border of the wolf home range in 2019. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                693,
+                489,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We estimated dynamic interactions by the coefficient of sociality (Kenward et al., 1993) using the geometric mean distance. We analysed four diads, i.e. pairs of predator-prey species, where one of the members was a wolf, and another was one of four ungulate species. Extreme values of the coefficient show a difference from the expected distance between analysed members of the diad. A positive value (or «attraction») means a lesser observed distance, whereas a negative value (or «avoidance») means a higher observed distance. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Values of the coefficient close to 0 mean indifference in using space in members of diad (there is no difference from random spatial distribution). We chose this coefficient because it does not require polygons (i.e. home ranges of animals), and it can be applied to the analysis of data from camera traps. Also, it showed good results in testing indices of dynamic interactions, since it is capable of identifying presence or absence of dynamic interactions and showed a high significance of results (Long et al., 2014). This is the most complex and multifactorial index that we analyse. Its values reflect the mutual tendencies of distance and approach of predator and prey. This index can record not only direct impacts, but also manifestations of research interest, and other forms of indirect interaction between species, including those mediated by another species of prey for a predator or a competitor for the prey. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                252,
+                922,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We calculated this coefficient in Ranges8 software, using a 6-hour time threshold. In addition to coefficients for the whole study area, we estimated coefficients for various zones (sub-units) of the wolf home range (Hernandez-Blanco et al., 2005). As the wolf is a social predator, which lives in packs (Bibikov, 1985; Mech & Boitani, 2003), here and further we use term «wolf home range» for the home range of the whole pack. Calculating the coefficient of sociality for sub-units we do not submit the results for the home core and for all subunits in roe deer due to the small number of fixed diads (less than five or absent), which does not allow us to interpret the results appropriately. Due to a small number of fixed diads in separate sub-units, we used a longer time threshold (12 h) in its analysis. We did not use a longer time threshold because of the larger distances, which the animals can move during this time and, therefore, the longitude of the distance between the animals in the analysed diad can be caused not by their interdependence. The number of camera trap locations in sub-units of the wolf home range was proportional to its area. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                562,
+                922,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                921,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "35 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We established the inner structure of the wolf pack home range with the data gained from snow tracking (in winter) and registrations of wolf traces. We follow the concept of three sub-units constraining the wolf pack home range: (1) the home core, a functional centre of the wolf home range which includes dens and rendezvous sites; (2) the vital space, a hunting ground for the mating pair with pups in the autumn–winter period; (3) the spatial shell occupying the space between the external border of the vital space and the boarder of the pack home range, where subadult wolves stay during the period after the pups’ birth (Hernandez-Blanco et al., 2005). We used the term «home core» instead of the commonly used «core area» (Kaufmann, 1962). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                492,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We determined the boundaries of the wolf pack home range and sub-units using the minimal convex polygon method (MCP) with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the locations (Hayne, 1949). For a home core, we used locations of dens and rendezvous sites used by an adult female with pups during summertime after leaving the den. For a vital space, locations of the hunting behaviour of the mating pair with pups were used. For estimating the boundaries of a spatial shell and total wolf home range we used the locations of all members of the pack (Hernandez-Blanco et al., 2005). To estimate the area of each sub-unit and to attribute camera trap locations to one of the sub-units, we cut the overlapped area of the inner sub-units as follows: the spatial shell was the wolf home range without vital space and home core, the vital space was the polygon determined by MCP "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "without overlapping with the home core area. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                317,
+                492,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We consider the presence of adult wolves except the mating pair in a wolf pack to be possible since offspring can stay in the pack after maturing (Mech & Boitani, 2003). The cases of multiple breeding described in the literature also confirm the possibility of having more than two mature wolves in the pack (Murie, 1944; Mech & Boitani, 2003; Hernandez-Blanco et al., 2005). We determined the composition of the wolf pack by the podometry method (Hernandez-Blanco et al., 2005) and by camera-trap data. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                627,
+                490,
+                807
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results Wolf pack composition and home range "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                110,
+                822,
+                445,
+                854
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During the study period the wolf pack size was nearly constant except for the last year. Immediately after the ASF epizootic in 2015, the size of the wolf pack decreased to a small extent (twice less than before), and in 2019 it dropped to "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                854,
+                490,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "only nine wolves in the whole pack (Table 1). The number of pups changed slightly. In 2016, when the density of the wild boar was minimal, the number of wolf pups was also minimal. However, the next year more pups were born than in previous years. During the study period the birth rate did not change significantly, but by 2019 the number of sub-adult and adult wolves staying in the pack decreased, which led to a reduction of the size of the pack. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The area of the wolf home range varied from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 9 \\ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "during the study period. The average area was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 3 6 ~ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The area of the home core during the study period was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 ~ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This subunit constituted on an average of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the home range, and it had the smallest area during most of the study period. The vital space covered on average 27 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", ranging from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 3 ~ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 7 \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". It constituted "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "20 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the wolf home range. The largest sub-unit was the spatial shell, its area ranged from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 3 2 \\ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which was about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "70 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the wolf home range. Since the home core had a small area, the number of camera trap locations was small, leading to a small number of registrations of wolves and ungulates within this sub-unit. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                237,
+                922,
+                481
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ungulate population density "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                541,
+                497,
+                781,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We used data from annual counts of ungulates in the Kaluzhskie Zaseki SNR firstly to ascertain preferences in the wolf diet. However, these results reflect the situation in the study area well, so they are necessary to present (Table 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                514,
+                921,
+                595
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Wolf diet "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                541,
+                609,
+                621,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During the study period, we analysed 531 wolf scats. Ungulates made up "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "32 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "69 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the wolf diet. Among non-ungulate prey, the most often was beaver, with participation of Lepus timidus, Nyctereutes procyonoides, and Vulpes vulpes (Fig. 2). The remains of birds, insects, and plants (usually Malus sp. and Prunus sp.) constrain «Other» category. We did not identify species of small rodents and fixed only their presence. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                627,
+                922,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In 2015, when the ASF epizootic happened, the proportion of wild boar was still high. But in the following years its occurrence in the wolf diet decreased. Since the next year, 2016, the beaver has constituted most of the wolf diet. In 2016, the proportion of beaver and wild boar in diet was comparable, but further, the proportion of beaver increased. The proportion of each ungulate species and beaver with Jacobs’ index calculated is presented in Table 3. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                772,
+                922,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4d25104e4fd04e91dc15c670eae841ef31b7f538bc8b47e6fc157c9835625e7c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Wolf pack size and density of wolves (individuals per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") in the south cluster of the Kaluzhskie Zaseki State Nature Reserve (Russia) in winter, 2014–2019 "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note: ASF – African swine fever. "
+                    }
+                ],
+                "html": "<table><tr><td>Year</td><td>Density</td><td>Wolf pack size</td><td>Adult</td><td>Sub-adult</td><td>Juvenile</td></tr><tr><td>2014</td><td>11.9</td><td>14</td><td>4</td><td>6</td><td>4</td></tr><tr><td colspan=\"6\">ASF epizootic</td></tr><tr><td>2015</td><td>10.1</td><td>12</td><td>3</td><td>5</td><td>4</td></tr><tr><td>2016</td><td>10.1</td><td>12</td><td>4</td><td>5</td><td>3</td></tr><tr><td>2017</td><td>10.1</td><td>12</td><td>2</td><td>5</td><td>5</td></tr><tr><td>2018</td><td>10.1</td><td>12</td><td>5</td><td>4</td><td>3</td></tr><tr><td>2019</td><td>7.6</td><td>9</td><td>2</td><td>3</td><td>4</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                77,
+                99,
+                919,
+                219
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1b0cc472f5d30ed11d8a17b6ad07dc378be4901625513de2736adeb0c24d1956.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2. Population density (individuals per "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of main ungulate species in the southern cluster of the Kaluzhskie Zaseki State Nature Reserve (Russia) "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note: ASF – African swine fever. "
+                    }
+                ],
+                "html": "<table><tr><td>Year</td><td>Wild boar</td><td>Roe deer</td><td>Moose</td><td>European bison</td></tr><tr><td>2014</td><td>362.5</td><td>10.2</td><td>80.6</td><td>89.1</td></tr><tr><td colspan=\"5\">ASF</td></tr><tr><td>2015</td><td>51.8</td><td>108.7</td><td>59.4</td><td>96.8</td></tr><tr><td>2016</td><td>2.5</td><td>62.0</td><td>71.3</td><td>113.8</td></tr><tr><td>2017</td><td>28.9</td><td>26.3</td><td>77.2</td><td>123.1</td></tr><tr><td>2018</td><td>41.6</td><td>23.8</td><td>87.4</td><td>140.9</td></tr><tr><td>2019</td><td>44.1</td><td>58.6</td><td>112.9</td><td>174.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                77,
+                273,
+                919,
+                394
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/97339248d8657201671ecbf417a3cfb501a1a9aa630344b81dfe4c9292e84451.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3. The proportion of ungulates in the wolf diet and Jacobs’ index (D) with p-value from Fisher’s exact test (N – number of analysed scats) in the Kaluzhskie Zaseki State Nature Reserve, Russia "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note: ASF – African swine fever. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Species</td><td>Variable</td><td>2014</td><td rowspan=\"17\">ASF</td><td>2015</td><td>2016</td><td>2017</td><td>2018</td><td>2019</td></tr><tr><td>N</td><td>183</td><td>65</td><td>56</td><td>69</td><td>80</td><td>78</td></tr><tr><td rowspan=\"3\">Wild boar</td><td>Proportion in diet, %</td><td>57.4</td><td>66.2</td><td>28.6</td><td>20.3</td><td>17.5</td><td>3.9</td></tr><tr><td>D</td><td>0.82</td><td>0.98</td><td>1.00</td><td>0.91</td><td>0.44</td><td>-0.40</td></tr><tr><td>p-value in Fisher test</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>0.008</td><td>0.184</td></tr><tr><td rowspan=\"3\">Roe deer</td><td>Proportion in diet, %</td><td>1.6</td><td>1.5</td><td>3.6</td><td>7.2</td><td>12.5</td><td>16.7</td></tr><tr><td>D</td><td>0.19</td><td>-0.92</td><td>-0.45</td><td>0.51</td><td>0.51</td><td>0.22</td></tr><tr><td>p-value in Fisher test</td><td>0.712</td><td>&lt; 0.001</td><td>0.260</td><td>0.049</td><td>0.007</td><td>0.190</td></tr><tr><td rowspan=\"3\">Moose</td><td>Proportion in diet, %</td><td>0.5</td><td>1.5</td><td>0.0</td><td>0.0</td><td>10.0</td><td>9.0</td></tr><tr><td>D</td><td>-0.90</td><td>-0.82</td><td>-1.00</td><td>-1.00</td><td>-0.30</td><td>-0.48</td></tr><tr><td>p-value in Fisher test</td><td>&lt; 0.001</td><td>0.005</td><td>0.0106</td><td>0.007</td><td>0.132</td><td>0.009</td></tr><tr><td rowspan=\"3\">European bison</td><td>Proportion in diet, %</td><td>0.5</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>6.41</td></tr><tr><td>D</td><td>-0.91</td><td>-1.00</td><td>-1.00</td><td>-1.00</td><td>-1.00</td><td>-0.77</td></tr><tr><td>p-value in Fisher test</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>&lt; 0.001</td><td>&lt; 0.001</td></tr><tr><td rowspan=\"3\">Beaver</td><td>Proportion in diet, %</td><td>16.4</td><td>12.3</td><td>32.1</td><td>46.4</td><td>36.3</td><td>53.8</td></tr><tr><td>D</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0.44</td><td>0.78</td></tr><tr><td>p-value in Fisher test</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0.001</td><td>&lt; 0.001</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                77,
+                447,
+                919,
+                699
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9c6318b0215f29162cb36a52f1e4419d898e8f9492376e272a6f90981d732f44.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. The proportion of identifications in wolf scats in the Kaluzhskie Zaseki State Nature Reserve (Russia) during 2014– 2019. Designations: ASF – African swine fever epizootic. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                726,
+                478,
+                892
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The wild boar constituted more than half of the wolf diet before the ASF epizootic (in 2014) and in 2015. In the subsequent years, the proportion of wild boar decreased gradually in the wolf diet. The proportion of roe deer and moose in the wolf diet increased after the decrease of the wild boar population; however, moose began to occupy a significant part of the wolf diet only three years after the ASF epizootic, in 2018. The proportion of the European bison hairs was negligible small "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( < 1 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This situation did not change significantly after the wild boar population decline, except for 2019, because all the samples with the European "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                722,
+                921,
+                935
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "37 "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                945,
+                509,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "bison hairs in 2019 (five samples) were collected within less than one month, and the whole number of collected scats was small (54 samples). The beaver constituted a significant part of the wolf diet, and after the ASF epizootic it occupied the major part of wolf diet. Before the ASF epizootic Jacobs’ index showed only preference for the wild boar. In the following years, it revealed preference for the wild boar (only four years after the ASF epizootic), roe deer (in one year) and beaver (both two years with index calculated). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                492,
+                253
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Dynamic interactions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                109,
+                269,
+                292,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The results of the analysis of dynamic interactions for the whole wolf pack home range are presented in Fig. 3. We also estimated the coefficient of sociality for separate sub-units where it was possible: the vital space and the spatial shell (Fig. 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                285,
+                489,
+                367
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Wild boar "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                110,
+                382,
+                194,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The coefficient of sociality for the wolf-wild boar diad was positive or negative, but negative values appeared only after the ASF epizootic (Fig. 3A). In the vital space, the coefficient was above 0 (except 2016 and 2017, when there were no fixed diads at all). However, in 2018 and 2019 there were only three and two fixed pairs due to a small area of the sub-unit and low values of the wild boar population (Fig. 4A). In the spatial shell values of the coefficient differed between years. Except for 2014 and 2019, the sign of the value of the coefficient in the spatial shell matches with the one for the total home range. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                398,
+                489,
+                609
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Roe deer "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                109,
+                627,
+                186,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The coefficient of sociality for the wolf-roe deer diad was mostly positive (in 2015, 2016 and 2018) (Fig. 3B). In 2017 there was a negative value, while the value of the coefficient was close to 0 in 2019. Since there was a low number of fixed wolfroe deer diads in all study periods, we did not perform the analysis for sub-units. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                642,
+                489,
+                757
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Moose "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                109,
+                772,
+                169,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "High positive values in the wolf-moose diad appeared after the ASF epizootic (Fig. 3C). Except 2015, values of the coefficient increased gradually from negative value in 2014 to high positive value in 2019. The high positive value in 2015 might be due to the low number of wolf-moose fixed diads in that year. In the vital space, the number of fixed diads was too small. In the spatial shell, there was not any pattern either (Fig. 4B). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                789,
+                490,
+                936
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1563a6f02542ca270258e91c03b41522d3ce7b174d64bbec1b3e9b023f7fb960.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                80,
+                705,
+                193
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d49629d66411470d8c9aad7d359b24ffa0b8786204c75cb41db1bfb74726fbcd.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                714,
+                80,
+                909,
+                193
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e3f5f4b887f781d3f0aa96e6c4e9d765adc91e8d4cc500bef6f7a68acb8a5340.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                205,
+                705,
+                316
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/17067e2880078252e409136bcc0bb2b7848aa4a80d610e5b509551e8dd9a4cb1.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. The coefficient of sociality (S ) in the total wolf pack home range in the Kaluzhskie Zaseki State Nature Reserve, Russia. Designations: A – for wolf-wild boar diad; B – for wolf-roe deer diad; C – for wolf-moose diad; D – for wolf- European bison diad; * – the number of diads was less than five, which is not enough for an adequate result; ASF – African swine fever epizootic. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                717,
+                206,
+                907,
+                317
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f80ecf974646f062eca4a230f4cd5ab80d892fd08529b7dc6fc69ecda131e475.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Vital space Spatial shell "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                514,
+                429,
+                705,
+                538
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/31f54f16d09e09a149d9e2adba54f88b622214f07ef7b9bb6f3f68d7a462102e.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                512,
+                542,
+                705,
+                644
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bc03a35fb896df956ca7d292ecb35bd52555988a17d76f897a0a356825fbc8ba.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. The coefficient of sociality (S ) in sub-units of wolf pack home range in the Kaluzhskie Zaseki State Nature Reserve, Russia. Designations: A – for wolf-wild boar diad; B – for wolf-moose diad; C – for wolf- European bison diad; * – the number of diads was less than five, which is not enough for an adequate result; ASF – African swine fever epizootic. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                721,
+                543,
+                905,
+                650
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "European bison "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                539,
+                756,
+                670,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The coefficient of sociality for the wolf-European bison diad did not show any reaction to the wild boar population decline (Fig. 3D). In 2014, this coefficient took a negative value, and avoidance is shown for vital space. But in the spatial shell we found high attraction in the wolf-European bison pair (Fig. 4C). In 2015, the total coefficient is close to 0, which shows an independent use of space between these two species. There was no attraction or avoidance in vital space. Nevertheless, this is the only year where "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                772,
+                919,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "38 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "the coefficient was above 0. The coefficient of sociality took a high positive value only in 2016, but attraction was found only in the spatial shell among the sub-units. In 2017, 2018, and 2019, the number of pairs in the vital space was too low to give adequate results. The coefficient for the whole wolf pack home range shows a weak attraction in 2017 and near independence in 2018, with the attraction being in the spatial shell in both periods. In 2019, the coefficient shows weak avoidance in the wolf pack home range and also in the spatial shell. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                492,
+                253
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                233,
+                269,
+                329,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The wild boar is often one of the main prey species for wolves at places where it is presented (Salvador & Abad, 1987; Kübarsepp & Valdmann, 2003; Andersone & Ozoliņš, 2004; Capitani et al., 2004; Imbert et al., 2016; Ståhlberg et al., 2017). In the Kaluzhskie Zaseki SNR, this species had been the main prey species for several decades (Hernandez-Blanco & Litvinova, 2003). That is why such an abrupt decline in its population could not pass without consequences for wolves. On a large scale decreasing prey abundance can lead to a decline in predator population (Mech, 2007). But in our case, this did not happen. Since we carried out a long-time wolf monitoring, we gained an opportunity to assess the consequences for a certain wolf pack. According to the results of scat analysis, wolves were compelled to switch to other species. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                285,
+                489,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When the density of the wild boar was still high in the Kaluzhskie Zaseki SNR, it was the main prey species for wolves. Therefore, wolves often and successfully pursued wild boars. In that case, the coefficient of sociality reflects the situation well. After the ASF epizootic appeared, the density of wild boar decreased drastically. At the same time, there were a lot of carcasses in the forest. Wolves tend to eat carrion as well (Mech, 1995), and it should decrease their need to hunt. That explained the high proportion of wild boar in the wolf diet and the negative value of the coefficient of sociality. However, in the vital space, the value of the coefficient of sociality was above zero. It can imply that adult wolves tend to pursue remaining wild boars, showing a high preference for them (Capitani et al., 2004). In 2016, the year after the ASF epizootic, the population density of the wild boar was the lowest, and there were only single adult animals. All fixed diads were in the spatial shell, with the number of camera traps three times more than in vital space because of its larger area. Despite the low density of the wild boar, the coefficient of sociality showed successful pursuit of wild boars by wolves "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                562,
+                490,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "in the periphery of the home range. The high proportion of the wild boar in the diet confirmed this and pointed to the fact that wolves were still able to find their preferred prey. We suggest that in the nearest hunting grounds recovery of the wild boar population might occur faster with the help of feeding. A part of the spatial shell overlapped with the area of hunting grounds. In 2017, the density of the wild boar was increasing but not significantly. With the rising proportion of other prey species in the diet, especially the beaver, the interest towards wild boars might have decreased. It allowed wild boars to avoid hunting successfully. In 2018, a high positive value of the coefficient of sociality accorded with a high preference in wild boar by wolves and the considerable proportion of wild boar in the wolf diet. Despite the low density of the wild boar, wolves successfully hunt them. In contrast with 2018, in 2019 the interest of wolves towards wild boars decreased, according to Jacobs’ coefficient. The wild boar’s frequency of occurrence in samples was much lower, and the spatial distribution of wild boar and wolf relative to each other was close to random. The general dynamics in these relationships came to a gradual decrease in preference. Even under conditions of low abundance of the wild boar, wolves preyed primarily them, but compensated the lack of food by other prey species. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                513
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "First of all, the decline in the wild boar population increased predation on beavers. The presence of the beaver in the wolf diet is noticed in previous studies (Kübarsepp & Valdmann, 2003; Andersone & Ozoliņš, 2004; Nowak et al., 2011; Newsome et al., 2016; Sidorovich et al., 2017; Gable et al., 2018). The situation of increasing predation pressure on beavers under conditions of decline in large- and mediumsized prey has already been described in the literature (e.g. Frenzel, 1974; Shelton & Peterson, 1983; Messier, 1985; Milne et al., 1989; Andersone, 1999). In our case, the beaver played the most important compensatory role for wolves. Wolves tend to choose smallersized prey in the presence of large ungulates. Wolves are often specialised in a particular species, independent of their abundance, which is medium-sized ungulates among potential prey (Mech & Boitani, 2003; Capitani et al., 2004; Gazzola et al., 2005; Śmietana, 2005; Barja, 2009; Nowak et al., 2011). Thus, wolves tend to choose species that require fewer efforts to kill (Cowan, 1947; Mech & Boitani, 2003), though the choice does not always depend on size (Wikenros et al., 2009). It appeared that the beaver was the most available prey in our case. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                514,
+                922,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In case of roe deer, there is a need to take into consideration one more predator, Lynx lynx, which "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                904,
+                921,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                663,
+                49,
+                919,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "39 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "can also hunt roe deer. At some places, the roe deer is the main prey for L. lynx (Sidorovich, 2006; Schmidt, 2008). The influence of L. lynx on the roe deer population has not been analysed in the study area, but we suppose this predator to influence it to a lesser extent than the wolf. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                489,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Mostly wolves used proportionally the roe deer to its population. But after the decrease in wild boar availability, the proportion of this food item increased. The population of the roe deer fluctuated during the study period. The results showed avoidance of the roe deer only in 2015, when the highest density was registered, and there was a large number of carcasses of wild boars, which died from the ASF epizootic. The roe deer also became an important substitute prey for wolves. The coefficient of sociality showed attraction only in two years. In 2016, there were few registered fixed diads, and a relatively high density of roe deer was observed, and in 2018, a high preference in the wolf diet was fixed. High mobility and frequent changes of the sign in the sociality index in the wolf-roe deer pair, in our opinion, clearly demonstrate a race in the strategy of wolves searching for roe deer and the latter avoiding wolves. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                171,
+                489,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The moose is a large ungulate, and hunting this species can be risky for wolves since it can cause serious injuries (Mech & Boitani, 2003). Hence, if middle-sized ungulates are available, they are often more preferable for wolves than moose (Pimlott, 1967; Fritts & Mech, 1981; Potvin et al., 1988; Kunkel et al., 1999; Stahler et al., 2006). Nevertheless, in many regions of both North America and Eurasia, moose is the main prey of wolves (Mech, 1966; Peterson, 1977; Poyarkov, 1980; Bologov, 1981; Filonov & Kaletskaya, 1985; Messier, 1985; Mech & Boitani, 2003; Kojola et al., 2004; Wikenros et al., 2009; Bondarev, 2013). Moose hunting appears to require behavioural traditions passed down from generation to generation. It is interesting that in the zone of the southern taiga and deciduous forests, it is not typical for wolves to hunt moose, which is widely practised in more northern latitudes (Poyarkov et al., 2022). That can explain the near absence of moose in the wolf diet. Till 2018, when moose began to occupy a considerable part of the wolf diet, positive values of the coefficient of sociality were only in the spatial shell. It can also testify to the possibility of attempts by sub-adult wolves to pursue moose. New behaviour forms, including hunting, are often introduced into populations by young individuals since their behaviour is more plastic and not subject to rigid stereotypes. However, only in 2018, i.e. three years after the ASF epizootic, wolves began to hunt mooses successfully to a significant ex-"
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                464,
+                489,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "tent. The coefficient of sociality conformed with these suggestions, taking positive values in 2018 and 2019. Wolves used the moose as substitute prey, but they did not start hunting it earlier, when the population of the wild boar decreased. The trigger might be the fact that in 2018 and 2019 the density of the moose in the Kaluzhskie Zaseki SNR was higher than in previous years. It also explains the lack of interest towards mooses in these years, which is why the most vulnerable part of the moose population (young and old individuals) could increase. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Analysis of scats revealed that the European bison was rare in the wolf diet in our research despite it is the most common among ungulate species in the Kaluzhskie Zaseki SNR. The decline in wild boar population did not change the situation. Bison bison Linnaeus, 1758, the closest relative of the European bison, was reported to be an important food resource for wolves at several places elsewhere (Carbyn & Trottier, 1988; Smith et al., 2000; Shave et al., 2020). Therefore, the European bison is a potential prey for wolves. However, at other places wolves rarely prey upon the European bison (Śmietana & Klimek, 1993; Jędrzejewski et al., 2000, 2012; Nowak et al., 2011; Sidorovich et al., 2017; Kaczor et al., 2019). Carrion is also an acceptable source of food for wolves (Mech, 1995), and scavenging on European bison is not an exception. In the Białowieża Primeval Forest and the Bieszczady Mountains (both in Poland), wolves are one of the most frequent scavengers on European bison carcasses (Selva et al., 2003; Jankowski et al., 2019). In our study, we suppose both cases of the presence of European bison hair in scats (in 2014 and 2019) to be the result of scavenging, since we have not found evidence of successful hunting on the European bison during snow tracing. Jacobs’ index confirmed the avoidance of using European bison as a prey by wolves in all years except one. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                252,
+                922,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The only period when the coefficient of sociality had a positive value was 2016 year. The attraction was shown only in the spatial shell. Differences between vital space and spatial shell can be a result of the distinct hunting behaviour of adult and subadult wolves. Sub-adults’ pursuit distance is supposed to be longer than that of adult ones. Sub-adult wolves are interested in European bison and try to pursue them, in the wolf-pack home range periphery, which causes more disturbances of European bison and their avoidance of wolves. Also, the population of the European bison is steadily growing owing to the successful programme of conservation and reintroduction (Belousova et al., 2002). European bisons expand the space used and go further beyond "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                692,
+                922,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                48,
+                561,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                921,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "40 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "the border of the southern cluster of the Kaluzhskie Zaseki SNR. Therefore, more European bisons appeared in the spatial shell, including mixed groups with calves (Krasińska & Krasiński, 2013). The presence of calves and young animals can attract sub-adult wolves. Adult wolves are more experienced and do not take the risk of hunting European bison, using more habitual species. In total, the coefficient shows some dynamics of increasing attraction with the highest attraction in 2016 and the following decreasing. The highest attraction matched with the lowest wild boar population density. In the following years, the wild boar population density slowly increased, and the other prey species, beaver, occupied the largest part of the wolf diet. It can explain the lack of interest in wolves towards the European bison. In addition, till 2015 (when AFS happened), the European bison population density was less than 100 individuals "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "/ \\mathrm { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Under those conditions, there were few separate groups during most of the year except the calving period. Since its population density grew, the number of separate groups during the whole year increased. Hence, the probability of a close encounter of the European bison and the wolf also increased. It should shift the coefficient of sociality to a positive value, but this did not happen in our case. The decline in the main prey population did not cause noticeable changes in dynamic interactions between the wolf and the European bison. However, with the increasing density the European bison can become a prey species for the wolf in future. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                72,
+                492,
+                576
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The coefficient of sociality is the modification of the Jacobs’ index which is usually applied to telemetry data with the diads of two analysed individuals (Kenward et al., 1993; Eriksen et al., 2009). We adapt this coefficient to data gained with camera traps to assess dynamic interactions between two species. Telemetry data include information about separate individuals and that is only a small part of the population (Eriksen et al., 2009). Using data from camera traps gives the information about spatial distribution of all the animals fixed by cameras, and this better reflects the spatial distribution of the whole population. However, the use of camera traps creates another problem, namely the lack of fixed diads. In some cases, the number of fixed diads was either small, or absent, which did not allow us to perform a correct analysis. Also spotted fixation of animals can lead to some bias, since the absence of fixation on the camera trap does not mean the absence of the animal in this area. However, we believed it was possible to minimise these problems by expanding of the camera trap matrix. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                577,
+                490,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When applied to two individuals of one species, the coefficient of sociality gives a clear result, where positive values point to an attraction between individuals, and negative values show avoidance between them (Kenward et al., 1993). As for predatorprey interactions, we cannot interpret the gained results as mutual attraction or avoidance. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Prey tends to avoid places where predators are present whereas predators prefer areas with more prey. This is a constant behavioural response race between prey and predator (Sih, 2005), and negative or positive spatial association between species may provide only the result of this race. Although field studies of the factors affecting predator-prey space use are not very numerous, there is evidence that different factors influence the outcome of the space use race (Sih, 2005), including the density of species, the spatial distribution of resources, landscape, presence of refuges for prey, presence of other species of prey or other predators (Bouskila, 2001; Heithaus, 2001), the activity of both prey and predator (Luttbeg & Schmitz, 2000). The presence of behavioural adaptations against predators is also important. A low level of anti-predator behaviour will shift the result of the predator-prey race on the predator’s behalf. In our case, this result changes year after year. Which exact factor affected the coefficient value in every single case is hard to say. Of all the types of wolf prey, the beaver has virtually no ability to avoid wolf predation by moving to another place, since it is rigidly attached to its habitats and shelters. In this respect, Meles meles and Nyctereutes procyonoides are close to beavers, although this limitation is less pronounced for them. On the contrary, such mobile ungulates as roe deer and moose can actively move around the home site, avoiding predation by wolves. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                187,
+                922,
+                658
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our results imply that the coefficient of sociality applied to predator-prey interactions did not get an unambiguous output. There is some consistency between this coefficient of dynamic interaction and preferences in prey, but it cannot be explained to the full extent. The «attraction» towards the main prey is not always present. The same result was gained in the study of telemetry data as well (Eriksen et al., 2009). We tried to explain the results of dynamic interactions analysis using factors we were able to assess, such as prey density, density of other prey species, and spatial distribution of prey and predator. The population of predators, i.e. wolves, was stable during the study period, and for three of the four ungulate species the wolf is the only predator in the study area. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                659,
+                922,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The proportion of prey species in the diet changes immediately according to feeding needs. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                904,
+                921,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                48,
+                559,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "41 "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                945,
+                507,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The same situation has been described in Belarus (Sidorovich et al., 2017). In Germany, Wagner et al. (2012) showed that resettled wolves, originating from Poland, reduced the proportion of initially preferred prey two years after resettlement, whereas the proportion of another prey species, which was more available in the new place, had been growing for five years. In our case, according to Jacobs’ index, the preference for wild boar in the diet changed to avoidance four years after its population decline. Hence, changes in preferences in our study proceeded gradually. First of all, wolves substitute an unavailable prey species with those, which has a high density. However, it takes more time to change specialisation. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                73,
+                492,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A sharp decline in the wild boar population did not significantly impact the wolf pack size for at least four years after the ASF epizootic (Table 1). The number of pups does not deviate from the common number for this pack. In 2019, the number of adult wolves in the pack sharply reduced compared to the breeding pair only. That could be the consequence of the replacement of the breeding pair, but we cannot confirm it without genetic analysis and individual identification. According to these results, the decrease in the main prey population did not reflect the demographic situation in the wolf pack and its spatial structure. During the period when switching prey species, wolves did not expand their home range and did not start to hunt on dogs or livestock in the nearest settlements. The available ungulate species and smaller prey species were enough to sustain the wolf pack after the decreasing of their main prey population. This means the natural system of the Kaluzhskie Zaseki SNR is fully functional with rich trophic levels. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                300,
+                492,
+                643
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In our study, we demonstrate and analyse three important indicators characterising the relationships in the predator-prey system, namely a) the proportion of prey in the predator’s diet, b) the Jacobs’ index for various types of prey, c) the sociality index in predator-prey dyads. The first indicator demonstrates the direct load of the predator on the prey. This is a very important parameter, but in itself, it has little predictive value, since interaction at the population level depends on the ratio of population densities and several other indirect impact factors. The Jacobs’ index shows the level of selectivity of a predator towards a prey species. In a predator-prey system, there may be situations where the predator’s primary prey may have a neutral or even negative Jacobs’ index. This means that the predator does not have a critical limiting effect on the prey population and the system is regulated from the bottom up. On the contrary, high "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                643,
+                492,
+                936
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "positive values of the Jacobs’ index indicate a high degree of influence of the predator on the prey population, and in these situations the system with a high degree of probability moves to the level of top-down regulation. The integrated use of three indicators opens up opportunities for an in-depth analysis of complex structural relationships in the predator system in a multispecies prey community. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                73,
+                922,
+                205
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                658,
+                219,
+                769,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is difficult to reveal changes in dynamic interactions between wolves and ungulates since there are too many factors affecting them. Under conditions of unavailability of the wild boar, the main prey of wolves in the Kaluzhskiye Zaseki SNR, they switched to other prey species but saved preference for wild boar for four years. The role of two ungulate species, roe deer and moose, in the wolf diet increased to some extent; however, they did not constitute most of it. The beaver became the main prey of wolves. Wolves used substitute prey species mostly according to their density. Wolves did not start actively hunting European bison despite its high population. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                236,
+                922,
+                450
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                626,
+                463,
+                800,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We are grateful to the administration of the Kaluzhskiye Zaseki State Nature Reserve (Russia) for providing this study. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                479,
+                921,
+                508
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                665,
+                523,
+                764,
+                539
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Amir Z., Sovie A., Luskin M.S. 2022. Inferring predator–prey interactions from camera traps: A Bayesian co-abundance modeling approach. Ecology and Evolution 12(12): e9627. DOI: 10.1002/ece3.9627 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andersone Z. 1999. Beaver: a new prey of wolves in Latvia? Comparison of winter and summer diet of Canis lupus Linnaeus, 1758. In: P.E. Busher, R.M. Dzięciołowski (Eds.): Beaver Protection, Management, and Utilization in Europe and North America. Boston: Springer. P. 103– 108. DOI: 10.1007/978-1-4615-4781-5_13 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andersone Ž., Ozoliņš J. 2004. Food habits of wolves Canis lupus in Latvia. Acta Theriologica 49(3): 357–367. DOI: 10.1007/BF03192534 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Anson J.R., Dickman C.R., Boonstra R., Jessop T.S. 2013. Stress Triangle: Do Introduced Predators Exert Indirect Costs on Native Predators and Prey?. PLoS ONE 8(4): e60916. DOI: 10.1371/journal.pone.0060916 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Barja I. 2009. Prey and Prey-Age Preference by the Iberian Wolf Canis Lupus Signatus in a Multiple-Prey Ecosystem. Wildlife Biology 15(2): 147–154. DOI: 10.2981/07-096 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Baruzzi C., Lovari S., Fattorini N. 2017. Catch me if you can: antipredatory behaviour of chamois to the wolf. Ethology Ecology and Evolution 29(6): 589–598. DOI: 10.1080/03949370.2016.1271016 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Belousova I.P., Flint V.E., Kazmin V.D., Kiseleva E.G., Kudryavtsev I.V., Pirozhkov N.V., Sipko T.G. 2002. Strategy for "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                552,
+                921,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                49,
+                559,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                921,
+                64
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "42 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "conservation of the European bison in the Russian Federation. Moscow. 45 p. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bibikov D.I. (Ed.). 1985. The Wolf: History, Systematics, Morphology, Ecology. Moscow: Nauka. 606 p. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bologov V.P. 1981. Wolf and elk. Hunting and Game Management 3: 12–13. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bondarev A.Ya. 2013. West Siberian Wolves. Moscow: Tsentrokhotkontrol. 248 p. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bouskila A. 2001. A habitat selection game of interactions between rodents and their predators. Annales Zoologici Fennici 38(1): 55–70. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Capitani C., Bertelli I., Varuzza P., Scandura M., Apollonio M. 2004. A comparative analysis of wolf (Canis lupus) diet in three different Italian ecosystems. Mammalian Biology 69(1): 1–10. DOI: 10.1078/1616-5047-112 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Carbyn L.N., Trottier T. 1988. Descriptions of Wolf Attacks on Bison Calves in Wood Buffalo National Park. Arctic 41(4): 297–302. DOI: 10.14430/arctic1736 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Caro T.M., Graham C.M., Stoner C.J., Vargas J.K. 2004. Adaptive significance of antipredator behaviour in artiodactyls. Animal Behaviour 67(2): 205–228. DOI: 10.1016/j.anbehav.2002.12.007 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chernova O.F., Tselikova T.N. 2004. Atlas of mammalian hair. Moscow: KMK Scientific Press Ltd. 429 p. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chistopolova M., Hernandez-Blanco J.A., Litvinova E. 2009. The using of new areas for free-ranging group of European bison (Bison bonasus) in European Russia. European Bison Conservation Newsletter 2: 40–46. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cowan I.M. 1947. The Timber Wolf in The Rocky Mountain National Parks of Canada. Canadian Journal of Research. 25d(5): 139–174. DOI: 10.1139/cjr47d-012 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Creel S., Christianson D. 2008. Relationships between direct predation and risk effects. Trends in Ecology and Evolution 23(4): 194–201. DOI: 10.1016/j.tree.2007.12.004 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Dale B.W., Adams L.G., Bowyer R.T. 1994. Functional Response of Wolves Preying on Barren-Ground Caribou in a Multiple-Prey Ecosystem. Journal of Animal Ecology 63(3): 644–652. DOI: 10.2307/5230 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Dormann C.F., Bobrowski M., Dehling D.M., Harris D.J., Hartig F., Lischke H., Moretti M.D., Pagel J., Pinkert S., Schleuning M., Schmidt S.I., Sheppard C.S., Steinbauer M.J., Zeuss D., Kraan C. 2018. Biotic interactions in species distribution modelling: 10 questions to guide interpretation and avoid false conclusions. Global Ecology and Biogeography 27(9): 1004–1016. DOI: 10.1111/geb.12759 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Eriksen A., Wabakken P., Zimmermann B., Andreassen H.P., Arnemo J.M., Gundersen H., Milner J.M., Liberg O., Linnell J., Pedersen H.C., Sand H., Solberg E.J., Storaas T. 2009. Encounter frequencies between GPS-collared wolves (Canis lupus) and moose (Alces alces) in a Scandinavian wolf territory. Ecological Research 24(3): 547– 557. DOI: 10.1007/s11284-008-0525-x "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Filonov K.P., Kaletskaya M.L. 1985. Influence of wolf predation on wild ungulates. In: D.I. Bibikov (Ed.): Wolf: History, Systematics, Morphology, Ecology. Moscow: Nauka. P. 336–355. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fraker M.E., Luttbeg B. 2012. Predator-prey space use and the spatial distribution of predation events. Behaviour. 149(5): 555–574. DOI: 10.1163/156853912X645087 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                74,
+                487,
+                938
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Frenzel L.D. 1974. Occurrence of moose in food of wolves as revealed by scat analysis: a review of North American studies. Naturaliste Canadiene 101: 467–479. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fritts S.H., Mech L.D. 1981. Dynamics, Movements, and Feeding Ecology of a Newly Protected Wolf Population in Northwestern Minnesota. Wildlife Monographs 80: 3–79. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fuller T.K. 1991. Effect of snow depth on wolf activity and prey selection in north central Minnesota. Canadian Journal of Zoology 69(2): 283–287. DOI: 10.1139/z91-044 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Fuller T.K., Keith L.B. 1980. Wolf Population Dynamics and Prey Relationships in Northeastern Alberta. Journal of Wildlife Management 44(3): 583–602. DOI: 10.2307/3808006 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gable T.D., Windels S.K., Romanski M.C., Rosell F. 2018. The forgotten prey of an iconic predator: a review of interactions between grey wolves Canis lupus and beavers Castor spp. Mammal Review 48(2): 123–138. DOI: 10.1111/mam.12118 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gasaway W.C., Stephenson R.O., Davis J.L., Shepherd P.E.K., Burris O.E. 1983. Interrelationships of wolves, prey, and man in interior Alaska. Wildlife Monographs 84: 1–50. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gazzola A., Bertelli I., Avanzinelli E., Tolosano A., Bertotto P., Apollonio M. 2005. Predation by wolves (Canis lupus) on wild and domestic ungulates of the western Alps, Italy. Journal of Zoology 266(2): 205–213. DOI: 10.1017/S0952836905006801 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gehr B., Hofer E.J., Ryser A., Vimercati E., Vogt K., Keller L.F. 2018. Evidence for nonconsumptive effects from a large predator in an ungulate prey?. Behavioral Ecology 29(3): 724–735. DOI: 10.1093/beheco/ary031 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hansen M.C., Potapov P.V., Moore M., Hancher S.A., Turubanova S.A., Tyukavina A., Thau D., Stehman S.V., Goetz S.J., Loveland T.R., Kommareddy A., Egorov A., Chini L., Justice C.O., Townshend J.R.G. 2013. High-Resolution Global Maps of 21st-Century Forest Cover Change. Science 342(6160): 850–853. DOI: 10.1126/science.1244693 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hayne D.W. 1949. Calculation of size of home range. Journal of Mammalogy 30(1): 1–18. DOI: 10.2307/1375189 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heithaus M.R. 2001. Habitat selection by predators and prey in communities with asymmetrical intraguild predation. Oikos 92(3): 542–554. DOI: 10.1034/j.1600- 0706.2001.920315.x "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hernandez-Blanco J.A., Litvinova E.M. 2003. Wolf diet in the south cluster of «Kaluzhskie Zaseki» Reserve. In: Proceedings of the Kaluzhskie Zaseki State Nature Reserve 1: 268–274. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hernandez-Blanco J.A., Poyarkov A.D., Krutova V.I. 2005. Wolf (Canis lupus lupus) pack organization at the Voronezh Biosphere Reserve. Zoologicheskii Zhurnal 84(1): 80–93. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Imbert C., Caniglia R., Fabbri E., Milanesi P., Randi E., Serafini M., Torretta E., Meriggi A. 2016. Why do wolves eat livestock?: Factors influencing wolf diet in northern Italy. Biological Conservation 195: 156–168. DOI: 10.1016/j.biocon.2016.01.003 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jacobs J. 1974. Quantitative measurement of food selection: A modification of the forage ratio and Ivlev’s electivity index. Oecologia 14(4): 413–417. DOI: 10.1007/BF00384581 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jankowski W., Januszczak M., Wołoszyn-Gałęza A., Kaczor S., Perzanowski K. 2019. The wisent as food supply for large "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                74,
+                919,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                49,
+                561,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                921,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "43 "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                945,
+                510,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "predators and necrophages. European Bison Conservation Newsletter 12: 33–44. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jędrzejewski W., Schmidt K., Theuerkauf J., Jędrzejewska B., Kowalczyk R. 2007. Territory size of wolves Canis lupus: linking local (Białowieża Primeval Forest, Poland) and Holarctic-scale patterns. Ecography 30(1): 66–76. DOI: 10.1111/j.0906-7590.2007.04826.x "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jȩdrzejewski W., Jȩdrzejewska B., Okarma H., Schmidt K., Zub K., Musiani M. 2000. Prey selection and predation by wolves in Białowieża Primeval Forest, Poland. Journal of Mammalogy 81(1): 197–212. DOI: 10.1644/1545-1542(2000)081<0197:PSAPBW>2.0.CO;2 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jędrzejewski W., Niedziałkowska M., Hayward M.W., Goszczyński J., Jędrzejewska B., Borowik T., Bartoń K.A., Nowak S., Harmuszkiewicz J., Juszczyk A., Kałamarz T., Kloch A., Koniuch J., Kotiuk K., Mysłajek R.W., Nędzyńska M., Olczyk A., Teleon M., Wojtulewicz M. 2012. Prey choice and diet of wolves related to ungulate communities and wolf subpopulations in Poland. Journal of Mammalogy 93(6): 1480–1492. DOI: 10.1644/10-MAMM-A-132.1 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kaczor S., Januszczak M., Wołoszyn-Gałęza A., Jankowski W. 2019. The first documented case of wolf predation on the European bison in the Lesko Forest District. In: «Żubry w Białowieskim Mateczniku». Streszczenia referatow. Konferencja naukowa. Warszawa: Stowarzyszenie Miłośników Żubrów. P. 53–54. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kaufmann J.H. 1962. Ecology and social behavior of the coati, Nasua narica, on Barro Colorado Island, Panama. University of California Publications in Zoology 60(3): 95–222. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Keim J.L., Lele S.R., DeWitt P.D., Fitzpatrick J.J., Jenni N.S. 2019. Estimating the intensity of use by interacting predators and prey using camera traps. Journal of Animal Ecology 88(5): 690–701. DOI: 10.1111/1365-2656.12960 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kenward R.E., Marcström V., Karlbom M. 1993. Post-nestling behaviour in goshawks, Accipiter gentilis: II. Sex differences in sociality and nest-switching. Animal Behaviour 46(2): 371–378. DOI: 10.1006/anbe.1993.1199 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kittle A.M., Anderson M., Avgar T., Baker J.A., Brown G.S., Hagens J., Iwachewski E., Moffatt S., Mosser A., Patterson B.R., Reid D.E.B., Rodgers A.R., Shuter J., Street G.M., Thompson I.D., Vander Vennen L.M., Fryxell J.M. 2017. Landscape-level wolf space use is correlated with prey abundance, ease of mobility, and the distribution of prey habitat. Ecosphere 8(4): e01783. DOI: 10.1002/ecs2.1783 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kojola I., Huitu O., Toppinen K., Heikura K., Heikkinen S., Ronkainen S. 2004. Predation on European wild forest reindeer (Rangifer tarandus) by wolves (Canis lupus) in Finland. Journal of Zoology 263(3): 229–235. DOI: 10.1017/S0952836904005084 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Krasińska M., Krasiński Z.A. 2013. European bison: the nature monograph. Heidelberg: Springer Berlin. 379 p. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kübarsepp M., Valdmann H. 2003. Winter Diet and Movements of Wolf (Canis Lupus) in Alampedja Nature Reserve, Estonia. Acta Zoologica Lituanica 13(1): 28–33. DOI: 10.1080/13921657.2003.10512540 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kunkel K.E., Ruth T.K., Pletscher D.H., Hornocker M.G. 1999. Winter Prey Selection by Wolves and Cougars in and Near Glacier National Park Montana. Journal of Wildlife Management 63(3): 901–910. DOI: 10.2307/3802804 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                74,
+                489,
+                939
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lima S.L. 1998. Stress and decision making under the risk of predation: recent developments from behavioral, reproductive, and ecological perspectives. In: A.P. Moller, M. Milinski, P.J.B. Slater (Eds.): Advances in the Study of Behaviour: Stress and Behavior. New York: Academic Press. P. 215–290. DOI: 10.1016/S0065-3454(08)60366-6 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Long J.A., Nelson T.A., Webb S.L., Gee K.L. 2014. A critical examination of indices of dynamic interaction for wildlife telemetry studies. Journal of Animal Ecology 83(5): 1216–1233. DOI: 10.1111/1365-2656.12198 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lull R.S. 1904. Adaptations to Aquatic, Arboreal, Fossorial and Cursorial Habits in Mammals. IV. Cursorial Adaptations. American Naturalist 38(445): 1–11. DOI: 10.1086/278375 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Luttbeg B., Schmitz O.J. 2000. Predator and Prey Models with Flexible Individual Behavior and Imperfect Information. American Naturalist 155(5): 669–683. DOI: 10.1086/303344 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "MacDonald D.W., Ball F.G., Hough N.G. 1980. The Evaluation of Home Range Size and Configuration Using Radio Tracking Data. In: C.J. Amlaner, D.W. Macdonald (Eds.): A Handbook on Biotelemetry and Radio Tracking. Oxford: Pergamon. P. 405–424. DOI: 10.1016/B978-0-08-024928-5.50052-X "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "MacLeod K.J., Krebs C.J., Boonstra R., Sheriff M.J. 2018. Fear and lethality in snowshoe hares: the deadly effects of nonconsumptive predation risk. Oikos 127(3): 375–380. DOI: 10.1111/oik.04890 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mech L.D. 1966. The wolves in Isle Royle. Washington USA: Fauna Series N7 US National Park service. "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "2 1 0 \\mathrm { p }"
+                            },
+                            {
+                                "type": "text",
+                                "content": ". "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mech L.D. 1977. Wolf-pack buffer zones as prey reservoirs. Science 198(4314): 320–321. DOI: 10.1126/science.198.4314.320 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mech L.D. 1994. Buffer zones of territories of gray wolves as regions of intraspecific strife. Journal of Mammalogy 75(1): 199–202. DOI: 10.2307/1382251 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mech L.D. 1995. The Wolf: the ecology and behavior of an endangered species. Minneapolis: University of Minnesota Press. "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "3 8 4 { \\mathrm { p } }"
+                            },
+                            {
+                                "type": "text",
+                                "content": ". "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mech L.D. 2007. Annual Arctic Wolf Pack Size Related to Arctic Hare Numbers. Arctic. 60(3): 309–311. DOI: 10.14430/arctic222 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Mech L.D., Boitani L. (Eds.). 2003. Wolves: Behavior, Ecology, and Conservation. Chicago and London: University of Chicago Press. 448 p. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Melnik K.S., Hernandez-Blanco J.A., Litvinova E.M., Chistopolova M.D., Ogurtsov S.V., Poyarkov A.D. 2007. Biotope selectivity and movement features of wolf Canis lupus (Mammalia, Canidae) within the family home range in Kaluzhskie Zaseki State Nature Reserve. Bulletin of Moscow Society of Naturalists 112(6): 3–14. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Messier F. 1985. Social organization, spatial distribution, and population density of wolves in relation to moose density. Canadian Journal of Zoology 63(5): 1068–1077. DOI: 10.1139/z85-160 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Messier F., Crète M. 1985. Moose-wolf dynamics and the natural regulation of moose populations. Oecologia 65(4): 503–512. DOI: 10.1007/BF00379664 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                74,
+                919,
+                936
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                48,
+                561,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "44 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                510,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Milne D.G., Harestad A.S., Atkinson K. 1989. Diets of Wolves on Northern Vancouver lsland. Northwest Science 63(3): 83–86. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Murie A. 1944. The wolves of mount McKinley. Washington: US Government Printing Office. 238 p. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Newsome T.M., Boitani L., Chapron G., Ciucci P., Dickman C.R., Dellinger J.A., López-Bao J.V., Peterson R.O., Shores C.R., Wirsing A.J., Ripple W.J. 2016. Food habits of the world’s grey wolves. Mammal Review 46(4): 255–269. DOI: 10.1111/mam.12067 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nowak S., Mysłajek R.W., Kłosińska A., Gabryś G. 2011. Diet and prey selection of wolves (Canis lupus) recolonising Western and Central Poland. Mammalian Biology 76(6): 709–715. DOI: 10.1016/j.mambio.2011.06.007 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ogurtsov S.S., Zheltukhin A.S. 2022. Brown bear hunting for moose in the southern taiga: results of long-term camera trap monitoring. Russian Journal of Ecosystem Ecology 7(4): 1–19. DOI: 10.21685/2500-0578-2022- 4-2 [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pererva V.I., Pererva A.V. 2003. A modern status and perspective of making up of a free population Bison bonasus in the Kaluzhskie Zaseki State Nature Reserve. Proceedings of the Kaluzhskie Zaseki State Natural Reserve 1: 203– 219. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Peterson R.O. 1977. Wolf ecology and prey relationships on Isle Royale. Department of the Interior, National Park Service. "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "2 1 0 \\mathrm { p }"
+                            },
+                            {
+                                "type": "text",
+                                "content": ". "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Petrova O.N., Korennoy F.I., Tatsenko E.E., Karaulov A.K., Gulenkin V.M. 2018. The forecast for African swine fever in the Russian Federation for 2018. Vladimir: ARRIAH. 37 p. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Phumanee W., Steinmetz R., Phoonjampa R., Bejraburnin T., Bhumpakphan N., Savini T. 2021. Coexistence of large carnivore species in relation to their major prey in Thailand. Global Ecology and Conservation 32: e01930. DOI: 10.1016/j.gecco.2021.e01930 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pimlott D.H. 1967. Wolf Predation and Unǵulate Populations. American Zoologist 7(2): 267–278. DOI: 10.1093/icb/7.2.267 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Potvin F., Jolicoeur H., Huot J. 1988. Wolf diet and prey selectivity during two periods for deer in Quebec: decline versus expansion. Canadian Journal of Zoology 66(6): 1274–1279. DOI: 10.1139/z88-186 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Poyarkov A.D. 1980. Some behavioral traits of wolves revealed by the tracking method. In: Wolf behaviour. Moscow: IEMEA AS USSR. P. 111–122. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Poyarkov A.D., Korablev M.P., Bragina E., Hernandez-Blanco J.A. 2022. Overview of Current Research on Wolves in Russia. Frontiers in Ecology and Evolution 10: 869161. DOI: 10.3389/fevo.2022.869161 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Preisser E.L., Bolnick D.I., Benard M.F. 2005. Scared to death? The effects of intimidation and consumption in predator-prey interactions. Ecology 86(2): 501–509. DOI: 10.1890/04-0719 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Priklonskiy S.G. 1973. Winter route counts of game animals. Proceedings of the Okski State Nature Reserve 9: 35–50. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Raczynsky J. (Ed.). 2021. European Bison Pedigree Book 2021. Bialowieza: Białowieża National Park. 87 p. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                73,
+                490,
+                939
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rozhnov V.V., Chernova O.F., Perfilova T.V. 2011. Species diagnostics of deer – food objects of the Amur tiger (according to the microstructure of the guard hairs from the excrement of the predator). Moscow: KMK Scientific Press Ltd. 47 p. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rozhnov V.V., Hernandez-Blanco J.A., Chistopolova M.D., Naidenko S.V., Trepet S.A., Pkhitikov A.B., Poyarkov A.D., Dronova N.A., Magomedov M.R.D., Sorokin P.A., Pshegusov R.H., Dobrynin D.V., Sukhova O.V., Yachmennikova A.A. 2019. Study and Monitoring of Big Cats in Russia. Moscow: KMK Scientific Press Ltd. "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "1 3 8 \\mathrm { p }"
+                            },
+                            {
+                                "type": "text",
+                                "content": ". "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Salvador A., Abad P.L. 1987. Food habits of a wolf population (Canis lupus) in León province, Spain. Mammalia 51(1): 45–52. DOI: 10.1515/mamm.1987.51.1.45 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schmidt K. 2008. Behavioural and spatial adaptation of the Eurasian lynx to a decline in prey availability. Acta Theriologica 53(1): 1–16. DOI: 10.1007/BF03194274 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Selva N., Jędrzejewska B., Jędrzejewski W., Wajrak A. 2003. Scavenging on European bison carcasses in Białowieża Primeval Forest (Eastern Poland). Écoscience 10(3): 303– 311. DOI: 10.1080/11956860.2003.11682778 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Shave J.R., Cherry S.G., Derocher A.E., Fortin D. 2020. Seasonal and inter-annual variation in diet for gray wolves Canis lupus in Prince Albert National Park, Saskatchewan. Wildlife Biology. 2020(3): 1–9. DOI: 10.2981/wlb.00695 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Shelton P.C., Peterson R.O. 1983. Beaver, wolf and moose interactions in Isle Royale National Park, USA. Acta Zoologica Fennica 174: 265–266. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sidorovich V.E. 2006. Relationship between prey availability and population dynamics of the Eurasian lynx and its diet in northern Belarus. Acta Theriologica 51(3): 265–274. DOI: 10.1007/BF03192678 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sidorovich V., Schnitzler A., Schnitzler C., Rotenko I., Holikava Y. 2017. Responses of wolf feeding habits after adverse climatic events in central-western Belarus. Mammalian Biology 83: 44–50. DOI: 10.1016/j.mambio.2016.11.012 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sih A. 1987. Predators and prey lifestyles: an evolutionary and ecological overview. In: W.C. Kerfoot, A. Sih (Eds.): Predation: direct and indirect impacts on aquatic communities. Hanover, NH: University Press of New England. P. 203–224. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sih A. 2005. Predator-Prey Space Use as an Emergent Outcome of a Behavioral Response Race. In: P. Barbosa, I. Castellanos (Eds.): Ecology of predator-prey interactions. New York: Oxford University Press. P. 240–255. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Śmietana W. 2005. Selectivity of wolf predation on red deer in the Bieszczady Mountains, Poland. Acta Theriologica 50(2): 277–288. DOI: 10.1007/BF03194490 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Śmietana W., Klimek A. 1993. Diet of wolves in the Bieszczady Mountains, Poland. Acta Theriologica 38(3): 245– 251. DOI: 10.4098/AT.arch.93-20 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Smirnova O.V., Popadyuk R.V., Zaugolnova L.B., Khanina L.G. 1997. Estimation of floristic losses in forest vegetation (Kaluzhskiye Zaseki State Nature Reserve as an example). Lesovedenie 2: 27–42. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Smith D.W., Mech L.D., Meagher M., Clark W.E., Jaffe R., Phillips M.K., Mack J.A. 2000. Wolf-Bison interactions in Yellowstone National Park. Jour-"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                73,
+                919,
+                938
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                48,
+                559,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                919,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "45 "
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                945,
+                509,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "nal of Mammalogy 81(4): 1128–1135. DOI: 10.1644/1545-1542(2000)081<1128:WBIIYN>2.0.CO;2 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Smith D.W., Drummer T.D., Murphy K.M., Guernsey D.S., Evans S.B. 2004. Winter prey selection and estimation of wolf kill rates in Yellowstone National Park, 1995–2000. Journal of Wildlife Management 68(1): 153–166. DOI: 10.2193/0022-541X(2004)068[0153:WPSAEO]2.0.CO;2 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ståhlberg S., Bassi E., Viviani V., Apollonio M. 2017. Quantifying prey selection of Northern and Southern European wolves (Canis lupus). Mammalian Biology 83: 34–43. DOI: 10.1016/j.mambio.2016.11.001 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stahler D.R., Smith D.W., Guernsey D.S. 2006. Foraging and Feeding Ecology of the Gray Wolf (Canis lupus): Lessons from Yellowstone National Park, Wyoming, USA. Journal of Nutrition 136(7): 1923–1926. DOI: 10.1093/jn/136.7.1923S "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Teerink B.J. 1991. Hair of West-European Mammals. Cambridge: Cambridge University Press. 224 p. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Theberge J.B. 1990. Potentials for misinterpreting impacts of wolf predation through prey: predator ratios. Wildlife Society Bulletin 18(2): 188–192. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Valdmann H., Koppa O., Looga A. 1998. Diet and prey selectivity of wolf Canis lupus in middle- and south-eastern Estonia. Baltic Forestry 4(1): 42–46. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                73,
+                490,
+                426
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wagner C., Holzapfel M., Kluth G., Reinhardt I., Ansorge H. 2012. Wolf (Canis lupus) feeding habits during the first eight years of its occurrence in Germany. Mammalian Biology 77(3): 196–203. DOI: 10.1016/j. mambio.2011.12.004 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wikenros C., Sand H., Wabakken P., Liberg O., Pedersen H.C. 2009. Wolf predation on moose and roe deer: chase distances and outcome of encounters. Acta Theriologica 54(3): 207–218. DOI: 10.4098/j. at.0001-7051.082.2008 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yemelyan A.V., Chernova N.A., Kireev A.A., Starkov K.A., Zotov D.V. 2009. Analysis of methods of studying of dynamics of the beaver population number (Castor fiber). Tambov University Reports Series: Natural and Technical Sciences 14(2): 384–388. [In Russian] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zakharova O.I., Korennoy F.I., Yashin I.V., Burova O.A., Liskova E.A., Gladkova N.A., Razheva I.V., Blokhin A.A. 2023. Spatiotemporal Patterns of African Swine Fever in Wild Boar in the Russian Federation (2007–2022): Using Clustering Tools for Revealing High-Risk Areas. Animals 13(19): 3081. DOI: 10.3390/ani13193081 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zlatanova D., Ahmed A., Valasseva A., Genov P. 2014. Adaptive Diet Strategy of the Wolf (Canis lupus L.) in Europe: a Review. Acta Zoologica Bulgarica 66(4): 439–452. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                73,
+                921,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ВЗАИМОДЕЙСТВИЯ ВОЛКА И КОПЫТНЫХ В УСЛОВИЯХ СНИЖЕНИЯ ЧИСЛЕННОСТИ ОСНОВНОГО ВИДА ДОБЫЧИ НА ТЕРРИТОРИИ СРЕДНЕРУССКОЙ ВОЗВЫШЕННОСТИ "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                84,
+                469,
+                914,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "А. О. Виричева1,* , Е. М. Литвинова2,3 , М. Д. Чистополова1 , А. Д. Поярков1 , Х. А. Эрнандес-Бланко1 "
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                541,
+                806,
+                579
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 Институт проблем экологии и эволюции имени А.Н. Северцова РАН, Россия *e-mail: givishka@yandex.ru "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 Московский государственный университет имени М.В. Ломоносова, Россия 3 Государственный природный заповедник «Калужские засеки», Россия "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                191,
+                592,
+                803,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Canis lupus (далее – волк) – хищник, специализирующийся на крупных копытных. В сообществе с не- сколькими видами копытных хищники могут отдавать предпочтение одному из них. Снижение численно- сти предпочитаемого вида добычи может изменить взаимоотношения волка с другими видами копытных. Данное исследование проведено в государственном природном заповеднике «Калужские засеки» в период с 2014 по 2019 гг., в который произошло резкое сокращение численности Sus scrofa – основного вида до- бычи волка. Мы определили спектр питания этого хищника по анализу экскрементов и выявили пред- почтения с помощью индекса Якобса. После снижения численности Sus scrofa возросла доля Capreolus capreolus и Alces alces в питании волка, но основным видом добычи стал Castor fiber. Волки не охотились на Bison bonasus как до, так и после падения численности Sus scrofa. Присутствие этого вида в питании волка незначительно и связано с поеданием падали. Индекс Якобса показал, что волки предпочитают Sus scrofa другим видам после снижения его численности. Динамические взаимодействия, анализированные с помощью коэффициента социальности по данным фотоловушек, частично согласуются с выявленными предпочтениями, но также зависят и от других факторов. Коэффициент социальности показал привлечение для видов, занимающих малую часть спектра питания на периферической части участка, где копытные чаще сталкиваются с волками-переярками. Снижение численности основного вида добычи волка повлияло на отношения с другими видами копытных, так как волки стали активнее включать их в рацион. При этом волки предпочитают в качестве замещающего корма некрупные виды добычи. "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                664,
+                877,
+                888
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ключевые слова: Canis lupus, дикие виды добычи, динамические взаимодействия, крупные хищные мле- копитающие, межвидовые взаимоотношения, пищевые предпочтения, спектр питания, хищничество "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                898,
+                875,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Nature Conservation Research. Заповедная наука 2024. 9(4): 32–46 "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                48,
+                561,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://dx.doi.org/10.24189/ncr.2024.029 "
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                49,
+                921,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "46 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                945,
+                512,
+                958
+            ]
+        }
+    ]
+]

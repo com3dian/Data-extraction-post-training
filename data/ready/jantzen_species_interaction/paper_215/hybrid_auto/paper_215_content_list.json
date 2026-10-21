@@ -1,0 +1,1423 @@
+[
+    {
+        "type": "text",
+        "text": "Article ",
+        "bbox": [
+            53,
+            118,
+            107,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prevalence of Hantaviruses Harbored by Murid Rodents in Northwestern Ukraine and Discovery of a Novel Puumala Virus Strain ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            133,
+            870,
+            200
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evan P. Williams $^ { 1 , \\dagger } \\Phi _ { } ^ { }$ , Mariah K. Taylor $1 , \\dag \\mathbb { \\left( \\frac { 1 } { D } \\right) }$ , Iryna Demchyshyna 2,†, Igor Nebogatkin 3,4, Olena Nesterova 5, Iryna Khuda 5, Lyudmyla Chernenko 2, Oleksandra A. Hluzd 2, Vira V. Kutseva 2, Gregory E. Glass 6, Nataliia Yanko 7 and Colleen B. Jonsson $\\mathbf { 1 } , { * } \\textcircled { | | }$ ",
+        "bbox": [
+            53,
+            218,
+            899,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/89e630e7891135e4789230c9b95f5d38d29a0af8c6bb03afdaa02fd39fb23d0a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            431,
+            87,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\u0001-\u0003\u0001\u0004\u0005\u0006\u0007\b \u0001-\u0003\u0004\u0005\u0006\u0007 ",
+        "bbox": [
+            90,
+            432,
+            144,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Williams, E.P.; Taylor, M.K.; Demchyshyna, I.; Nebogatkin, I.; Nesterova, O.; Khuda, I.; Chernenko, L.; Hluzd, O.A.; Kutseva, V.V.; Glass, G.E.; et al. Prevalence of Hantaviruses Harbored by Murid Rodents in Northwestern Ukraine and Discovery of a Novel Puumala Virus Strain. Viruses 2021, 13, 1640. https://doi.org/10.3390/v13081640 ",
+        "bbox": [
+            53,
+            462,
+            257,
+            601
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editor: Jônatas Abrahão ",
+        "bbox": [
+            55,
+            617,
+            240,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 10 July 2021 ",
+        "bbox": [
+            55,
+            645,
+            176,
+            657
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: 14 August 2021 ",
+        "bbox": [
+            57,
+            661,
+            194,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: 18 August 2021 ",
+        "bbox": [
+            57,
+            675,
+            198,
+            686
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. ",
+        "bbox": [
+            53,
+            703,
+            258,
+            758
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/dea78262cfffed6bb57612e6258465e6a1ce1aa3f55a74792a3e958993bd8b02.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            778,
+            154,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $^ ©$ 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). ",
+        "bbox": [
+            53,
+            810,
+            258,
+            920
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 Department of Microbiology, Immunology and Biochemistry, The University of Tennessee Health Science Center, Memphis, TN 38163, USA; ewilli99@uthsc.edu (E.P.W.); mtayl121@uthsc.edu (M.K.T.) ",
+            "2 Department of Virology, State Institution Public Health Center of the Ministry of Health of Ukraine, 04071 Kyiv, Ukraine; i.demchyshyna@phc.org.ua (I.D.); l.chernenko@phc.org.ua (L.C.); o.hluzd@phc.org.ua (O.A.H.); v.kutseva@phc.org.ua (V.V.K.) ",
+            "3 Public Health Center of the Ministry of Health of Ukraine, 01030 Kyiv, Ukraine; niv_zoo@ua.fm ",
+            "4 I.I. Schmalhausen Institute of Zoology of NAS of Ukraine, 01030 Kyiv, Ukraine ",
+            "5 Black and Veatch Special Projects Corp., 01033 Kyiv, Ukraine; nesterova.olena@gmail.com (O.N.); irina.khuda@gmail.com (I.K.) ",
+            "6 Emerging Pathogens Institute and Department of Geography, University of Florida, Gainesville, FL 32610, USA; gglass@epi.ufl.edu ",
+            "7 Volyn Oblast Laboratory Center of the Ministry of Health of Ukraine, 43010 Lutsk, Ukraine; yankobsg@gmail.com ",
+            "* Correspondence: cjonsson@uthsc.edu ",
+            "† These authors contributed equally to this work. "
+        ],
+        "bbox": [
+            275,
+            284,
+            924,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In Europe, two species of hantaviruses, Puumala orthohantavirus (PUUV) and Dobrava orthohantavirus (DOBV), cause hemorrhagic fever with renal syndrome in humans. The rodent reservoirs for these viruses are common throughout Ukraine, and hence, the goal of this study was to identify the species and strains of hantaviruses circulating in this region. We conducted surveillance of small rodent populations in a rural region in northwestern Ukraine approximately $3 0 \\mathrm { k m }$ from Poland. From the 424 small mammals captured, we identified nine species, of which the most abundant were Myodes glareolus, the bank vole $( 4 5 \\% )$ ; Apodemus flavicollis, the yellow-necked mouse $( 2 9 \\% )$ ; and Apodemus agrarius, the striped field mouse $( 1 4 . 6 \\% )$ Using an indirect immunofluorescence assay, $1 5 . 7 \\%$ , $2 0 . 5 \\%$ and $3 3 . 9 \\%$ of the sera from M. glareolus, A. glareolus, and A. flavicollis were positive for hantaviral antibodies, respectively. Additionally, we detected antibodies to the hantaviral antigen in one Microtus arvalis, one Mus musculus, and one Sorex minutus. We screened the lung tissue for hantaviral RNA using next-generation sequencing and identified PUUV sequences in 25 small mammals, including $2 3 M$ . glareolus, 1 M. musculus, and 1 A. flavicollis, but we were unable to detect DOBV sequences in any of our A. agrarius specimens. The percent identity matrix and Bayesian phylogenetic analyses of the S-segment of PUUV from 14 M. glareolus lungs suggest the highest similarity $( 9 2 - 9 5 \\%$ nucleotide or $9 9 \\mathrm { - } 1 0 0 \\%$ amino acid) with the Latvian lineage. This new genetic information will contribute to future molecular surveillance of human cases in Ukraine. ",
+        "bbox": [
+            273,
+            492,
+            941,
+            752
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Puumala orthohantavirus; Ukraine; next generation sequencing; field survey ",
+        "bbox": [
+            275,
+            769,
+            855,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            827,
+            394,
+            841
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the family Hantaviridae, order Bunyavirales, more than 47 distinct species of hantaviruses have been identified in rodents, moles, shrews, and bats across the globe [1]. Of these, some species within the genus Orthohantavirus, harbored by rodents, cause serious disease when transmitted to humans. In Europe and Asia, human cases of hemorrhagic fever with renal syndrome (HFRS) occur following aerosol transmission of excreta with ",
+        "bbox": [
+            273,
+            846,
+            941,
+            921
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            57,
+            53,
+            115,
+            95
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "viruses ",
+        "bbox": [
+            122,
+            63,
+            245,
+            86
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "MDPI ",
+        "bbox": [
+            863,
+            59,
+            937,
+            95
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "Viruses 2021, 13, 1640. https://doi.org/10.3390/v13081640 ",
+        "bbox": [
+            55,
+            963,
+            405,
+            977
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "https://www.mdpi.com/journal/viruses ",
+        "bbox": [
+            685,
+            963,
+            936,
+            977
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "hantaviruses carried by two rodent genera, Apodemus and Myodes. Hantaan orthohantavirushantaviruses carried by two rodent genera, Apodemus and Myodes. Hantaan orthohantaviru (HTNV) is carried by Apodemus agrarius and is found east of the Ural Mountains, in(HTNV) is carried by Apodemus agrarius and is found east of the Ural Mountains, in Chin China, and Korea, while Dobrava-Belgrade orthohantavirus (DOBV) is harbored by A. agrariusand Korea, while Dobrava-Belgrade orthohantavirus (DOBV) is harbored by A. agrariu (striped field mouse) and A. flavicollis (yellow-necked mouse) and is found in numerous(striped field mouse) and A. flavicollis (yellow-necked mouse) and is found in numerou European countries [2–9]. In Europe, Puumala orthohantavirus (PUUV) harbored by MyodesEuropean countries [2–9]. In Europe, Puumala orthohantavirus (PUUV) harbored by Myode glareolus (bank vole) causes a less severe form of HFRS, which is referred to as nephropathiaglareolus (bank vole) causes a less severe form of HFRS, which is referred to as nephropa epidemica (NE) [10]. In some years, PUUV has caused up to 10,000 human cases in northern Europe and Russia. However, in contrast with HFRS, which has a case fatality rate (CFR) of up to $1 0 \\%$ , NE disease has a lower CFR $( < 1 \\% )$ [11]. ",
+        "bbox": [
+            278,
+            110,
+            939,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the geographical location of Ukraine and prior surveillance of hantaviruses in humans and wildlife [12,13], we hypothesized that DOBV and PUUV, or even perhaps novel strains of hantaviruses, circulate in wild rodent populations in Ukraine. We previously reported the presence of antibodies to hantaviruses in A. agrarius, A. flavicollis, and M. glareolus in the western region of Ukraine [12]. In this prior study, however, we did not have specimens available for the genetic identification of the species circulating in Ukraine. We launched a field survey in September and October of 2019 of wild rodents in a rural region of Volyn Oblast, where we had detected antibodies to hantaviruses in rodents collected ten years prior (Figure 1). ",
+        "bbox": [
+            278,
+            244,
+            939,
+            379
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80092b75a198d0f8af75e9d212da85bb4ac00dc605fc6076e3b32b73f3886c48.jpg",
+        "image_caption": [
+            "Figure 1. Survey location in northwestern Ukraine. The survey was conducted in northwesterFigure 1. Survey location in northwestern Ukraine. The survey was conducted in northwestern Ukraine (top) at two distinct locations (lower left panel), which were ten km from each other: sitUkraine (top) at two distinct locations (lower left panel), which were ten km from each other: site 1, lines A–D and site 2, lines E–I (lower right panel). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            285,
+            399,
+            697,
+            826
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The goal of this study was to identify the viral species and strains of hantaviruses circulating in western Ukraine. Toward this goal, we conducted a field survey of 424 cap-",
+        "bbox": [
+            275,
+            896,
+            941,
+            926
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 of 14 ",
+        "bbox": [
+            897,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "tured small mammals in northwestern Ukraine in order to obtain and identify hantavirus species and the genotypes circulating in Ukraine. We report a high seroprevalence in our sampling region, $3 3 . 9 \\% A$ . agrarius, $2 0 . 5 \\%$ A. flavicollis, and 15.7% M. glareolus. Eight mammalian species were identified with antibodies to hantaviruses, of which we were able to sequence the virus from the lung tissue of three species. We designed primers for next-generation sequencing (NGS) and identified PUUV sequences from 23 specimens of M. glareolus. Additionally, we identified PUUV sequences within the lung tissue of two spillover hosts, Mus musculus and A. flavicollis. Bayesian phylogenetics support an association of PUUV sequences isolated from M. glareolus in Ukraine with the Latvian (LAT) lineage. ",
+        "bbox": [
+            278,
+            112,
+            939,
+            261
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            273,
+            475,
+            287
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Small Mammal Collection ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            290,
+            485,
+            303
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During two weeks in September and October 2019, 50 (Site 1, lines A–D) and 25 (Site 2, lines E–I) Sherman traps $( 7 . 6 \\times 8 . 9 \\times 2 2 . 9 \\mathrm { c m } ,$ , Sherman Trap Company, Tallahassee, FL, USA) were set, $1 0 \\mathrm { m }$ apart, along 500 or 250 m transects. Sites 1 and 2 were located $1 0 \\mathrm { k m }$ apart from one another (Figure 1). These were staggered across nine collecting sites as effectively as possible (Table S1). We ran each line (except line H) for up to five nights, for a total of 167 line-nights, or 8350 trap-nights, with various success rates per line (Table S2). ",
+        "bbox": [
+            278,
+            307,
+            941,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Each small mammal was identified morphologically according to species and the weight; total body, tail, ear, and hind foot lengths were measured. Species were identified in the field. The sex and categorical age (juvenile or adult) were also recorded (Table S3). The lungs, heart, kidneys, muscles, and blood were harvested and stored immediately in liquid nitrogen, prior to transport to the Virology Department at the Public Health Center in Kyiv, where the samples were stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ until processing. ",
+        "bbox": [
+            278,
+            399,
+            939,
+            486
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2. Immunofluorescence Assay (IFA) ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            499,
+            534,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An indirect IFA was used to screen the blood samples for antibodies that cross-reacted with PUUV, HTNV, or DOBV grown in Vero E6 cells, as described previously [12,14,15]. Briefly, whole blood samples were diluted 1:10 in PBS in a 96-well plate and were incubated for 30 min at $3 7 ^ { \\circ } \\mathrm { C }$ on acetone-fixed, 10-spot slides. The slides were washed copiously in PBS. Twenty-microliters of a 1:500 dilution of Alexa Fluor 488 F (ab’)2 Fragment rabbit anti-mouse IgG $\\left( \\mathrm { H } { + } \\mathrm { L } \\right)$ (Invitrogen, Waltham, MA, USA) was added and incubated for 30 min at $3 7 ^ { \\circ } \\mathrm { C }$ . The slides were washed copiously in PBS and each well was scored as positive or negative using a $2 0 \\times$ objective with a Nikon epifluorescence microscope. Positive blood samples were titrated to the end-point by a two-fold serial dilution of blood from 1:32 through 1:8192, and were tested and scored microscopically for the characteristic punctate staining of hantaviruses. ",
+        "bbox": [
+            278,
+            517,
+            941,
+            680
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3. Screening of Rodent Lung RNA by Reverse-Transcriptase Polymerase Chain Reaction (RT-PCR) for PUUV and DOBV ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            693,
+            889,
+            720
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The total RNA was isolated from all of the available rodent lung specimens following homogenization in TRIzol Reagent (Invitrogen) with a Bead Mill 4 (Fisher Scientific, Waltham, MA, USA), and was resuspended in $2 5 \\mathrm { - } 3 0 ~ \\mu \\mathrm { L }$ nuclease-free water. Nested PCR was used to confirm the presence of viral nucleic acids in each lung tissue specimen. The first step of the nested PCR was performed with SuperScript IV One-Step RT-PCR System (Invitrogen) with 40 cycles and a $6 0 ^ { \\circ } \\mathrm { C }$ annealing temperature, as well as PUUV or DOBV vRNA-specific primers amplifying a 1kb region of the S- or M-segment following the manufacturer’s protocols (Table S4). For the second nested PCR step, $2 . 5 \\mu \\mathrm { L }$ of the first reaction’s product was used with a Platinum SuperFi PCR Master Mix (Invitrogen) and PUUV or DOBV vRNA-specific primers, amplifying approximately a 500 bp region of the S- or M-segment with 30–35 PCR cycles (Table S4). PCR reactions were visualized on the E-Gel SizeSelect II Agarose Gel $2 \\%$ (Invitrogen) using the E-Gel Power Snap Electrophoresis System (Invitrogen). ",
+        "bbox": [
+            278,
+            722,
+            941,
+            917
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 of 14 ",
+        "bbox": [
+            897,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4. Next-Generation Sequencing ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            112,
+            507,
+            128
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For NGS, the total RNA was quantitated on the Qubit 4 Fluorometer (Invitrogen) using the Qubit RNA HS Assay Kit (Invitrogen). cDNAs were synthesized from up to $1 ~ \\mu \\mathrm { g }$ total RNA from each lung sample, using a mixture of primers that amplified the vRNA or cRNA of each segment (Table S4) with SuperScript IV First-Strand Synthesis System (Invitrogen), following the manufacturer’s protocol. The three genomic segments were amplified with Platinum SuperFi PCR Master Mix (Invitrogen) with 35 cycles at a $6 0 ~ ^ { \\circ } \\mathrm { C }$ annealing temperature following the manufacturer’s protocols, along with a disjointed primer pooling approach in which three PCR reactions produced non-overlapping amplicons, which, when combined, would completely cover the genome twice [16]. For each specimen, the PCR products of each segment were combined separately based on whether they were synthesized from vRNA or cRNA, and were purified using the Wizard SV Gel and PCR Clean-Up System (Promega, Madison, WI, USA), with the final purified PCR product being eluted in $1 5 \\mu \\mathrm { L }$ nuclease-free water. Sequencing libraries were created using Nextera XT DNA Library Preparation Kit (Illumina, San Diego, CA, USA) according to the manufacturer’s guidelines, with the exception that the input concentration was $1 \\mathrm { n g / \\mu L } ,$ tagmentation time was extended to $1 0 \\mathrm { { m i n } }$ , and the final volume of each library was in $1 5 \\mu \\mathrm { L }$ of resuspension buffer. Two final libraries, each containing 40 libraries, were pooled into a final concentration of $4 . 2 \\mathrm { n M }$ with a $1 \\%$ PhiX spike-in and were sequenced on a MiSeq using two MiSeq Reagent Kits v3 150 cycles (Illumina). Sequencing reads were demultiplexed and transferred onto the CLC Genomics Workbench v.21.0.2 (Qiagen, Hilden, Germany) to analyze the sequencing reads. The reads were quality trimmed and mapped to the reference genome of each of the S-, M-, and L-segments of our lab strain PUUV strain K27 (Genbank accession no. MZ673552-MZ673554) using a length fraction of 0.8 and a similarity fraction of 0.5, with the other parameters set to default. The consensus sequence was extracted with a low coverage threshold set to 1, incorporating a quality score requirement to resolve conflicts within each base position. To further our understanding of our genome amplification approach, we created a detailed mapping report to identify the percent genome coverage, number of aligned reads, and average depth of coverage by excluding short reads $( < 1 5 \\mathrm { n t } )$ ) or long reads $\\left( > 1 5 0 0 \\mathrm { n t } \\right)$ ). All of the vRNA sequences were deposited at GenBank (accession no. MZ673485-MZ673551). ",
+        "bbox": [
+            278,
+            129,
+            942,
+            580
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5. Phylogenetic Analyses ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            590,
+            463,
+            605
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We performed MUSCLE alignments using a 765 nt sequence of each S-segment, as well as three representative sequences from each PUUV lineage—Alp-Adrian (ALAD), Central European (CE), Danish (DAN), Finnish (FIN), LAT, North-Scandinavian (N-SCA), South-Scandinavian (S-SCA), and Russian (RUS) [17]. The MUSCLE alignment of the 633 nt M-segment sequence included PUUV sequences from Bosnia and Herzegovina, Croatia, Germany, Finland, France, Lithuania, Russia, and Sweden, and a 542 nt alignment of the L-segment included PUUV sequences from Germany, Finland, France, Lithuania, Russia, and Sweden. We additionally included five DOBV sequences as an outgroup for the S-, M-, and L-segment alignments. We examined the relationships through maximum likelihood using MEGA X [18]. Phylogenetic trees were constructed using PhyML 3.0 on the ATGC server (http://www.atgc-montpellier.fr/phyml/, accessed on 23 July 2021), using a maximum likelihood method and general time reversible model with default settings, with the exception of 1000 bootstrap replicates, as well as having altered the proportion of invariable sites (0.247, 0.219, and 0.224) and gamma shape parameters (0.299, 0.322, and 0.354) for each S-, M-, and L-alignment, respectively [19,20]. The MUSCLE alignments were also used to create a percent identity matrix (PIM) using Clustal2.1 (https://www.ebi.ac.uk/Tools/msa/clustalo/, accessed on 24 June 2021) using default parameters [21,22]. ",
+        "bbox": [
+            278,
+            609,
+            942,
+            877
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 of 14 ",
+        "bbox": [
+            897,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6. Statistical Analyses ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            112,
+            445,
+            128
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Descriptive statistics were used to describe the distribution of the captured rodents and the prevalence of hantavirus infection using GraphPad Prism 9 v.9.1 (GraphPad Software, San Diego, CA, USA). We analyzed the prevalence of hantaviruses detected by hantaviral Ab/RNA with sex, age, and weight as the independent variables using the Fishers Exact Test to calculate the $p$ -value and the odds ratio and its confidence interval. ",
+        "bbox": [
+            278,
+            131,
+            939,
+            205
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7. Ethics Statements ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            217,
+            431,
+            231
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All of the animal procedures were approved (ACUP No. 18–108, date of approval 4 June 2019) by the UTHSC Institutional Animal Care and Use Committee (IACUC), which follows the eighth Edition of the Guide for the Care and Use of Laboratory Animals (Guide), NRC 2011, and the Animal Care and Use Committee guidelines of the American Society of Mammologists for the use of wild mammals in research and education. The study did not involve endangered or protected species. The study was conducted as part of the routine rodent surveillance program of the Ministry of Health. ",
+        "bbox": [
+            278,
+            235,
+            939,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            351,
+            354,
+            366
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1. Distribution of Small Mammal Species ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            368,
+            574,
+            384
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 424 small mammals were captured along nine distinct lines (A–I) where Sherman trap lines were set at $1 0 \\mathrm { m }$ apart. Lines A–C were set in a forest and line D was set adjacent to a four-lane roadway in shrubs; the roadway separated lines A and B from lines C and D (Figure 1). Lines E, F, and I were placed in a forest, and lines G and H were placed in shrubs and grasslands near the forest’s edge nearby small agricultural farms (Figure 1). The collection was completed over two weeks in the last week of September and the first week of October 2019, and over that period, we captured small mammals representing seven genera and nine species (Table 1). These included species from the orders, Carnivora, Eulipotyphla, and Rodentia. Line D had the majority of captures with 120 animals $( 2 8 \\%$ $9 5 \\% C \\mathrm { I }$ : $2 4 . 2 2 \\substack { - 3 2 . 7 7 \\% }$ ), followed by line C with 92 animals $2 2 \\%$ ; $9 5 \\% C \\mathrm { I }$ : $1 8 \\mathrm { - } 2 5 \\%$ ). Only one rodent was captured from line H during the first night of trapping; therefore, this line was moved to another field site and was omitted from diversity studies, where mentioned. M. glareolus $4 5 \\%$ ; $9 5 \\% C \\mathrm { I }$ : $4 0 . 3 8 \\mathrm { - } 4 9 . 8 1 \\%$ ) was the most captured small mammal in total, followed by A. flavicollis $2 9 \\%$ ; $9 5 \\% C \\mathrm { I }$ : $2 4 . 8 9 \\mathrm { - } 3 3 . 5 0 \\%$ ) and then A. agrarius $1 5 \\%$ ; $9 5 \\% C \\mathrm { I }$ : $1 1 . 5 8 \\mathrm { - } 1 8 . 3 0 \\%$ ). ",
+        "bbox": [
+            278,
+            386,
+            941,
+            609
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4e1081e483d07f2fa66932bf9bc31c06170c930321a6d9121b72e5094f16d96.jpg",
+        "table_caption": [
+            "Table 1. Distribution of captured small mammal species by line. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Species</td><td colspan=\"9\">Capture Lines</td><td>Total</td></tr><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td></td></tr><tr><td>Apodemus agrarius</td><td>4</td><td>0</td><td>11</td><td>20</td><td>3</td><td>0</td><td>21</td><td>1</td><td>2</td><td>62</td></tr><tr><td>Apodemus flavicollis</td><td>19</td><td>16</td><td>18</td><td>42</td><td>7</td><td>13</td><td>2</td><td>0</td><td>6</td><td>123</td></tr><tr><td>Microtus arvalis</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>3</td><td>0</td><td>1</td><td>6</td></tr><tr><td>Microtus subterraneus</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Mus musculus</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Muscandinus avellanarius</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Mustela nivales</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td></tr><tr><td>Myodes glareolus</td><td>9</td><td>24</td><td>51</td><td>39</td><td>24</td><td>25</td><td>2</td><td>0</td><td>17</td><td>191</td></tr><tr><td>Sorex minutus</td><td>5</td><td>0</td><td>10</td><td>15</td><td>3</td><td>1</td><td>1</td><td>0</td><td>0</td><td>35</td></tr><tr><td>Total</td><td>40</td><td>40</td><td>92</td><td>120</td><td>37</td><td>39</td><td>29</td><td>1</td><td>26</td><td>424</td></tr></table>",
+        "bbox": [
+            278,
+            643,
+            939,
+            820
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. Evidence and Distribution of Antibodies to Hantavirus by Line ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            838,
+            737,
+            854
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The capture lines varied among each other based on the number of captured animals, as well as the number of hantavirus-positive animals (Tables 1 and 2). Molecular diagnostics showed that 79 of the animals tested positive for the presence of hantavirus by serology. Of the small mammals that were captured and tested by IFA for the presence of hantavirus antibodies, only mammals from the orders of Eulipotyphla and Rodentia tested ",
+        "bbox": [
+            278,
+            857,
+            939,
+            932
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 of 14 ",
+        "bbox": [
+            897,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "positive. Antibody-positive animals were captured on every line except for line B. The most hantavirus seropositive animals were captured on line C with 23 animals $( 2 9 \\%$ ; $9 5 \\% C \\mathrm { I }$ : 20– $4 0 \\%$ ), followed by line D with 16 animals $( 2 0 \\%$ ; 95%CI: $1 3 \\mathrm { - } 3 0 \\%$ ). There was no difference between the number of captured male and female animals that were positive for hantavirus antibodies (odds ratio: 1.087; 95%CI: 0.6475–1.819; $p = 0 . 7 9 0 5 )$ ). Adults $( 8 3 \\% )$ made up the largest age group of small mammals captured, with only 73 $( 1 7 \\% )$ being juvenile (data not shown). The distribution of the endpoint reciprocal titer of the antibody-positive animals is presented in Table 3. IFA reciprocal titers showed a vast distribution ranging from 1:32 to 1:8192, indicating that recent reservoir infections are occurring. In addition to the Myodes and Apodemus species, we identified one Sorex minutus, one Microtus arvalis, and one Mus musculus that were antibody positive. Of these, only the Mus musculus was advanced for NGS because of tissue availability. ",
+        "bbox": [
+            278,
+            112,
+            939,
+            292
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a86b3289b6dea03741e878c7de847c268cbdf6b27b9e03bb6747a624cb888a9.jpg",
+        "table_caption": [
+            "Table 2. Distribution of antibody-positive small mammal species by line. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Species</td><td colspan=\"9\">Capture Lines</td><td>Total</td></tr><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td></td></tr><tr><td>Apodemus agrarius</td><td>2 (4)</td><td>0</td><td>3 (11)</td><td>3 (20)</td><td>1 (3)</td><td>0</td><td>11 (21)</td><td>1 (1)</td><td>2</td><td>21</td></tr><tr><td>Apodemus flavicollis</td><td>3 (19)</td><td>0</td><td>5 (18)</td><td>8 (42)</td><td>3 (7)</td><td>4 (13)</td><td>0</td><td>0</td><td>2 (6)</td><td>25</td></tr><tr><td>Microtus arvalis</td><td>0</td><td>0</td><td>0</td><td>1 (2)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Microtus subterraneus</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Mus musculus</td><td>1 (1)</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Muscardinus avellanarius</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Mustela nivales</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Myodes glareolus</td><td>2 (9)</td><td>0</td><td>14 (51)</td><td>4 (39)</td><td>5 (24)</td><td>3 (25)</td><td>0</td><td>0</td><td>2 (17)</td><td>30</td></tr><tr><td>Sorex minutus</td><td>0</td><td>0</td><td>1 (10)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>Total</td><td>8</td><td>0</td><td>23</td><td>16</td><td>9</td><td>7</td><td>11</td><td>1</td><td>4</td><td>79</td></tr></table>",
+        "bbox": [
+            57,
+            323,
+            939,
+            512
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/713a961676d521b54c5a07cdb10e59af96425ae834d8930c22a7dc4a3c6ed464.jpg",
+        "table_caption": [
+            "Table 3. Distribution of IFA reciprocal titers in rodent reservoir species of PUUV and DOBV. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Species</td><td colspan=\"9\">IFA Reciprocal Titers</td></tr><tr><td></td><td>1:32</td><td>1:64</td><td>1:128</td><td>1:256</td><td>1:512</td><td>1:1024</td><td>1:2048</td><td>1:4096</td><td>1:8192</td></tr><tr><td>Apodemus agrarius</td><td>0</td><td>5</td><td>5</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td><td>1</td></tr><tr><td>Apodemus flavicollis</td><td>1</td><td>6</td><td>5</td><td>1</td><td>7</td><td>4</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Microtus arvalis</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Mus musculus</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Myodes glareolus</td><td>0</td><td>1</td><td>7</td><td>9</td><td>2</td><td>4</td><td>3</td><td>2</td><td>3</td></tr><tr><td>Sorex minutus</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>",
+        "bbox": [
+            57,
+            544,
+            939,
+            670
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3. Rodent Diversity within Each Line ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            682,
+            547,
+            697
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Shannon index was calculated for each line as a measure of the species diversity (Table 4). Line A had the highest Shannon index value (1.46) and had a proportion of hantavirus (HV) of 0.2, which was the average for all of the lines, and line D had the second highest Shannon index value (1.44), but had the lowest proportion of HV at 0.1, and was also the line where most small mammals were captured. There was no relationship found between the Shannon index and the number of HV positive animals $( \\mathrm { R } ^ { 2 } = 0 . 2 5 )$ or the proportion of HV positive animals $\\begin{array} { r } { \\mathrm { [ R } ^ { 2 } = 0 . 3 1 \\mathrm { ] } } \\end{array}$ ). ",
+        "bbox": [
+            278,
+            700,
+            939,
+            804
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/339a74880dc40afa58dd877f67fab7182f6453a4f6db021c2c822557da1a0565.jpg",
+        "table_caption": [
+            "Table 4. Overall Hantaviral Ab status and Shannon diversity in captured rodents by line. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Line</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>I</td></tr><tr><td>HV-Negative</td><td>32</td><td>40</td><td>69</td><td>104</td><td>28</td><td>32</td><td>18</td><td>22</td></tr><tr><td>HV-Positive</td><td>8</td><td>0</td><td>23</td><td>16</td><td>9</td><td>7</td><td>11</td><td>4</td></tr><tr><td>Total No. Rodents</td><td>40</td><td>40</td><td>92</td><td>120</td><td>37</td><td>39</td><td>29</td><td>26</td></tr><tr><td>Proportion of HV</td><td>0.2</td><td>0.0</td><td>0.3</td><td>0.1</td><td>0.2</td><td>0.2</td><td>0.4</td><td>0.2</td></tr><tr><td>SHANNON (H)</td><td>1.46</td><td>0.67</td><td>1.24</td><td>1.44</td><td>1.00</td><td>0.75</td><td>0.95</td><td>0.94</td></tr></table>",
+        "bbox": [
+            278,
+            835,
+            939,
+            929
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 of 14 ",
+        "bbox": [
+            897,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4. Association of Population Structure and Prevalence of Antibody to Hantavirus in Myodes glareolus and Apodemus Species ",
+        "text_level": 1,
+        "bbox": [
+            273,
+            112,
+            919,
+            140
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The distribution of the presence of antibodies to hantavirus was stratified by categorical age and sex (Table 5). Among the three most abundantly captured rodents, neither sex nor age was associated with the rodents being hantaviral positive. We noted a similar level of antibody in juvenile and adults in both male Apodemus species. This trend did not hold in the females, as the number of juveniles captured was much lower and so no comparative results could be drawn. Overall, a similar level of antibody presence was measured in male or female adults within each species. ",
+        "bbox": [
+            273,
+            143,
+            941,
+            247
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/41b7cd10e58b5bcfe1f3937c124c19b829292930cd0f76ff7c53e846cc75788a.jpg",
+        "table_caption": [
+            "Table 5. A. agrarius, A. flavicollis, and M. glareolus captured according to age, sex, and Ab prevalence. "
+        ],
+        "table_footnote": [
+            "* Ab Pos: Antibody Positives. "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">A. agrarius</td><td colspan=\"3\">A. flavicollis</td><td colspan=\"3\">M. glareolus</td></tr><tr><td>Total No.</td><td>Total No. Ab Pos *</td><td>% Pos</td><td>Total No.</td><td>Total No. Ab Pos</td><td>% Pos</td><td>Total No.</td><td>Total No. Ab Pos</td><td>% Pos</td></tr><tr><td>MALE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Juvenile</td><td>3</td><td>1</td><td>33.3</td><td>22</td><td>4</td><td>18.2</td><td>35</td><td>6</td><td>16.7</td></tr><tr><td>Adult</td><td>31</td><td>11</td><td>35.5</td><td>60</td><td>14</td><td>23.3</td><td>108</td><td>16</td><td>15.0</td></tr><tr><td>FEMALE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Juvenile</td><td>2</td><td>0</td><td>0</td><td>7</td><td>1</td><td>14.3</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Adult</td><td>26</td><td>9</td><td>34.6</td><td>33</td><td>6</td><td>18.2</td><td>47</td><td>8</td><td>17</td></tr><tr><td>Total</td><td>62</td><td>21</td><td></td><td>122</td><td>25</td><td></td><td>191</td><td>30</td><td></td></tr></table>",
+        "bbox": [
+            57,
+            282,
+            942,
+            400
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The weight class of the three small mammal species that had the greatest number of animals that were hantavirus seropositive were $_ { 1 1 - 1 5 } \\mathrm { ~ g ~ }$ for A. agrarius, $2 1 - 2 5 \\ \\mathrm { g }$ for A. flavicollis, and $1 6 { - } 2 0 ~ \\mathrm { g }$ for the M. glareolus (Figure 2). This weight range suggests that most of these were subadults or adults. ",
+        "bbox": [
+            273,
+            426,
+            941,
+            486
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5808f512908ed10f2ccab8b4c260c217f57760c0afbc5f6f62e9c38c9b19338.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            277,
+            499,
+            937,
+            657
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5acb94087a4e8e8b1a96bb2b82b0867cfb5becf4435bdddac226d185233ed033.jpg",
+        "image_caption": [
+            "Figure 2. Weight range of rodents and percent hantavirus for A. agrarius, A. flavicollis, and M. glareolus. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            277,
+            682,
+            600,
+            837
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            55,
+            60,
+            184,
+            72
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "7 of 14 ",
+        "bbox": [
+            895,
+            60,
+            939,
+            71
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5. Next-Generation Sequencing and Phylogenetic Analyses of Viral Sequences Amplified from Myodes glareolus Lung ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            112,
+            927,
+            140
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To determine the sequence of the hantavirus genotypes in antibody-positive mice, we developed an amplicon-based approach to obtain full length sequences for L-, M-, and S-segments based on the genomes of PUUV and DOBV. The amplicons were designed to overlap by 500 bp across the genome; however, all of the primers could not be multiplexed without certain regions losing depth of coverage. This was likely due to primer bias and primer dimer issues. Hence, we identified three pools of primers that would generate equivocal levels of amplicons in a two-step RT-PCR [16]. The total RNA was extracted from the lungs of animals identified as antibody positive. As might be expected in animal tissues, full length consensus sequences from each specimen were not obtained, except for the S-segment. Moreover, despite the efficiency of the approach for DOBV purified from seed stocks (similar to PUUV), we were unable to obtain useful information to identify the DOBV carried by these tissues. ",
+        "bbox": [
+            278,
+            143,
+            939,
+            322
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PUUV sequences were recovered from 25 total rodents—23 M. glareolus, 1 M. musculus, and 1 A. flavicollis. Because of the low genome coverage of the genomic RNA of PUUV from the S-, M-, and L-genomes of M. musculus $( 4 7 \\%$ , $2 3 \\%$ , and $1 0 \\%$ , respectively) and A. flavicollis $1 8 \\%$ , $8 \\% ,$ and $4 \\%$ , respectively), additional analyses were not performed (data not shown). We found that there was no difference between the percent genome coverage collected from obtaining vRNA compared with cRNA for the S- and M-segments, while the L-segment favored vRNA. ",
+        "bbox": [
+            278,
+            322,
+            939,
+            426
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PUUV sequences were obtained from 23 M. glareolus by NGS, and were aligned and analyzed using rapid sequence distance estimation. Fourteen PUUV sequences were aligned to two sequences within each PUUV lineage to generate a percent identity matrix (PIM) of a 722 nt region (genome position 43–764 nt) of the S-segment cRNA (Figure 3). This analysis showed a strong association of the Ukraine isolates with the LAT lineage sharing a $9 2 { - } 9 5 \\%$ nucleotide identity and $9 9 \\mathrm { - } 1 0 0 \\%$ amino acid identity. Interestingly, we identified one sequence within the DAN lineage (GenBank accession no. AJ238791) that shared a $1 0 0 \\%$ amino acid identity to every Ukraine isolate, similar to what was observed in the LAT lineage, while the nucleotide identity was only $8 6 \\%$ . Analyses of the N protein sequence revealed two amino acid sites that were unique to our genomes in comparison with the other lineages assessed in our dataset, N168K aa/T507A nt and Q428H aa/A1284T nt (Table S5). Additionally, a GnGc protein alignment with 62 PUUV CDS sequences provided information about four amino acid markers that set our Ukraine isolates apart from others (Q/R/I/M57K, G/T/S78A, S185A, and N/T244S). Three of the four amino acids were shared with a sequence obtained from M. glareolus from Lithuania, which is likely part of the LAT lineage. Within the RNA-dependent RNA polymerase (RdRp), we identified two unique amino acid markers S761G and D2140E. Three other unique markers in RdRp were shared with a sequence isolated from M. glareolus collected from Lithuania in 2015 (GenBank accession no. MT514294), L759F, Q/R/H777L, and S1646A. ",
+        "bbox": [
+            278,
+            426,
+            939,
+            709
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An S-segment alignment, using maximum likelihood on the PhyML 3.0 on the ATGC server, of 14 sequences containing 765 nt, provided sufficient information for the assessment of the lineage that the viral sequence is associated with (Figure 4). As there are not sufficient PUUV M- or L-segment sequences, the confirmation of the lineage was not possible (Figures 5 and 6). ",
+        "bbox": [
+            278,
+            709,
+            939,
+            784
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "8 of 14 ",
+        "bbox": [
+            897,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e306d0e0e56c9982a6a4c29f88f7e4e4d3a9ee7562603926b6b86966daede177.jpg",
+        "image_caption": [
+            "Figure 3. Percent identity matrix of PUUV S-segment cRNA of Ukrainian isolates and representative sequences of the Figure 3. Percent identity matrix of PUUV S-segment cRNA of Ukrainian isolates and representative sequences of the eight eight PUUV lineages. Nucleotide similarity is reported above the black diagonal, and amino acid similarity is reported PUUV lineages. Nucleotide similarity is reported above the black diagonal, and amino acid similarity is reported below light represents the Ukraine isolates’ nucleotide similarity; and dark grey highlight represents the LAT lineage similarity the black diagonal. Light grey highlight represents the Ukraine isolates’ amino acid similarity; medium grey highlight with the Ukraine isolates and the DAN sequence, which had 100% amino acid similarity but 86% nucleotide similarity. represents the Ukraine isolates’ nucleotide similarity; and dark grey highlight represents the LAT lineage similarity with Each virus isolate is listed by the GenBank accession nuthe Ukraine isolates and the DAN sequence, which had $1 0 0 \\%$ the country the isolate was co amino acid similarity but $8 6 \\%$ d from, the host species  nucleotide similarity. Each (Myodes glareolus (M.g)), the year collected, and its associated PUUV lineage. Ukraine isolates are listed according to the virus isolate is listed by the GenBank accession number, the country the isolate was collected from, the host species (Myodes glareolus (M.g)), the year collected, and its associated PUUV lineage. Ukraine isolates are listed according to the host species, specimen number, and capture line. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            117,
+            112,
+            884,
+            370
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/984148be6c4c74b7fe64a620b41954aaa7d181c16c8881832edbb493d376df1d.jpg",
+        "image_caption": [
+            "Figure 4. Phylogenetic tree of the partial PUUV S-segment. The tree was generated from an alignment to a 765 nt sequence at position 1–765 nt/1–241 aa (genome position is noted from reference sequence NC_005224). Branch support values for each major node are displayed. The Latvian (LAT) lineage is highlighted within the grey box, and the line from which each major node are displayed. The Latvian (LAT) lineage is highlighted within the grey box, and the line from which each each Ukraine isolate was collected is shown in parenthesis. Each virus isolate is listed by GenBank accession number, the Ukraine isolate was collected is shown in parenthesis. Each virus isolate is listed by GenBank accession number, the country country the isolate was collected from, the host species (Myodes glareolus (M.g)), and the year collected. The eight PUUV the isolate was collected from, the host species (Myodes glareolus (M.g)), and the year collected. The eight PUUV lineages are listed to the right of the tree. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            505,
+            863,
+            825
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            55,
+            60,
+            184,
+            72
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "9 of 14 ",
+        "bbox": [
+            897,
+            60,
+            941,
+            71
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cae57ac0f01ccf87951497cbe6a762840c125cba5e09b7781f1d6c828ed18378.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            174,
+            111,
+            830,
+            451
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e88b8839eeaa04e8d6000beed26a6adc34a3c61650b74b6ece0c217e6df49a4.jpg",
+        "image_caption": [
+            "Figure 5. Phylogenetic tree of a partial PUUV M-segment. The tree was generated from an alignment of a 633nt sequence at position 2190–2823 nt/717–928 aa (genome position is noted from reference sequence NC_005223). Branch support val-at position 2190–2823 nt/717–928 aa (genome position is noted from reference sequence NC_005223). Branch support ues for each major node are displayed. Ukraine isolates are highlighted within the grey box, and the line from which each values for each major node are displayed. Ukraine isolates are highlighted within the grey box, and the line from which Ukraine isolate was collected is shown in parenthesis. Each virus isolate is listed according to the GenBank accession each Ukraine isolate was collected is shown in parenthesis. Each virus isolate is listed according to the GenBank accession Clethrionomys rufocanus (C.r.)), the year collected, and whether the isolate was sequenced directly from the host or ampli-number, the country the isolate was collected from, the host species (Myodes glareolus (M.g.), Homo sapiens (H.s.), andViruses 2021, 13, x FOR PEER REVIEW 12 of 16 fied in another host (cell lines or Syrian hamster). Clethrionomys rufocanus (C.r.)), the year collected, and whether the isolate was sequenced directly from the host or amplified in another host (cell lines or Syrian hamster). ",
+            "Figure 6. Phylogenetic tree of a partial PUUV L-segment. The tree was generated from an alignment of a 542 nt sequence at Figure 6. Phylogenetic tree of a partial PUUV L-segment. The tree was generated from an alignment of a 542 nt sequence position 2278–2820 nt/748–927 aa (genome position is noted from reference sequence NC_005225). Branch support values ues for each major node are displayed. Ukraine isolates are highlighted within the grey box, and the line from which each for each major node are displayed. Ukraine isolates are highlighted within the grey box, and the line from which each Ukraine isolate was collected is shown in parenthesis. Each virus isolate is listed according to GenBank accession number, Ukraine isolate was collected is shown in parenthesis. Each virus isolate is listed according to GenBank accession number, isolate was sequenced directly from the host or amplified in another host (cell lines or Syrian hamster). the country the isolate was collected from, the host species (Myodes glareolus (M.g)), the year collected, and whether the isolate was sequenced directly from the host or amplified in another host (cell lines or Syrian hamster). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            181,
+            568,
+            816,
+            840
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            55,
+            60,
+            184,
+            72
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "10 of 14 ",
+        "bbox": [
+            890,
+            60,
+            939,
+            71
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 4, the S-segment showed a strong association with the Latvian (LAT) lineage. This lineage includes viruses from Latvia, Lithuania, and Poland, and our sequences suggests that western Ukraine should be included in this lineage [23]. A 633 nt alignment of 58 M-segment PUUV sequences showed that Ukraine isolates have a strong association with those captured from M. glareolus in Lithuania (Figure 5). In contrast, a 542 nt alignment of the L-segment did not cluster the Ukraine sequences with other published PUUV L sequences (Figure 6). ",
+        "bbox": [
+            278,
+            112,
+            939,
+            217
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The S-segment sequence phylogeny and geographical coordinates show four groups of isolates from M. glareolus collected from neighboring lines (Figure 4). Specimen IDs 355, 400, and 412 formed the first group, which were identified in neighboring lines I and F. Specimen ID 274 was found in line A, which was physically separated from the other lines with a highway. Specimen IDs 321, 394, and 416 were collected from neighboring lines E and F. Similarly, IDs 142, 156, 169, 209, 243, 256, and 258 were sequenced from rodents collected on lines C and D. The L-segment phylogeny supports these groupings as it also maintains the separation between these four groupings. As the M-segment phylogeny only had two groups represented, there was not enough evidence to support this separation. ",
+        "bbox": [
+            278,
+            218,
+            939,
+            351
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "bbox": [
+            278,
+            363,
+            381,
+            376
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The prevalence of HFRS cases in humans remains unknown for Ukraine, although recent research reported a $1 . 6 \\%$ seroprevalence of the hantaviral antibody in 966 healthy individuals within a small locality in Lviv Oblast, Ukraine [13]. The lack of information on diseases caused by hantaviruses is two-fold; firstly, there have been few surveillance efforts on the reservoirs of viruses that cause these diseases, and secondly, there is lack of molecular tools for the diagnostic identification of the causative virus strains in the region. The prevalence of reservoir hosts of hantaviruses and the incidence of cases in neighboring countries suggests that hantaviruses are circulating within the country, although there has only been one previous study that reported the seroprevalence within humans and the rodent reservoir [12,13]. Our previous work studying antibody prevalence in Volyn during spring and autumn reported a seroprevalence of $2 . 2 \\%$ (9/404) in A. agrarius and $7 \\%$ (31/433) in M. glareolus. Our current 2019 survey conducted in autumn showed a seroprevalence of $3 3 . 9 \\%$ (21/62) in A. agrarius, $2 0 . 5 \\%$ (25/122) in A. flavicollis, and $1 5 . 7 \\%$ (30/191) in M. glareolus. With this study, we show that for people living in western Ukraine, there is a high potential for HFRS caused by PUUV. Our results will enable the development of qRT-PCR assays to confirm diagnosis in febrile patients with symptoms suggestive of the spectrum of illness caused by hantaviruses. ",
+        "bbox": [
+            278,
+            381,
+            939,
+            634
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Apart from our previous study that suggested hantaviruses are present in Ukraine, little is known about the species or associated disease. All of the countries surrounding Ukraine (Belarus, Hungary, Moldova, Poland, Russia, Romania, and Slovakia) have reported cases of HFRS, but the species or genotype of the viruses that caused the disease or the reservoir of the virus is not known in some cases [24–29]. Most hantavirus identifications reported in these studies have focused on humans. ",
+        "bbox": [
+            278,
+            634,
+            941,
+            722
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Only a small number of field trapping surveys have been conducted in surrounding countries. In a large field survey spanning multiple districts southwest of where this study was conducted in the Subcarpathia region in Poland, 194 rodents were captured, with the most abundantly captured rodents consisting of A. agrarius, A. flavicollis, and M. glareolus, as was found in this study [30]. From the 194 captured rodents, 17 showed evidence of hantavirus infection by PCR and/or IFA for DOBV, PUUV, and TULV. In this study, the percentage of positive rodents was half of the current study. In another field survey in western Poland, which captured 106 small mammals, the most abundantly captured rodents (A. agrarius, A. flavicollis, and M. glareolus) were the same as in our study, but only five of the animals tested positive for RNA, and these animals tested positive for DOBV and Seewis orthohantavirus (SWSV) [31]. We not only identified PUUV in M. glareolus, but we also identified PUUV sequences within the reservoir host of DOBV. Our study shows that reservoir hosts can act as spillover hosts to harbor other species of hantaviruses. Lastly, ",
+        "bbox": [
+            278,
+            725,
+            939,
+            917
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "11 of 14 ",
+        "bbox": [
+            890,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "in northeast Poland, a field survey was conducted that led to the first reported isolation of PUUV in Poland, where three captured rodents out of 45 tested positive for PUUV [32]. In summary, Ukraine and the region would benefit from additional survey studies that include the molecular identification of the variants. ",
+        "bbox": [
+            278,
+            112,
+            939,
+            172
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Similar to what has been observed in other research, we observed $1 0 0 \\%$ amino acid identity of the PUUV S-segment fragments to the LAT lineage within our trapping sites [33]. Despite other PUUV lineages, we observed no distinct molecular signatures within our S-segments, suggesting that the Ukrainian sequences are not a new lineage. As previously described by Razzauti et al. [23], who collected two groups of M. glareolus in Latvia, which were distinguished by PUUV sequences within either the RUS and LAT lineages, we identified all 11 synapomorphic amino acid markers in the N protein sequence in our sequences containing the positions specific to M. glareolus found within the LAT lineage (A5T, R30K, V34M, Y61F, P233A, D234E, K237R, D250E, R265K, N272Q, and D302N), which strongly supports our suggestion to add our Ukraine isolates to the LAT lineage. Similar to Razzuti et al. [23], we confirmed eight of nine synaptomorphic markers in the M protein sequence Y769F, T771S, V803A, V807I, R810K, V815A, T827S, and I/L835V. We also confirmed five of eight RdRp synaptomorphic amino acid markers, R200K, Q234P, V239A, N242S, and Q265H. In contrast with Razzauti et al. [23], we had two sequences containing D245 rather than S245 in the RdRp. Due to regions of low sequence coverage, we could not confirm the other two markers, D273E or R315Q. In distinguishing unique markers that separate Ukraine within that of its LAT lineage, we identified several markers within the N protein N168K aa/T507A nt and Q428H aa/A1284T nt, within the GnGc protein Q/R/I/M57K, and within the RdRp protein S761G and D2140E. Future work will focus on uncovering the complete CDS of Ukraine isolates to confirm all lineage-specific synaptomorphic markers within the S-, M-, and L-segments. ",
+        "bbox": [
+            278,
+            172,
+            939,
+            485
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In agreement with Castel et al. [34] following the phylogeography of PUUV in eastern Europe, our PUUV isolates confirm a close relationship with isolates from Poland and Lithuania. Following the dispersion route of PUUV throughout eastern Europe, Castel [34] shows a potential route from southwestern Ukraine up towards Lithuania, suggesting that the “Eastern” refugia expansion may characterize Ukraine isolates as being ancestral to those found in northeastern Europe. In addition, the article by Razzauti et al. [23], which identified the PUUV LAT lineage, found that M. glareolus mtDNA originated from the Carpathian clade. They suggested that other members of the LAT lineage would likely be identified in Poland, Lithuania, and Ukraine, among others, if M. glareolus from the Carpathian clade carrying PUUV from the LAT lineage were in Latvia after the Last Glacial Maximum [23]. From our S-segment phylogenetic analyses (Figure 4), we show that Ukraine isolates cluster together with a Poland isolate collected in 2009 and a Lithuanian isolate collected in 2015. As the Carpathian Mountains separates Ukraine from southwestern Europe, the limited geographic barriers to North and Eastern Europe may have allowed for easier access for PUUV dispersal through the East European Plain. The addition of our work in adding PUUV isolates from Ukraine to the current database of PUUV isolates across Europe and Asia will aid in the phylogeographic analyses to uncover how these lineages have spread across the Old World. ",
+        "bbox": [
+            278,
+            486,
+            939,
+            753
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study describes the circulation of PUUV in multiple rodent species in Ukraine, which is likely an important driver of HFRS cases. The study further shows that PUUV circulating in northwestern Ukraine is genetically related to the PUUV found in the LAT lineage. This work emphasizes the necessity of field surveys to identify viruses that will allow for the development of more accurate molecular diagnostic tools for suspected HFRS cases, and to provide a further understanding of the impact these viruses have on human health. ",
+        "bbox": [
+            278,
+            753,
+            939,
+            857
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Materials: The following are available online at https://www.mdpi.com/article/ 10.3390/v13081640/s1, Table S1: Trap coordinates, Table S2: Line and day success rate, Table S3: Small mammal database, Table S4: Primers used to amplify DOBV or PUUV hantaviruses. DOBV primers were designed based on an alignment of sequences from Russia, Germany, Slovenia, Slovakia, ",
+        "bbox": [
+            278,
+            873,
+            941,
+            929
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            57,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "12 of 14 ",
+        "bbox": [
+            890,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Croatia, Estonia, Greece, Finland from Apodemus agrarius and A. flavicollis rodents and Homo sapiens hosts. PUUV primers were designed based on alignments from sequences collected from Russia, Germany, Slovenia, Slovakia, Finland, France, Czech Republic. The optimal annealing temperature for these primers is set at $6 0 ~ ^ { \\circ } \\mathrm { C } ,$ , Table S5: NGS depth of coverage of conserved S-, M-, L-segment sites in Ukraine isolates from sequenced vRNA. ",
+        "bbox": [
+            273,
+            112,
+            941,
+            185
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions: Conceptualization, C.B.J. and G.E.G.; methodology, C.B.J., G.E.G., I.D., I.N., L.C., O.A.H. and V.V.K.; software, E.P.W. and M.K.T.; formal analysis, E.P.W., M.K.T., and O.N.; data curation, C.B.J., E.P.W., I.K., O.N. and M.K.T.; writing—C.B.J., E.P.W. and M.K.T.; original draft preparation, C.B.J., E.P.W. and M.K.T.; writing—review and editing, C.B.J., E.P.W. and M.K.T.; visualization, E.P.W. and M.K.T.; supervision, C.B.J., N.Y. and I.D.; project administration, C.B.J.; funding acquisition, C.B.J. All authors have read and agreed to the published version of the manuscript. ",
+        "bbox": [
+            273,
+            191,
+            941,
+            275
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Funding: This research was funded by DTRA through the Biological Threat Reduction Program in Ukraine. The contents of this publication are the responsibility of the author and do not necessarily reflect the views of DTRA or the United States Government. ",
+        "bbox": [
+            273,
+            282,
+            941,
+            324
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Institutional Review Board Statement: The study was conducted according to the guidelines and was approved by the IACUC of University of Tennessee Health Science Center (protocol code 18-108, date of approval 4 June 2019). ",
+        "bbox": [
+            273,
+            331,
+            941,
+            373
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Data Availability Statement: All supporting data to the manuscript are hosted in Zenodo http: //doi.org/10.5281/zenodo.5089927 (accessed on 31 July 2021). ",
+        "bbox": [
+            273,
+            380,
+            941,
+            409
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments: We thank members of the Black and Veatch Special Projects Corp and Metabiota, Inc., science team for their assistance in facilitating the implementation of this study. We thank Anatoliy Olishevskyi, Andrii Storozhuk, Yurii Prykhodai, Nadiia Samostian, and Tatiana Demydova who contributed to the collection and processing of the small mammals. ",
+        "bbox": [
+            273,
+            414,
+            941,
+            470
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conflicts of Interest: I.K. and O.N. were employed by Black and Veatch. ",
+        "bbox": [
+            275,
+            478,
+            761,
+            491
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            504,
+            144,
+            517
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Walker, P.J.; Siddell, S.G.; Lefkowitz, E.J.; Mushegian, A.R.; Adriaenssens, E.M.; Dempsey, D.M.; Dutilh, B.E.; Harrach, B.; Harrison, R.L.; Hendrickson, R.C.; et al. Changes to virus taxonomy and the Statutes ratified by the International Committee on Taxonomy of Viruses (2020). Arch. Virol. 2020, 165, 2737–2748. [CrossRef] [PubMed] ",
+            "2. Avsic-Zupanc, T.; Toney, A.; Anderson, K.; Chu, Y.K.; Schmaljohn, C. Genetic and antigenic properties of Dobrava virus: A unique member of the Hantavirus genus, family Bunyaviridae. J. Gen. Virol. 1995, 76 Pt 11, 2801–2808. [CrossRef] ",
+            "3. Avsic-Zupanc, T.; Nemirov, K.; Petrovec, M.; Trilar, T.; Poljak, M.; Vaheri, A.; Plyusnin, A. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: Co-existence of two distinct genetic lineages within the same natural focus. J. Gen. Virol. 2000, 81, 1747–1755. [CrossRef] [PubMed] ",
+            "4. Golovljova, I.; Vasilenko, V.; Prukk, T.; Brus Sjolander, K.; Plyusnin, A.; Lundkvist, A. Puumala and Dobrava hantaviruses causing hemorrhagic fever with renal syndrome in Estonia. Eur. J. Clin. Microbiol. Infect. Dis. 2000, 19, 968–969. [CrossRef] [PubMed] ",
+            "5. Jakab, F.; Horvath, G.; Ferenczi, E.; Sebok, J.; Varecza, Z.; Szucs, G. Detection of Dobrava hantaviruses in Apodemus agrarius mice in the Transdanubian region of Hungary. Virus Res. 2007, 128, 149–152. [CrossRef] ",
+            "6. Klempa, B.; Stanko, M.; Labuda, M.; Ulrich, R.; Meisel, H.; Kruger, D.H. Central European Dobrava Hantavirus isolate from a striped field mouse (Apodemus agrarius). J. Clin. Microbiol. 2005, 43, 2756–2763. [CrossRef] ",
+            "7. Klempa, B.; Tkachenko, E.A.; Dzagurova, T.K.; Yunicheva, Y.V.; Morozov, V.G.; Okulova, N.M.; Slyusareva, G.P.; Smirnov, A.; Kruger, D.H. Hemorrhagic fever with renal syndrome caused by 2 lineages of Dobrava hantavirus, Russia. Emerg. Infect. Dis. 2008, 14, 617–625. [CrossRef] [PubMed] ",
+            "8. Klingstrom, J.; Hardestam, J.; Lundkvist, A. Dobrava, but not Saaremaa, hantavirus is lethal and induces nitric oxide production in suckling mice. Microbes Infect. 2006, 8, 728–737. [CrossRef] [PubMed] ",
+            "9. Papa, A.; Bojovic, B.; Antoniadis, A. Hantaviruses in Serbia and Montenegro. Emerg Infect. Dis. 2006, 12, 1015–1018. [CrossRef] ",
+            "10. Lähdevirta, J.; Savola, J.; Brummer-Korvenkontio, M.; Berndt, R.; Illikainen, R.; Vaheri, A. Clinical and serological diagnosis of Nephropathia epidemica, the mild type of haemorrhagic fever with renal syndrome. J. Infect. 1984, 9, 230–238. [CrossRef] ",
+            "11. Hjertqvist, M.; Klein, S.L.; Ahlm, C.; Klingstrom, J. Mortality rate patterns for hemorrhagic fever with renal syndrome caused by Puumala virus. Emerg. Infect. Dis. 2010, 16, 1584–1586. [CrossRef] ",
+            "12. Demchyshyna, I.V.; Glass, G.E.; Hluzd, O.A.; Kutseva, V.V.; Taylor, M.K.; Williams, E.P.; Kurpita, V.; Jonsson, C.B. Cocirculation of Two Orthohantavirus Species in Small Mammals of the Northwestern Ukraine. J. Wildl. Dis. 2020, 56, 640–645. [CrossRef] [PubMed] "
+        ],
+        "bbox": [
+            55,
+            521,
+            941,
+            891
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            55,
+            60,
+            184,
+            72
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "13 of 14 ",
+        "bbox": [
+            890,
+            60,
+            939,
+            71
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "13. Lozynskyi, I.; Shulgan, A.; Zarichna, O.; Ben, I.; Kessler, W.; Cao, X.; Nesterova, O.; Glass, G.E.; Spruill-Harrell, B.; Taylor, M.K.; et al. Seroprevalence of Old World Hantaviruses and Crimean Congo Hemorrhagic Fever Viruses in Human Populations in Northwestern Ukraine. Front. Cell. Infect. Microbiol. 2020, 10, 589464. [CrossRef] [PubMed] ",
+            "14. Jonsson, C.B.; Chu, Y.K.; Ontiveros, S.P. Hantaan virus. In Molecular Detection of Human Viral Pathogens; Liu, D., Ed.; Taylor & Francis CRC Press: Boca Raton, FL, USA, 2010. ",
+            "15. Chu, Y.K.; Owen, R.D.; Gonzalez, L.M.; Jonsson, C.B. The complex ecology of hantavirus in Paraguay. Am. J. Trop. Med. Hyg. 2003, 69, 263–268. [CrossRef] [PubMed] ",
+            "16. Taylor, M.K.; Williams, E.P.; Wongsurawat, T.; Jenjaroenpun, P.; Nookaew, I.; Jonsson, C.B. Amplicon-Based, Next-Generation Sequencing Approaches to Characterize Single Nucleotide Polymorphisms of Orthohantavirus Species. Front. Cell Infect. Microbiol. 2020, 10, 565591. [CrossRef] [PubMed] ",
+            "17. Edgar, R.C. MUSCLE: Multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res. 2004, 32, 1792–1797. [CrossRef] [PubMed] ",
+            "18. Kumar, S.; Stecher, G.; Li, M.; Knyaz, C.; Tamura, K. MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms. Mol. Biol. Evol. 2018, 35, 1547–1549. [CrossRef] [PubMed] ",
+            "19. Guindon, S.; Dufayard, J.-F.; Lefort, V.; Anisimova, M.; Hordijk, W.; Gascuel, O. New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0. Syst. Biol. 2010, 59, 307–321. [CrossRef] ",
+            "20. Price, M.N.; Dehal, P.S.; Arkin, A.P. FastTree 2–Approximately Maximum-Likelihood Trees for Large Alignments. PLoS ONE 2010, 5, e9490. [CrossRef] ",
+            "21. Sievers, F.; Wilm, A.; Dineen, D.; Gibson, T.J.; Karplus, K.; Li, W.; Lopez, R.; McWilliam, H.; Remmert, M.; Söding, J.; et al. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol. Syst. Biol. 2011, 7, 539. [CrossRef] ",
+            "22. Madeira, F.; Park, Y.M.; Lee, J.; Buso, N.; Gur, T.; Madhusoodanan, N.; Basutkar, P.; Tivey, A.R.N.; Potter, S.C.; Finn, R.D.; et al. The EMBL-EBI search and sequence analysis tools APIs in 2019. Nucleic Acids Res. 2019, 47, W636–W641. [CrossRef] ",
+            "23. Razzauti, M.; Plyusnina, A.; Niemimaa, J.; Henttonen, H.; Plyusnin, A. Co-circulation of two Puumala hantavirus lineages in Latvia: A russian lineage described previously and a novel Latvian lineage. J. Med. Virol. 2012, 84, 314–318. [CrossRef] [PubMed] ",
+            "24. GeurtsvanKessel, C.H.; Goeijenbier, M.; Verner-Carlsson, J.; Litjens, E.; Bos, W.J.; Pas, S.D.; Melo, M.M.; Koopmans, M.; Lundkvist, Å.; Reusken, C.B. Two clinical cases of renal syndrome caused by Dobrava/Saaremaa hantaviruses imported to the Netherlands from Poland and Belarus, 2012-2014. Infect. Ecol. Epidemiol. 2016, 6, 30548. [CrossRef] [PubMed] ",
+            "25. Maftei, I.D.; Segall, L.; Panculescu-Gatej, R.; Ceianu, C.; Covic, A. Hantavirus infection–hemorrhagic fever with renal syndrome: The first case series reported in Romania and review of the literature. Int. Urol. Nephrol. 2012, 44, 1185–1191. [CrossRef] [PubMed] ",
+            "26. Mikha˘ılenko, A.G.; Tkachenko, E.A.; Smirnov, I.; Malkin, A.E.; Chebotar, I.F. [Results of serologic screening for hemorrhagic fever with kidney syndrome in Moldova]. Vopr. Virusol. 1994, 39, 260–262. ",
+            "27. Faludi, G.; Ferenczi, E. Serologically verified hantavirus infections in Hungary. Acta Microbiol. Immunol. Hung. 1995, 42, 419–426. ",
+            "28. Bilcíková, M.; Gresíková, M.; Valaseková, T.; Schréter, I.; Carnická, A. [The incidence and clinical picture of hemorrhagic fever with renal syndrome in East Slovakia: The eastern and western type]. Bratisl. Lek. Listy 1989, 90, 852–856. ",
+            "29. Tkachenko, E.; Ishmukhametov, A.; Dzagurova, T.; Bernshtein, A.; Morozov, V.; Siniugina, A.; Kurashova, S.; Balkina, A.; Tkachenko, P.; Kruger, D.; et al. Hemorrhagic Fever with Renal Syndrome, Russia. Emerg. Infect. Dis. J. 2019, 25, 2325. [CrossRef] ",
+            "30. Michalski, A.; Niemcewicz, M.; Bielawska-Drózd, A.; Nowakowska, A.; Gaweł, J.; Pitucha, G.; Joniec, J.; Zielonka, K.; Marciniak-Niemcewicz, A.; Kocik, J. Surveillance of hantaviruses in Poland: A study of animal reservoirs and human hantavirus disease in Subcarpathia. Vector Borne Zoonotic Dis. 2014, 14, 514–522. [CrossRef] ",
+            "31. Lee, S.H.; No, J.S.; Kim, W.K.; Gajda, E.; Perec-Matysiak, A.; Kim, J.A.; Hildebrand, J.; Yanagihara, R.; Song, J.W. Molecular Epidemiology and Genetic Diversity of Orthohantaviruses in Small Mammals in Western Poland. Am. J. Trop. Med. Hyg. 2020, 103, 193–199. [CrossRef] ",
+            "32. Ali, H.S.; Drewes, S.; Sadowska, E.T.; Mikowska, M.; Groschup, M.H.; Heckel, G.; Koteja, P.; Ulrich, R.G. First molecular evidence for Puumala hantavirus in Poland. Viruses 2014, 6, 340–353. [CrossRef] [PubMed] ",
+            "33. Davidyuk, Y.; Shamsutdinov, A.; Kabwe, E.; Ismagilova, R.; Martynova, E.; Belyaev, A.; Shuralev, E.; Trifonov, V.; Savitskaya, T.; Isaeva, G.; et al. Prevalence of the Puumala orthohantavirus Strains in the Pre-Kama Area of the Republic of Tatarstan, Russia. Pathogens 2020, 9, 540. [CrossRef] [PubMed] ",
+            "34. Castel, G.; Chevenet, F.; Razzauti, M.; Murri, S.; Marianneau, P.; Cosson, J.-F.; Tordo, N.; Plyusnin, A. Phylogeography of Puumala orthohantavirus in Europe. Viruses 2019, 11, 679. [CrossRef] [PubMed] "
+        ],
+        "bbox": [
+            55,
+            112,
+            944,
+            797
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "Viruses 2021, 13, 1640 ",
+        "bbox": [
+            55,
+            61,
+            184,
+            72
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "14 of 14 ",
+        "bbox": [
+            890,
+            61,
+            939,
+            71
+        ],
+        "page_idx": 13
+    }
+]

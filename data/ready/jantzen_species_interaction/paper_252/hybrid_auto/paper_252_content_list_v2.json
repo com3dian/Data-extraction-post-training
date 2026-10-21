@@ -1,0 +1,4698 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RESEARCH "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                97,
+                113,
+                221,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Open Access "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                771,
+                113,
+                900,
+                132
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CrossMark "
+                    }
+                ]
+            },
+            "bbox": [
+                811,
+                139,
+                905,
+                169
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular evidence of  spp. in Rickettsiaixodid ticks and rodents in suburban, natural and rural habitats in Slovakia "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                149,
+                727,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lenka Minichová1 , Zuzana Hamšíková2 , Lenka Mahríková2 , Mirko Slovák2 , Elena Kocianová1 , Mária Kazimírová2 , Ľudovít Škultéty1 , Katarína Štefanidesová1 and Eva Špitalská1* "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                256,
+                867,
+                293
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                100,
+                326,
+                171,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Background: Natural foci of tick-borne spotted fever group (SFG) rickettsiae of public health concern have been found in Slovakia, but the role of rodents in their circulation is unclear. Ticks (Ixodes ricinus, Ixodes trianguliceps, Dermacentor marginatus, Dermacentor reticulatus, Haemaphysalis concinna and Haemaphysalis inermis) and tissues of rodents (Apodemus flavicollis, Apodemus sylvaticus, Myodes glareolus, Microtus arvalis, Microtus subterraneus and Micromys minutus) were examined for the presence of SFG rickettsiae and Coxiella burnetii by molecular methods. Suburban, natural and rural habitats were monitored to acquire information on the role of ticks and rodents in the agents’ maintenance in various habitat types of Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                348,
+                885,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results: The overall prevalence of rickettsial infection in questing I. ricinus and D. marginatus was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 . 4 \\% ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "respectively. Rickettsia helvetica, R. monacensis and non-identified rickettsial species were detected in I. ricinus, whereas R. slovaca and R. raoultii were identified in D. marginatus. Rickettsia spp.-infected I. ricinus occurred during the whole tick questing period. Rickettsia helvetica dominated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 0 . 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") followed by R. monacensis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The species were present in all studied habitats. Rickettsia slovaca "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 6 . 7 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and R. raoultii "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 3 . 3 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were identified in D. marginatus from the rural habitat. Apodemus flavicollis was the most infested rodent species with I. ricinus, but My. glareolus carried the highest proportion of Rickettsia-positive I. ricinus larvae. Only "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of rodents (A. flavicollis) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of engorged I. ricinus removed from My. glareolus, A. flavicollis and M. arvalis were R. helvetica- and R. monacensispositive. Coxiella burnetii was not detected in any of the tested samples. We hypothesize that rodents could play a role as carriers of infected ticks and contribute to the maintenance of rickettsial pathogens in natural foci. "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                458,
+                887,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions: Long-term presence of SFG Rickettsia spp. was confirmed in questing ticks from different habitat types of Slovakia. The results suggest a human risk for infection with the pathogenic R. helvetica, R. monacensis, R. slovaca and R. raoultii. "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                613,
+                892,
+                660
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: Rickettsia spp., Coxiella burnetii, Rodents, Ticks, Slovakia "
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                665,
+                573,
+                682
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Background "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                89,
+                705,
+                189,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ticks (Acari: Ixodidae) are vectors of different pathogenic microorganisms with worldwide occurrence. In Slovakia, Ixodes ricinus is a common and widely distributed tick species and known vector of Borrelia burgdorferi (sensu lato), Anaplasma phagocytophilum, “Candidatus Neoehrlichia mikurensis”, Rickettsia helvetica, Rickettsia "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                720,
+                489,
+                812
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "monacensis and Babesia spp. [1–5]. Dermacentor marginatus, Dermacentor reticulatus, Haemaphysalis punctata, Haemaphysalis concinna and Haemaphysalis inermis are other exophilic tick species that are also involved in the circulation of tick-borne microorganisms in natural foci of this country. Dermacentor marginatus prefers steppe and forest-steppe habitats and the karst region, whereas the biotopes of D. reticulatus are situated in river basins, shrubs and pastureland. Haemaphysalis spp. have a focal distribution [6]. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                705,
+                907,
+                856
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 et al. Parasites & VectDOI 10.1186/s13071-017-2094-8 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Parasites & Vectors "
+                    }
+                ]
+            },
+            "bbox": [
+                655,
+                49,
+                907,
+                73
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Correspondence: eva.spitalska@savba.sk 1 Institute of Virology, Biomedical Research Center, Slovak Academy of Sciences, Dúbravská cesta 9, 845 05 Bratislava, Slovakia Full list of author information is available at the end of the article "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                837,
+                448,
+                884
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BioMed Central "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                894,
+                282,
+                924
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated. "
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                894,
+                875,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsiae (Rickettsiales: Rickettsiaceae) are gramnegative, obligate intracellular bacteria. The ecology of spotted fever group (SFG) rickettsiae has not been clearly elucidated; some circulate in enzootic or epizootic cycles between wild-living vertebrates and arthropod vectors [7]. In Slovakia, Rickettsia helvetica is the most prevalent SFG rickettsia in I. ricinus ticks, whereas R. monacensis occurs less frequently [5, 8, 9]. Rickettsia slovaca and R. raoultii are usually associated with Dermacentor spp. [5, 10]. The role of Haemaphysalis spp. as vectors of Rickettsia spp. is unknown. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                108,
+                485,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small rodents are important hosts for immature stages of ixodid ticks and are considered, e.g., as reservoirs of tick-borne encephalitis virus [11], Borrelia miyamotoi and “Ca. N. mikurensis” [12] in Europe. Species such as Microtus agrestis, Myodes glareolus, Apodemus sylvaticus, Apodemus flavicolis as well as insectivores, e.g., Sorex araneus, have been found to be susceptible to R. helvetica infection [13]. On the other hand, R. helvetica did not show any pathogenic effect on Swiss mice, guinea pigs or domestic rabbits in the laboratory [14]. However, following the bite of infected D. marginatus, R. slovaca and specific antibodies against this bacterium were found in A. flavicollis and My. glareolus blood [15, 16]. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                275,
+                485,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Humans are only occasional hosts for ticks and rarely play a role in the subsequent transmission of bacteria. Rickettsia helvetica is the etiological agent of uneruptive tick bite fever in humans which is characterized by fever, headeache, and myalgia. It may also cause myocarditis and meningitis [17, 18]. Rickettsia raoultii is probably less pathogenic than R. slovaca [19]; they were described as etiological agents of TIBOLA/DEBONEL/SENLAT disease in humans, which is associated with a tick bite, an inoculum eschar, and cervical lymphadenopathies. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                487,
+                485,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Coxiella burnetii, the causative agent of Q fever in humans, is an intracellular bacterium. The most common reservoirs are ruminants, primarily cattle, sheep and goats, although some documented outbreaks have been associated with parturient cats or birds. Humans typically acquire an infection from inhaling infected aerosols or dust generated by infected animals or animal products [20]. In Slovakia, C. burnetii has been isolated and identified from I. ricinus, D. marginatus, D. reticulatus, H. concinna and H. inermis, but the role of these ticks in its maintenance is unclear [21, 22]. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                654,
+                485,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the present study, we aimed to reveal the presence of SFG rickettsiae in questing ticks, wild-living rodents and rodent-attached ticks in different habitat types in order to identify potential reservoirs and amplifying hosts. The results will be a basis for future epidemiological studies and risk assessment of human tick-borne rickettsioses in Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                821,
+                485,
+                926
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                108,
+                579,
+                121
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Sample collection "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                124,
+                630,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Questing ticks, rodents, and rodent-attached ticks were collected from three study sites in Slovakia. The locations were described in detail in Kazimírová et al. [23] and Berthová et al. [24]. Two study sites (Bratislava and Fúgelka) are located in the Small Carpathian Mountains (southwestern Slovakia). The mountains are partly densely forested with sessile oak (Quercus petraea) and European hornbeam (Carpinus betulus) dominating at lower altitudes and European beech (Fagus sylvatica) dominating at higher altitudes [23]. The recreational forest city park Železná studnička and the campus of the Slovak Academy of Sciences (SAS) at Bratislava (202–334 m above sea level, asl) represent a suburban habitat with significant anthropogenic impact. The natural habitat at Fúgelka "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 3 6 { - } 4 3 6 \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "asl) is set in a deciduous forest. The third study site located at Prievidza (central Slovakia; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 8 9 ~ \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "asl), is set nearby a settlement and represents a forest-steppe rural area with Carpathian oak-hornbeam woods [24]. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                137,
+                904,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Questing ticks were collected by dragging a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 ~ \\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "white wool blanket over the vegetation in monthly intervals during the peak tick questing activity periods, i.e., April - October 2011–2013 in the suburban and natural habitat, and during March - September 2012–2013 in the rural habitat. In each site three "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 ~ \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "long transects were selected, the blanket was checked for ticks each "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\textrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". All collected ticks were stored in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 5 ~ \\mathrm { m l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "tubes filled with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol. The species and developmental stage of ticks were identified using the key by Siuda [25]. The impacts of environmental factors, including food availability for rodents, on the abundance and life history of ticks and population dynamics of rodents have not been analysed in this study. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                426,
+                904,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Live-trapping of small rodents was carried out during April - June and September - October 2012–2014 in the suburban and natural habitats [26], and in May - July, and September - October 2012–2013 in the rural habitat. Sherman live traps baited with oat flakes were placed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\textrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "apart; 100 traps were set in each capture site and trapping event for a total of 1800 trap nights in each study site. Traps were exposed during two consecutive nights and were checked regularly every morning. Captured rodents were transported to the laboratory, anaesthetized and sacrificed humanely according to current laws of the Slovak Republic. This procedure was approved by the Ministry of Environment of the Slovak Republic, Regional Environmental Office in Bratislava (licence ZPO-594/2012-SAB). The rodents were identified to species, sex and age classes (juvenile, subadult, adult). Each rodent individual was screened for the presence of ticks. Collected ticks were stored in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol until identification. Blood samples obtained from "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                639,
+                904,
+                926
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                37,
+                373,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 2 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sinus orbitalis and spleen biopsies were stored in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ethanol, skin samples from ear were stored at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ } _ { - 8 0 } \\ { } ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                108,
+                485,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                154,
+                218,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Genomic DNA of ticks and rodent tissues were extracted using NucleoSpin Tissue kit (Macherey-Nagel, Düren, Germany) according to manufacturer instruction. Presence of Rickettsia spp. and C. burnetii DNA in the samples was evaluated by PCR assays targeting 381 bp and 401 bp fragments of the citrate synthase gene gltA [27, 28] of rickettsiae and a 493 bp fragment of the outer membrane protein com1 gene of C. burnetii [22]. In each reaction positive (DNA of R. slovaca and R. helvetica, and C. burnetii strain Nine Mile originated from the deposit of the Institute of Virology BMC SAS Bratislava) and negative controls (miliQ water) were applied. The primers and cycling conditions are shown in Additional file 1. PCR amplifications were followed by electrophoresis in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "agarose gel stained with GelRedTM (Biotium, Hayward, California). Rickettsia-positive tick samples were screened for the presence of R. helvetica using TaqMan PCR assay targeting a 65-bp fragment of the 23S rRNA gene as previously described [29], details are shown in Additional file 1. Alternatively, Rickettsia-positive amplicons were purified and analysed by sequencing both DNA strands by Macrogen Inc. (Amsterdam, The Netherlands). In the samples with non-identified rickettsial species fragments of 16S rRNA, sca4, ompA and ompB genes were amplified [30–33] (details are shown in Additional file 1). The DNA sequences were compared with those available in the GenBank database using the Basic Local Alignment Search Tool (Blast) on http://blast.ncbi.nlm.nih.gov/. The new sequences generated in this study were submitted to GenBank under accession numbers KY073144 for gltA, KY081649 for sca4 and KY628821-KY628825, KY628827 for 16S rRNA genes. A phylogenetic analysis was further performed using MEGA5 software [34]. The phylogenetic analysis of gltA gene of the samples was carried out using the Neighbor-Joining method [35]. The evolutionary distances were computed using the Maximum Composite Likelihood method [36] and are in the units of the number of base substitutions per site. The rickettsial genes gltA and 16S rRNA were concatenated and subjected to analysis by the Neighbor-Joining method. The evolutionary distances were computed using the p-distance method [34]. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                169,
+                485,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All PCR-positive questing D. marginatus ticks were subsequently analysed for the presence of sca4 gene [31] (see primers and cycling conditions in Additional file 1). To distinguish R. slovaca from other rickettsial species PCR-RLFP analysis was employed. Amplified sca4 gene was digested using HaeIII restriction endonuclease (digested fragments for R. slovaca are 477 bp and 146 bp "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                821,
+                485,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "[37]). After "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ \\textrm { \\scriptsize 3 h }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of incubation at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 7 ~ ^ { \\circ } \\mathrm { C } _ { \\mathrm { i } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", samples were loaded in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "agarose gel and separated using electrophoresis. Undigested samples were purified and both strands were sequenced by Macrogen Inc. (Amsterdam, The Netherlands). "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                108,
+                904,
+                182
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistical analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                207,
+                633,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For rodents, we determined tick infestation prevalence (P, the proportion between the number of rodents with ticks and the number of captured rodents) and intensity of parasitization (I, the number of ticks per infested rodent). Statistical analyses to test the differences in the prevalences of infection with rickettsiae between years and sites were carried out with the Fisher’s exact test using Past version 2.17b software [38]. A "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-value "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "< 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was considered significant. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "confidence intervals (CI) were calculated for prevalences. Differences in the prevalence of infection with Rickettsia spp. in questing and feeding ticks were analyzed between sexes and habitats applying Fisher’s exact test, supplemented with Mantel-Haenszel common odds ratio estimate (OR) and its "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "confidence interval in cases when two prevalences were compared. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                222,
+                904,
+                479
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                503,
+                566,
+                516
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Overall rate of Rickettsia infections in ticks and rodents "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                510,
+                518,
+                882,
+                531
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In total, 8593 questing ticks of four species (I. ricinus, D. marginatus, H. concinna and H. inermis) were collected during the study, with the dominance of I. ricinus. A total of 663 rodents of 6 species (Apodemus flavicollis, Apodemus sylvaticus, Myodes glareolus, Microtus arvalis, Microtus subterraneus, Micromys minutus) were captured. From rodents, in total 1264 ixodid ticks were collected (1208 larvae, 50 nymphs, 6 adults). The dominant species was I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 3 . 4 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; 1132 larvae, 48 nymphs, and 1 female), followed by H. concinna "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 1 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; 73 larvae and 5 females), I. trianguliceps "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 . 3 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; 2 larvae, 2 nymphs) and one larva of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". reticulatus. Rodentattached I. ricinus larvae clearly prevailed over nymphs. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                532,
+                904,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Randomly selected 4336 (3983 I. ricinus, 182 D. marginatus, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 6 6 H ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". concinna, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 H ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "inermis) questing ticks were individually screened for the presence of Rickettsia spp. and C. burnetii. DNA of C. burnetii was not confirmed in any sample, whereas the presence of rickettsial DNA was confirmed in 301 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 6.2–7.7) ticks. Only I. ricinus and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus were found to be Rickettsia-positive. Infected ticks were found in all habitats (Table 1). The overall prevalence of infection in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 1 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 15.5–27.4) was significantly higher than in I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 5.8–7.3) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P < 0 . 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 3 . 8 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 2.6–5.5). "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                731,
+                904,
+                926
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                40,
+                371,
+                49
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 3 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                40,
+                904,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f58145a429d12e86e6b5764306a09d3328095aeb1cdbf487db4ae7a6dbd79c74.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Prevalencea of Rickettsia spp. in questing ticks in three habitat types in Slovakia in 2011–2013 "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a No. of -positive/no. of tested ticks (percentage of -positive ticks %) "
+                    }
+                ],
+                "html": "<table><tr><td>Habitat/tick stage</td><td>2011</td><td>2012</td><td>2013</td><td>Total</td></tr><tr><td colspan=\"5\">Ixodes ricinus</td></tr><tr><td>Suburban (total)</td><td>45/859 (5.2)a</td><td>22/312 (7.1)</td><td>53/645 (8.2)</td><td>120/1,816 (6.6)</td></tr><tr><td>Females</td><td>10/99 (10.1)</td><td>8/49 (16.3)</td><td>15/102 (14.7)</td><td>33/250 (13.2)</td></tr><tr><td>Males</td><td>14/109 (12.8)</td><td>5/68 (7.4)</td><td>4/98 (4.1)</td><td>23/275 (8.4)</td></tr><tr><td>Nymphs</td><td>21/651 (3.2)</td><td>9/195 (4.6)</td><td>34/445 (7.6)</td><td>64/1,291 (5.0)</td></tr><tr><td>Natural (total)</td><td>83/1,054 (7.9)</td><td>22/388 (5.7)</td><td>28/398 (7.0)</td><td>133/1,840 (7.2)</td></tr><tr><td>Females</td><td>13/85 (15.3)</td><td>4/52 (7.7)</td><td>6/61 (9.8)</td><td>23/198 (11.6)</td></tr><tr><td>Males</td><td>11/102 (10.8)</td><td>5/66 (7.6)</td><td>4/74 (5.4)</td><td>20/242 (8.3)</td></tr><tr><td>Nymphs</td><td>59/867 (6.8)</td><td>13/270 (4.8)</td><td>18/263 (6.8)</td><td>90/1,400 (6.4)</td></tr><tr><td>Rural (total)</td><td></td><td>0/8</td><td>9/319 (2.8)</td><td>9/327 (2.8)</td></tr><tr><td>Females</td><td></td><td>0/3</td><td>0/14</td><td>0/17</td></tr><tr><td>Males</td><td></td><td></td><td>1/16 (6.3)</td><td>1/16 (6.3)</td></tr><tr><td>Nymphs</td><td></td><td>0/1</td><td>8/103 (7.8)</td><td>8/104 (7.7)</td></tr><tr><td>Larvae</td><td></td><td>0/4</td><td>0/186</td><td>0/190</td></tr><tr><td>Total</td><td>128/1,913 (6.7)</td><td>44/700 (6.3)</td><td>90/1,362 (6.6)</td><td>262/3,983 (6.6)</td></tr><tr><td colspan=\"5\">Dermacentor marginatus</td></tr><tr><td>Rural (total)</td><td></td><td>17/147 (11.6)</td><td>22/35 (62.9)</td><td>39/182 (21.4)</td></tr><tr><td>Females</td><td></td><td>7/73 (9.6)</td><td>14/21 (66.7)</td><td>21/94 (22.3)</td></tr><tr><td>Males</td><td></td><td>10/74 (13.5)</td><td>8/13 (61.5)</td><td>18/87 (20.8)</td></tr><tr><td>Nymphs</td><td></td><td></td><td>0/1</td><td>0/1</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                122,
+                907,
+                496
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The total Rickettsia prevalence in questing I. ricinus did not differ significantly between the years of study. The prevalence in I. ricinus females "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 2 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 9.1–15.0) was significantly higher than in males "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 5.9–10.6) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathit { \\Delta } } ^ { \\prime } P = 0 . 0 4 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 5 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.0–2.3) and was also higher in adults "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 8.2–11.9) than in nymphs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 4.9–6.7) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P < 0 . 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 8 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.4–2.3). The prevalence in I. ricinus in the suburban "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 5.5–7.8) and natural "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 6.0–8.4) habitats did not differ significantly "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathit { \\Delta } } ^ { \\prime } P = 0 . 4 6 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 0 . 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.7–1.2), but the prevalence of infection was significantly higher in the suburban and natural habitats compared to the rural habitat "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.0–4.5), (6.6 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 0 0 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                518,
+                489,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 2 . 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.2–5.0 and 7.2 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 0 0 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 2 . 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.4–5.5). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                517,
+                905,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Altogether 262 Rickettsia-positive questing I. ricinus samples were analysed by sequencing or by R. helvetica-specific real time PCR. Rickettsia helvetica was the dominant species "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 0 . 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "present in all tick developmental stages. Rickettsia monacensis was identified in 17 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ticks of all developmental stages. In 7 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 . 7 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ticks, two different unidentified Rickettsia spp. were detected (Table 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                548,
+                907,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A total of 1090 rodent-attached ticks (1024 I. ricinus, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 1 H ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "concinna, 4 I. trianguliceps, 1 D. reticulatus) of all stages were screened for the presence of rickettsiae. All Rickettsia-positive ticks feeding on rodents were I. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                669,
+                907,
+                731
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d8cad31c71232cd98f6cb138309b4792bf9e0b7e61e72ce4e3587547f05a1610.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Proportiona of different Rickettsia spp. in questing Ixodes ricinus in three habitat types in Slovakia "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "a No. of -positive/no. of tested ticks (percentage of -positive ticks %) "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Habitat</td><td colspan=\"4\">R. helvetica</td><td colspan=\"4\">R. monocensis</td><td colspan=\"4\">Rickettsia spp.</td></tr><tr><td>Males</td><td>Females</td><td>Nymphs</td><td>Total</td><td>Males</td><td>Females</td><td>Nymphs</td><td>Total</td><td>Males</td><td>Females</td><td>Nymphs</td><td>Total</td></tr><tr><td>Suburban</td><td>16/23 (69.6)</td><td>28/33 (84.9)</td><td>44/64 (68.8)</td><td>88/120 (73.3)</td><td>3/23 (13.0)</td><td>1/33 (3.0)</td><td>2/64 (3.1)</td><td>6/120 (5.0)</td><td>4/23 (17.4)</td><td>4/33 (12.1)</td><td>18/64 (28.1)</td><td>26/120 (21.7)</td></tr><tr><td>Natural</td><td>17/20 (85.0)</td><td>19/23 (82.6)</td><td>80/90 (88.9)</td><td>116/133 (87.2)</td><td>2/20 (10.0)</td><td>1/23 (4.4)</td><td>8/90 (8.9)</td><td>11/133 (8.5)</td><td>1/20 (5.0)</td><td>3/23 (13.0)</td><td>2/90 (2.2)</td><td>6/133 (4.5)</td></tr><tr><td>Rural</td><td></td><td></td><td>7/9 (77.8)</td><td>7/9 (77.8)</td><td></td><td></td><td>0/9</td><td>0/9</td><td>1/1 (100)</td><td></td><td>1/8 (12.5)</td><td>2/9 (22.2)</td></tr><tr><td>Total</td><td>33/43 (76.7)</td><td>47/56 (83.9)</td><td>131/163 (80.4)</td><td>211/262 (80.5)</td><td>5/43 (11.6)</td><td>2/56 (3.6)</td><td>10/163 (6.1)</td><td>17/262 (6.5)</td><td>6/43 (14.0)</td><td>7/56 (12.5)</td><td>21/163 (12.9)</td><td>34/262 (13.0)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                762,
+                907,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 4 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ricinus, with the highest prevalence in the rural habitat "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.5–11.6), followed by the suburban "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 4.0–8.1) and the natural habitat "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 3 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.9–5.5) (Table 3). However, the total prevalence did not differ significantly between the habitats (6.5 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 8 6 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.4–2.7; 6.5 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 2 4 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 8 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.7–4.7; and 6.1 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 1 1 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.9–3.1). "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                108,
+                489,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ixodes ricinus infestation prevalence and intensity of parasitization on A. flavicollis were higher than on My. glareolus (Table 4), but the prevalence of rickettsial infection was higher in ticks collected from My. glareolus than from Apodemus spp. (Table 5). The highest prevalence of rickettsial infection was determined in ticks collected from M. arvalis, but the total number of ticks collected from these rodents was only 28. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                229,
+                489,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A collection of randomly selected 640 (282 from suburban, 266 from natural, 92 from rural habitat) rodent-attached ticks were screened for the presence of C. burnetii, with negative results. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                350,
+                489,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ear biopsies and/or spleen and/or blood samples from rodents were analysed for the presence of rickettsiae and C. burnetii. DNA of Rickettsia spp. was found in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.1–1.0; 3/663) rodents. All "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                411,
+                489,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "were A. flavicollis. None of the rodent samples was found to be PCR-positive for C. burnetii. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                108,
+                905,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Suburban habitat "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                154,
+                630,
+                165
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the suburban habitat questing I. ricinus dominated (for details see [23]). Three hundred rodents were captured (for details on species composition see [26]), and 553 rodent-attached ticks (I. ricinus, H. concinna and Ixodes trianguliceps) were collected (Table 3). "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                168,
+                905,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The total Rickettsia infection rate in questing I. ricinus was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Table 1). No significant differences between years were found for females, but significant differences in overall prevalence and in prevalence in males and nymphs were revealed between 2011 and 2013 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( P ="
+                    },
+                    {
+                        "type": "text",
+                        "content": "0.021, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 0 2 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively). The difference in infection rate in females and males was not significant (13.2 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 0 7 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.0–2.9), but it was significant between adults and nymphs (11.9 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P < 0 . 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 2 . 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.6–3.3). Analysis of seasonal distribution of Rickettsia spp.-infected I. ricinus during 2011–2013 showed that infected ticks occurred during the whole questing period (Fig. 1a). The highest total infection rate ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 3.9– 16.7) was observed in July and the lowest one "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 4 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                245,
+                907,
+                473
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/460f8a403f77a36bc45146fd472c558d8284e958526d6267a65e5a49628ba361.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3 Prevalencea of Rickettsia spp. in rodent-attached ticks from three habitat types in Slovakia "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "adults, larvae, nymphs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ } ^ { a } \\mathsf { N o }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "reviations: A L N. of -positive/no. of tested ticks (percentage of -positive ticks %) "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Habitat Year</td><td colspan=\"3\">I. ricinus</td><td colspan=\"2\">H. concinna</td><td colspan=\"2\">I. trianguliceps</td><td rowspan=\"2\">D. reticulatus L</td></tr><tr><td>L</td><td>N</td><td>A</td><td>L</td><td>A</td><td>L</td><td>N</td></tr><tr><td>Suburban (Total)</td><td>29/505 (5.7)</td><td>3/21 (14.3)</td><td></td><td>0/22</td><td>0/1</td><td>0/2</td><td>0/2</td><td></td></tr><tr><td>2012</td><td>18/213 (8.5%)</td><td></td><td></td><td>0/17</td><td></td><td></td><td></td><td></td></tr><tr><td>2013</td><td>1/30 (3.3)</td><td>3/21 (14.3)</td><td></td><td></td><td>0/1</td><td></td><td></td><td></td></tr><tr><td>2014</td><td>10/262 (3.8)</td><td></td><td></td><td>0/5</td><td></td><td>0/2</td><td>0/2</td><td></td></tr><tr><td>Natural (Total)</td><td>15/400 (3.8)</td><td>0/6</td><td>0/1</td><td>0/34</td><td>0/3</td><td></td><td></td><td>0/1</td></tr><tr><td>2012</td><td>12/169 (7.1)</td><td>0/1</td><td>0/1</td><td>0/16</td><td>0/3</td><td></td><td></td><td></td></tr><tr><td>2013</td><td>1/5 (20.0)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2014</td><td>2/226 (0.9)</td><td>0/5</td><td></td><td>0/18</td><td></td><td></td><td></td><td>0/1</td></tr><tr><td>Rural (Total)</td><td>6/88 (6.8)</td><td>0/3</td><td></td><td>0/1</td><td></td><td></td><td></td><td></td></tr><tr><td>2012</td><td>3/43 (7.0)</td><td>0/1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2013</td><td>3/45 (6.7)</td><td>0/2</td><td></td><td>0/1</td><td></td><td></td><td></td><td></td></tr><tr><td>Total</td><td>50/993 (5.0)</td><td>3/30 (10.0)</td><td>0/1</td><td>0/57</td><td>0/4</td><td>0/2</td><td>0/2</td><td>0/1</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                518,
+                905,
+                903
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 5 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4e50f1c2617c416f86f87dbf0a2abea583c17807a658779bdca43b3777dab99b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4 Tick infestation prevalence and intensity of parasitisation of rodents by ticks in three habitat types in Slovakia "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "tick infestation prevalence,  intensity of parasitization "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Habitat</td><td rowspan=\"2\">Rodent species</td><td colspan=\"2\">I. ricinus</td></tr><tr><td>P (%)</td><td>I</td></tr><tr><td rowspan=\"3\">Suburban</td><td>Apodemus flavicollis</td><td>69.44</td><td>3.42</td></tr><tr><td>Apodemus sylvaticus</td><td>100</td><td>7</td></tr><tr><td>Myodes glareolus</td><td>39.50</td><td>1.94</td></tr><tr><td rowspan=\"5\">Natural</td><td>Apodemus flavicollis</td><td>64.20</td><td>3.12</td></tr><tr><td>Apodemus sylvaticus</td><td>100</td><td>1</td></tr><tr><td>Myodes glareolus</td><td>20.37</td><td>1.55</td></tr><tr><td>Micromys minutus</td><td>100</td><td>2</td></tr><tr><td>Microtus arvalis</td><td>36.84</td><td>2.43</td></tr><tr><td rowspan=\"2\">Rural</td><td>Apodemus flavicollis</td><td>48.9</td><td>4.18</td></tr><tr><td>Myodes glareolus</td><td>0</td><td>0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                137,
+                489,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 3.0–5.6) in May. The difference was significant "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( P = 0 . 0 1 4 \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 2 . 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C I } = 1 . 2 – 2 . 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In nymphs, the maximum prevalence was determined in July ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 3.0–17.3), but in adults it was in September "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 3 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.2–25.5). October was not considered in the seasonal analysis because of low numbers of tested ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                107,
+                905,
+                213
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia helvetica was the dominant rickettsial species. This species was identified in 88 ticks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 7 3 . 3 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "whereas R. monacensis was identified in 6 ticks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 5 . 0 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(representative sequences from samples BAT1 F22 and BAT3 N53, Fig. 2). An unidentified Rickettsia sp. was found in one male I. ricinus (sample BA2 M12) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 0 . 8 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Partial sequencing of the gltA gene showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity with Rickettsia japonica (GenBank DQ909073) previously found in patient blood in Thailand [39], and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "similarity with the Rickettsia sp. from an I. ricinus male (FT2 M17, GenBank KY073144) from the natural habitat as described below. The quality of the sca4 gene sequences of sample BA2 M12 from this study was low. DNA of 25 Rickettsia-positive ticks, but negative by R. helvetica-specific real-time PCR, were not sequenced. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                213,
+                907,
+                443
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2a4b79b8de1e5ccb09cb661ba81621cf47ff4b7e86dd02924eda317ef62d410e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 5 Presencea of Rickettsia spp. in ticks attached to individual rodent species captured in three habitat types in Slovakia "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "nymphs, larvae, adults, larvae, nymphs, larvae, Abbreviations: IRN I. ricinus IRL I.adults, larvae "
+                    },
+                    {
+                        "type": "text",
+                        "content": "concinna DRL D. reticulatusa No. of  -positive ticks/No. of  -positive ticks/No. of  sp.-positive ticks/No. of tested rodent-attached ticks (percentage of R. helvetica-positive ticks %) "
+                    }
+                ],
+                "html": "<table><tr><td>Habitat</td><td>A. flavicollis</td><td>A. sylvaticus</td><td>My. glareolus</td><td>M. aralis</td><td>M. minutus</td><td>Total</td></tr><tr><td>Suburban</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IRN</td><td>3/0/0/21 (14.3)</td><td></td><td></td><td></td><td></td><td>3/0/0/ 21 (14.3)</td></tr><tr><td>IRL</td><td>21/1/0/407 (5.4)</td><td>0/7</td><td>7/0/0/91 (7.7)</td><td></td><td></td><td>28/1/0/505 (5.7)</td></tr><tr><td>ITL</td><td></td><td></td><td>0/2</td><td></td><td></td><td>0/2</td></tr><tr><td>ITN</td><td>0/1</td><td></td><td>0/1</td><td></td><td></td><td>0/2</td></tr><tr><td>HCL</td><td>0/13</td><td></td><td>0/9</td><td></td><td></td><td>0/22</td></tr><tr><td>HCA</td><td>0/1</td><td></td><td></td><td></td><td></td><td>0/1</td></tr><tr><td>Total</td><td>24/1/0/443 (5.6)</td><td>0/7</td><td>7/0/0/103 (6.8)</td><td></td><td></td><td>31/1/0/553 (5.8)</td></tr><tr><td>Natural</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IRN</td><td>0/5</td><td></td><td></td><td>0/1</td><td></td><td>0/6</td></tr><tr><td>IRL</td><td>7/1/0/348 (2.3)</td><td>0/1</td><td>2/1/0/34 (8.8)</td><td>4/0/0/15 (26.7)</td><td>0/2</td><td>13/2/0/400 (3.8)</td></tr><tr><td>IRA</td><td></td><td></td><td></td><td>0/1</td><td></td><td>0/1</td></tr><tr><td>HCL</td><td>0/20</td><td></td><td>0/6</td><td>0/8</td><td></td><td>0/34</td></tr><tr><td>HCA</td><td></td><td></td><td></td><td>0/3</td><td></td><td>0/3</td></tr><tr><td>DRL</td><td>0/1</td><td></td><td></td><td></td><td></td><td>0/1</td></tr><tr><td>Total</td><td>7/1/0/374 (2.1)</td><td>0/1</td><td>2/1/0/40 (7.5)</td><td>4/0/0/28 (13.8)</td><td>0/2</td><td>13/2/0/445 (3.4)</td></tr><tr><td>Rural</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IRN</td><td>0/3</td><td></td><td></td><td></td><td></td><td>0/3</td></tr><tr><td>IRL</td><td>4/1/1/88 (6.8)</td><td></td><td></td><td></td><td></td><td>4/1/1/88 (6.8)</td></tr><tr><td>HCL</td><td>0/1</td><td></td><td></td><td></td><td></td><td>0/1</td></tr><tr><td>Total</td><td>4/1/1/92 (6.5)</td><td></td><td></td><td></td><td></td><td>4/1/1/92 (6.5)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                479,
+                907,
+                881
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 6 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d83155ed5f99ef9bd5e194f8efe08e666f3bb9088de3f13861d6e4139c6f8475.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                255,
+                115,
+                704,
+                321
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9131db474217b2c172301e2a89524f807787bf9528fc224870423903513b5a12.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 Seasonal distribution of Rickettsia-positive questing I. ricinus ticks in the suburban (a) and natural (b) habitats during 2011–2013 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                255,
+                322,
+                742,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia helvetica and R. monacensis were identified in rodent-attached I. ricinus (Table 5) and in ear biopsies from two A. flavicollis females, which were not infested by ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                563,
+                489,
+                625
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Natural habitat "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                87,
+                639,
+                198,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the natural habitat, questing I. ricinus clearly dominated over H. concinna (for details see [23]). Three hundred and six rodent specimens were captured (for details on species composition see [26]) and 445 rodentattached ticks (I. ricinus, H. concinna and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { * }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". reticulatus) were collected (Table 3). "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                654,
+                487,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The total Rickettsia infection rate in questing I. ricinus was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Table 1). Infection rates did not differ significantly between years. The difference between prevalence of infection in female and male ticks was not significant (11.6 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 2 4 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 4 ;"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.8–2.7), but it was significant between adults and nymphs (10.8 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 0 1 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.1–2.3). Rickettsia-infected I. ricinus were present during the whole investigation period (Fig. 1b). The highest total prevalence was observed in October "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 3.4–13.5) and the lowest in June "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 3.7–8.7), but without significant difference "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\prime P = 0 . 3 9 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                745,
+                489,
+                927
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0.6–3.0). In nymphs, the maximum prevalence was observed in July "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 1.9–14.5), and in adults in May "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 6.7–14.9); October was not included in the seasonal analysis for adults because of the low number of tested specimens (27). Out of the Rickettsia spp.-positive I. ricinus ticks, the presence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". helvetica was identified in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 7 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", R. monacensis in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and two different unidentified Rickettsia spp. in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 8 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( n = 5 \\right)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 8 \\%"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "specimens. The unidentified Rickettsia spp. were found in three I. ricinus females (DNA isolates marked as FT2 F92, FT2 F13, FT3 F4) and two nymphs (DNA isolates FT2 N73, FT2 N392). PCR products of the expected size were obtained with primers targeting gltA, 16S rRNA and ompB genes, but no product using sca4 and ompA primers was obtained. Partial sequencing of the gltA gene of the unidentified Rickettsia spp. showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "identity with “Candidatus Rickettsia mendelii” (GenBank KJ882305) identified in I. ricinus captured from Luscinia megarhynchos in the Czech Republic and Rickettsia sp. 450IRF BA (GenBank KF258155) identified in an I. ricinus female collected in Bratislava [8]. By BLAST analysis, 16S rRNA partial sequence of the I. ricinus rickettsial samples was most similar "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 8 - 9 9 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") to the "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                563,
+                907,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                49
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 7 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0e25c72bcf0b1522a061864e051ecc19e6a6182eda0b04c3a6721cf1fd2b220a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2 Phylogenetic tree inferred from comparison of the Rickettsia gltA partial sequences. GeneBank accession numbers are included "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                255,
+                111,
+                742,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "corresponding sequence of R. belii (GenBank NR074484) and R. prowazekii (GenBank NR044656). The quality of the ompB gene fragments of the samples was low. Another unidentified Rickettsia sp. was found in an I. ricinus male (DNA isolate FT2 M17, GenBank KY073144) (Fig. 2). Partial sequencing of the gltA gene showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "similarity with unidentified Rickettsia sp. (GenBank KF258156) previously found in an I. ricinus male in Bratislava [8], R. raoultii (GenBank KT261764) found in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus in China, R. japonica (GenBank DQ909073) identified from a human in Thailand [39] and with R. heilongjiangii (GenBank AF178034) [40]. Figure 2 shows a phylogenetic tree constructed on the basis of the gltA sequences. Figure 3 presents molecular phylogenetic analysis on the basis of concatenated gltA and 16S rRNA genes. Partial "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                684,
+                489,
+                927
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "sequencing of the sca4 gene from the FT2 M17 DNA isolate (GenBank KY081649) showed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "similarity with Rickettsia sp. AUS118 (GenBank KF666473) form Argas lagenoplastis, with the endosymbiont Rickettsia peacockii str. Rustic (GenBank CP001227), and Rickettsia sp. VF113DR from a D. reticulatus female collected in Vojka nad Dunajom (GenBank KJ152839) [5]. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                684,
+                907,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia helvetica and R. monacensis were identified in rodent-attached I. ricinus ticks (Table 5). Rickettsia helvetica was found in spleen from one A. flavicollis female, which was not infested by ticks. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                791,
+                907,
+                851
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rural habitat "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                867,
+                601,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The highest diversity of tick species was recorded in this habitat: I. ricinus, D. marginatus, H. concinna and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "H ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". inermis. Ixodes ricinus dominated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left( n = 3 2 7 \\right."
+                    },
+                    {
+                        "type": "text",
+                        "content": "), followed by "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                881,
+                907,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                49
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 8 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b1fb9b3c750d6ce6c2bee852ff73d8a748f0148b18e3c86a4d917e6c424e537a.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3 Phylogenetic tree inferred from comparison of concatenated gltA and 16S rRNA Rickettsia partial sequences. GeneBank accession numbers are included "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                255,
+                111,
+                742,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. marginatus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( n = 1 8 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "H ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "concinna "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n = 9 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": 24 nymphs and 71 larvae) and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "H ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "inermis (5 females). Only A. flavicollis ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "[ n = 4 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": 30 females, 15 males) and My. glareolus ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { \\boldsymbol { n } } = 1 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": 6 females, 6 males) were caught. Fourty A. flavicollis and 12 My. glareolus were caught in 2012 and 5 A. flavicollis in 2013. In total, 92 rodent-attached I. ricinus and H. concinna ticks were analysed (Table 3). "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                502,
+                487,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The total Rickettsia spp. infection rate in questing I. ricinus was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; of these, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 7 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were R. helvetica (Tables 1 and 2). Two Rickettsia-positive ticks, but negative by R. helvetica-specific real-time PCR, were not sequenced. Rickettsia-infected I. ricinus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 3.6–15.4) were found only in June. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                622,
+                489,
+                713
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rickettsia-positive questing "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus (total prevalence "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 1 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 15.5–27.4) (Table 1) were found in March, April 2012 and September 2013. The prevalence in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D _ { * }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus females and males did not differ significantly (22.3 vs "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = 0 . 7 8 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { O R } = 1 . 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "CI: 0.5–2.2), but it differed significantly between 2012 and 2013. Altogether, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 6 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(14 females, 12 males) of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus were infected with R. slovaca and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 3 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(7 females, 6 males) with R. raoultii. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                715,
+                489,
+                851
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Apodemus flavicollis was the only tick-infested rodent species (Table 4). Rickettsia helvetica, R. monacensis and Rickettsia sp. (R. helvetica-negative, not analysed by sequencing) were identified in rodent-attached I. ricinus ticks (Tables 3 and 5). "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                851,
+                489,
+                927
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                502,
+                594,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the present study, we screened questing ticks, rodentattached ticks and rodents for rickettsial and C. burnetii infections in three different habitat types in Slovakia. Rickettsial infection was detected in questing and rodentattached ticks, and in skin and spleen samples derived from A. flavicollis. Rickettsia helvetica and R. monacensis were identified in questing and rodent-attached I. ricinus ticks and in rodent samples. Non-identified Rickettsia spp. were found in seven I. ricinus ticks, but their subsequent analysis failed because of low quality sequenced data or lack of DNA. Rickettsia slovaca and R. raoultii were identified only in questing D. marginatus ticks. No evidence of C. burnetii infections was found in ticks or rodents in any of the studied habitats. "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                517,
+                907,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ixodes ricinus is the most common tick in Slovakia and also dominated in all study sites. The highest diversity of tick species was observed in the rural habitat, where in addition to the dominant I. ricinus, D. marginatus, H. concinna and H. inermis were found. Sympatric occurrence of different tick species was previously recorded in a few other sites of southwestern Slovakia [5, 41]. Similarly as in our study, I. ricinus was the dominant species in Martinský forest [41], whereas D. reticulatus dominated in the Vojka nad Dunajom flood-plain forest [5]. Thus, the differences in tick abundance and species spectrum in the studied habitats probably "
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                729,
+                910,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 9 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "depend on specific habitat characteristics, including vertebrate host diversity. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                108,
+                485,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of rickettsial DNA was confirmed in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of questing ticks. The overall prevalence of rickettsiae was 21.4 and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "D"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". marginatus and I. ricinus, respectively. These findings are in accordance with the results of previous studies from urban, suburban, natural and agricultural sites of Slovakia [5, 8–10]. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                139,
+                485,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During 2011–2013, the annual prevalence of rickettsiae in I. ricinus ranged from 5.2 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the suburban habitat and from 5.7 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the natural habitat. Similar data (from 6.7 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") were reported from an agricultural site of eastern Slovakia [9] and in the Netherlands where the annual prevalence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { * }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "helvetica was practically constant during the years 2000–2008 [42]. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                230,
+                485,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Analysis of the seasonal distribution of Rickettsia-infected I. ricinus showed that infected ticks were present during the whole tick questing period in the suburban and the natural habitat, similarly as in an agricultural site of Slovakia [9]. Seasonal/monthly variation in prevalence of Rickettsia-infected I. ricinus was observed not only in the suburban and natural habitat included in this study, but also in the agricultural site in eastern Slovakia [9], in Germany [43–46], Denmark [47] and the Netherlands [42]. The observed seasonal differences in the prevalence of rickettsial infections in questing ticks could be due to many factors such as tick phenology, sex ratio, habitat type, microclimate, presence and diversity of tick host species. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                336,
+                485,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The initial infection of ticks with rickettsiae occurs when uninfected ticks feed on rickettsemic hosts. The probability to be infected by rickettsiae rises depending on the quantity of blood the tick ingests and the duration of its attachment. The exact process of natural infection of ticks is unrevealed for the majority of tick-- borne rickettsiae, but it was observed that all subsequent life stages of the tick would be infected by transstadial transmission [7] and the ticks might acquire rickettsial infection even by co-feeding [48]. "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                548,
+                485,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although rodents have been confirmed as reservoirs and amplifying hosts for a number of tick-borne microorganisms [11, 12], their reservoir role has not been resolved in the case of rickettsiae. In our study, we found only "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "R. helvetica-infected A. flavicollis, whereas "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of ticks attached to A. flavicollis, My. glareolus and M. arvalis were Rickettsia-positive. Our results support previous findings from Slovakia where rickettsial infection was confirmed only in a low proportion of wild-living rodents [49], or no infection was found [50]. Similarly, in a sylvatic habitat of west-central Poland, rickettsial DNA was detected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of rodent-attached I. ricinus nymphs and in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of larvae, but none of the tested A. flavicollis and My. glareolus blood samples were positive [51]. However, R. helvetica has frequently "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                700,
+                485,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "been detected in ticks feeding on non-rickettsiemic rodents. For example, in central Germany, SFG rickettsiae (mainly R. helvetica) were found in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of I. ricinus collected from A. flavicollis and My. glareolus [52], but in southern Germany ticks feeding on M. arvalis were C. burnetii- and Rickettsia spp.-negative [53]. In Switzerland, Rickettsia spp. were detected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "o f immature I. ricinus ticks attached to A. flavicollis and My. glareolus, whereby "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of larvae were infected with R. helvetica, but none of the xenodiagnostic ticks fed on rodents were found infected, suggesting that rodents are not amplifying hosts for SFG rickettsieae [12]. In contrast, as much as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "blood samples obtained from A. sylvaticus and My. glareolus in the Netherlands were found to be infected with R. helvetica, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with Rickettsia spp. and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "with Rickettsia conorii [42]. In south-eastern Germany, rickettsial DNA was found in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of ear skin samples from rodents [54] and in Hungary, R. helvetica was found in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of Mus musculus and in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of Leptopsylla segnis fleas [55]. During field studies in Italy, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of ear biopsies from Apodemus spp., but none from My. glareolus were R. slovaca-infected and the prevalence of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ". slovaca in host-seeking D. marginatus larvae was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[56], suggesting that Apodemus spp. might play a role as amplifiers of the R. slovaca infection. However, based on the published data on rickettsial infections in wild-living rodents it is difficult to define their exact role in the maintenance of Rickettsia spp. in natural foci. We can only speculate that rickettsial infections of rodent-attached ticks are the result of either a vertical route of infection (transovarial and/or transstadial transmission) in ticks or a very short rickettsiaemia in rodents. Nevertheless, the presence of pathogenic R. helvetica, R. monacensis, R. slovaca and R. raoultii in ticks indicate their potential epidemiological and epizootological significance in the studied sites. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                108,
+                904,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although C. burnetii was previously detected in an A. flavicollis specimen from Central Slovakia [49], in this study, the presence of C. burnetii was not confirmed in any of the studied samples from ticks or rodents. Similarly, no evidence of C. burnetii infections could be found in ticks or rodents in southern Germany [53], suggesting that rodents do not play any essential role in the epidemiology of Q fever. On the other hand, in central Italy C. burnetii was detected in blood samples of Apodemus spp. and in rodent-attached I. ricinus and Ixodes acuminatus ticks [57]. These data may suggest that Apodemus spp. play a role in the maintenance of Q fever in the focus in the studied area. Moreover, wild-living rodents in Heilongjiang Province (border of China and Russia) [58] and in a Canadian Natural Environment Park [59] were found to be naturally infected with C. burnetii and thus are suggested as reservoirs of this patogen. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                655,
+                904,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                37,
+                373,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 10 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                37,
+                905,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of different pathogenic tick-borne Rickettsia spp. such as R. helvetica, R. monacensis, R. raoultii and R. slovaca was confirmed in suburban, natural and rural habitats of Slovakia, which are used by humans for relax (cycling, dog walking, jogging), or hunting. Thus, our data about the presence of various pathogenic rickettsiae in ticks and rodents indicate their potential epidemiological as well as epizootological significance in Slovakia. Therefore, humans visiting the study sites alone or with their pets should be aware of the possible risk of tick infestation and contracting tick-- borne rickettsiae. The knowledge and early detection of infections in ticks and animal sources can prevent the transmission of pathogenic rickettsiae to humans. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                108,
+                492,
+                321
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                89,
+                339,
+                189,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of Rickettsia spp. was confirmed in questing and rodent-attached I. ricinus and D. marginatus ticks in south-western and central Slovakia. The infection rates and presence of Rickettsia species depended on the habitat type, year, season, tick species and developmental stage. The presence of the pathogenic R. helvetica, R. monacensis, R. slovaca and R. raoultii in ticks indicate their potential epidemiological and epizootological significance and the risk of acquiring human rickettsial infections in different habitat types in Slovakia. Wild-living rodents could play a role as carriers of infected ticks and contribute to maintenance of rickettsial pathogens in natural foci. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                354,
+                489,
+                537
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Additional file "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                555,
+                206,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Additional file 1: PCR protocols for the detection of Rickettsia spp. and Coxiella burnetii. (DOCX 21 kb) "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                584,
+                473,
+                608
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abbreviations "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                630,
+                171,
+                641
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CI: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "confidence interval; OR: Mantel-Haenszel common odds ratio estimate; SFG: Spotted fever group "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                641,
+                448,
+                665
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                679,
+                203,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors thank Renáta Szalayová and students (Michala Mojšová, Monika Bednáriková, Katarína Miťková, Lenka Burdová and Erika Vrbová) for help with tick collections, rodent trapping, and technical assistance. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                691,
+                487,
+                726
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                740,
+                141,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study was financially supported by the Scientific Grant Agency of Ministry of Education, Science, Research and Sport of the Slovak Republic and Slovak Academy of Sciences (project VEGA no. 2/0068/17); the Slovak Research and Development Agency (project No. 0280–12); and partly by EU grant FP7-261504 EDENext and is catalogued by the EDENext Steering Committee as EDENext393 (http://www.edenext.eu). The contents of this publication are the sole responsibility of the authors and don’t necessarily reflect the views of the European Commission. This contribution is also the result of using infrastructure acquired by the project implementation (code ITMS: 26240220044), supported by the Research & Development Operational Programme funded by the ERDF. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                751,
+                480,
+                877
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Availability of data and materials "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                90,
+                891,
+                278,
+                903
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The datasets supporting the conclusions of this article are included within the article. Only new partial DNA sequences have been submitted to the "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                903,
+                473,
+                926
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GenBank database under accession numbers KY073144, KY081649, KY628821–KY628825 and KY628827. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                110,
+                850,
+                132
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Authors’ contributions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                144,
+                635,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ES, MK and EK designed the study. LMi, ZH, LM, EK, MS and MK participated in field work. EK and MK identified ticks and rodents. LMi, LM and ZH processed the samples. ES, LMi, KS performed PCRs. ES carried out phylogenetic and statistical analyses. ES and LMi analyzed the data and wrote the manuscript. MK, EK, KS and LS revised the manuscript. All authors read and approved the final manuscript. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                155,
+                900,
+                213
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Competing interests "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                224,
+                623,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The authors declare that they have no competing interests. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                236,
+                813,
+                246
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Consent for publication "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                258,
+                640,
+                270
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Not applicable. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                270,
+                588,
+                281
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ethics approval and consent to participate "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                292,
+                744,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We declare that the conducted study complies with current laws of the Slovak Republic. There is no conflict of interest with species conservation guidelines. Rodent trapping and handling were approved by the Ministry of Environment of the Slovak Republic, Regional Environmental Office in Bratislava (licence ZPO-594/2012-SAB). "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                303,
+                899,
+                360
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Publisher’s Note "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                377,
+                638,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                391,
+                865,
+                413
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Author details "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                425,
+                589,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Institute of Virology, Biomedical Research Center, Slovak Academy of Sciences, Dúbravská cesta 9, 845 05 Bratislava, Slovakia. 2 Institute of Zoology, Slovak Academy of Sciences, Dúbravská cesta 9, 845 06 Bratislava, Slovakia. "
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                436,
+                900,
+                470
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 14 September 2016 Accepted: 18 March 2017 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                481,
+                808,
+                493
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Published online: 24 March 2017 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                494,
+                702,
+                505
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                516,
+                571,
+                527
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Derdáková M, Václav R, Pangrácova-Blaňárová L, Selyemová D, Koči J, Walder G, Špitalská E. Candidatus Neoehrlichia mikurensis and its cocirculation with Anaplasma phagocytophilum in Ixodes ricinus ticks across ecologically different habitats of Central Europe. Parasit Vectors. 2014;7:160. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Hamšíková Z, Kazimírová M, Haruštiaková D, Mahríková M, Slovák M, Berthová L, et al. Babesia spp. in ticks and wildlife in different habitat types of Slovakia. Parasit Vectors. 2016;9:292. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Hanincová K, Tarageľová V, Koči J, Schafer SM, Hails R, Ullmann AJ, et al. Association of Borrelia garinii and B. valaisiana with songbirds in Slovakia. Appl Environ Microbiol. 2003;69:2825–30. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Rusňáková Tarageľová V, Mahriková L, Selyemová D, Václav R, Derdáková M. Natural foci of Borrelia lusitaniae in a mountain region of Central Europe. Ticks Tick-Borne Dis. 2016;7:350–6. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Švehlová A, Berthová L, Sallay B, Boldiš V, Sparagano OAE, Špitalská E. Sympatric occurrence of Ixodes ricinus, Dermacentor reticulatus and Haemaphysalis concinna ticks and Rickettsia and Babesia species in Slovakia. Ticks Tick-Borne Dis. 2014;5:600–5. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Černý V. The tick fauna of Czechoslovakia. Folia Parasitol. 1972;19:87–92. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Raoult D, Roux V. Rickettsioses as paradigms of new or emerging infectious diseases. Clin Microbiol Rew. 1997;10:694–719. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Špitalská E, Boldiš V, Derdáková M, Selyemová D, Rusňáková TV. Rickettsial infection in Ixodes ricinus ticks in urban and natural habitats of Slovakia. Ticks Tick-Borne Dis. 2014;5:161–5. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Špitalská E, Stanko M, Mošanský L, Kraljik J, Miklisová D, Mahríková L, et al. Seasonal analysis of Rickettsia species in ticks in and agricultural site of Slovakia. Exp Appl Acarol. 2016;68:315–24. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. Špitalská E, Štefanidesová K, Kocianová E, Boldiš V. Rickettsia slovaca and Rickettsia raoultii in Dermacentor marginatus and Dermacentor reticulatus ticks from Slovak Republic. Exp Appl Acarol. 2012;57:189–97. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Imhoff M, Hagedorn P, Schulze Y, Hellenbrand W, Pfeffer M, Niedrig M. Review: sentinels of tick-borne encephalitis risk. Ticks Tick-Borne Dis. 2015;6:592–600. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Burri C, Schumann O, Schumann C, Gern L. Are Apodemus spp. mice and Myodes glareolus reservoirs for Borrelia miyamotoi, Candidatus Neoehrlichia mikurensis, Rickettsia helvetica, R. monacensis and Anaplasma phagocytophilum? Ticks Tick-Borne Dis. 2014;5:245–51. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                527,
+                900,
+                926
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 11 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                37,
+                907,
+                51
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. Peter O, Burgdorfer W, Aeschlimann A. Epidemiological survey in a natural focus of Rickettsia transmitted by Ixodes ricinus in Switzerland. Ann Parasitol Hum Comp. 1981;56:1–8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Hajem N, Weintraub A, Nimtz M, Romling U, Pahlson C. A study of the antigenicity of Rickettsia helvetica proteins using two-dimensional gel electrophoresis. APMIS. 2009;117:253–62. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. Řeháček J, Župancicová M, Kováčová E, Urvölgyi J, Brezina R. Study of rickettsioses in Slovakia. III. Experimental infection of Apodemus flavicollis Melch. by rickettsiae of the spotted fever (SF) group isolated in Slovakia. J Hyg Epidemiol Microbiol Immunol. 1976;21:306–13. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Řeháček J, Urvölgyi J, Kocianová E, Jedlička L. Susceptibility of some species of rodents to rickettsiae. Folia Parasitol. 1992;39:265–84. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. Nilsson K, Lindquist O, Pahlson C. Association of Rickettsia helvetica with chronic perimyocarditis in sudden cardiac death. Lancet. 1999;354:1169–73. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Nilsson K, Elfving K, Páhlson C. Rickettsia helvetica in patient with meningitis, Sweden 2006. Emerg Infect Dis. 2010;16:490–2. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. Parola P, Rovery C, Rolain JM, Brouqui P, Davoust B, Raoult D. Rickettsia slovaca and R. raoultii in Tick-borne rickettsioses. Emerg Infect Dis. 2009;15:1105–8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Karagiannis I, Schimmer B, Van Lier A, Timen A, Schneeberger P, Van Rotterdam B, et al. Investigation of a Q fever outbreak in a rural area of The Netherlands. Epidemiol Infect. 2009;137:1283–94. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. Řeháček J, Urvölgyi J, Kocianová E, Sekeyová Z, Vavreková M, Kováčová E. Extensive examination of different tick species for infestation with Coxiella burnetii in Slovakia. Eur J Epidemiol. 1991;7:299–303. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. Špitalská E, Kocianová E. Detection of Coxiella burnetii in ticks collected in Slovakia and Hungary. Eur J Epidemiol. 2003;18:263–6. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. Kazimírová M, Hamšíková Z, Kocianová E, Marini G, Mojšová M, Mahríková L, et al. Relative density of host-seeking ticks in different habitat types of south-western Slovakia. Exp Appl Acarol. 2016;69:205–24. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. Berthová L, Slobodník V, Slobodník R, Olekšák M, Sekeyová Z, Svitálková Z, et al. The natural infection of birds and ticks feeding on birds with Rickettsia spp. and Coxiella burnetii in Slovakia. Exp Appl Acarol. 2016;68:299–314. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. Siuda K. Ticks (Acari: Ixodida) of Poland. Part II. Taxonomy and distribution. Warszawa: PTP; 1993. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. Svitálková Z, Haruštiaková D, Mahríková L, Berthová L, Slovák M, Kocianová E, Kazimírová M. Anaplasma phagocytophilum prevalence in ticks and rodents in an urban and natural habitat in South-Western Slovakia. Parasit Vectors. 2015;8:276. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. Regnery RL, Spruill CL, Plikaytis BD. Genotypic identification of rickettsiae and estimation of intraspecies sequence divergence for portions of two rickettsial genes. J Bacteriol. 1991;173:1576–89. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. Labruna MB, Whitworth T, Horta MC, Bouyer DH, McBride JW, Pinter A, et al. Rickettsia species infecting Amblyomma cooperi ticks from an area in the state of Sao Paulo, Brazil, where Brazilian spotted fever is endemic. J Clin Microbiol. 2004;42:90–8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "29. Boretti FS, Perreten A, Meli MM, Cattori V, Willi B, Wengi N, et al. Molecular investigation of Rickettsia helvetica infection in dogs, foxes, humans, and Ixodes ticks. Appl Environ Microbiol. 2009;75:3230–7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "30. Pacheco RC, Moraes-Filho J, Marcili A, Richtzenhain LJ, Syabó MPJ, Catroxo MHB, et al. Rickettsia monteiroi sp. nov., Infecting the tick Amblyomma incisum in Brazil. Appl Environ Microbiol. 2011;77:5207–11. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "31. Sekeyová Z, Roux V, Raoult D. Phylogeny of Rickettsia spp. inferred by comparing sequences of ‘gene D’, which encodes an intracytoplasmic protein. Int J Syst Evol Microbiol. 2001;51:1353–60. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "32. Roux V, Fournier PE, Raoult D. Differentiation of spotted fever group rickettsiae by sequencing and analysis of restriction fragment length polymorphism of PCR-amplified DNA of the gene encoding the protein rOmpA. J Clin Microbiol. 1996;34:2058–65. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "33. Choi YJ, Jang WJ, Kim JY, Ryu JS, Lee SH, Park KH, et al. Spotted fever group and typhus group rickettsioses in humans, South Korea. Emerg Infect Dis. 2005;11:237–44. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "34. Tamura K, Peterson D, Peterson N, Stecher G, Nie M, Kumar S. MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol Biol Evol. 2011;28:2731–9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "35. Saitou N, Nie M. The neighbor-joining method: a new method for reconstructing phylogenetic trees. Mol Biol Evol. 1987;4:406–25. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "36. Tamura K, Nie M, Kumar S. Prospects for inferring very large phylogenies by using the neighbor-joining method. Proc Natl Acad Sci USA. 2004;101: 11030–5. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                110,
+                485,
+                915
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "37. Špitalská E, Štefanidesová K, Kocianová E, Boldiš V. Specific detection of Rickettsia slovaca by restriction fragment length polymorphism of sca4 gene. Acta Virol. 2008;52:189–91. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "38. Hammer O, Harper DAT, Ryan PD. PAST: paleontological statistics software package for education and data analysis. Palaeontol Electron. 2001;4:9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "39. Gaywee J, Sunyakumthorn P, Rodkvamtook W, Ruangareerate T, Mason CJ, Sirisopana N. Human infection with Rickettsia sp. related to R. japonica, Thailand. Emerging Infect Dis. 2007;13:671–3. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "40. Zhang JZ, Fan MY, Wu YM, Fournier PE, Roux V, Raoult D. Genetic classification of ‘Rickettsia heilongjiangii’ and ‘Rickettsia hulinii’, two Chinese spotted fever group rickettsiae. J Clin Microbiol. 2000;38:3498–501. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "41. Spitalská E, Kocianová E, Výrosteková V. Natural focus of Coxiella burnetii and rickettsiae of spotted fever group in southwestern Slovakia. Biologia (Bratislava). 2002;57:585–91. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "42. Sprong H, Wielinga PR, Fonville M, Reusken C, Brandenburg AH, Borgsteede F, et al. Ixodes ricinus ticks are reservoir hosts for Rickettsia helvetica and potentially carry flea-borne Rickettsia species. Parasit Vectors. 2009;2:41. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "43. Hildebrandt A, Krämer A, Sachse S, Straube E. Detection of Rickettsia spp. and Anaplasma phagocytophilum in Ixodes ricinus ticks in a region of Middle Germany (Thuringia). Ticks Tick-Borne Dis. 2010;1:52–6. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "44. Schorn S, Pfister K, Reulen H, Mahling M, Silaghi C. Occurrence of Babesia spp., Rickettsia spp. and Bartonella spp. in Ixodes ricinus in Bavarian public parks, Germany. Parasit Vectors. 2011;4:135. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "45. Silaghi C, Gilles J, Hohle M, Pradel I, Just FT, Fingerle V, et al. Prevalence of spotted fever group rickettsiae in Ixodes ricinus (Acari: Ixodidae) in southern Germany. J Med Entomol. 2008;45:948–55. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "46. Tappe J, Strube C. Anaplasma phagocytophilum and Rickettsia spp. infections in hard ticks (Ixodes ricinus) in the city of Hanover (Germany): revisited. Ticks Tick-Borne Dis. 2013;4:432–8. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "47. Kantso B, Svendsen CB, Jensen PM, Vennestrom J, Krogfelt KA. Seasonal and habitat variation in the prevalence of Rickettsia helvetica in Ixodes ricinus ticks from Denmark. Ticks Tick-Borne Dis. 2010;1:101–3. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "48. Socolovschi C, Mediannikov O, Raoult D, Parola P. The relationship between spotted fever group rickettsiae and ixodid ticks. Vet Res. 2009;40:34. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "49. Smetanová K, Schwarzová K, Kocianová E. Detection of Anaplasma phagocytophilum, Coxiella burnetii, Rickettsia spp., and Borrelia burgdorferi s.l. in ticks, and wild-living animals in western and middle Slovakia. Ann NY Acad Sci. 2006;1078:312–5. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "50. Špitalská E, Boldiš V, Košťanová Z, Kocianová E, Štefanidesová K. Incidence of various tick-borne microorganisms in rodents and ticks of central Slovakia. Acta Virol. 2008;52:175–9. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "51. Biernat B, Stanczak J, Michalik J, Sikora B, Wierzbicka A. Prevalence of infection with Rickettsia helvetica in Ixodes ricinus ticks feeding on nonrickettsiemic rodent hosts in sylvatic habitats of west-central Poland. Ticks Tick-Borne Dis. 2016;7:135–41. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "52. Franke J, Fritzsch J, Tomaso H, Straube E, Dorn W, Hildebrandt A. Coexistence of pathogens in host-seeking and feeding ticks within a single natural habitat in central Germany. Appl Environ Microbiol. 2010;76:6829–36. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "53. Pluta S, Hartelt K, Oehme R, Mackenstedt U, Kimmig P. Prevalence of Coxiella burnetii and Rickettsia spp. in ticks and rodents in southern Germany. Ticks Tick-Borne Dis. 2010;1:145–7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "54. Schex S, Dobler G, Riehm J, Müller J, Essbauer S. Rickettsia spp. in wild small mammals in Lower Bavaria, South-Eastern Germany. Vector Borne Zoonot Dis. 2011;11:493–502. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "55. Hornok S, Foldvári G, Rigó K, Meli ML, Gonzi A, Farkas R, et al. Synanthropic rodents and their ectoparasites as carriers of a novel haemoplasma and vector-borne, zoonotic pathogens indoors. Parasit Vectors. 2015;8:27. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "56. Martello E, Selmi M, Ragagli C, Ambrogi C, Stella MC, Mannelli A, Tomassone L. Rickettsia slovaca in immature Dermacentor marginatus and tissues from Apodemus spp. in the northern Apennines, Italy. Ticks Tick-Borne Dis. 2013;4:518–21. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "57. Pascucci I, Di Domenico M, Dall’Acqua F, Sozio G, Cammà C. Detection of Lyme disease and Q fever agents in wild rodents in central Italy. Vector Borne Zoonot Dis. 2015;15:404–11. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "58. Liu L, Baoliang X, Yingqun F, Ming L, Yu Y, Yong H, et al. Coxiella burnetii in rodents on Heixiazi Island at the Sino-Russian Border. Am J Trop Med Hyg. 2013;88:770–3. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "59. Thompson M, Mykytczuk N, Gooderham K, Schulte-Hostedde AI. Prevalence of the bacterium Coxiella burnetii in wild rodents from a Canadian natural environment park. Zoonoses Public Health. 2012;59:553–60. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                110,
+                904,
+                906
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Minichová (2017) 10:158 "
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                37,
+                374,
+                50
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 12 of 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                37,
+                907,
+                51
+            ]
+        }
+    ]
+]

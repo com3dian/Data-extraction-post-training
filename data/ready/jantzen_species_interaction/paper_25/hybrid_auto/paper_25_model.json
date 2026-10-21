@@ -1,0 +1,1523 @@
+[
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.095,
+                0.109,
+                0.5,
+                0.246
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.079,
+                0.319,
+                0.85,
+                0.335
+            ],
+            "angle": 0,
+            "content": "Seed Predation and Cross-Pollination in Mast-Seeding Beech (Fagus Sylvaniaica) Patches"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.336,
+                0.52,
+                0.35
+            ],
+            "angle": 0,
+            "content": "Author(s): Sven G. Nilsson and Urban Wästljung"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.35,
+                0.588,
+                0.365
+            ],
+            "angle": 0,
+            "content": "Source: Ecology, Vol. 68, No. 2 (Apr., 1987), pp. 260-265"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.365,
+                0.441,
+                0.379
+            ],
+            "angle": 0,
+            "content": "Published by: Ecological Society of America"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.38,
+                0.465,
+                0.395
+            ],
+            "angle": 0,
+            "content": "Stable URL: http://www.jstor.org/stable/1939256"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.083,
+                0.397,
+                0.327,
+                0.411
+            ],
+            "angle": 0,
+            "content": "Accessed: 24/03/2013 05:11"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.079,
+                0.434,
+                0.795,
+                0.464
+            ],
+            "angle": 0,
+            "content": "Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/info/about/policies/terms.jsp"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.079,
+                0.489,
+                0.931,
+                0.531
+            ],
+            "angle": 0,
+            "content": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.084,
+                0.826,
+                0.184,
+                0.902
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.081,
+                0.903,
+                0.222,
+                0.917
+            ],
+            "angle": 0,
+            "content": "http://www.jstor.org"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.19,
+                0.828,
+                0.935,
+                0.843
+            ],
+            "angle": 0,
+            "content": "Ecological Society of America is collaborating with JSTOR to digitize, preserve and extend access to Ecology."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.278,
+                0.968,
+                0.721,
+                0.978
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.369,
+                0.978,
+                0.631,
+                0.99
+            ],
+            "angle": 0,
+            "content": "All use subject to JSTOR Terms and Conditions"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.086,
+                0.057,
+                0.318,
+                0.076
+            ],
+            "angle": 0,
+            "content": "Ecology, 68(2), 1987, pp. 260-265 © 1987 by the Ecological Society of America"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.243,
+                0.116,
+                0.753,
+                0.166
+            ],
+            "angle": 0,
+            "content": "SEED PREDATION AND CROSS-POLLINATION IN MAST-SEEDING BEECH (FAGUS SYLVATICA) PATCHES<sup>1</sup>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.336,
+                0.185,
+                0.658,
+                0.197
+            ],
+            "angle": 0,
+            "content": "SVEN G. NILSSON AND URBAN WASTLJUNG"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.227,
+                0.197,
+                0.771,
+                0.21
+            ],
+            "angle": 0,
+            "content": "Department of Zoology, Uppsala University, Box 561, S-751 22 Uppsala, Sweden"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.165,
+                0.223,
+                0.834,
+                0.376
+            ],
+            "angle": 0,
+            "content": "Abstract. In this study we examined cross-pollination and levels of insect and vertebrate predation on the seeds of beech as a function of stand size and tree size. Cross-pollination in this wind-pollinated species is positively correlated with stand size and flower density. In two mast years, \\(6 - 14\\%\\) of seeds contained no kernels, and in a nonmast year the figure was \\(24\\%\\). Predispersal destruction of seeds by a moth (Cydia fagiglandana) was \\(3.1\\%\\) in a mast year and \\(38\\%\\) in a nonmast year. The variation in seed destruction by vertebrates was much less between mast \\((5.7\\%)\\) and nonmast \\((12\\%)\\) years. Destruction by the moth was negatively correlated with tree size, while that by vertebrates was positively correlated with tree size. Vertebrate seed predation was negatively correlated with stand size. In a large stand, \\(< 10\\%\\) of the seeds were consumed by vertebrates by April in two mast years. Both cross-pollination and seed predation may have been important factors in the evolution of mast seeding in beech."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.164,
+                0.381,
+                0.834,
+                0.405
+            ],
+            "angle": 0,
+            "content": "Key words: beech; Cydia; Fagus; forest fragmentation; germination; granivory; mast seeding; patch size; pollination; predation; seed; tree size."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.234,
+                0.429,
+                0.347,
+                0.44
+            ],
+            "angle": 0,
+            "content": "INTRODUCTION"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.446,
+                0.493,
+                0.558
+            ],
+            "angle": 0,
+            "content": "Reproduction in plants is influenced by many factors whose selective effects can be opposing, unrelated, or synergistic (Harper 1977, Smith and Balda 1979, Heithaus et al. 1982). Therefore, to understand the reproductive characteristics of a species we must study factors that influence different life history stages, e.g., flowering, seed production, and seedling establishment."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.559,
+                0.497,
+                0.855
+            ],
+            "angle": 0,
+            "content": "Mast seeding is the periodic synchronous production of large seed crops. It has been suggested that masting is an antipredator adaptation that satiates predators with more seeds than they can consume in mast years (see review in Janzen 1971), while others have argued that it limits seed predator populations by starving them in nonmast years (Silvertown 1980). However, some animals, generally seed-caching birds and mammals, act both as predators and dispersers. The selective effect of that vertebrate behavior is different from the purely destructive impact of most insects. Over evolutionary time, plant species whose seeds are subject to both insect and vertebrate predation and dispersed only by vertebrates could be expected to adjust mast intervals and seed production to reduce seed loss to the strict predators and satiate the dispersal agents (Nilsson 1985). Here we examine that hypothesis with European beech (Fagus sylvatica L.), which has large nontoxic nuts and never produces large quantities of fruits in successive years (Lindquist 1931). The seeds are eaten and dispersed by a suite of vertebrates (Nils"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.427,
+                0.913,
+                0.454
+            ],
+            "angle": 0,
+            "content": "son 1985), and destroyed by a seed-eating moth, Cydia fagiglandana Z. (Tortricidae)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.455,
+                0.915,
+                0.552
+            ],
+            "angle": 0,
+            "content": "Because fruit and seed coats develop if pollination occurs and self-pollinated fruits lack a seed (kernel) (Nielsen and de Muckadeli 1954), one can obtain relatively accurate estimates of cross-pollination. We examine cross-pollination and levels of insect and vertebrate predation on the seeds of beech as a function of stand size and of tree size."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.674,
+                0.563,
+                0.752,
+                0.575
+            ],
+            "angle": 0,
+            "content": "METHODS"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.671,
+                0.582,
+                0.756,
+                0.595
+            ],
+            "angle": 0,
+            "content": "Study area"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.6,
+                0.917,
+                0.726
+            ],
+            "angle": 0,
+            "content": "The study was conducted at Stenbrohult, South Sweden (about \\(56^{\\circ}38'\\) N, \\(14^{\\circ}10'\\) E), where different types of forest grow near each other, generally on podzols. The most common forest type is dominated by spruce (Picea abies [L.] Karst.), pine (Pinus sylvestris L.), and birch (Betula spp.). Sometimes these species grow in mixed stands with oaks (Quercus robur L. and Q. petraea Mattuschka), aspen (Populus tremula L.), and beech. Arable land occupies \\(\\approx 10\\%\\) of the area."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.727,
+                0.919,
+                0.897
+            ],
+            "angle": 0,
+            "content": "Within these forests most of the beeches occur in well-defined stands in which \\(\\approx 70\\%\\) of the canopy trees are beech. A 12-ha (140 m above sea level) stand at Taxas, bordering Lake Mockeln (45 km²), was selected for special study because data from previous years on seed production, seedling establishment, and seed predation were available (Nilsson 1979, 1985). The stand probably regenerated naturally from large beeches, now 100–150 yr old, growing on formerly grazed land. Based on basal area at 1.3 m height (square metres per hectare) the dominant species are beech (70%), oak (21%), and pine (5%). The ground is covered with beech litter"
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.091,
+                0.871,
+                0.496,
+                0.896
+            ],
+            "angle": 0,
+            "content": "1 Manuscript received 24 December 1984; revised 20 June 1986; accepted 24 June 1986."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.278,
+                0.967,
+                0.721,
+                0.977
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.369,
+                0.978,
+                0.631,
+                0.989
+            ],
+            "angle": 0,
+            "content": "All use subject to JSTOR Terms and Conditions"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.089,
+                0.061,
+                0.167,
+                0.074
+            ],
+            "angle": 0,
+            "content": "April 1987"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.4,
+                0.061,
+                0.605,
+                0.074
+            ],
+            "angle": 0,
+            "content": "MAST SEEDING IN BEECH"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.887,
+                0.062,
+                0.916,
+                0.074
+            ],
+            "angle": 0,
+            "content": "261"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.085,
+                0.492,
+                0.142
+            ],
+            "angle": 0,
+            "content": "and almost devoid of a herbaceous layer. There is no other beech stand within \\(1\\mathrm{km}\\). The largest stand, at Dio, is 15 ha bordering Lake Mückeln and is about 4 km from Taxas."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.086,
+                0.142,
+                0.494,
+                0.226
+            ],
+            "angle": 0,
+            "content": "Most other beech stands (separated from other beeches by at least \\(100\\mathrm{m}\\)) within an area of about 50 \\(\\mathrm{km}^2\\) to the east of Lake Mockeln were also studied. Topography (flat), ground vegetation (often lacking), and age of most canopy trees were about the same in all the stands examined."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.227,
+                0.494,
+                0.298
+            ],
+            "angle": 0,
+            "content": "Annual precipitation averages \\(\\approx 700\\mathrm{mm}\\). The mean monthly temperature in January and February is \\(\\approx -2^{\\circ}\\mathrm{C}\\). Normally the ground is covered with snow for \\(\\approx 2\\) mo of the year. Prevailing winds are westerly throughout the year."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.229,
+                0.306,
+                0.357,
+                0.32
+            ],
+            "angle": 0,
+            "content": "Field procedures"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.325,
+                0.498,
+                0.733
+            ],
+            "angle": 0,
+            "content": "To examine seed density and levels of seed predation in relation to stand size, we sampled six single beeches, four stands with two to three beeches, and nine stands with at least five beeches, including the two largest stands in the area (12 and 15 ha). In stands with five or fewer trees, all mature (seed-producing) beeches were examined. In the larger stands we randomly selected five mature trees, and in the two largest stands, 21 and 23 trees were sampled. Trees whose branches intermingled with those of trees to the east were excluded and in those few cases the next nearest tree was studied. To examine predation on the seed crops of individual trees, the litter and the upper soil in a circular plot of \\(184~\\mathrm{cm}^2 \\approx 2\\mathrm{m}\\) to the east of each trunk was carefully examined once between 26 October and 2 November 1983 to find all fallen beechnuts. If \\(< 50\\) nuts were found, we examined the litter and upper soil adjacent to the plot until at least 50 (usually 50-60) seed coats had been found. Each coat was examined for its content and evidence of predation. Seeds killed by Cydia were filled with dark frass and had a round exit hole in the seed coat. Seeds killed by vertebrates had parts of their seed coats removed and all or most of the embryo was lacking, giving a minimum estimate of vertebrate predation. Seeds with intact coats were either filled with the embryo or empty. Seed predation was calculated as the number of killed embryos divided by the total number of seed coats that contained or had contained an embryo."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.094,
+                0.734,
+                0.5,
+                0.874
+            ],
+            "angle": 0,
+            "content": "To assess the average seed density on the ground and vertebrate predation in winter in the beech stand at Taxas, we counted on 27 October 1983 and 11 April 1984 the number of seeds using the method just described in 20 randomly selected \\(184\\mathrm{-cm}^2\\) circular plots unrelated to the sampled trees. The mean density in these plots was equivalent to the mean density below the sampled trees, indicating that a distance of \\(2\\mathrm{m}\\) from the trunk was adequate to get representative samples."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.875,
+                0.501,
+                0.903
+            ],
+            "angle": 0,
+            "content": "Tree size was based on the diameter at breast height (1.3 m; dbh)."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.086,
+                0.916,
+                0.419
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.511,
+                0.421,
+                0.918,
+                0.458
+            ],
+            "angle": 0,
+            "content": "FIG. 1. Relation between tree size and seed density (seeds/ \\(184~\\mathrm{cm}^2\\)) beneath the tree in the two largest stands at \\(\\bullet\\) Taxas and \\(\\blacksquare\\) Dio in a mast year (1983)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.683,
+                0.485,
+                0.752,
+                0.497
+            ],
+            "angle": 0,
+            "content": "RESULTS"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.575,
+                0.503,
+                0.86,
+                0.517
+            ],
+            "angle": 0,
+            "content": "Seed production and cross-pollination"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.513,
+                0.521,
+                0.923,
+                0.662
+            ],
+            "angle": 0,
+            "content": "The density of new seed coats (two in each fruit) on the ground in the stand at Taxas was 764 seed coats/ \\(\\mathrm{m}^2\\) \\((\\mathrm{SD} = 428, n = 20)\\) in autumn 1983 in the random sample plots. The number of old seed coats, probably produced the previous year since there were very few seeds in 1981, was only \\(10.2\\%\\) of the number produced in 1983. Seed density beneath beeches in the two largest stands increased with tree size, but the variability was large (Fig. 1; Spearman rank correlation corrected for ties \\(r_s = 0.40\\), \\(P < .01\\))."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.514,
+                0.663,
+                0.923,
+                0.804
+            ],
+            "angle": 0,
+            "content": "The proportion of empty seed coats, indicating lack of cross-pollination, was negatively correlated with stand size (Fig. 2; \\(r_s = -0.87\\), \\(P < .01\\)). Below isolated trees (at least \\(100\\mathrm{m}\\) from other beeches), \\(84\\%\\) (\\(\\mathrm{SD} = 9.8\\), \\(n = 6\\)) of the seed coats were empty and without any sign of predation, and in the two largest stands, \\(\\approx 15\\%\\) of the seed coats were empty. In the two largest stands the proportion of empty coats was not correlated with tree size or seed density (\\(r_s = -0.13\\), \\(P > .4\\); \\(r_s = -0.26\\), \\(1 > P > .05\\), \\(n = 44\\))."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.62,
+                0.827,
+                0.822,
+                0.84
+            ],
+            "angle": 0,
+            "content": "Seed predation in autumn"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.845,
+                0.925,
+                0.903
+            ],
+            "angle": 0,
+            "content": "The rate of seed predation, especially that by Cydia, was considerably lower in the mast year 1983 than in the nonmast year 1982 (Table 1). About the same number of seeds seem to have been destroyed by Cydia"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.278,
+                0.966,
+                0.723,
+                0.977
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.369,
+                0.978,
+                0.632,
+                0.989
+            ],
+            "angle": 0,
+            "content": "All use subject to JSTOR Terms and Conditions"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.087,
+                0.062,
+                0.116,
+                0.072
+            ],
+            "angle": 0,
+            "content": "262"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.324,
+                0.061,
+                0.674,
+                0.074
+            ],
+            "angle": 0,
+            "content": "SVEN G. NILSSON AND URBAN WÄSTLJUNG"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.751,
+                0.062,
+                0.913,
+                0.075
+            ],
+            "angle": 0,
+            "content": "Ecology, Vol. 68, No. 2"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.107,
+                0.085,
+                0.469,
+                0.362
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.085,
+                0.364,
+                0.493,
+                0.424
+            ],
+            "angle": 0,
+            "content": "FIG. 2. Percent empty seed coats per tree in relation to stand size. Means and \\(95\\%\\) confidence intervals are indicated for the largest stands. The means for smaller stands are based on \\(\\bullet 5\\) trees and \\(\\bigcirc 2-3\\) trees. Single trees are indicated by triangles."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.085,
+                0.454,
+                0.492,
+                0.496
+            ],
+            "angle": 0,
+            "content": "within the stand in both years, while many more seeds were taken by vertebrates in the mast year compared with the nonmast year."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.497,
+                0.493,
+                0.623
+            ],
+            "angle": 0,
+            "content": "The proportion of seeds attacked by Cydia was not related to stand size (Fig. 3, \\( r_s = 0.09 \\)). In contrast, the rate of vertebrate predation was negatively correlated with stand size up to \\( \\approx 2 \\) ha (Fig. 4, \\( r_s = -0.68 \\), \\( P < .01 \\)). The cumulative effect of pollination success and seed predation up to November 1983 was that the proportion of seed coats that still contained intact embryos increased with stand size from \\( \\approx 6\\% \\) at single beeches to \\( 79\\% \\) in the largest stands."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.088,
+                0.624,
+                0.495,
+                0.709
+            ],
+            "angle": 0,
+            "content": "In the two largest stands the proportion of seeds killed by the moth decreased with tree size and seed density (Table 2; Fig. 5, \\(r_s = -0.62\\), \\(P < .01\\)). In contrast, vertebrate seed predation may not be closely related to seed density (Table 2) but did increase with tree size (Fig. 6, \\(r_s = 0.48\\), \\(P < .01\\))."
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.09,
+                0.737,
+                0.496,
+                0.784
+            ],
+            "angle": 0,
+            "content": "TABLE 1. Percent of the seeds taken from beneath large trees by predators as of early November in a nonmast year (1982) and a mast year (1983). Data are means with one standard deviation in parentheses."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.09,
+                0.789,
+                0.497,
+                0.867
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td>1982(5 trees)</td><td>1983(11 trees)</td></tr><tr><td>Seed density (no./m2)†</td><td>138</td><td>1240</td></tr><tr><td>Vertebrate predation</td><td>12.2 (4.08)*</td><td>5.7 (3.89)</td></tr><tr><td>Cydia predation</td><td>38.3 (7.70)*</td><td>3.1 (1.97)</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.09,
+                0.867,
+                0.496,
+                0.902
+            ],
+            "angle": 0,
+            "content": "* Calculated from data in Nilsson (1985). † The seed density is that recorded beneath large trees (dbh > 40 cm) in 1983 (old and new coats, respectively)."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.513,
+                0.086,
+                0.907,
+                0.406
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.508,
+                0.41,
+                0.916,
+                0.436
+            ],
+            "angle": 0,
+            "content": "FIG. 3. Percent seed predation by the moth Cydia in relation to stand size. For explanation of symbols, see Fig. 2."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.572,
+                0.455,
+                0.853,
+                0.469
+            ],
+            "angle": 0,
+            "content": "Vertebrate seed predation over winter"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.473,
+                0.916,
+                0.545
+            ],
+            "angle": 0,
+            "content": "In the beech stand at Taxas, total seed predation by all vertebrates was estimated at \\(< 10\\%\\) in the autumn and winter following the mast year 1974 (Nilsson 1979). A similar level of vertebrate seed predation appears to have occurred after the mast year 1983. From autumn"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.517,
+                0.564,
+                0.915,
+                0.872
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.511,
+                0.877,
+                0.918,
+                0.902
+            ],
+            "angle": 0,
+            "content": "FIG. 4. Percent seed predation by vertebrates in relation to stand size. For explanation of symbols see Fig. 2."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.278,
+                0.967,
+                0.723,
+                0.991
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM All use subject to JSTOR Terms and Conditions"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.087,
+                0.061,
+                0.163,
+                0.074
+            ],
+            "angle": 0,
+            "content": "April 1987"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.397,
+                0.062,
+                0.602,
+                0.073
+            ],
+            "angle": 0,
+            "content": "MAST SEEDING IN BEECH"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.884,
+                0.062,
+                0.913,
+                0.074
+            ],
+            "angle": 0,
+            "content": "263"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.086,
+                0.087,
+                0.916,
+                0.112
+            ],
+            "angle": 0,
+            "content": "TABLE 2. Seed predation per tree (percent of seeds that contain or have contained embryos) in relation to tree size (dbh) and seed density beneath the tree. Data are means, with one standard deviation in parentheses."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.088,
+                0.117,
+                0.916,
+                0.222
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">Forest</td><td colspan=\"3\">Taxáss</td><td colspan=\"3\">Diö</td></tr><tr><td>No. trees*</td><td>Cydia predation</td><td>Vertebrate predation</td><td>No. trees*</td><td>Cydia predation</td><td>Vertebrate predation</td></tr><tr><td>Large trees (&gt;40 cm)</td><td>11</td><td>3.1 (1.97)</td><td>5.7 (3.89)</td><td>11</td><td>4.0 (2.45)</td><td>3.1 (2.92)</td></tr><tr><td>Small trees (≤40 cm)</td><td>12</td><td>9.6 (6.40)</td><td>2.1 (2.65)</td><td>10</td><td>8.6 (5.19)</td><td>0.2 (0.66)</td></tr><tr><td>High seed density (&gt;750 seeds/m2)</td><td>11</td><td>3.2 (2.48)</td><td>5.3 (4.24)</td><td>11</td><td>5.1 (4.14)</td><td>1.5 (1.97)</td></tr><tr><td>Low seed density (≤750 seeds/m2)</td><td>12</td><td>9.5 (6.32)</td><td>2.4 (2.61)</td><td>10</td><td>7.4 (4.87)</td><td>1.9 (3.19)</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.086,
+                0.223,
+                0.915,
+                0.247
+            ],
+            "angle": 0,
+            "content": "* About 50 seeds per tree were examined, since seeds without developed embryos are excluded when calculating percent predation."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.087,
+                0.264,
+                0.498,
+                0.631
+            ],
+            "angle": 0,
+            "content": "to spring, the proportion of seeds taken by vertebrates increased \\((P < .05\\), one-tailed Kruskal-Wallis test, \\(\\mathrm{df} = 1\\)), the combined proportion of intact seeds and those killed by fungus decreased \\((P < .05)\\), while other differences were nonsignificant \\((P > .15)\\) (Table 3). Seeds removed from the forest and cached seeds (many of which presumably were eaten) should be added to the proportion of seeds \"killed by vertebrates\" in Table 3. However, that would not increase the proportion very much, because few seeds were removed from this forest (Nilsson 1985) and no cached seeds were found in the soil down to \\(10\\mathrm{cm}\\) depth in the random sample plots in spring 1984. There was no evidence that large mammals that could destroy the remains of the seed coats were eating significant numbers of seeds. Also, the density of seed coats on the forest floor decreased by only \\(28\\%\\) from autumn to spring (Table 3), a difference that was not statistically significant (one-tailed Mann-Whitney \\(U = 145\\), \\(n_1 = n_2 = 20\\), \\(P > .05\\)). Furthermore, the proportion of the seed coats lacking embryos and the proportion of seed coats with exit holes from Cydia remained essentially constant from autumn to spring (Table 3). Since vertebrate seed predators generally take only filled seeds (e.g., Bossema 1979) there is evidence that vertebrate seed predation has not been underestimated very much."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.095,
+                0.647,
+                0.498,
+                0.875
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.094,
+                0.877,
+                0.5,
+                0.902
+            ],
+            "angle": 0,
+            "content": "FIG. 5. Percent seed predation by Cydia in relation to tree size at \\(\\bullet\\) Taxas and \\(\\blacksquare\\) Dio."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.667,
+                0.264,
+                0.756,
+                0.277
+            ],
+            "angle": 0,
+            "content": "DISCUSSION"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.556,
+                0.282,
+                0.868,
+                0.297
+            ],
+            "angle": 0,
+            "content": "Pollination and evolution of mast seeding"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.508,
+                0.305,
+                0.918,
+                0.502
+            ],
+            "angle": 0,
+            "content": "In the self-incompatible beech, selfing gives \\(\\approx 92\\%\\) barren fruits (Nielsen and de Muckadeli 1954). The negative correlation between stand size and the proportion of empty seed coats is consistent with reduced cross-pollination in small stands. From this we conclude that successful pollination and fruit-set are functions of the density of flowering plants. Moreover, the proportion of empty seeds decreases at least up to a stand size of \\(10\\mathrm{ha}\\), which indicates that pollination success is not merely a function of the nearest neighbors. Increasing pollination success with the number of neighbors has been found also for insect-pollinated (Platt et al. 1974) and bat-pollinated (Heithaus et al. 1982) plants."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.503,
+                0.919,
+                0.63
+            ],
+            "angle": 0,
+            "content": "Pollination success also varied between mast and nonmast years. In the two mast years at Taxas the proportion of fruits with a kernel was \\(94\\%\\) (1976) and \\(86\\%\\) (1983), but only \\(76\\%\\) in the nonmast year 1982 (Nilsson 1979, 1985, this study). The observed differences in cross-pollination between years were consistent with flower density-dependent pollination and fruitset. Furthermore, flower production and seed crop sizes are correlated in other species in the family Fagaceae"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.519,
+                0.645,
+                0.922,
+                0.874
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.515,
+                0.877,
+                0.922,
+                0.902
+            ],
+            "angle": 0,
+            "content": "FIG. 6. Percent seed predation by vertebrates in relation to tree size at \\(\\bullet\\) Taxas and \\(\\blacksquare\\) Dio."
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.278,
+                0.967,
+                0.723,
+                0.978
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.369,
+                0.978,
+                0.631,
+                0.989
+            ],
+            "angle": 0,
+            "content": "All use subject to JSTOR Terms and Conditions"
+        }
+    ],
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.088,
+                0.062,
+                0.116,
+                0.072
+            ],
+            "angle": 0,
+            "content": "264"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.324,
+                0.062,
+                0.674,
+                0.074
+            ],
+            "angle": 0,
+            "content": "SVEN G. NILSSON AND URBAN WÄSTLJUNG"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.752,
+                0.063,
+                0.913,
+                0.076
+            ],
+            "angle": 0,
+            "content": "Ecology, Vol. 68, No. 2"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.088,
+                0.086,
+                0.491,
+                0.142
+            ],
+            "angle": 0,
+            "content": "TABLE 3. Condition of the seeds found in the 20 randomly selected \\( {184} - {\\mathrm{{cm}}}^{2} \\) sample plots in autumn 1983 and spring 1984 at Taxas. These samples in autumn and spring were taken independently of each other and also were unrelated to the selected trees in this forest."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.087,
+                0.15,
+                0.49,
+                0.29
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"4\">Condition of seed</td><td>Autumn</td><td>Spring</td></tr><tr><td>1983</td><td>1984</td></tr><tr><td>(281</td><td>(202</td></tr><tr><td>seeds)</td><td>seeds)</td></tr><tr><td></td><td colspan=\"2\">Percent of all seeds</td></tr><tr><td>Intact</td><td>68.7</td><td>2.5*</td></tr><tr><td>Embryo killed by fungus</td><td>···</td><td>58.4</td></tr><tr><td>Embryo killed by Cydia</td><td>7.5</td><td>7.9</td></tr><tr><td>Embryo killed by vertebrates</td><td>3.9</td><td>6.4</td></tr><tr><td>Embryo lacking,† coat normal</td><td>18.9</td><td>21.8</td></tr><tr><td>Embryo lacking,† coat small</td><td>1.1</td><td>3.0</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.1,
+                0.291,
+                0.334,
+                0.302
+            ],
+            "angle": 0,
+            "content": "* Germinating in the surface litter."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.1,
+                0.302,
+                0.456,
+                0.314
+            ],
+            "angle": 0,
+            "content": "† There was no evidence of predation on these seeds."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.334,
+                0.49,
+                0.446
+            ],
+            "angle": 0,
+            "content": "(Gysel 1958, Feret et al. 1982). Since resources spent on empty fruits seem to be wasted, it ought to be advantageous to individual trees to produce their flowers in years when other trees also have many flowers. Thus, in self-incompatible trees, synchronous flowering, which favors pollination success, may be an important factor in the evolution of mast seeding (cf. Smith and Balda 1979)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.154,
+                0.457,
+                0.425,
+                0.485
+            ],
+            "angle": 0,
+            "content": "Effects of tree size and stand size on seed predation"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.489,
+                0.49,
+                0.601
+            ],
+            "angle": 0,
+            "content": "At the level of individual trees, insect seed predation decreased with tree size and seed density in the two largest stands (Table 2, Fig. 5), and Cydia was evidently satiated as individual crop size increased. Vertebrate seed predation, on the other hand, increased with tree size (Fig. 6). Vertebrate seed predators probably prefer to eat and harvest seeds in the most profitable patches, and thus satiation by individual crops is less likely."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.603,
+                0.491,
+                0.827
+            ],
+            "angle": 0,
+            "content": "Seed predation by vertebrates decreased with increasing stand size. The reduction was negligible above \\(\\approx 2\\) ha (Fig. 4), possibly because the territories or home ranges of important vertebrate seed predators are between one and a few hectares in size (e.g., Jensen 1975, Enoksson and Nilsson 1983, S. G. Nilsson, personal observation). In small beech stands that fall completely within the home range of such resident seed predators, the animals can concentrate foraging on the patch with beech seeds. If so, a greater percentage of seeds will be eaten in small stands relative to large stands. Within a forest, seed-eating birds usually concentrate their activity in patches with the highest seed densities (Nilsson 1979). In addition, the impact of transient seed predators may be less in larger stands, as Boucher (1981) suggested for a neotropical oak."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.121,
+                0.837,
+                0.46,
+                0.852
+            ],
+            "angle": 0,
+            "content": "Seed predation and evolution of mast seeding"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.089,
+                0.856,
+                0.491,
+                0.898
+            ],
+            "angle": 0,
+            "content": "In mast years vertebrate seed predators are satiated in large stands since \\(< 10\\%\\) of the seeds are consumed over winter (Nilsson 1979, this study). Several large"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.087,
+                0.912,
+                0.213
+            ],
+            "angle": 0,
+            "content": "vertebrate seed consumers were recently exterminated by humans in the study area (cf. Janzen and Martin 1982), including wild boar (Sus scrofa L.) and red deer (Cervus elaphus L.). These large mammals probably increased the proportion of the seed crops destroyed. However, we can see no reason why mast seeding should be more effective in reducing the relative level of seed predation by those locally extinct mammals than by the smaller mammals still present."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.214,
+                0.912,
+                0.326
+            ],
+            "angle": 0,
+            "content": "In contrast to Cydia and mammals, seed-eating birds have the potential to scan very large areas and concentrate their food searching in beech stands with large crops. For example, the winter distribution of some abundant seed-eating birds is determined by the beech crop size (Nilsson 1984). That can explain the lower relative variation in seed predation by vertebrates between mast and nonmast years."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.327,
+                0.912,
+                0.494
+            ],
+            "angle": 0,
+            "content": "That a variable seed crop size is more effective in reducing relative insect seed predation than in reducing vertebrate seed predation (Table 1) is consistent with previous work (Nilsson 1985). Seed crop sizes and the percent of the seeds destroyed by insects are negatively correlated in beech (Silvertown 1980). In a mast year in a Danish forest only \\(7\\%\\) of the seeds were killed by Cydia, while \\(24 - 55\\%\\) were killed in five nonmast years when crop sizes were \\(4 - 8\\%\\) of mast year (Nielsen 1977). These values are similar to those in our study site, although seed production in the mast year 1983 was twice that in the Danish forest."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.496,
+                0.913,
+                0.705
+            ],
+            "angle": 0,
+            "content": "We do not agree with Silvertown (1980) that a reduction in population size of seed-eating animals is necessary to a predator-satiation explanation of mast seeding. It is essential to the tree that a higher proportion of seeds escape predators in mast years. Our data indicate that the Cydia population was of about the same size in 1982 and 1983, but that the proportion of the seed crop destroyed dramatically in the mast year (Table 1). Thus, in beech, reproductive success through masting reflects increased pollination success, which leads to large seed crops and the eventual escape from predators of a significant portion of the seed crop. In addition, the nonmast years provide the opportunity for the trees to store resources for the next year."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.646,
+                0.716,
+                0.78,
+                0.726
+            ],
+            "angle": 0,
+            "content": "ACKNOWLEDGMENTS"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.511,
+                0.731,
+                0.913,
+                0.789
+            ],
+            "angle": 0,
+            "content": "We thank Robert W. Cruden, Lars Ericson, Torbjörn Fagerström, and Daniel Janzen for constructive comments on this paper. Research in 1983-1984 was supported by a grant to S. G. Nilsson from the Swedish Natural Science Research Council."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.649,
+                0.802,
+                0.775,
+                0.812
+            ],
+            "angle": 0,
+            "content": "LITERATURE CITED"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.816,
+                0.913,
+                0.839
+            ],
+            "angle": 0,
+            "content": "Bossema, I. 1979. Jays and oaks: an eco-ethological study of a symbiosis. Behaviour 70:1-118."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.84,
+                0.913,
+                0.874
+            ],
+            "angle": 0,
+            "content": "Boucher, D. H. 1981. Seed predation by mammals and forest dominance by Quercus oleoides, a tropical lowland oak. Oecologia (Berlin) 49:409-414."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.511,
+                0.875,
+                0.913,
+                0.897
+            ],
+            "angle": 0,
+            "content": "Enoksson, B., and S. G. Nilsson. 1983. Territory size and population density in relation to food supply in the nuthatch"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.511,
+                0.816,
+                0.913,
+                0.897
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.278,
+                0.968,
+                0.721,
+                0.978
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.369,
+                0.978,
+                0.631,
+                0.988
+            ],
+            "angle": 0,
+            "content": "All use subject to JSTOR Terms and Conditions"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.087,
+                0.062,
+                0.162,
+                0.074
+            ],
+            "angle": 0,
+            "content": "April 1987"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.398,
+                0.062,
+                0.601,
+                0.073
+            ],
+            "angle": 0,
+            "content": "MAST SEEDING IN BEECH"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.885,
+                0.062,
+                0.912,
+                0.073
+            ],
+            "angle": 0,
+            "content": "265"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.104,
+                0.086,
+                0.49,
+                0.108
+            ],
+            "angle": 0,
+            "content": "Sitta eruopaea (Aves). Journal of Animal Ecology 52:927-935."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.088,
+                0.109,
+                0.492,
+                0.155
+            ],
+            "angle": 0,
+            "content": "Feret, P. P., R. E. Kreh, S. A. Merkle, and R. G. Oderwald. 1982. Flower abundance, premature acorn abscission and acorn production in Quercus alba L. Botanical Gazette 143: 216-218."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.089,
+                0.155,
+                0.491,
+                0.178
+            ],
+            "angle": 0,
+            "content": "Gysel, L. W. 1958. Prediction of acorn crops. Forest Science 4:239-245."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.089,
+                0.178,
+                0.492,
+                0.202
+            ],
+            "angle": 0,
+            "content": "Harper, J. L. 1977. Population biology of plants. Academic Press, London, England."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.089,
+                0.202,
+                0.492,
+                0.247
+            ],
+            "angle": 0,
+            "content": "Heithaus, E. R., E. Stashko, and P. K. Anderson. 1982. Cumulative effects of plant-animal interactions on seed production in Bauhinia ungulata, a neotropical legume. Ecology 63:1294-1302."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.088,
+                0.248,
+                0.491,
+                0.271
+            ],
+            "angle": 0,
+            "content": "Janzen, D. H. 1971. Seed predation by animals. Annual Review of Ecology and Systematics 2:465-492."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.089,
+                0.271,
+                0.492,
+                0.304
+            ],
+            "angle": 0,
+            "content": "Janzen, D. H., and P. S. Martin. 1982. Neotropical anachronisms: the fruits the gomphotheres ate. Science 215:19-27."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.089,
+                0.305,
+                0.492,
+                0.35
+            ],
+            "angle": 0,
+            "content": "Jensen, T. S. 1975. Population estimation and population dynamics of two Danish forest rodent species. Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening 138: 65-86."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.09,
+                0.351,
+                0.492,
+                0.386
+            ],
+            "angle": 0,
+            "content": "Lindquist, B. 1931. The ecology of the Scandinavian beechwoods. (In Swedish with English summary.) Svenska Skogsvardsföreningens Tidskrift 29:179-532."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.088,
+                0.086,
+                0.492,
+                0.386
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.509,
+                0.086,
+                0.911,
+                0.109
+            ],
+            "angle": 0,
+            "content": "Nielsen, B. O. 1977. Beech seeds as an ecosystem component. Oikos 29:268-274."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.509,
+                0.11,
+                0.912,
+                0.143
+            ],
+            "angle": 0,
+            "content": "Nielsen, P. C., and M. S. de Muckadeli. 1954. Flower observations and controlled pollinations in *Fagus*. Silvae Genetica 3:6-17."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.509,
+                0.144,
+                0.913,
+                0.178
+            ],
+            "angle": 0,
+            "content": "Nilsson, S. G. 1979. Seed density, cover, predation and the distribution of birds in a beech wood in southern Sweden. Ibis 121:177-185."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.509,
+                0.179,
+                0.913,
+                0.224
+            ],
+            "angle": 0,
+            "content": "1984. The relation between the beech mast crop and the wintering of Brambling, Fringilla montifringilla, and Woodpigeon, *Columbia palumbus*, in South Sweden. Vár Fagelvarld 43:135-136."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.509,
+                0.225,
+                0.913,
+                0.259
+            ],
+            "angle": 0,
+            "content": "1985. Ecological and evolutionary interactions between reproduction of beech *Fagus sylvatica* and seed eating animals. Oikos 44:157-164."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.259,
+                0.913,
+                0.293
+            ],
+            "angle": 0,
+            "content": "Platt, W. J., G. R. Hill, and S. Clark. 1974. Seed production in a prairie legume (Astragalus canadensis L.). Oecologia (Berlin) 17:55-63."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.294,
+                0.913,
+                0.327
+            ],
+            "angle": 0,
+            "content": "Silvertown, J. W. 1980. The evolutionary ecology of mast seeding in trees. Biological Journal of the Linnean Society 14:235-250."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.328,
+                0.913,
+                0.363
+            ],
+            "angle": 0,
+            "content": "Smith, C. C., and R. P. Balda. 1979. Competition among insects, birds and mammals for conifer seeds. American Zoologist 19:1065-1083."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.509,
+                0.086,
+                0.913,
+                0.363
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.279,
+                0.968,
+                0.721,
+                0.978
+            ],
+            "angle": 0,
+            "content": "This content downloaded from 137.140.1.131 on Sun, 24 Mar 2013 05:11:29 AM"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.369,
+                0.978,
+                0.631,
+                0.988
+            ],
+            "angle": 0,
+            "content": "All use subject to JSTOR Terms and Conditions"
+        }
+    ]
+]

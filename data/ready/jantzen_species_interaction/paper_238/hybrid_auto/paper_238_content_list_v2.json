@@ -1,0 +1,1686 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SMALL MAMMALS AS RESERVOIRS OF TULAREMIAAND HFRS IN THE FOREST ZONE OF SARANSK"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                179,
+                79,
+                828,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Maxim Maydanov1 , Alexey Andreychev1*, Ekaterina Boyarova2 , Vyacheslav Kuznetsov1 , and Ekaterina Ilykaeva1 "
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                144,
+                828,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Department of Zoology, National Research Mordovia State University, Saransk 430005, Russia. "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                190,
+                914,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "* E-mail: andreychev1@rambler.ru "
+                    }
+                ]
+            },
+            "bbox": [
+                359,
+                208,
+                648,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 Center for Hygiene and Epidemiology in the Republic of Mordovia, Saransk 430030, 1a Dal’naya Str., Russia. "
+                    }
+                ]
+            },
+            "bbox": [
+                143,
+                223,
+                865,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 03 March 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                277,
+                289,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted: 14 May 2021 "
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                277,
+                912,
+                291
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                451,
+                337,
+                556,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small mammals are important reservoirs for zoonotic pathogens that cause significant morbidity in humans. Of these, tularemia and hemorrhagic fever with renal syndrome (HFRS) are among of the most widespread zoonotic diseases worldwide. Despite the fact that both pathogens have great epidemiological significance in Russia, epizootological data for urbanized areas are still scarce. This study was conducted to investigate the occurrence and prevalence of tularemia and hantaviruses in small mammals living in close proximity to humans. Altogether, 425 small mammals (278 from urban environment and 147 from natural environment) representing nine species (Myodes glareolus, Microtus arvalis, Cricetus cricetus, Apodemus flavicollis, Apodemus agrarius, Apodemus uralensis, Mus musculus, Sorex araneus and Neomys fodiens) were captured in the Russian Republic of Mordovia and screened for pathogens using different serological and bacteriological methods. Red bank vole (M. glareolus) and yellow-necked wood mouse (A. flavicollis) are among species in the forest zone of the city of Saransk and are the source of a number of zoonotic diseases. In the non-urban environment, the main role as carriers of zoonotic diseases was played by house (M. musculus) and striped field (A. agrarius) mice. A total of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "23 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the small mammals sampled in Saransk were positive for tularemia, whereas "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were positive for HFRS. Furthermore, dual infections with both tularemia and hantaviruses were shown in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 4 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of animals, suggesting that the same small mammal host can be infected with several pathogens at the same time, therefore representing a serious threat to public health. Small mammal ecology is a primary determinant of zoonotic pathogens dynamics in rodent populations and the risk of pathogen transmission to people. "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                364,
+                914,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Key words: epidemiology, hantavirus, Mordovia, rodents, urbanization. "
+                    }
+                ]
+            },
+            "bbox": [
+                126,
+                698,
+                730,
+                713
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                96,
+                768,
+                231,
+                786
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It is known that epidemics coincide with urbanization, geographic expansion, and migrant movement over time (Taylor et al. 2008, Kang et al. 2012, Halliday et al. 2015, Houéménou et al. 2019). Research "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                804,
+                488,
+                893
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "results in China revealed the interrelatedness of urbanization, migration, and hantavirus epidemiology, potentially explaining why urbanizing cities with high economic growth exhibit extended epidemics (Tian et al. 2018). However, different types of animals can act as carri-"
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                768,
+                914,
+                893
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "FORESTRY IDEAS, 2021, vol. 27, No 1 (61): 128–135 "
+                    }
+                ]
+            },
+            "bbox": [
+                271,
+                39,
+                738,
+                57
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ers in different cities. For example, Urban Norway (Rattus norvegicus (Berkenhout, 1769)) and black (Rattus rattus) rats are reservoirs for a variety of zoonotic pathogens (Himsworth et al. 2015). "
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                79,
+                477,
+                169
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Republic of Mordovia in Russia is a historical focus for HFRS, tularemia and rabies (Boyarova et al. 2020). Among the small rodents in the wild natural environment, the red bank vole Myodes glareolus (Schreber, 1780), the common vole Microtus arvalis (Pallas, 1779) and the house mouse Mus musculus Linnaeus, 1758 play an important role as carriers of zoonotic diseases (Andreychev et al. 2019). One of our latest studies concluded that the forest dormouse Dryomys nitedulla (Pallas, 1779) in Mordovia was identified as a pathogen reservoir causing infectious diseases in humans (Andreychev and Boyarova 2020). However, this type of small mammal is found only in wild natural environment (Andreychev and Kiyaykina 2020, Andreychev and Kuznetsov 2020). "
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                171,
+                477,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Most researchers of zoonotic diseases choose rats (Himsworth et al. 2013, 2014, 2015; Firth et al. 2014; Wang et al. 2017; Murray et al. 2020; Su et al. 2020; Yashina et al. 2021). This is of course logical, as there are quite a lot of rats. This is not the case in Saransk, so we assumed that the main vectors may be other small mammals (mice, voles, shrews). We set out to study these to determine their possible role in the transfer of zoonotic diseases in Saransk. "
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                513,
+                477,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The purpose of this article is to highlight the role of small mammals as carriers or reservoirs of zoonotic diseases in the city forest zone. In addition to the main carriers in the natural environment, there is a high probability that other small mammals account for the circulation of zoonotic disease pathogens in urban environments. "
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                729,
+                477,
+                890
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Material and Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                79,
+                747,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The work was carried out in the forest zone of Saransk and some districts of Mordovia (Fig. 1). The Republic of Mordovia is located in the centre of the European part of Russia. Its extreme points are defined by geographical coordinates "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 2 ^ { \\circ } 1 1 ^ { \\circ } - 4 6 ^ { \\circ } 4 5 ^ { \\circ } \\mathsf { E }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 3 ^ { \\circ } 3 8 ^ { \\prime } - 5 5 ^ { \\circ } 1 1 ^ { \\prime } \\textsf { N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The maximum distance from west to east is 298 km and the distance from north to south is 57 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 0 ~ \\mathsf { k m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The area of the republic is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 6 , 2 0 0 ~ \\mathsf { k m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Features of the geological structure are determined by its location in the central part of Russian Platform and north-western slopes of Volga Upland. In the western part, Volga Upland reaches Oka-Don Lowlands (Yamashkin 1998, Andreychev 2017). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                115,
+                901,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The work is based on the materials of our own surveys of rodents and insectivorous mammals conducted in the urban environments and natural environments of Mordovia, using traditional methods of trap lines and trap grooves (Karaseva and Telicina 1996). Field work was carried out during the snow-free period (May to November). The snap traps were set in the typical habitats of the small mammals for several days and then transferred to the next site. Their number in each line was 25. Traps were checked for material every morning. Bread soaked in sunflower oil was used as bait. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                424,
+                901,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During the research period of 2020, a total of 425 specimens (278 from urban environments and 147 from natural environments) of the following rodents were trapped: red bank vole M. glareolus – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 5 . 2 ~ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", common vole M. arvalis – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", common hamster Cricetus cricetus (Linnaeus, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 5 8 ) - 0 . 5 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", yellow-necked mouse Apodemus flavicollis (Melchior, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 8 3 4 )  { - } 9 . 9 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Ural field mouse Apodemus uralensis (Pallas, 1811) – 3.8 %, "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                693,
+                901,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Small Mammals as Reservoirs of Tularemia and Hfrs in the Forest Zone of Saransk "
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                39,
+                847,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "129 "
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                39,
+                903,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/218b49b6217af327b0a5454c73bead48e2117e26cb6b5cda7378ef2d3a928413.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. Geographical position of Saransk. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                82,
+                914,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note: for the region, blue circles – collection points of the material, for the satellite image of city the red sector is the percentage of all infected (tularemia "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ +"
+                    },
+                    {
+                        "type": "text",
+                        "content": "HFRS) small mammals, the blue sector is the percentage of uninfected small mammals. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                779,
+                916,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "striped field mouse Apodemus agrarius (Pallas, 1771) – 11.8 %, house mouse M. musculus – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 . 5 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Eurasian common "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                843,
+                494,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "shrew Sorex araneus Linnaeus, 1758 – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and Eurasian water shrew Neomys fodiens (Pennant, 1771) – 0.2 %. The "
+                    }
+                ]
+            },
+            "bbox": [
+                513,
+                843,
+                918,
+                897
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "130 "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                39,
+                128,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "M. Maydanov, A. Andreychev, E. Boyarova, V. Kuznetsov, and E. Ilykaeva "
+                    }
+                ]
+            },
+            "bbox": [
+                188,
+                37,
+                817,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "captured mammals were transported to the laboratory of the Center for Hygiene and Epidemiology of Republic of Mordovia. ELISA, using ‘Huntagnost’ test system for pathogen presence, was the main method used to detect HFRS antibodies in homogenized rodent organs (lung). Tests for tularemia were performed using a serological method. "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                81,
+                481,
+                244
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results and Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                279,
+                351,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A total of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "23 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of small mammal samples in Saransk were positive for tularemia while a total of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 . 7 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were positive for HFRS. Furthermore, dual infections with both tularemia and hantaviruses were detected in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 . 4 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of animals, suggesting that the same small mammal host can be infected with several pathogens at the same time, therefore representing a serious threat to public health. In the natural (non-urban) habitat, only house mouse and striped field mouse were infected with HFRS (Table 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                313,
+                481,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Comparing the range of mouse rodent "
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                549,
+                481,
+                567
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "species infected with tularemia in urban environments with data obtained for natural environments in previous years (Andreychev and Boyarova 2020), a similar pattern was noted insofar as red bank vole played a primary role as carrier of this disease "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in urban environments compared to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "42 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in natural ones). Yellow-necked mouse, ranked second in urban environment for presence of tularemia bacteria "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 5 ~ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In natural environment of Mordovia, Ural field mouse was found positive for the same bacteria "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                81,
+                905,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Comparing results obtained in urban environments for mouse rodent species infected with HFRS (Table 1) with data obtained for natural environments in previous years (Andreychev and Boyarova 2020), it should be noted that while red bank vole was primary in urban environments "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 8 5 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", house mouse was primary in natural environment – "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 4 1 \\ \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". A. flavicollis ranked second in urban environments for presence of HFRS "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 5 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; and red bank vole "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 3 \\ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and common vole "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 3 \\ \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", were found positive for HFRS in natural environment. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                315,
+                907,
+                567
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2ff6d6902245819157b5e8a8dcde56a219e00a672c20cb56e67a25b9071fdf8d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Small mammal population structure involved as reservoirs of tularemia and HFRS in urban and non-urban environments in 2020. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Species</td><td colspan=\"4\">City of Saransk</td><td colspan=\"4\">Other districts</td></tr><tr><td>\\(n_{urban}\\)</td><td>TUL</td><td>HFRS</td><td>TUL + HFRS</td><td>\\(n_{non-urban}\\)</td><td>TUL</td><td>HFRS</td><td>TUL + HFRS</td></tr><tr><td>Myodes glareolus</td><td>219</td><td>48</td><td>23</td><td>4</td><td>16</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Microtus arvalis</td><td>2</td><td>0</td><td>0</td><td>0</td><td>25</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Cricetus cricetus</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Apodemus flavicollis</td><td>30</td><td>16</td><td>4</td><td>1</td><td>12</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Apodemus uralensis</td><td>2</td><td>0</td><td>0</td><td>0</td><td>14</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Apodemus agrarius</td><td>10</td><td>0</td><td>0</td><td>0</td><td>40</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Mus musculus</td><td>1</td><td>0</td><td>0</td><td>0</td><td>31</td><td>0</td><td>3</td><td>0</td></tr><tr><td>Sorex araneus</td><td>12</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Neomys fodiens</td><td>1</td><td>0</td><td>0</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                79,
+                614,
+                920,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n _ { \\mathsf { u r b a n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "– number of specimens from Saransk, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { n } _ { \\mathsf { n o n - u r b a n } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "– number of specimens from natural environments, TUL – number of positive tests for tularemia, HFRS – the number of positive tests for HFRS, TUL+HFRS – simultaneous detection of positive tests for tularemia and HFRS. "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                852,
+                905,
+                902
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Small Mammals as Reservoirs of Tularemia and Hfrs in the Forest Zone of Saransk "
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                37,
+                847,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                869,
+                39,
+                899,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our study also showed that in 2020, some striped field mice in natural environment were infected with HFRS, which confirmed that this species may be active in the epizootic process in Mordovia (Trankvilevsky et al. 2007, 2011). "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                81,
+                488,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Suburban forest zone of Saransk in 2020 was potentially dangerous in relation to zoonotic diseases. It is known that HFRS and tularemia are widespread in many other Russian cities as well. The increase in the incidence of HFRS in Voronezh Region took place in 2007 when 154 people were infected. More than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of cases involved people who were infected in the city (Gaponov 2017). "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                189,
+                490,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We also compared our results with the infection rates of small mammals in urban environments of Switzerland (Adler et al. 2002), where there is also a significant proportion of infected small mammals from the genera Apodemus and Myodes. "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                370,
+                488,
+                475
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The large proportion of yellow-necked mice testing positive for zoonotic diseases in urban environments of Mordovia is understandable, since scientists have previously noted their role as carriers in other countries. Dobrava–Belgrade virus strain (DOBV) which causes HFRS in humans has been found in A. flavicollis (Weidmann et al. 2005). A previous study in Greece showed that approximately "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of A. flavicollis carried DOBV (Papa et al. 2000). In Albania, it was identified as primary reservoir causing HFRS in humans (Rogozi et al. 2013, Papa et al. 2016). In Slovenia, the yellow-necked mouse, the striped field mouse (A. agrarius), and the red bank vole (M. glareolus) were all found to play an important role in zoonotic circulation of HFRS (Stanko et al. 2004). Positive results for tularemia in the Republic of Moldova were recorded in species M. glareolus, A. flavicollis and A. uralensis (Chicu et "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                478,
+                490,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "al. 2010). Thus, the yellow-necked mouse may be one of the most important carriers of zoonotic diseases. However, in Mordovia, it is in urban environments that its role has become more pronounced. This may be due to the smaller distribution across the region of other mouse species (A. uralensis, A. agrarius) (Andreychev 2020). "
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                81,
+                914,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our data on the higher incidence of double infections in small mammals in urban environments of Saransk are consistent with the results from Hungary. Dual infections with both Leptospira spp. and hantaviruses were shown in "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 6 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of mammals (Kurucz et al. 2018). "
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                226,
+                914,
+                349
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                518,
+                385,
+                659,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "There are clear differences in the role played by different small mammal species as reservoirs for zoonotic pathogens in the forest zones of urban environments versus the non-urban environments of Mordovia. The importance of red bank vole and of yellow-necked mouse in urban environments and of house mouse and striped field mouse in non-urban environments in relation to zoonotic diseases was confirmed. In addition, evidence of dual infection by tularemia and hantavirus was found, suggesting that the same small mammal host can be infected with several pathogens at the same time, therefore representing a serious threat to public health. "
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                421,
+                914,
+                726
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                518,
+                765,
+                728,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We are grateful to A. V. Salaeva, E. O. Levtcova, S. A. Yutukova, M. N. Suharnikova for support in carrying out of field studies. "
+                    }
+                ]
+            },
+            "bbox": [
+                518,
+                801,
+                912,
+                870
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                96,
+                39,
+                128,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "M. Maydanov, A. Andreychev, E. Boyarova, V. Kuznetsov, and E. Ilykaeva "
+                    }
+                ]
+            },
+            "bbox": [
+                188,
+                37,
+                817,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                79,
+                79,
+                211,
+                99
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Adler H., Vonstein S., Depla zes P., Stieger C., Frei R. 2002. Prevalence of Leptospira spp. in various species of small mammals caught in an inner-city area in Switzerland. Epidemiology & Infection 128(1): 107–109. DOI: 10.1017}S0950268801006380 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andreych ev A. 2017. Population density of the Eurasian beaver (Castor fiber L.) (Castoridae, Rodentia) in the Middle Volga of Russia. Forestry Studies 67(1): 109–115. DOI: 10.1515/fsmu-2017-0016 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andreych ev A. 2020. Proportion faunal assemblage of rodents in geoecological districts of Mordovia, Russia. Biodiversitas 21(9): 3961–3968. DOI: 10.13057/biodiv/ d210906 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andreych ev A., Boya rova E. 2020. Forest dormouse (Dryomys nitedula, Rodentia, Gliridae) – a highly contagious rodent in relation to zoonotic diseases. Forestry Ideas 26(1): 262–269. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andreych ev A., Boya rova E., La psh in A., Kuznetsov V. 2019. Detection of foci of tularemia using enzyme immunoassay for the predatory bird pellets. Periodico Tche Quimica16(31): 632–641. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andreych ev A.V., Kiya yk ina O.S. 2020. Homing of the forest dormouse (Dryomys nitedula, Rodentia, Gliridae). Zoologicheskii Zhurnal 99(6): 240–250 (in Russian with English summary). DOI: 10.31857/ S0044513420060033 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Andreych ev A.V., Kuznetsov V.A. 2020. Checklist of rodents and insectivores of the Mordovia, Russia. ZooKeys 1004(1): 129–139. DOI: 10.3897/zookeys.1004.57359 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Boya rova E., Andreych ev A., Kozlova I., Kuznetsov V. 2020. Red fox (Vulpes vulpes) as the main vector of animal’s rabies in the forest-steppe zone of Republic of Mordovia. Forestry Ideas 26(2): 355–365. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ch ic u V., Gh eorgh ita S., Burlac u V., Gutu A., Soh otch i V., Culibac ina ia E., Melnic V., Ca - rama n N., Benes O. 2010. Tularemia – particularitati actuale ce asigura persistenta focarelor in Republica Moldova. Buletinul Academiei de Stiinte a Republicii Moldova: 51–58 (in Moldovan). "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                79,
+                115,
+                481,
+                891
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Firth C., Bha t M., Firth M.A., William s S.H., Frye M.J., Simm onds P., Conte J.M., Ng J., Ga rc ia J., Bh uva N.P., Lee B., Ch e X., Qua n P.-L., Lipk in W.I. 2014. Detection of zoonotic pathogens and characterization of novel viruses carried by commensal Rattus norvegicus in New York City. MBio 5(5), e01933-14. DOI: 10.1128/mBio.01933-14 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ga ponov S.P. 2017. Epidemiological survey of mammals and hard ticks in urban and peri-urban areas of Voronezh in 2001– 2016. Bulletin of the Voronezh state university 2: 48–58. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ha llida y J.E., Knob el D.L., Agwa nda B., Ba i Y., Breima n R.F., Cleav ela nd S., Nj enga M.K., Kosoy M. 2015. Prevalence and diversity of small mammal-associated Bartonella species in rural and urban Kenya. PLoS Negl Trop Dis 9(3), e0003608. DOI: 10.1371/ journal.pntd.0003608 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Him sw orth C.G., Ba i Y., Kosoy M.Y., Wood H., DiBerna rdo A., Lindsa y R., Bidulka J., Ta ng P., Ja rdine C., Pa trick D. 2015. An investigation of Bartonella spp., Rickettsia typhi, and Seoul hantavirus in rats (Rattus spp.) from an inner-city neighborhood of Vancouver, Canada: is pathogen presence a reflection of global and local rat population structure? Vector-Borne and Zoonotic Diseases 15(1): 21–26. DOI: 10.1089/ vbz.2014.1657 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Him sw orth C.G., Ja rdine C.M., Pa rsons K.L., Feng A.Y., Pa trick D.M. 2014. The characteristics of wild rat (Rattus spp.) populations from an inner-city neighborhood with a focus on factors critical to the understanding of rat-associated zoonoses. PLoS One 9(3), e91654. DOI: 10.1371/journal. pone.0091654 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Him sw orth C.G., Pa rsons K.L., Ja rdine C., Pa trick D.M. 2013. Rats, cities, people, and pathogens: a systematic review and narrative synthesis of literature regarding the ecology of rat-associated zoonoses in urban centers. Vector-Borne and Zoonotic Diseases 13(6): 349–359. DOI: 10.1089/ vbz.2012.1195 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Houém énou G., Ga uth ier P., Etougb étch é J., Ba dou S., Dossou H.J., Agossou D., Pica rdea u M., Dob igny G. 2019. Pathogenic Lep-"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                82,
+                903,
+                891
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Small Mammals as Reservoirs of Tularemia and Hfrs in the Forest Zone of Saransk "
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                39,
+                847,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "133 "
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                39,
+                903,
+                52
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "tospira in commensal small mammals from the extensively urbanized coastal Benin. Urban Science 99(3): 1–14. DOI: 10.3390/ urbansci3030099 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ka ng Y.J., Zh ou D.J., Tia n J.H., Yu B., Guo W.P., Wa ng W., Li M.H., Wu T.P., Peng J.S., Plyusnin A., Zha ng Y.Z. 2012. Dynamics of hantavirus infections in humans and animals in Wuhan city, Hubei, China. Infection, genetics and evolution 12(8): 1614–1621. DOI: 10.1016/j.meegid.2012.07.017 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Karaseva Е.V., Telicina А.Y. 1996. Methods for studying rodents in the field. Moscow. 227 p. (in Russian). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kuruc z K., Ma da i M., Ba li D., Hederic s D., Horv áth G., Kem enesi G., Jakab F. 2018. Parallel survey of two widespread renal syndrome-causing zoonoses: Leptospira spp. and Hantavirus in urban environment, Hungary. Vector-borne and zoonotic diseases 18(4): 200–205. DOI: 10.1089/ vbz.2017.2204 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Murra y M.H., Fidino M., Fyff e R., Byers K.A., Pettengill, J.B., Sondgeroth , K.S., Killion H., Ma gle S.B., Rios M.J., Ortina u N., Sa ntym ire R.M. 2020. City sanitation and socioeconomics predict rat zoonotic infection across diverse neighbourhoods. Zoonoses and Public Health 67(6): 673–683. DOI: 10.1111/zph.12748 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pa pa A., Mills J.N., Kouidou S., Ma B., Pa pa dim itriou E., Antonia dis A. 2000. Preliminary characterization and natural history of hantaviruses in rodents in northern Greece. Emerging Infectious Diseases 6(6): 654– 655. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pa pa A., Rogozi E., Velo E., Pa pa dim itriou E., Bino S. 2016. Genetic detection of hantaviruses in rodents, Albania. Journal of Medical Virology 88: 1309–1313. DOI: 10.1002/jmv.24486. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rogozi E., Bego F., Pa pa A., Mersini K., Bino S. 2013. Distribution and ecology of small mammals in Albania. International Journal of Environmental Health Research 23(3): 258–268. DOI: 10.1080/09603123.2012.717917 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sta nk o M., Fric ova J., Sch niererova E., Mosa nsk y L., Ma rdzinova S. 2004. Fauna drobnych cicavcov (Insectivora, Rodentia, "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                82,
+                492,
+                891
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Carnivora) okolia rozhanoviec (Kosickakotlina). Natura Carpatica 45: 107–116. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Su Q., Ch en Y., Wa ng B., Hua ng C., Ha n S., Yua n G., Zha ng Q., He H. 2020. Epidemiology and genetic diversity of zoonotic pathogens in urban rats (Rattus spp.) from a subtropical city, Guangzhou, southern China. Zoonoses and public health 67(5): 534–545. DOI: 10.1111/zph.12717 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ta ylor P.J., Arntzen L., Ha yter M., Iles M., Frea n J., Belma in S. 2008. Understanding and managing sanitary risks due to rodent zoonoses in an African city: beyond the Boston Model. Integrative Zoology 3(1): 38–50. DOI: 10.1111/j.1749-4877.2008.00072.x "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tia n H., Hu S., Ca zelles B., Ch ow ell G., Ga o L., La ine M., Li Y., Ya ng H., Li Y., Ya ng Q., Tong X, Hua ng R., Bj ornsta d O.N., Xia o H., Stenseth N.C. 2018. Urbanization prolongs hantavirus epidemics in cities. Proceedings of the National Academy of Sciences 115(18): 4707–4712. DOI: 10.1073/ pnas.1712767115/-/DCSupplemental "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tra nkv ilev sk y D.V., Pla tunina T.N., Dza gurova T.K., Bakhm etyeva Yu.O., Korotina N.A., Ga ponov S.P., Sedova N.S., Schk il N.N., Sa pelnik ov S.F., Ma rch enk o N.F., Mamch ick N.P., C M.I., T E.A. 2007. Outbreak of HFRS during the winter 2006– 2007 in Voronezh Region. Medical Virology 24: 145–156 (in Russian with English summary). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tra nkv ilev sk y D.V., Strygina S.O., Kutuzov A.V., Bakhm etyeva Yu.O., Tregub ov O.V., Rodina I.V., Bernstein A.D., Korotina N.A., Dza gurova T.K., Stepk in Yu.I., Ch ub irk o M.I., Tkach enk o E.A. 2011. Many years dynamic of quantity and species composition of small-sized mammals in open pasture lands of Voronezh region and change of epizootic and epidemic situation in locations of zoonosis. Disinfection Affairs 1: 48–57 (in Russian). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wa ng B., Ca i C.L., Li B., Zha ng W., Zh u Y., Ch en W.H., Zh uo F., Sh i Z.-L., Ya ng X.L. 2017. Detection and characterization of three zoonotic viruses in wild rodents and shrews from Shenzhen city, China. Virologica Sinica 32(4): 290–297. DOI: 10.1007/ s12250-017-3973-z "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                516,
+                81,
+                914,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "134 "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                39,
+                128,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "M. Maydanov, A. Andreychev, E. Boyarova, V. Kuznetsov, and E. Ilykaeva "
+                    }
+                ]
+            },
+            "bbox": [
+                188,
+                37,
+                817,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Weidma nn M., Schm idt P., Vack ova M., Kriva nec K., Munc linger P., Huf ert F.T. 2005. Identification of genetic evidence for dobrava virus spillover in rodents by nested reverse transcription (RT)-PCR and TaqMan RT-PCR. Journal of Clinical Microbiology 43(2): 808–812. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yama shk in A.A. 1998. Physico-geographical conditions and landscapes of Mordovia. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                79,
+                479,
+                226
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yamashkin A.A. (Ed.). Saransk: Publisher of Mordovia State University. 156 p. (in Russian). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ya sh ina L.N., Ha y J., Sm eta nnik ova N.A., Kush na reva T.V., Iunikh ina O.V., Kom pa nets G.G. 2021. Hemorrhagic fever with renal syndrome in Vladivostok city, Russia. Frontiers in Public Health 9, 620279. DOI: 10.3389/fpubh.2021.620279 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                79,
+                903,
+                226
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Small Mammals as Reservoirs of Tularemia and Hfrs in the Forest Zone of Saransk "
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                37,
+                847,
+                54
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "135 "
+                    }
+                ]
+            },
+            "bbox": [
+                869,
+                39,
+                903,
+                52
+            ]
+        }
+    ]
+]

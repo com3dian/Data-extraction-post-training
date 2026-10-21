@@ -1,0 +1,4243 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        104,
+                        319,
+                        120
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                104,
+                                319,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        104,
+                                        319,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "Hantavirus infections in Greece – an update"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        61,
+                        144,
+                        194,
+                        158
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                144,
+                                194,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        144,
+                                        194,
+                                        158
+                                    ],
+                                    "type": "text",
+                                    "content": "A. Papa & A. Antoniadis"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        61,
+                        159,
+                        522,
+                        181
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                159,
+                                522,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        159,
+                                        522,
+                                        181
+                                    ],
+                                    "type": "text",
+                                    "content": "Department of Microbiology (WHO Collaborating Centre for Reference and Research on Arboviruses and Haemorrhagic Fever Viruses), School of Medicine, Aristotelian University of Thessaloniki, Thessaloniki, Greece"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        61,
+                        194,
+                        211,
+                        205
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                194,
+                                211,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        194,
+                                        211,
+                                        205
+                                    ],
+                                    "type": "text",
+                                    "content": "Accepted in revised form 21 May 2001"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        61,
+                        229,
+                        288,
+                        313
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                229,
+                                288,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        229,
+                                        288,
+                                        313
+                                    ],
+                                    "type": "text",
+                                    "content": "Abstract. Hantaviruses are emerging viruses spread worldwide and cause hemorrhagic fever with renal syndrome (HFRS) or hantavirus pulmonary syndrome (HPS). Two pathogenic hantaviruses are present in Greece: Dobrava/Belgrade virus (DOBV) and Puumala virus (PUUV). The predominant one is DOBV, carried in Greece by the rodent Apodemus"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        305,
+                        229,
+                        533,
+                        313
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                229,
+                                533,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        229,
+                                        533,
+                                        313
+                                    ],
+                                    "type": "text",
+                                    "content": "flavicollis. Most human infections are sporadic, but epidemic outbreaks were also described. The severity of the disease ranges from a mild or moderate form to severe and fatal cases. Several endemic foci for HFRS have been identified. Phylogenetic analysis of hantavirus sequences revealed a stable geographical distribution."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        61,
+                        325,
+                        443,
+                        337
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                325,
+                                443,
+                                337
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        325,
+                                        443,
+                                        337
+                                    ],
+                                    "type": "text",
+                                    "content": "Key words: Dobrava virus, Greece, Hantavirus, Hemorrhagic fever with renal syndrome"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        61,
+                        358,
+                        111,
+                        370
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                358,
+                                111,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        358,
+                                        111,
+                                        370
+                                    ],
+                                    "type": "text",
+                                    "content": "Introduction"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        61,
+                        382,
+                        288,
+                        513
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                382,
+                                288,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        382,
+                                        288,
+                                        513
+                                    ],
+                                    "type": "text",
+                                    "content": "Hippocrates already gave the initial description of many infectious diseases in the fifth century BC. However, mankind, entering the 21st century, is still in front of 'emerging' diseases. Hantaviruses are excellent paradigms of 'emerging or reemerging viruses' as they are old viruses but they appear unexpectedly in new regions causing new infectious diseases in humans. Changes in environmental conditions, as well as war conflicts, may change the dynamics of the rodent population and subsequently the epidemiology of hantaviruses [1, 2]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        61,
+                        514,
+                        288,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                514,
+                                288,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        514,
+                                        288,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "Hantaviruses belong to the largest virus family, the Bunyaviridae. They are enveloped negative-stranded RNA viruses, with a tripartite genome of S (small), M (medium) and L (large) segments encoding a nucleocapsid protein N, the two glycoproteins G1 and G2 and a viral RNA polymerase, respectively [3]. They are transmitted to humans via inhalation of aerosolized excreta of silently lifelong infected carrier rodents. Hantaan (HTN), Seoul (SEO), Dobrava/Belgrade (DOB) and Puumala (PUU) viruses are known to cause an acute febrile nephropathy known as hemorrhagic fever with renal syndrome (HFRS) in Asia and Europe, while Sin Nombre (SN) and related viruses cause hantavirus pulmonary syndrome (HPS) in America [4, 5]. This geographic distinction is due to the different geographic distribution of the rodent hosts. Several other hantaviruses, including Prospect Hill (PH), Thailand (THAI), Thottapalayam (TPM), Kabarovsk (KBR), Tula (TUL) and Topografov (TOP) have been described, but they are not at present implicated with any disease in humans."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        305,
+                        358,
+                        533,
+                        489
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                358,
+                                533,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        358,
+                                        533,
+                                        489
+                                    ],
+                                    "type": "text",
+                                    "content": "Every hantavirus is associated with specific primary rodent reservoirs within the family Muridae. HTN, SEO, DOB viruses are associated with rodents belonging to the Murinae subfamily (genera Apodemus and Rattus), PUU and PH are associated with rodents of the Arvicolinae subfamily (genera Clethrionomys and Microtus), while SN and related viruses that have been implicated in HPS are either proven or suspected to be associated with murid rodents of the Sigmodontinae subfamily (genera Peromyscus, Sigmodon, Oligoryzomys etc.)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        305,
+                        490,
+                        533,
+                        704
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                490,
+                                533,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        490,
+                                        533,
+                                        704
+                                    ],
+                                    "type": "text",
+                                    "content": "In Europe, two hantaviruses are so far associated with disease to humans: DOBV and PUUV. DOBV is carried by Apodemus flavicollis, the yellow-necked mouse and causes severe HFRS in the Balkans; PUUV is carried by the red bank vole, Clethrionomys glareolus, and causes nephropathia epidemiica, a milder form of HFRS, mostly in the northern Europe. During the last years a number of HFRS cases due to DOBV were reported in several European countries outside Balkans: in Russia [6], Estonia [7], Germany [8, 9] and Slovakia [10]. All these cases were mild or moderate and none of them was fatal. Screening for infected rodents revealed that the striped field mouse, "
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        490,
+                                        533,
+                                        704
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        490,
+                                        533,
+                                        704
+                                    ],
+                                    "type": "text",
+                                    "content": ". agrarius, represents the main reservoir for DOBV in central and eastern Europe [11-14]. Probably the different rodent host is related to the difference of the pathogenicity of the virus and the severity of the disease."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        305,
+                        729,
+                        453,
+                        741
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                729,
+                                453,
+                                741
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        729,
+                                        453,
+                                        741
+                                    ],
+                                    "type": "text",
+                                    "content": "Hantavirus epidemiology in Greece"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        305,
+                        752,
+                        533,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                752,
+                                533,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        752,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "HFRS is endemic in the Balkan Peninsula, where isolated cases as well as outbreaks have been reported in Albania [15], Bulgaria [16, 17], Romania [18], and"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        318,
+                        53,
+                        534,
+                        70
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                53,
+                                534,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        53,
+                                        534,
+                                        70
+                                    ],
+                                    "type": "text",
+                                    "content": "European Journal of Epidemiology 17: 189-194, 2001. © 2001 Kluwer Academic Publishers. Printed in the Netherlands."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        84,
+                        289,
+                        107
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                84,
+                                289,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        84,
+                                        289,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "in different republics and provinces of the former Yugoslavia [19-26]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        60,
+                        108,
+                        289,
+                        309
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                108,
+                                289,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        108,
+                                        289,
+                                        309
+                                    ],
+                                    "type": "text",
+                                    "content": "The study on HFRS in Greece began on 1980. The first serological evidence for HFRS in Greece was reported in 1981 [27], 5 years after the isolation of the etiologic agent of Korean hemorrhagic fever by Lee et al. [28]. In 1982, the first HFRS cases were serologically diagnosed in Greece and the clinical symptoms of the disease as it appears in Greece were described [29, 30]. From the description of the first HFRS cases up to date a number of approximately 210 cases were diagnosed in Greece. The diagnosis was based mainly on the clinical symptoms and the rising immunofluorescence antibody (IgG and IgM) titers to HTNV. Recently, when molecular approaches are also available, diagnosis was also achieved by reverse transcriptase-polymerase chain reaction (RT-PCR) followed by phylogenetic analysis."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        60,
+                        311,
+                        289,
+                        453
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                311,
+                                289,
+                                453
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        311,
+                                        289,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": "There is a seasonal distribution of the disease from May to October, with a peak in July and August, which is linked with the crops harvesting period [31]. Similar distribution is observed in other Balkan countries, differing from HFRS in Asia and other parts of Europe [32]. Groups at risk are farmers, shepherds, woodcutters, hunters and military personnel. Serological surveys for the prevalence of hantavirus from selected human populations revealed hantavirus-specific antibodies in "
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        311,
+                                        289,
+                                        453
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "4\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        311,
+                                        289,
+                                        453
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(0 - 14\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        311,
+                                        289,
+                                        453
+                                    ],
+                                    "type": "text",
+                                    "content": " [31]. Higher percentage was observed among individuals with an outdoors occupational risk."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        60,
+                        454,
+                        289,
+                        548
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                454,
+                                289,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        454,
+                                        289,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": "Several endemic foci with a high number of seropositive individuals have been identified. Pindos and Rhodope mountain chains (southwestern and southeastern part of Greece, respectively) could be considered as hyperendemic areas, as "
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        454,
+                                        289,
+                                        548
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "80\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        454,
+                                        289,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": " of the total HFRS cases occur at these two regions. No HFRS cases have been reported so far from Southern Greece and the islands."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        60,
+                        550,
+                        289,
+                        621
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                550,
+                                289,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        550,
+                                        289,
+                                        621
+                                    ],
+                                    "type": "text",
+                                    "content": "The ratio of infected males to females is about 3:1 [31]. The mean age of HFRS patients is 36 years, ranging from 21 to 71 years. In the summer of 1997 an HFRS case was described in an 11-year old boy; this was the first HFRS case described in a child in Greece [33]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        60,
+                        622,
+                        289,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                622,
+                                289,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        622,
+                                        289,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "The mortality rate of hantavirus infections is approximately "
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        622,
+                                        289,
+                                        788
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        622,
+                                        289,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": " (patients die of shock and/or hemorrhage), although this figure is based on the most severe cases that are hospitalized [34]. However, during the last 4 years (1997-2000) although only a small number of serologically confirmed HFRS cases were hospitalized in Northern Greece (14 cases), three of them were fatal, that means a mortality rate of "
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        622,
+                                        289,
+                                        788
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "21\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        622,
+                                        289,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": ". The overall rate, of course, is lower when milder and inapparent cases are also included. Elisaf et al. [35] examined 21 relatives and neighbors of a severely ill HFRS patient: 3/21 individuals had specific IgM antibodies to HTNV, and reported a recent influenza-like infection, suggesting that mild or"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        305,
+                        84,
+                        533,
+                        107
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                84,
+                                533,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        84,
+                                        533,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "asymptomatic cases may be more common than the severe type of the disease."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        305,
+                        108,
+                        533,
+                        203
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                108,
+                                533,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        108,
+                                        533,
+                                        203
+                                    ],
+                                    "type": "text",
+                                    "content": "Most of the HFRS cases in Greece are sporadic, but epidemic outbreaks were also described. One HFRS outbreak was reported in July and August of 1983, when eight male shepherds, 23-66 years old, were admitted to a hospital in northwestern Greece. Five of the patients had a mild form of the disease, but three of them had a severe form, and one of them died on the day of admission with signs of shock [36]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        305,
+                        204,
+                        533,
+                        286
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                204,
+                                533,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        204,
+                                        533,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "Two pathogenic hantaviruses are present in Greece: DOBV and PUUV; the predominant one is DOBV, which in Greece is carried by the rodent "
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        204,
+                                        533,
+                                        286
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        204,
+                                        533,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis (37-41). DOBV was recently isolated from the lungs of "
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        204,
+                                        533,
+                                        286
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        204,
+                                        533,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis trapped at the northeastern part of Greece (Papa et al., paper accepted in J Clin Microbial)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        305,
+                        311,
+                        476,
+                        323
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                311,
+                                476,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        311,
+                                        476,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": "Clinical features and laboratory findings"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        305,
+                        335,
+                        533,
+                        549
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                335,
+                                533,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        335,
+                                        533,
+                                        549
+                                    ],
+                                    "type": "text",
+                                    "content": "The clinical manifestations of HFRS in Greece range from a mild or moderate illness to severe cases, resembling the Asian form of HFRS caused by HTNV. The onset of the disease is usually sudden. The clinical symptoms and signs are fever, generalized myalgias, headache, abdominal pain, vomiting, back pain, flushing over the face and neck, hypotension, conjunctival injection and renal insufficiency; hemorrhagic manifestations, pulmonary infiltrates and pulmonary edema are present in smaller number of patients. The most common laboratory findings are proteinuria, hematuria, thrombocytopenia and elevated serum creatinine [32, 34]. In a number of patients elevated values of transamisases are also seen [42]. Approximately "
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        335,
+                                        533,
+                                        549
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "30\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        305,
+                                        335,
+                                        533,
+                                        549
+                                    ],
+                                    "type": "text",
+                                    "content": " of the patients undergo hemodialysis or peritoneal dialysis for treatment of acute oliguric or anuric renal failure [34]. The hospitalization time is usually 2-3 weeks."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        305,
+                        550,
+                        533,
+                        634
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                550,
+                                533,
+                                634
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        550,
+                                        533,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "Treatment consists of supportive medical management including mainly monitoring of electrolytes and fluid intake and output with corrections, especially during the oliguric and diuretic phases. In most cases recovery is complete; however, cases with chronic renal failure after the acute episode of hantavirus nephropathy have been described [36]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        305,
+                        634,
+                        533,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                634,
+                                533,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        634,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "A specific humoral response is usually detectable from the first days of the disease. The earliest detection of IgM antibodies was achieved by immunofluorescence assay on the fifth day of the disease [31]. The laboratory diagnosis is based mainly on serology. IgM and IgG hantavirus specific antibodies can be detected by immunofluorescence and ELISA methods. However, a high cross reactivity of HTNV, DOBV and SEOV is observed, even by neutralization assays during the acute phase [26]. Therefore, reliable typing of hantavirus infections should be based on either comparison of neutralization titers from convalescent-phase sera using an adequate panel of hanta"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        60,
+                        76,
+                        69
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                60,
+                                76,
+                                69
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        60,
+                                        76,
+                                        69
+                                    ],
+                                    "type": "text",
+                                    "content": "190"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        84,
+                        288,
+                        107
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                84,
+                                288,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        84,
+                                        288,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "viruses, or RT-PCR on patient/rodent samples with subsequent sequencing and phylogenetic analysis [43]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        61,
+                        108,
+                        288,
+                        226
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                108,
+                                288,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        108,
+                                        288,
+                                        226
+                                    ],
+                                    "type": "text",
+                                    "content": "Using neutralization assays, a PUU case was detected in Greece. Focus reduction neutralization test (FRNT) against the four hantaviruses reported to cause HFRS (PUUV, DOBV, HTNV and SEOV) was performed. A clear PUU-specific reactivity of neutralizing antibodies in the acute and late convalescent samples of the patient was observed. This case represents the southernmost PUU infection in Europe [41]. Probably some subclinical HFRS cases in Greece are due to PUU infections."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        61,
+                        227,
+                        288,
+                        287
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                227,
+                                288,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        227,
+                                        288,
+                                        287
+                                    ],
+                                    "type": "text",
+                                    "content": "Using molecular methods the first genetic evidence for the association of DOBV with severe HFRS was achieved [37]. Furthermore, it was found that DOBV was the etiologic agent for all the severe HFRS cases, which were positive, by PCR [38]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        61,
+                        305,
+                        142,
+                        316
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                305,
+                                142,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        305,
+                                        142,
+                                        316
+                                    ],
+                                    "type": "text",
+                                    "content": "The carrier rodents"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        61,
+                        329,
+                        288,
+                        567
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                329,
+                                288,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "text",
+                                    "content": "Greece is a country at the meeting point of three continents: Europe, Asia and Africa. A great number of rodent species are circulating, belonging to Murinae and Arvicolinae subfamilies [44]. Small mammal surveys were conducted by our department in different endemic areas. Apodemus flavicollis, the yellow-necked mouse, was the most common rodent in the fields adjacent to villages and at the lower ranges of mountain pastures [40, 45]. In a recent rodent survey in northern Greece, "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis was the most commonly captured species (87% of captures) [40]. In Nevrokopi village, a small town nearby the Greek-Bulgarian border, a overall hantavirus prevalence of 13% was found in "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis. Nested RT-PCR was performed on RNA extracted from homogenized tissues of captured rodents. Phylogenetic analysis revealed that the amplified sequences of "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        329,
+                                        288,
+                                        567
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis rodents were clustering together with DOBV sequences obtained from human HFRS cases, implicating this rodent species as the reservoir of DOBV in Greece [39]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        61,
+                        569,
+                        288,
+                        723
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                569,
+                                288,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": "While the presence of "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "C."
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": " glareolus and "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A."
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": " agrarius has been reported in Greece [44, 46], yet they are not common, and were never captured during our field trapping surveys. During the last years DOBV sequences were detected also in the striped field mouse, "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A."
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": " agrarius, in Estonia [11, 13], Russia [12], Slovakia [14] and Slovenia [47]. These data suggest that "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A."
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": " agrarius rodents, which were associated with HTNV in Asia, carry also DOBV in Central and Eastern Europe. So far, we have not detected in Greece any "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A."
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        569,
+                                        288,
+                                        723
+                                    ],
+                                    "type": "text",
+                                    "content": " agrarius infected with hantavirus, neither had we detected sequences from human HFRS cases clustering with DOB-A. agrarius sequences."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        61,
+                        741,
+                        160,
+                        753
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                741,
+                                160,
+                                753
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        741,
+                                        160,
+                                        753
+                                    ],
+                                    "type": "text",
+                                    "content": "Molecular epidemiology"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        61,
+                        765,
+                        288,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                765,
+                                288,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        765,
+                                        288,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "RT-PCR methods followed by sequencing and phylogenetic analysis have the ability to identify the"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        306,
+                        84,
+                        533,
+                        107
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                84,
+                                533,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        84,
+                                        533,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "exact hantavirus strain and to determine the clustering and the genetic distances among different strains."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        306,
+                        108,
+                        533,
+                        538
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                108,
+                                533,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": "Dobrava virus was originally isolated from the lungs of an "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis in Dobrava village, Slovenia in 1992, and had been suggested to be associated with HFRS in the former Yugoslavia [48]. Belgrade virus was originally isolated from the blood and urine of patients suffering from severe HFRS [49]. These two viruses are now recognized genetically virtually identical, and thus are considered the same virus [50]. The first direct genetic evidence for the association of DOBV with severe HFRS was given in 1996 by the use of RT-PCR for the examination of blood samples from two HFRS patients in Greece [37]. It was shown that these viruses (Nevrokopi-B and Pindos) were both related to DOBV, and that the genetically diverse Dobrava viruses form a monophyletic clade separate from other hantaviruses associated with Murinae rodents (HTN, SEO, THAI). A. flavicollis captured at the same area where one of the patients was infected, found to carry DOBV sequences, which were "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "98.3\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": " identical at the nucleotide level to the sequences of the HFRS patient [39]. Following these investigations, a retrospective serological and genetic study of serum samples taken from HFRS cases was conducted in order to find out the distribution of hantaviruses in Greece [38]. Phylogenetic analysis of the partial S and M segments showed that the virus that was responsible for all the PCR-positive HFRS cases was the Dobrava virus. In addition, phylogenetic analysis of the partial S-segment fragments demonstrated three major lineages among the Greek sequences that were distinguished by geographic location [38]. This clear geographical clustering was due mostly to the fact that small rodents have a very small acting area. Additional molecular studies showed that DOBV is associated in Greece by the rodent "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        108,
+                                        533,
+                                        538
+                                    ],
+                                    "type": "text",
+                                    "content": ". flavicollis [39, 40]."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        306,
+                        538,
+                        533,
+                        740
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                538,
+                                533,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": "A phylogenetic tree based on 272-bp fragments of the hantavirus S RNA segment is seen in Figure 1. Three lineages are distinct in the DOBV clade: one from Estonia, a second one from Russia, Slovenia and Slovakia, and a third one from Slovenia, Slovakia and Greece. The sequences in the first and the second lineages are derived from "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": " agrarius, whereas sequences in the third lineage are derived either from "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": " flavicollis, or from human samples taken from Greek HFRS patients. The third lineage is further subdivided into two smaller clusters: one from Slovenia, Slovakia and Northeastern Greece, and a second one from Central and Northeastern Greece. Greek sequences derived from human HFRS cases and "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": " flavicollis rodents differ approximately "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "15\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": " at the nucleotide level from sequences derived from "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        538,
+                                        533,
+                                        740
+                                    ],
+                                    "type": "text",
+                                    "content": " agrarius."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        306,
+                        741,
+                        533,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                741,
+                                533,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        741,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "Sequences AP9Af and AP13Af were derived from tissues from "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        741,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        741,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": " flavicollis trapped in 1999; they had "
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        741,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "1.1\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        741,
+                                        533,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": " nucleotide difference with the sequence derived from the HFRS patient TD, who was infected at the"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        518,
+                        60,
+                        533,
+                        70
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                518,
+                                60,
+                                533,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        518,
+                                        60,
+                                        533,
+                                        70
+                                    ],
+                                    "type": "text",
+                                    "content": "191"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        84,
+                        509,
+                        518
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                84,
+                                509,
+                                518
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        84,
+                                        509,
+                                        518
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                84,
+                                                509,
+                                                518
+                                            ],
+                                            "type": "image",
+                                            "image_path": "417c79809504ca0f3a2038f0388859be66c0678253bb912364ce4a3cfda70161.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                523,
+                                535,
+                                602
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        523,
+                                        535,
+                                        602
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                523,
+                                                535,
+                                                602
+                                            ],
+                                            "type": "text",
+                                            "content": "Figure 1. Phylogenetic tree based on 272-bp sequences of the hantavirus S segments. PHYLIP software package [51] was used to prepare 100 bootstrap replicates of the sequence data, with values above "
+                                        },
+                                        {
+                                            "bbox": [
+                                                57,
+                                                523,
+                                                535,
+                                                602
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "60\\%"
+                                        },
+                                        {
+                                            "bbox": [
+                                                57,
+                                                523,
+                                                535,
+                                                602
+                                            ],
+                                            "type": "text",
+                                            "content": " indicated at the nodes. Horizontal distances are proportional to nucleotide differences (see bar scale), while vertical branches are for visual clarity only. All sequences are available in GenBank. Greek sequences have the following accession numbers: AF060014-AF060024, AF039525, AJ276305 and AJ276306. Abbreviations of the viruses are as follows: HTN = Hantaan; SEO = Seoul; SN = Sin Nombre; KBR = Khabarovsk; BAY = Bayou; TUL = Tula; PUU = Puumala; BCC = Black Creek Canal; ELMC = El Moro Canyon."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        58,
+                        618,
+                        290,
+                        690
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                618,
+                                290,
+                                690
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        618,
+                                        290,
+                                        690
+                                    ],
+                                    "type": "text",
+                                    "content": "same area in 1986. Similar close genetic relation, independent of time, but exclusively dependent on geographical region, among different Greek DOBV sequences, was observed in a retrospective study [38]. These data show the slow evolution of DOBV and the stable geographical distribution of different strains."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        58,
+                        705,
+                        108,
+                        716
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                705,
+                                108,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        705,
+                                        108,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "Conclusion"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        58,
+                        729,
+                        289,
+                        789
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                729,
+                                289,
+                                789
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        729,
+                                        289,
+                                        789
+                                    ],
+                                    "type": "text",
+                                    "content": "It is evident that both DOBV and PUUV are endemic in Greece and cause HFRS. The predominant one is DOBV, carried in Greece by the rodent "
+                                },
+                                {
+                                    "bbox": [
+                                        58,
+                                        729,
+                                        289,
+                                        789
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "A"
+                                },
+                                {
+                                    "bbox": [
+                                        58,
+                                        729,
+                                        289,
+                                        789
+                                    ],
+                                    "type": "text",
+                                    "content": ".flavicollis. In contrast to the rest of Europe where mild PUU or DOB cases are present, the majority of the Greek"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        303,
+                        618,
+                        534,
+                        642
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                618,
+                                534,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        618,
+                                        534,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "HFRS cases are caused by DOBV, they are more severe, but hopefully not very frequent."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        303,
+                        643,
+                        534,
+                        703
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                643,
+                                534,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        643,
+                                        534,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "Diverse hantaviruses, not always recognized, are spread worldwide causing infectious diseases to humans. There is still a lot of work to be done in order to understand the epidemiology of hantaviruses and their rodent (or other) hosts in every part of the world."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        304,
+                        721,
+                        352,
+                        732
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                304,
+                                721,
+                                352,
+                                732
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        721,
+                                        352,
+                                        732
+                                    ],
+                                    "type": "text",
+                                    "content": "References"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        308,
+                        744,
+                        534,
+                        788
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                744,
+                                534,
+                                788
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        744,
+                                        534,
+                                        788
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Hjelle B, Glass GE. Outbreak of hantavirus infection in the four corners region of the United States in the wake of the 1997-1998 El Niño-Southern oscillation. J Infect Dis 2000; 181: 1569-1573."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        59,
+                        77,
+                        70
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                59,
+                                77,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        59,
+                                        77,
+                                        70
+                                    ],
+                                    "type": "text",
+                                    "content": "192"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        84,
+                        289,
+                        784
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 20,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                64,
+                                84,
+                                289,
+                                127
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        84,
+                                        289,
+                                        127
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                84,
+                                                289,
+                                                127
+                                            ],
+                                            "type": "text",
+                                            "content": "2. Bugert JJ, Welzel TM, Zeier M, Darai G. Hantavirus infection-haemorrhagic fever in the Balkans - potential nephrological hazards in the Kosovo war. Nephrol Dial Transplant 1999; 14: 1843-1844."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                127,
+                                289,
+                                159
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        127,
+                                        289,
+                                        159
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                127,
+                                                289,
+                                                159
+                                            ],
+                                            "type": "text",
+                                            "content": "3. Schmaljohn C. Molecular biology of hantaviruses. In: Elliott R (ed.), The Bunyaviridae, New York: Plenum Press, 1996: 63-90."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                160,
+                                289,
+                                203
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        160,
+                                        289,
+                                        203
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                160,
+                                                289,
+                                                203
+                                            ],
+                                            "type": "text",
+                                            "content": "4. Nichol ST, Spiropoulou CF, Morzunov S, et al. Genetic identification of a hantavirus associated with an outbreak of acute respiratory illness. Science 1993; 262: 914-917."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                204,
+                                289,
+                                226
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        204,
+                                        289,
+                                        226
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                204,
+                                                289,
+                                                226
+                                            ],
+                                            "type": "text",
+                                            "content": "5. Schmaljohn C, Hjelle B. Hantaviruses: A global disease problem. Emerg Infect Dis 1997; 3: 95-104."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                227,
+                                289,
+                                258
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        227,
+                                        289,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                227,
+                                                289,
+                                                258
+                                            ],
+                                            "type": "text",
+                                            "content": "6. Lundkvist A, Apekina N, Myasnikov Y, Vapalahti O, Vaheri A, Plyusnin A. Dobrava hantavirus outbreak in Russia. Lancet 1997; 350: 781-782."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                259,
+                                289,
+                                292
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        259,
+                                        289,
+                                        292
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                259,
+                                                289,
+                                                292
+                                            ],
+                                            "type": "text",
+                                            "content": "7. Lundkvist A, Vasilenko V, Golovljova I, Plyusnin A, Vaheri A. Human Dobrava hantavirus infections in Estonia. Lancet 1998; 352: 369."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                293,
+                                289,
+                                335
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        293,
+                                        289,
+                                        335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                293,
+                                                289,
+                                                335
+                                            ],
+                                            "type": "text",
+                                            "content": "8. Meisel H, Lundkvist A, Gantzer K, Bar W, Sibold C, Kruger DH. First case of infection with hantavirus Dobrava in Germany. Eur J Clin Microbiol Infect Dis 1998; 17: 884-885."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                336,
+                                289,
+                                378
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        336,
+                                        289,
+                                        378
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                336,
+                                                289,
+                                                378
+                                            ],
+                                            "type": "text",
+                                            "content": "9. Mentel R, Bordihn N, Wegner U, Wendel H, Niklasson B. Hantavirus Dobrava infection with pulmonary manifestation. Med Microbiol Immunol (Berl) 1999; 188: 51-53."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                379,
+                                289,
+                                422
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        379,
+                                        289,
+                                        422
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                379,
+                                                289,
+                                                422
+                                            ],
+                                            "type": "text",
+                                            "content": "10. Sibold C, Meisel H, Lundkvist A, et al. Short report: Simultaneous occurrence of Dobrava, Puumala, and Tula Hantaviruses in Slovakia. Am J Trop Med Hyg 1999; 61: 409-411."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                423,
+                                289,
+                                457
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        423,
+                                        289,
+                                        457
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                423,
+                                                289,
+                                                457
+                                            ],
+                                            "type": "text",
+                                            "content": "11. Plyusnin A, Vapalahti O, Vasilenko V, Henttonen H, Vaheri A. Dobrava hantavirus in Estonia: Does the virus exist throughout Europe? Lancet 1997; 349: 1369-1370."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                457,
+                                289,
+                                489
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        457,
+                                        289,
+                                        489
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                457,
+                                                289,
+                                                489
+                                            ],
+                                            "type": "text",
+                                            "content": "12. Plyusnin A, Nemirov K, Apekina N, Plyusnina A, Lundkvist A, Vaheri A. Dobrava hantavirus in Russia. Lancet 1999; 353: 207."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                490,
+                                289,
+                                532
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        490,
+                                        289,
+                                        532
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                490,
+                                                289,
+                                                532
+                                            ],
+                                            "type": "text",
+                                            "content": "13. Nemirov K, Vapalahti O, Lundkvist A, et al. Isolation and characterization of Dobrava hantavirus carried by the striped field mouse (Apodemus agrarius) in Estonia. J Gen Virol 1999; 80: 371-379."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                533,
+                                289,
+                                576
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        533,
+                                        289,
+                                        576
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                533,
+                                                289,
+                                                576
+                                            ],
+                                            "type": "text",
+                                            "content": "14. Sibold C, Ulrich R, Labuda M, et al. Dobrava hantavirus causes hemorrhagic fever with renal syndrome in central Europe and is carried by two different Apodemus mice species. J Med Virol 2001; 63: 158-167."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                577,
+                                289,
+                                609
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        577,
+                                        289,
+                                        609
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                577,
+                                                289,
+                                                609
+                                            ],
+                                            "type": "text",
+                                            "content": "15. Eltari E, Nuti M, Hasko I, Gina A. Haemorrhagic fever with renal syndrome in a case in northern Albania. Lancet 1987; 2(8569): 1211."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                610,
+                                289,
+                                642
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        610,
+                                        289,
+                                        642
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                610,
+                                                289,
+                                                642
+                                            ],
+                                            "type": "text",
+                                            "content": "16. Verbev P, Gabev E. Haemorrhagic nephroso-nephritis in Bulgaria. J Hyg Epidemiol Microbiol Immunol 1963; 7: 136-144."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                643,
+                                289,
+                                686
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        643,
+                                        289,
+                                        686
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                643,
+                                                289,
+                                                686
+                                            ],
+                                            "type": "text",
+                                            "content": "17. Chumakov M, Shindarov L, Gavrilovskaya I, Vasilenko Sv, Gorbachkova E, Katzarov G. Seroepidemiology of haemorrhagic fever with renal syndrome in Bulgaria. Acta Virol 1988; 32: 261-266."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                687,
+                                289,
+                                719
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        687,
+                                        289,
+                                        719
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                687,
+                                                289,
+                                                719
+                                            ],
+                                            "type": "text",
+                                            "content": "18. Manasia M, Olinic N, Zagreanu I, Serban A. Hemorrhagic fever with renal syndrome: Report of 11 observations. Int Urol Nephrol 1977; 9: 177-184."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                720,
+                                289,
+                                751
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        720,
+                                        289,
+                                        751
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                720,
+                                                289,
+                                                751
+                                            ],
+                                            "type": "text",
+                                            "content": "19. Heneberg D, Heneberg N, Sebek Z. Experiences in the study of natural foci of Zoonoses in Yugoslavia. Med Glas 1970; 24: 297-305."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                752,
+                                289,
+                                784
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        752,
+                                        289,
+                                        784
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                752,
+                                                289,
+                                                784
+                                            ],
+                                            "type": "text",
+                                            "content": "20. Gaon J, Karlovac M, Gresikova M, et al. Epidemiological features of hemorrhagic fever. Folia Med Sar 1968; 3: 23-43."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        305,
+                        84,
+                        533,
+                        784
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 38,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                305,
+                                84,
+                                533,
+                                127
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        84,
+                                        533,
+                                        127
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                84,
+                                                533,
+                                                127
+                                            ],
+                                            "type": "text",
+                                            "content": "21. Vesenjak-Hirjan J, Hrbar A, Vince-Ribaric V, Borcic B, Brudnjak Z. An outbreak of hemorrhagic fever with a renal syndrome in the Plitvice Lakes area (preliminary report). Folia Parasitol (Praha) 1971; 18: 275-279."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                127,
+                                533,
+                                159
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        127,
+                                        533,
+                                        159
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                127,
+                                                533,
+                                                159
+                                            ],
+                                            "type": "text",
+                                            "content": "22. Gligic A, Obravodovic M, Stojanovic R, et al. Epidemic hemorrhagic fever with renal syndrome in Yugoslavia, 1986. Am J Trop Med Hyg 1989; 41: 102-108."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                160,
+                                533,
+                                203
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        160,
+                                        533,
+                                        203
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                160,
+                                                533,
+                                                203
+                                            ],
+                                            "type": "text",
+                                            "content": "23. Gligic A, Stojanovic R, Obradovic M, et al. Hemorrhagic fever with renal syndrome in Yugoslavia: Epidemiologic and epizootiologic features of a nationwide outbreak in 1989. Eur J Epidemiol 1992; 8: 816-825."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                204,
+                                533,
+                                236
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        204,
+                                        533,
+                                        236
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                204,
+                                                533,
+                                                236
+                                            ],
+                                            "type": "text",
+                                            "content": "24. Avsic-Zupanc T, Cizman B, Gligic A, Hoofd G, van der Groen G. Evidence for hantavirus disease in Slovenia, Yugoslavia. Acta Virol 1989; 33: 327-337."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                237,
+                                533,
+                                279
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        237,
+                                        533,
+                                        279
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                237,
+                                                533,
+                                                279
+                                            ],
+                                            "type": "text",
+                                            "content": "25. Hukic M, Kurt A, Torstensson S, Lundkvist A, Wiger D, Niklasson B. Haemorrhagic fever with renal syndrome in north-east Bosnia. Lancet 1996; 347(8993): 56-57."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                281,
+                                533,
+                                346
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        281,
+                                        533,
+                                        346
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                281,
+                                                533,
+                                                346
+                                            ],
+                                            "type": "text",
+                                            "content": "26. Lundkvist A, Hukic M, Horling J, Gilljam M, Nichol S, Niklasson B. Puumala and Dobrava viruses cause haemorrhagic fever with renal syndrome (HFRS) in Bosnia-Herzegovina: Evidence of highly cross-neutralizing antibody responses in early patient sera. J Med Virol 1997; 53: 51-59."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                346,
+                                533,
+                                378
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        346,
+                                        533,
+                                        378
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                346,
+                                                533,
+                                                378
+                                            ],
+                                            "type": "text",
+                                            "content": "27. Lee HW, Antoniadis A. Serological evidence for Korean haemorrhagic fever in Greece. Lancet 1981; 1(8224): 832."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                379,
+                                533,
+                                412
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        379,
+                                        533,
+                                        412
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                379,
+                                                533,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": "28. Lee HW, Baek LJ, Johnson KM. Isolation of Hantaan virus, the etiologic agent of Korean hemorrhagic fever, from wild urban rats. J Infect Dis 1982; 146: 638-644."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                413,
+                                533,
+                                456
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        413,
+                                        533,
+                                        456
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                413,
+                                                533,
+                                                456
+                                            ],
+                                            "type": "text",
+                                            "content": "29. Antoniades A, Pyrpasopoulos M, Sion M, Daniel S, Peters CJ. Two cases of hemorrhagic fever with renal syndrome in northern Greece. J Infect Dis 1984; 149: 1011-1013."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                457,
+                                533,
+                                499
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        457,
+                                        533,
+                                        499
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                457,
+                                                533,
+                                                499
+                                            ],
+                                            "type": "text",
+                                            "content": "30. Antoniadis A, Le Duc JW, Acritidis N, Alexiou-Daniel S, Kyparissi A, Saviolakis GA. Hemorrhagic fever with renal syndrome in Greece: Clinical and laboratory characteristics. Rev Infect Dis 1989; 11: 5891-5896."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                500,
+                                533,
+                                543
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        500,
+                                        533,
+                                        543
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                500,
+                                                533,
+                                                543
+                                            ],
+                                            "type": "text",
+                                            "content": "31. Antoniadis A, Le Duc JW, Daniel-Alexiou S. Clinical and epidemiological aspects of hemorrhagic fever with renal syndrome (HFRS) in Greece. Eur J Epidemiol 1987; 3: 295-301."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                544,
+                                533,
+                                609
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        544,
+                                        533,
+                                        609
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                544,
+                                                533,
+                                                609
+                                            ],
+                                            "type": "text",
+                                            "content": "32. Avsic-Zupanc T. Hantaviruses and hemorrhagic fever with renal syndrome in the Balkans. In: Saluzzo JF, Dodet B (eds), Factors in the Emergence and Control of Rodent-borne Viral Diseases (Hantavirus and Arenal Diseases), Éditions scientifiques et Médicales Elsevier SAS, 1999: 93-98."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                610,
+                                533,
+                                642
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        610,
+                                        533,
+                                        642
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                610,
+                                                533,
+                                                642
+                                            ],
+                                            "type": "text",
+                                            "content": "33. Eboriadou M, Kalevrosoglou I, Varlamis G, Mitsiakos G, Papa A, Antoniadis A. Hantavirus nephropathy in a child. Nephrol Dial Transplant 1999; 14: 1040-1041."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                643,
+                                533,
+                                664
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        643,
+                                        533,
+                                        664
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                643,
+                                                533,
+                                                664
+                                            ],
+                                            "type": "text",
+                                            "content": "34. Papadimitriou MG, Antoniadis A. Hantavirus nephropathy in Greece. Lancet 1994; 343: 1038."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                665,
+                                533,
+                                697
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        665,
+                                        533,
+                                        697
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                665,
+                                                533,
+                                                697
+                                            ],
+                                            "type": "text",
+                                            "content": "35. Elisaf M, Antoniadis A, Siamopoulos K. Mild human infections of HFRS in northwestern Greece. J Virol Dis 1993; 1: 28-30."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                698,
+                                533,
+                                740
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        698,
+                                        533,
+                                        740
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                698,
+                                                533,
+                                                740
+                                            ],
+                                            "type": "text",
+                                            "content": "36. Siamopoulos KC, Elisaf M, Antoniadis A, Moutsopoulos HM. Hemorrhagic fever with renal syndrome in an endemic area of Greece. Am J Nephrol 1992; 12: 170-173."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                740,
+                                533,
+                                784
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        740,
+                                        533,
+                                        784
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                740,
+                                                533,
+                                                784
+                                            ],
+                                            "type": "text",
+                                            "content": "37. Antoniadis A, Stylianakis A, Papa A, et al. Direct genetic detection of Dobrava virus in Greek and Albanian patients with hemorrhagic fever with renal syndrome. J Infect Dis 1996; 174: 407-410."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        517,
+                        60,
+                        534,
+                        70
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                517,
+                                60,
+                                534,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        517,
+                                        60,
+                                        534,
+                                        70
+                                    ],
+                                    "type": "text",
+                                    "content": "193"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        59,
+                        84,
+                        289,
+                        412
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                59,
+                                84,
+                                289,
+                                116
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        84,
+                                        289,
+                                        116
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                59,
+                                                84,
+                                                289,
+                                                116
+                                            ],
+                                            "type": "text",
+                                            "content": "38. Papa A, Johnson AM, Stockton PC, et al. Retrospective serological and genetic study of the distribution of hantaviruses in Greece. J Med Virol 1998; 55: 321-327."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                117,
+                                289,
+                                149
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        117,
+                                        289,
+                                        149
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                117,
+                                                289,
+                                                149
+                                            ],
+                                            "type": "text",
+                                            "content": "39. Papa A, Spiropoulou C, Nichol S, Antoniadis A. Tracing Dobrava hantavirus infection. J Infect Dis 2000; 181: 2116-2117."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                150,
+                                287,
+                                192
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        150,
+                                        287,
+                                        192
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                150,
+                                                287,
+                                                192
+                                            ],
+                                            "type": "text",
+                                            "content": "40. Papa A, Mills JN, Kouidou S, Ma B, Papadimitriou E, Antoniadis A. Preliminary characterization and natural history of hantaviruses in rodents in northern Greece. Emerg Infect Dis 2000; 6: 654-655."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                194,
+                                288,
+                                225
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        194,
+                                        288,
+                                        225
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                194,
+                                                288,
+                                                225
+                                            ],
+                                            "type": "text",
+                                            "content": "41. Papa A, Pliakogiannis Th, Lundkvist A, Antoniadis A. First case of Puumala virus infection in Greece. Infection 2000; 28: 334-335."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                227,
+                                288,
+                                268
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        227,
+                                        288,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                227,
+                                                288,
+                                                268
+                                            ],
+                                            "type": "text",
+                                            "content": "42. Elisaf M, Stefanaki S, Repanti M, Korakis H, Tsianos E, Siamopoulos KC. Liver involvement in hemorrhagic fever with renal syndrome. J Clin Gastroenterol 1993; 17: 33-37."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                271,
+                                288,
+                                335
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        271,
+                                        288,
+                                        335
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                271,
+                                                288,
+                                                335
+                                            ],
+                                            "type": "text",
+                                            "content": "43. Plyusnin A, Vapalahti O, Lundkvist A, Henttonen H, Vaheri A. Hantaviruses in Europe: An overview. In: Saluzzo JF, Dodet B (eds), Factors in the Emergence and Control of Rodent-borne Viral Diseases (Hantavirus and Arenal Diseases). Éditions scientifiques et Médicales Elsevier SAS, 1999: 85-91."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                337,
+                                288,
+                                367
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        337,
+                                        288,
+                                        367
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                61,
+                                                337,
+                                                288,
+                                                367
+                                            ],
+                                            "type": "text",
+                                            "content": "44. Ondrias JC. The taxonomy and geographical distribution of the rodents of Greece. Sangetierkunkliche Mitteilungen 1966; 14 (Sonderheft): 1-136."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                370,
+                                288,
+                                412
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        370,
+                                        288,
+                                        412
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                370,
+                                                288,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": "45. LeDuc JW, Antoniades A, Siamopoulos K. Epidemiological investigations following an outbreak of hemorrhagic fever with renal syndrome in Greece. Am J Trop Med Hyg 1986; 35: 654-659."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        305,
+                        84,
+                        533,
+                        324
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 16,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                305,
+                                84,
+                                533,
+                                116
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        84,
+                                        533,
+                                        116
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                84,
+                                                533,
+                                                116
+                                            ],
+                                            "type": "text",
+                                            "content": "46. Vohralik V, Sofianidou Th. Small mammals (Insectivora, Rodentia) of Thrace, Greece. Acta Univ Carolinae - Biol 1992; 36: 341-369."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                118,
+                                533,
+                                170
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        118,
+                                        533,
+                                        170
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                118,
+                                                533,
+                                                170
+                                            ],
+                                            "type": "text",
+                                            "content": "47. Avsic-Zupanc T, Nemirov K, Petrovec M, et al. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: Co-existence of two distinct genetic lineages within the same natural focus. J Gen Virol 2000; 81: 1747-1755."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                172,
+                                533,
+                                213
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        172,
+                                        533,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                172,
+                                                533,
+                                                213
+                                            ],
+                                            "type": "text",
+                                            "content": "48. Avsic-Zupanc T, Xiao S-Y, Gligic A, van der Groen G, LeDuc JW. Characterization of Dobrava virus: A hantavirus from Slovenia. J Med Virol 1992; 38: 132-137."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                216,
+                                533,
+                                257
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        216,
+                                        533,
+                                        257
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                216,
+                                                533,
+                                                257
+                                            ],
+                                            "type": "text",
+                                            "content": "49. Gligic A, Dimkovic N, Xiao SY, et al. Belgrade virus: A new hantavirus causing severe hemorrhagic fever with renal syndrome in Yugoslavia. J Infect Dis 1992; 166: 113-120."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                260,
+                                533,
+                                301
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        260,
+                                        533,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                260,
+                                                533,
+                                                301
+                                            ],
+                                            "type": "text",
+                                            "content": "50. Taller AM, Xiao SY, Godec MS, et al. Belgrade virus, a cause of hemorrhagic fever with renal syndrome in the Balkans, is closely related to Dobrava virus of field mice. J Infect Dis 1993; 168: 750-753."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                305,
+                                303,
+                                533,
+                                324
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        303,
+                                        533,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                305,
+                                                303,
+                                                533,
+                                                324
+                                            ],
+                                            "type": "text",
+                                            "content": "51. Felsenstein J. PHYLIP (Phylogeny Inference Package), version 3.5c, 1993."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        305,
+                        357,
+                        534,
+                        389
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                357,
+                                534,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        357,
+                                        534,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "Address for correspondence: Dr Anna Papa, Department of Microbiology, School of Medicine, Aristotelian University of Thessaloniki, 54006 Thessaloniki, Greece"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        305,
+                        391,
+                        481,
+                        399
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                391,
+                                481,
+                                399
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        391,
+                                        481,
+                                        399
+                                    ],
+                                    "type": "text",
+                                    "content": "Phone: +30-31-999159; Fax: +30-31-999149"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        305,
+                        402,
+                        417,
+                        411
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                305,
+                                402,
+                                417,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        305,
+                                        402,
+                                        417,
+                                        411
+                                    ],
+                                    "type": "text",
+                                    "content": "E-mail: annap@med.auth.gr"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        60,
+                        76,
+                        69
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                60,
+                                76,
+                                69
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        60,
+                                        76,
+                                        69
+                                    ],
+                                    "type": "text",
+                                    "content": "194"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 5
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.6"
+}

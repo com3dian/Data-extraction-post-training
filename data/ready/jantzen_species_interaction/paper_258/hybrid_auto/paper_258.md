@@ -1,0 +1,154 @@
+Original article
+
+# Molecular examinations of Babesia microti in rodents and rodent-attached ticks from urban and sylvatic habitats in Germany
+
+Anna Obiegala a,b,∗, Martin Pfeffer b, Kurt Pfister a, Carolin Karnath b, Cornelia Silaghi a,c
+
+a Comparative Tropical Medicine and Parasitology, Ludwig-Maximilians-Universität München, Leopoldstraße 5, 80802 Munich, Germany   
+b Institute of Animal Hygiene and Veterinary Public Health, University of Leipzig, An den Tierkliniken 1, 04103 Leipzig, Germany   
+c Institute of Parasitology, National Reference Center for Vector Entomology, Vetsuisse Faculty, University of Zürich, Winterthurerstrasse 266a, 8057 Zurich, Switzerland
+
+# a r t i c l e i n f o
+
+Article history:
+
+Received 7 January 2015
+
+Received in revised form 2 March 2015
+
+Accepted 3 March 2015
+
+Available online xxx
+
+Keywords:
+
+Tick-borne pathogen
+
+Babesia microti
+
+Ixodes ricinus
+
+Ixodes trianguliceps
+
+Rodent
+
+# a b s t r a c t
+
+Small mammals serve as reservoir hosts for tick-borne pathogens, especially for those which are not transmitted transovarially in ticks – such as Babesia microti. Molecular investigations on the prevalence of B. microti in wild small mammals and on attached ticks from differently structured areas may provide information on the circulation of B. microti in different ecological niches. In 2012 and 2013, 622 rodents (396 Myodes glareolus, 178 Apodemus flavicollis, 36 Apodemus sylvaticus, 4 Apodemus agrarius, 7 Microtus arvalis, 1 Microtus agrestis) were captured from three differently structured habitats (urban, sylvatic, recultivated) in Germany. Attached ticks were collected from 449 small mammals (3250 Ixodes ricinus, 7 Ixodes trianguliceps, 133 Dermacentor reticulatus). A representative selection of a maximum of 5 ticks per developmental stage and species per 30 rodents of each species, location and year resulting in 965 ticks was further investigated. DNA was extracted from tick, blood and spleen samples, and tested by PCR for the partial 18S rRNA gene of B. microti with subsequent sequencing. The prevalence was significantly higher in rodents from the sylvatic site $( 4 . 6 \% )$ than in rodents captured at both other sites $( - 0 . 6 \% )$ $\textstyle ( \chi ^ { 2 } = 1 1 . 9 5$ ; $p { = } 0 . 0 0 1 2 5 \mathrm { { . } }$ ). Body and spleen weight of infected M. glareolus from the sylvatic site were significantly higher compared to those from non-infected individuals from that site $\cdot \cdot p = 0 . 0 0 2 8 8$ and $p { = } 0 . 0 0 0 1 7$ , respectively). Babesia microti DNA was detected in 3 out of 965 attached ticks $0 . 3 \%$ ; $9 5 \% C \mathrm { I }$ : 0–1) from all sites, but they derived exclusively from rodents captured at the sylvatic site. At the same site, I. ricinus nymphs $( 7 . 7 \%$ ; $9 5 \% C \mathrm { I }$ : 1–25.3) were significantly more often infected than I. ricinus larvae $0 \%$ ; $9 5 \% C \mathrm { I }$ : $0 { - } 1 . 3 ) ( \chi ^ { 2 } = 2 6 . 7 2$ ; $p { < } 0 . 0 0 0 1$ ). The majority of positive rodents was also found at that site. I. trianguliceps occurred exclusively and the majority of M. glareolus at that site. Thus, it may be assumed that the circulation of B. microti is more efficient where this tick species and voles exist sympatrically than in areas with a predominant occurrence of Apodemus species.
+
+$^ { © }$ 2015 Elsevier GmbH. All rights reserved.
+
+# Introduction
+
+Small mammals serve as hosts for ixodid ticks. Microtine voles have been discussed as reservoir hosts for the intraerythrocytic protozoan Babesia microti (phylum Apicomplexa, order Piroplasmida) (Gray et al., 2002). It was first described in a vole
+
+near Lisbon in 1910 as Smithia microtia (Microtus incertus, now Microtus arvalis subspecies incertus, the common vole (Walter, 1981). Babesia microti has since been detected in small mammals, humans and hard ticks from Europe and the USA (Kogut et al., 2005; Hildebrandt et al., 2007; Silaghi et al., 2012; Hersh et al., 2012). Human babesiosis caused by B. microti displays subclinical to fatal malaria-like symptoms. It primarily occurs in the USA (Vannier and Krause, 2012). In Europe however, severe cases of human babesiosis have mainly been caused by Babesia divergens-like parasites in immunocompromised patients, but cases have also been reported in immunocompetent patients (Hildebrandt et al., 2013; Mathis et al., 2006; Martinot et al., 2011). Transplacental transmission and transmission via tick bites have been described before (Vannier and Krause, 2009). However the first and so far only autochthonous human case caused by B. microti in Europe was transmitted by
+
+blood transfusion (Hildebrandt et al., 2007). While transovarial transmission in ticks was confirmed for B. divergens and other Babesia species, experimentations have failed to demonstrate transovarial transmission for B. microti . Therefore mammalian hosts are essential for its maintenance in natural transmission cycles (Gray et al., 2002). As information on the enzootic life cycle of B. microti is still incomplete, the objectives of this study were to detect and compare B. microti prevalences in wild rodents and attached ticks as well as to assess their role in the circulation of this protozoan at ecologically different habitats in Germany.
+
+# Material and methods
+
+# Collection of wildlife samples
+
+In 2012 and 2013 small mammals were captured at three differently structured sites in Germany. The urban site “R” (7.4 ha, $4 9 ^ { \circ } 0 0 ^ { \prime } 5 5 . 7 2 ^ { \prime \prime } \mathrm { N }$ , $1 2 ^ { \circ } 0 5 ^ { \prime } 0 8 . 8 9 ^ { \prime \prime } \mathrm { E } )$ ) is a small park near the city center of Regensburg. It is surrounded by walls and high traffic roads. The park is highly frequented by visitors. Large wild animals are absent. Sylvatic site “T” (641 ha, $4 8 ^ { \circ } 0 6 ^ { \prime } 3 6 . 4 2 ^ { \prime \prime } \mathrm { N }$ , $1 0 ^ { \circ } 3 4 ^ { \prime } 3 3 . 4 0 ^ { \prime \prime } \mathrm { E }$ ), located near Tussenhausen in Bavaria, is a large forest area (641 ha). This mixed forest is dominated by beeches, oaks and spruces. Different wild animal species are present and the anthropogenic influence is low. Forestry is not cultivated extensively. Therefore, there is little to no interaction between wild and domestic animals and humans (Forstdirektion Oberbayern). The recultivated site “S” is subdivided in three locations $( 5 1 ^ { \circ } 1 5 ^ { \prime } 3 2 . 2 ^ { \prime \prime } \mathrm { N } ,$ , $1 2 ^ { \circ } 2 1 ^ { \prime } 0 2 . 5 ^ { \prime \prime } \mathrm { E }$ , $5 1 ^ { \circ } 1 7 ^ { \prime } 0 1 . 3 ^ { \prime \prime } \mathrm { N }$ , $1 2 ^ { \circ } 2 1 ^ { \prime } 0 0 . 6 ^ { \prime \prime }$ E, $5 1 ^ { \circ } 2 6 ^ { \prime } 9 7 . 2 ^ { \prime \prime } \mathrm { N }$ , $1 2 ^ { \circ } 3 2 ^ { \prime } 2 5 . 6 ^ { \prime \prime } \mathrm { E }$ ), formerly described as site E-G, which surround an artificially created lake “Lake Cospuden”, near Leipzig, Saxony (Silaghi et al., 2012). The lake belongs to a recultivated area, which was created out of a former brown coal mining area. Today, the surroundings of this lake are of public health interest as it is the largest recreational area near Leipzig (http://www.leipzigerneuseenland.de/). Bushes and trees less than 20 years old characterize this site. Nevertheless a high diversity of large and small wild mammals is present. Details of the investigated sites have been described previously (Silaghi et al., 2012; Obiegala et al., 2014; Overzier et al., 2013). Small mammals were trapped using Sherman© live animal traps (H. B. Sherman Traps, Inc., Tallahassee, Fla. U.S.A.) (official permit Site R1: 55.1-8646.4- 140, Site T: 55.1-8646-2/30, Site S: AZ 36.11-36.45.12/4/12-001). Traps, baited with apple slices, were placed for at least two consecutive nights per month and site and were checked twice a day. Collected animals were anaesthetized with ${ \mathsf { C O } } _ { 2 }$ and then euthanized by cervical dislocation. Blood was taken by heart puncture. Animals were sexed, weighed and necropsy was performed to obtain spleen samples. All small mammals were identified by the use of taxonomic keys (Stresemann, 1989). Further, a conventional PCR targeting the cytochrome b gene (Parson et al., 2000) yielding an amplicon of 354 base pairs was performed to verify morphological identification for a randomly selected number of 69 individuals as described (Obiegala et al., 2014).
+
+# DNA extraction and PCR analysis
+
+DNA was extracted from ticks, blood and spleen samples from small mammals with the Maxwell® 16 LEV blood DNA kit (Promega GmbH, Mannheim, Germany) and the corresponding Maxwell® 16 System (Promega GmbH) as described (Obiegala et al., 2014). PCR amplification of an 18S rRNA Babesia gene fragment (411–452 bp) was performed using a previously published PCR protocol (Casati et al., 2006) with modifications as described (Schorn et al., 2011). Amplicons were detected by agarose gel electrophoresis and purified with the Qiaquick PCR purification kit (Qiagen, Hilden,
+
+Germany) for sequencing at Eurofins MWG Operon, Ebersberg, Germany. Sequencing was performed with forward and reverse primers used for PCR amplification. Sequences were analyzed with the Chromas Lite program (Technelysium Pty Ltd., South Brisbane, Australia) and aligned to available sequences in the GenBank with BLASTn (National Center for Biotechnology Information, Bethesda MD, USA) (Schorn et al., 2011).
+
+# Statistical analysis
+
+Graph Pad Software (Graph Pad Software, Inc., San Diego, CA, USA) was used for the calculation of confidence intervals $( \mathrm { C I } 9 5 \% )$ b of prevalence rates with the Clopper and Pearson method. Pearson’s Chi-squared test with a type I error $\alpha$ of 0.05 and Fisher’s exact test for the comparison of sample sizes $< 5$ were used to compare B. microti prevalences. Comparisons of multiple values were adjusted with the Bonferroni correction. To compare body and spleen weight of infected and non-infected M. glareolus at the sylvatic site the one-tailed Wilcoxon–Mann–Whitney-Test with $\alpha = 2 . 5$ was used. Results with $p$ values ${ < } 0 . 0 5$ were considered to be positive.
+
+# Results
+
+# Collection of wildlife samples
+
+Altogether 622 rodents of six species (4 Apodemus agrarius, 36 A. sylvaticus, 178 A. flavicollis, 7 Microtus arvalis, 1 Mi. agrestis, 396 M. glareolus) were collected. From these animals 443 blood and 585 spleen samples were available for further examination (Table 1). Altogether 3391 ticks of three species (7 Ixodes trianguliceps, 3250 I. ricinus, 133 Dermacentor reticulatus) were collected from 449 of the 622 small mammals. Altogether $9 2 . 1 \%$ of all collected ticks were larvae. Nymphs were exclusively collected from M. glareolus and A. flavicollis. Tick infestation rates ranged from 1 to 112 ticks with a mean infestation of 8 ticks and a median infestation of 16 ticks per small mammal. For M. glareolus the mean infestation rate was 4 ticks and the median infestation was 6 ticks. The mean infestation on A. flavicollis was 10 ticks per mouse and the median infestation was 23 per mouse. For A. sylvaticus the mean infestation rate was 4 ticks and the median infestation was 9. I. trianguliceps ticks were found on M. glareolus and A. flavicollis exclusively in the sylvatic site T. A total of $9 8 . 5 \%$ of all D. reticulatus ticks were collected from M. glareolus and only $1 . 5 \%$ from A. flavicollis. All D. reticulatus were found at the recultivated site S. According to the availability of different rodent and tick species, 5 ticks per tick stage and species of 30 individuals of each rodent species were selected per year and site. This resulted in 965 ticks from 186 rodents for further analysis (Table 2).
+
+# Babesia spp. detection and sequence analysis
+
+In total 13 out of 622 $2 . 1 \%$ ; $9 5 \% \mathrm { C I }$ : 1.2–3.6) small mammals were positive for B. microti. Of those, 11 rodents were from site T $4 . 6 \%$ ; $9 5 \% \mathrm { C I }$ : 2.5–8.2), two from site S $0 . 6 \%$ ; $9 5 \% C \mathrm { I }$ : 0–2.2) and none from site R1 (Table 1). The prevalence for B. microti was significantly higher at site T than at site R1 and site S $\textstyle ( \chi ^ { 2 } = 1 1 . 9 5$ ; $p { = } 0 . 0 0 1 2 5 $ ). At site T, M. glareolus $. 7 . 2 \%$ ; 95%CI: 3.8–12.9) were significantly more often infected than A. flavicollis $1 \%$ ; $9 5 \% C \mathrm { I }$ : 0–6) $( \chi ^ { 2 } = 5 . 0 3$ ; $\begin{array} { r }  p = 0 . 0 2 5 \ \end{array}$ ). Body and spleen weight was significantly higher in infected ${ \bf \dot { \zeta } } n _ { 1 } = 1 0 { \bf \dot { \zeta } } ,$ than in non-infected M. glareolus ${ \bf \dot { \zeta } } n _ { 2 } = 2 2 9 ,$ from site T $U { = } 9 7 6$ ; $p { = } 0 . 0 0 2 8 8$ ; respectively for the spleen weight: $U { = } 1 0 8 4 . 5$ ; $p { < } 0 . 0 0 1$ ) (Fig. 1). The ratio between body and spleen weight was 242:1 for non-infected and 48:1 for infected M. glareolus. The infestation rate of ticks on infected rodents ranged from 0 to 29. Altogether, 3 out of 965 $0 . 3 \%$ ; $9 5 \% C \mathrm { I }$ : 0–1) attached ticks were positive for B. microti (Table 2). These
+
+Table 1 Prevalences of Babesia microti in spleen and/or blood samples from small mammals per site and year, detected by PCR.   
+
+<table><tr><td rowspan="3">Mammal species</td><td colspan="6">Number of mammals positive for Babesia microti (%)</td><td rowspan="3">Total</td></tr><tr><td colspan="2">Site S</td><td colspan="2">Site T</td><td colspan="2">Site R1</td></tr><tr><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td></tr><tr><td>Myodes glareolus</td><td>1/229 (0.004)</td><td>0/28 (0)</td><td>7/131 (5.3)</td><td>3/8 (37.5)</td><td>-</td><td>-</td><td>11/396 (0.03)</td></tr><tr><td>Apodemus sylvaticus</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/22 (0)</td><td>0/14 (0)</td><td>0/36 (0)</td></tr><tr><td>Apodemus agrarius</td><td>0/4 (0)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/4 (0)</td></tr><tr><td>Apodemus flavicollis</td><td>0/57 (0)</td><td>0/22 (0)</td><td>1/84 (1.2)</td><td>0/15 (0)</td><td>-</td><td>-</td><td>1/178 (0.01)</td></tr><tr><td>Microtus arvalis</td><td>1/7 (14.3)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1/7 (14.3)</td></tr><tr><td>Microtus agrestis</td><td>0/1 (0)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1 (0)</td></tr><tr><td rowspan="2">Total</td><td>2/298 (0.01)</td><td>0/50 (0)</td><td>8/215 (3.7)</td><td>3/23 (13.4)</td><td>0/22 (0)</td><td>0/14 (0)</td><td>13/622</td></tr><tr><td>2/348 (0.6)</td><td></td><td>11/238 (4.6)*</td><td></td><td>0/36 (0%)</td><td></td><td>(0.02)</td></tr></table>
+
+Statistically significantly higher value $\scriptstyle ( \chi ^ { 2 } = 1 2 . 1 3 9 8$ ; $p { = } 0 . 0 0 0 5$ ) compared to the other sites in combined years 2012 and 2013, tested by the Chi-square test $\textstyle ( \alpha = 0 . 0 5$ ) and the Bonferroni correction for multiple values
+
+ticks originated from site T $0 . 7 9 \%$ ; $9 5 \% \mathrm { C I }$ : 0.2–2.4) (2 I. ricinus nymphs, 1 I. trianguliceps nymph) and two of them (1 I. ricinus, 1 I. trianguliceps) were collected from B. microti-positive rodents (Table 2). All nymphs $( n = 2 )$ collected from infected rodents were positive for B. microti however none of the larvae collected from infected rodents was positive $( n = 8 9 )$ ). Dermacentor reticulatus ticks, regardless whether larvae or nymphs $0 \%$ ; 95%CI: 0–10.4) were negative for B. microti. Altogether, 16 B. microti sequences were obtained from 13 rodents, as 3 of those were positive in both blood and spleen. Three sequences were obtained from rodent-attached ticks. All sequences were $1 0 0 \%$ identical to short sequences of the pathogenic B. microti Jena/Germany genotype (GenBank accession no. JQ880658.1, JX6273569.1). This does not mean that the sequenced parasites from this study are necessarily pathogenic. Obtained sequences were deposited in GenBank under the following accession numbers: KP055632–KP055650.
+
+# Discussion
+
+The prevalence of B. microti in small mammals from Slovenia, Great Britain, Poland and Germany ranged between $1 . 6 \%$ and $4 2 \%$ (Duh et al., 2003; Bown et al., 2008; Karbowiak, 2004; Pawelczyk et al., 2004; Silaghi et al., 2012). Our findings are in line with the lower range of these previous observations $( 2 . 1 \% )$ . In Mi. agrestis, a former study showed a prevalence of B. microti infection $( 9 \% )$ comparable to our findings for this rodent species $( 1 4 . 3 \% )$ (Pawelczyk et al., 2004). Mi. agrestis and M. glareolus (family Cricetidae) have been discussed as main reservoirs for B. microti (Bown et al., 2008). Splenomegaly and a related higher body weight were observed
+
+for B. microti-infected M. glareolus compared to non-infected ones at site T. This result may be explained by the B. microti infection which causes splenomegaly in small mammals (Welc-Faleciak et al., 2007). Beck et al. (2011) and Duh et al. (2003) found A. flavicollis positive for B. microti in a high percentage $( 1 1 . 8 \mathrm { - } 1 6 . 2 \% )$ , the prevalence for this rodent species was very low in our study $( 0 . 0 1 \% )$ . Furthermore, other Apodemus species such as Apodemus sylvaticus and A. agrarius were negative for B. microti in those previous studies. This is in line with our findings in these two species and supports the hypothesis that mice of the species A. agrarius and A. sylvaticus are subordinately involved in the natural life cycle of B. microti. Additionally, I. trianguliceps ticks, adapted to voles (Bown et al., 2008) and present at sylvatic areas (Bown et al., 2003), have been pointed out as the main vector for B. microti among rodents and shrews (Nefedova et al., 2013; Randolph, 1995). Significantly more positive rodents were found at the sylvatic site T than at the recultivated (S) and urban site (R1). In this context, one out of seven I. trianguliceps ticks originating exclusively from the sylvatic site, where also the majority of positive voles was found, was positive for B. microti. The prevalence rates in I. ricinus ticks from the present study are comparable to the lower prevalence $( 0 . 0 0 3 \substack { - 1 0 . 1 \% } )$ from other European countries such as Slovenia, the Netherlands, France, Belgium and Switzerland (Foppa et al., 2002; Lempereur et al., 2011; Bonnet et al., 2014; Duh et al., 2001; Wielinga et al., 2009). All three positive ticks (nymphs) were attached to rodents captured at the sylvatic site T. No transovarial transmission for B. microti in ticks was described before which may explain that none of the 846 analyzed larvae, regardless of the tick species, was positive (Homer et al., 2000). At site T, two out of three B. microti-positive nymphs (1
+
+Table 2 Developmental stage and sex of attached ticks per species and per location collected from small mammals captured in 2012 and 2013 from three sites S1, T2, R13, and number of B. microti positive ticks in a selected number of investigated ticks.   
+
+<table><tr><td rowspan="3">Tick species</td><td colspan="7">Number of collected ticks (number of B. microti positive ticks/number of investigated ticks)</td><td rowspan="3">Total ticks per species</td></tr><tr><td colspan="2">\( Site S^a \)</td><td colspan="3">\( Site T^b \)</td><td colspan="2">\( Site R1^c \)</td></tr><tr><td>Nymphs</td><td>Larvae</td><td>\( Adult^d \)</td><td>Nymphs</td><td>Larvae</td><td>Nymphs</td><td>Larvae</td></tr><tr><td>I. ricinus</td><td>180 (0/73)</td><td>1740 (0/377)</td><td>-</td><td>44 (2\(^h\)/22)</td><td>1132 (0/352)</td><td>3 (0/3)</td><td>151 (0/91)</td><td>3250 (2/918)</td></tr><tr><td>I. trianguliceps</td><td>-</td><td>-</td><td>1 (0/1)</td><td>5 (1\(^l\)/5)</td><td>2 (0/1)</td><td>-</td><td>-</td><td>8 (1/7)</td></tr><tr><td>D. reticulatus</td><td>35 (0/15)</td><td>98 (0/25)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>133 (0/40)</td></tr><tr><td>Total</td><td>\( 2053 (0/490^e) \)</td><td></td><td>\( 1184 (3/381^f) \)</td><td></td><td></td><td>\( 154 (0/94^g) \)</td><td></td><td>3391 (3/965)</td></tr></table>
+
+a Recultivated site.   
+b Sylvatic site.   
+c Urban site.   
+d Female tick from site T.   
+e Number of ticks selected from 77 rodents.   
+f Number of ticks selected from 79 rodents.   
+g Number of ticks selected from 30 rodents.   
+h One of those was collected from an infected Myodes glareolus.   
+i Collected from an infected M. glareolus.
+
+![](images/206f43ac787f8a4f43e685b8644dee11182fd2d16621bc960a5d253c2eea6c63.jpg)
+
+![](images/c6443a68d68d0264b4d004825f230a5bc47d425f22781882fe723dab220c4e7a.jpg)  
+Fig. 1. Box plots of body (a) and spleen weights (b) from Myodes glareolus from site T, which were PCR negative $_ { \cdot n = 1 2 9 }$ ; number of female $= 7 1$ ; number of males $= 5 8$ ) or positive $_ { , n = 1 0 }$ ; number of females $= 4$ ; number of males $= 6$ ) for Babesia microti.
+
+I. ricinus, 1 I. trianguliceps) derived from B. microti-positive rodents. This result underlines particularly the potential reservoir role of M. glareolus for B. microti in sylvatic habitats. However none of 89 larvae deriving from positive rodents was positive for B. microti. The infection rates of fully engorged larvae deriving from infected rodents, is higher than of larvae which are less engorged (Homer et al., 2000). None of the larvae in this study detached naturally which could be an explanation for this result. Moreover, 5 rodents were solely positive in spleen and not in blood. According to our results and to those from former studies (Wójcik-Fatla et al., 2012), I. ricinus may serve as a bridge vector (Silaghi et al., 2012; Overzier et al., 2013). On the contrary, we cannot confirm that D. reticulatus ticks may serve as bridge vectors for B. microti even though its role has also been discussed before (Wójcik-Fatla et al., 2012). The sequences obtained from both ticks and rodents all showed a $1 0 0 \%$ identity to each other and to sequences deposited under following GenBank accession no.: JQ880658.1, JX6273569.1. This sequence belongs to the pathogenic B. microti Jena/Germany genotype which was published in the context of the first autochthonous human babesiosis case in Europe (Hildebrandt et al., 2007). The existence of reservoir hosts and bridge vector ticks infected with this particular strain may constitute a risk to human health at the
+
+investigated sylvatic site, even though only one human case has been reported in Europe thus far.
+
+The life cycle of B. microti seems adapted to an environment with sympatric existence of voles and I. trianguliceps ticks. Besides, according to our results, Apodemus species seem of secondary importance in the transmission of B. microti.
+
+# Acknowledgments
+
+Authors wish to thank Claudia Thiel, Tim Tiedemann and Sarah Wagner for excellent technical assistance. Furthermore, the authors thank Anneliese Balling, Dietlinde Woll, Uwe Birett, Rayan Ababneh, Jennifer Krieg, Daniela Sum, Tessa Foerster, Franziska Eller and Claudia Kehler for their help in rodent trapping and necropsies, as well as Alexander Mathis for comments on the manuscript. This study was partially funded by EU grant FP7-261504 EDENext and is cataloged by the EDENext Steering Committee as EDENext 281 (http://www.edenext.eu/). The contents of this publication are the sole responsibility of the authors and do not necessarily reflect the views of the European Commission. A part of the study was performed on behalf of the Federal Environment Agency of Germany within the UFOPLAN (FKZ 371148402) and financed by the Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety. The work of AO, MP, CS and KP was done under the frame of EurNegVec COST Action TD1303.
+
+# References
+
+Beck, R., Vojta, L., Curkovi´ c,´ S., Mrljak, V., Margaletic,´ J., Habrun, B., 2011. Molecular survey of Babesia microti in wild rodents in Central Croatia. Vector Borne Zoonotic Dis. 11, 81–83.   
+Bonnet, S., Michelet, L., Moutailler, S., Cheva, J., Hébert, C., Vayssier-Taussat, M., Eloit, M., 2014. Identification of parasitic communities within European ticks using next-generation sequencing. PLoS. Negl. Trop. Dis. 8, e2753.   
+Bown, K.J., Begon, M., Bennett, M., Woldehiwet, Z., Ogden, N.H., 2003. Seasonal dynamics of Anaplasma phagocytophila in a rodent-tick (Ixodes trianguliceps) system, United Kingdom. Emerg. Infect. Dis. 9, 63–70.   
+Bown, K.J., Lambin, X., Telford, G.R., Ogden, N.H., Telfer, S., Woldehiwet, Z., Birtles, R.J., 2008. Relative importance of Ixodes ricinus and Ixodes trianguliceps as vectors for Anaplasma phagocytophilum and Babesia microti in field vole (Microtus agrestis) populations. Appl. Environ. Microbiol. 74, 7118–7125.   
+Casati, S., Sager, H., Gern, L., Piffaretti, J.C., 2006. Presence of potentially pathogenic Babesia sp. for human in Ixodes ricinus in Switzerland. Ann. Agric. Environ. Med. 13, 65–70.   
+Duh, D., Petrovec, M., Avsic-Zupanc,ˇ T., 2001. Diversity of Babesia infecting European sheep ticks (Ixodes ricinus). J. Clin. Microbiol. 39, 3395–3397.   
+Duh, D., Petrovec, M., Trilar, T., Avsic-Zupanc,ˇ T., 2003. The molecular evidence of Babesia microti infection in small mammals collected in Slovenia. Parasitology 126, 113–117.   
+Foppa, I.M., Krause, P.J., Goethert, H., Gern, L., Brand, B., Telfort III, S.R., 2002. Entomologic and serologic evidence of zoonotic transmission of Babesia microti, eastern Switzerland. Emerg. Infect. Dis. 8, 722–726.   
+Gray, J., von Stedingk, L.V., Gürtelschmid, M., Granström, M., 2002. Transmission studies of Babesia microti in Ixodes ricinus ticks and gerbils. J. Clin. Microbiol. 40, 1259–1263.   
+Hersh, M.H., Tibbetts, M., Strauss, M., Ostfeld, R.S., Keesing, F., 2012. Reservoir competence of wildlife host species for Babesia microti. Emerg. Infect. Dis. 18, 1951–1957.   
+Hildebrandt, A., Hunfeld, K.P., Baier, M., Krumbholz, A., Sachse, S., Lorenzen, T., Kiehntopf, M., Fricke, H.J., Straube, E., 2007. First confirmed autochthonous case of human Babesia microti infection in Europe. Eur. J. Clin. Microbiol. Infect. Dis. 26, 595–601.   
+Hildebrandt, A., Gray, J.S., Hunfeld, K.P., 2013. Human babesiosis in Europe: what clinicals need to know. Infection 41, 1057–1072.   
+Homer, M.J., Aguilar-Delfin, I., Telford III, S.R., Krause, P.J., Persing, D.H., 2000. Babesiosis. Clin. Microbiol. Rev. 13, 451–469.   
+Karbowiak, G., 2004. Zoonotic reservoir of Babesia microti in Poland. Pol. J. Microbiol. 53, 61–65.   
+Kogut, S.J., Thill, C.D., Prusinski, M.A., Lee, J.H., Backerson, P.B., Coleman, J.L., Anand, M., White, D.J., 2005. Babesia microti, Upstate New York. Emerg. Infect. Dis. 11, 476–478.   
+Lempereur, L., De Cat, A., Caron, Y., Madder, M., Claerebout, E., Saegerman, C., Losson, B., 2011. First molecular evidence of potentially zoonotic Babesia microti and Babesia sp. EU1 in Ixodes ricinus ticks in Belgium. Vector Borne Zoonotic Dis. 11, 125–130.
+
+Martinot, M., Zadeh, M.M., Hansmann, Y., Grawey, I., Christmann, D., Aguillon, S., Jouglin, M., Chauvin, A., De, D., Briel, 2011. Babesiosis in immunocompetent patients, Europe. Emerg. Infect. Dis. 17, 114–116.   
+Mathis, A., Hilpertshauser, H., Deplazes, P., 2006. Piroplasms of ruminants in Switzerland and zoonotic significance of Babesia. Schweiz Arch. Tierheilkd. 148, 151–159.   
+Nefedova, V.V., Korenberg, E., Kovalevski Yu, V., Samokhvalov, M.V., Gorelova, N.B., 2013. The role of Ixodes trianguliceps tick larvae in circulation of Babesia microti in the Middle Urals. Entomol. Rev. 93, 258–266.   
+Obiegala, A., Pfeffer, M., Pfister, K., Tiedemann, T., Thiel, C., Balling, A., Karnath, C., Woll, D., Silaghi, C., 2014. Candidatus Neoehrlichia mikurensis and Anaplasma phagocytophilum: prevalences and investigations on a new transmission path in small mammals and ixodid ticks. Parasit. Vectors 12, 563.   
+Overzier, E., Pfister, K., Thiel, C., Herb, I., Mahling, M., Silaghi, C., 2013. Diversity of Babesia and Rickettsia Species in questing Ixodes ricinus: a longitudinal study in urban, pasture and natural habitats. Vector Borne Zoonotic Dis. 13, 559–564.   
+Parson, W., Pegoraro, K., Niederstätter, H., Föger, M., Steinlechner, M., 2000. Species identification by means of the cytochrome b gene. Int. J. Legal Med. 114, 23–28.   
+Pawelczyk, A., Bajer, A., Behnke, J.M., Gilbert, F.S., Sinski, ´ E., 2004. Factors affecting the component community structure of haemoparasites in common voles (Microtus arvalis) from the Mazury Lake district region in Poland. Parasitol. Res. 92, 270–284.   
+Randolph, S.E., 1995. Quantifying parameters in the transmission of Babesia microti by the tick Ixodes trianguliceps amongst voles (Clethrionomys glareolus). Parasitology 110, 287–295.
+
+Schorn, S., Pfister, K., Reulen, H., Mahling, M., Silaghi, C., 2011. Occurrence of Babesia spp., Rickettsia spp. and Bartonella spp. in Ixodes ricinus in Bavarian public parks, Germany. Parasites Vectors 4, 135.   
+Silaghi, C., Woll, D., Hamel, D., Pfister, K., Mahling, M., Pfeffer, M., 2012. Babesia spp. and Anaplasma phagocytophilum in questing ticks, ticks parasitizing rodents and the parasitized rodents – analyzing the host pathogen–vector interface in a metropolitan area. Parasites Vectors 5, 191.   
+Stresemann, E., 1989. Exkursionsfauna von Deutschland, Wirbeltiere, vol. 3. Spektrum Akademischer Verlag, Gustav Fischer, Heidelberg.   
+Vannier, E., Krause, P.J., 2009. Update on Babesiosis. Interdiscip. Perspect. Infect. Dis., Article ID 98456.   
+Vannier, E., Krause, P.J., 2012. Human babesiosis. N. Engl. J. Med. 366, 2397–2407.   
+Walter, G., 1981. Isolierung von Babesia microti (Franca 1912) aus freilebenden Nymphen von Ixodes ricinus (Linnaeus 1758). Acta Trop. 38, 187– 188.   
+Welc-Faleciak, R., Bajer, A., Bednarkska, M., Paziewska, A., Sinski, ´ E., 2007. Long term monitoring of Babesia microti infection in BALB/c mice using nested PCR. Ann. Agric. Environ. Med. 14, 287–290.   
+Wielinga, P.R., Fonville, M., Sprong, H., 2009. Persistent detection of Babesia EU1 and Babesia microti in Ixodes ricinus in the Netherlands during a 5-year surveillance: 2003–2007. Vector Borne Zoonotic Dis. 9, 119–122.   
+Wójcik-Fatla, A., Bartosik, K., Buczek, A., Dutkiewicz, J., 2012. Babesia microti in adult Dermacentor reticulatus ticks from Eastern Poland. Vector Borne Zoonotic Dis 12, 841–843.

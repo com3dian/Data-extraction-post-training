@@ -1,0 +1,3124 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        52,
+                        72,
+                        440,
+                        100
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                72,
+                                440,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        72,
+                                        440,
+                                        100
+                                    ],
+                                    "type": "text",
+                                    "content": "Cocirculation of Two Orthohantavirus Species in Small Mammals of the Northwestern Ukraine"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        52,
+                        112,
+                        448,
+                        168
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                112,
+                                448,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Iryna V. Demchyshyna,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " Gregory E. Glass,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{3}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " Oleksandra A. Hluzd,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " Vira V. Kutseva,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " Mariah K. Taylor,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " Evan P. Williams,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " Volodymyr Kurpita,"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": " and Colleen B. Jonsson"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{2,4}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Department of Virology, State Institution Public Health Center of the Ministry of Health of Ukraine, Yaroslavska Street, 41, Kyiv, Ukraine 04071; "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Department of Microbiology, Immunology and Biochemistry, The University of Tennessee Health Science Center, 858 Madison Avenue, Memphis, Tennessee, USA 38163; "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{3}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Emerging Pathogens Institute and Department of Geography, University of Florida, 2055 Mowry Road, Gainesville, FL 32610; "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{4}"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        112,
+                                        448,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Corresponding author (email: cjonsson@uthsc.edu)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        52,
+                        187,
+                        245,
+                        548
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                187,
+                                245,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": "ABSTRACT: Rodent-borne hantaviruses have been reported in many of the countries surrounding Ukraine; however, to date we have no knowledge of the viral strains circulating in Ukraine within reservoirs such as the striped field mouse (Apodemus agrarius), the yellow-necked field mouse (Apodemus flavicollis) and the bank vole (Myodes glareolus). To determine the prevalence of hantaviruses in Ukraine, we captured 1,261 mammals, of which 1,109 were rodents, in 58 field sites within the province of Volyn in western Ukraine. Foci of the striped field mouse tended to occur in the eastern and southern parts of the province, whereas the bank vole were clustered in western and northern regions. The striped field mouse and bank vole had detectable serum antibodies to Puumala virus (PUUV) or Dobrava virus (DOBV) antigens at "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "7\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": " or "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "2\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": ", respectively, using an indirect immunofluorescence assay. Antibody prevalence among the bank vole males and females was equivalent, whereas for the striped field mouse, the prevalence among males was "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "5\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": " versus "
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "1\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        187,
+                                        245,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": " for females. In two bank vole specimens, we were able to detect partial nucleotide sequences that showed identity to PUUV. In summary, this study suggests that two human pathogens, PUUV and DOBV, cocirculate in the bank vole and the striped field mouse, respectively, in Ukraine. Future studies will focus on new rodent collections that will enable obtaining the complete genome sequences of the PUUV and DOBV strains circulating in Ukraine to provide guidance on the design of optimal molecular diagnostics that can enable insight into the potential contribution of hantaviruses to human disease in Ukraine."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        52,
+                        549,
+                        245,
+                        579
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                549,
+                                245,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        549,
+                                        245,
+                                        579
+                                    ],
+                                    "type": "text",
+                                    "content": "Key words: Apodemus agrarius, Dobrava-Belgrade virus, DOBV, Myodes glareolus, Orthohantavirus, Puumala virus, PUUV, Ukraine."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        52,
+                        598,
+                        245,
+                        658
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                598,
+                                245,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        598,
+                                        245,
+                                        658
+                                    ],
+                                    "type": "text",
+                                    "content": "To further explore the potential impact of hantavirus disease on public health in Ukraine, we collected rodent species in the northwestern region of the country in Volyn Province. Hantaviruses are widely distributed in nature"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        255,
+                        187,
+                        448,
+                        477
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                255,
+                                187,
+                                448,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        255,
+                                        187,
+                                        448,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": "in mice, shrews, voles, and bats (Jonsson et al. 2010b; Vaheri et al. 2013a, b). Rodent-harbored hantaviruses can cause serious disease when transmitted by aerosolization of excreta to humans. In Europe, the two species of rodent-borne hantaviruses responsible for cases of hemorrhagic fever with renal syndrome (HFRS) are Puumala virus (PUUV) and Dobrava Belgrade virus (DOBV; Heyman et al. 2011). The reservoirs of DOBV and PUUV are the striped field mouse (Apodemus agrarius) and the bank vole (Myodes glareolus), respectively. In Ukraine, cases of HFRS have been suspected based on clinical symptoms; however, there have been no cases confirmed by diagnostic testing. The high genetic diversity of PUUV and DOBV species across Europe and Asia is well substantiated (Sironen et al. 2001; Klempa et al. 2013) so it is impossible to predict which strain or strains are circulating. Hence, as there are no reported genetic sequences of any hantaviruses from Ukraine, molecular diagnostic testing of patients remains challenging."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        255,
+                        478,
+                        448,
+                        658
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                255,
+                                478,
+                                448,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        255,
+                                        478,
+                                        448,
+                                        658
+                                    ],
+                                    "type": "text",
+                                    "content": "The study region was within Volyn Province (Fig. 1A), which lies in northwestern Ukraine (Fig. 1B) and shares international boundaries with Poland (to the west) and Belarus (to the north). The province encompasses approximately "
+                                },
+                                {
+                                    "bbox": [
+                                        255,
+                                        478,
+                                        448,
+                                        658
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "20,100\\mathrm{km}^2"
+                                },
+                                {
+                                    "bbox": [
+                                        255,
+                                        478,
+                                        448,
+                                        658
+                                    ],
+                                    "type": "text",
+                                    "content": " with more than one million human inhabitants. During 2012 and 2013 field surveys, we sampled terrestrial small mammals. Surveys were performed during spring and autumn for approximately 10 d per survey. A total of 10,575 trap-nights was expended during four field surveys. These surveys were performed at 58 field sites within the province (Fig. 1A), where 1,261 small mammals (Table 1) were collected "
+                                },
+                                {
+                                    "bbox": [
+                                        255,
+                                        478,
+                                        448,
+                                        658
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(11.8\\%)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        134,
+                        20,
+                        367,
+                        38
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                134,
+                                20,
+                                367,
+                                38
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        20,
+                                        367,
+                                        38
+                                    ],
+                                    "type": "text",
+                                    "content": "SHORT COMMUNICATIONS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        53,
+                        43,
+                        122,
+                        51
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                43,
+                                122,
+                                51
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        43,
+                                        122,
+                                        51
+                                    ],
+                                    "type": "text",
+                                    "content": "DOI: 10.7589/2019-09-238"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        310,
+                        43,
+                        449,
+                        51
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                310,
+                                43,
+                                449,
+                                51
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        310,
+                                        43,
+                                        449,
+                                        51
+                                    ],
+                                    "type": "text",
+                                    "content": "Journal of Wildlife Diseases, 56(3), 2020, pp. 000-000"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        356,
+                        51,
+                        448,
+                        58
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                356,
+                                51,
+                                448,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        356,
+                                        51,
+                                        448,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "© Wildlife Disease Association 2020"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        248,
+                        668,
+                        252,
+                        675
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                248,
+                                668,
+                                252,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        668,
+                                        252,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": "1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "page_size": [
+                494,
+                720
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        97,
+                        59,
+                        244,
+                        142
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                97,
+                                59,
+                                244,
+                                142
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        59,
+                                        244,
+                                        142
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                97,
+                                                59,
+                                                244,
+                                                142
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4f811d26db1ec30776dfe9954a09c69071f02577292806a200fa799dafe80c67.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        247,
+                        61,
+                        386,
+                        138
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                247,
+                                61,
+                                386,
+                                138
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        61,
+                                        386,
+                                        138
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                247,
+                                                61,
+                                                386,
+                                                138
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3a325cf1e3e46fb70d4f2bbc7ea12322cfd2bb88e8114fdc060e801a740da5f5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        97,
+                        143,
+                        244,
+                        226
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                97,
+                                143,
+                                244,
+                                226
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        143,
+                                        244,
+                                        226
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                97,
+                                                143,
+                                                244,
+                                                226
+                                            ],
+                                            "type": "image",
+                                            "image_path": "a5878a5ee454c51577c39cfd60e28ef985a268ab350aec5b331a62548a6c2301.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        248,
+                        140,
+                        382,
+                        225
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                248,
+                                140,
+                                382,
+                                225
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        140,
+                                        382,
+                                        225
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                248,
+                                                140,
+                                                382,
+                                                225
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5934b282f17883a0d501b10f2b828e4fd5930abfee02735ef1a9cd03334b6a8a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        97,
+                        228,
+                        245,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                97,
+                                228,
+                                245,
+                                313
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        228,
+                                        245,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                97,
+                                                228,
+                                                245,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ae61edd94d5bfcce20cbba4dcdd73f2b18ed08527a2b97b101f41f1b70973bd4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        246,
+                        228,
+                        381,
+                        313
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                246,
+                                228,
+                                381,
+                                313
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        246,
+                                        228,
+                                        381,
+                                        313
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                246,
+                                                228,
+                                                381,
+                                                313
+                                            ],
+                                            "type": "image",
+                                            "image_path": "333653b71d086f41ee33b4226ed09578cf1a7a2ca45a44733d2dd69e7ef97e81.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                42,
+                                322,
+                                440,
+                                403
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        322,
+                                        440,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                322,
+                                                440,
+                                                403
+                                            ],
+                                            "type": "text",
+                                            "content": "FIGURE 1. Serologic evidence of the presence of the hantaviruses Puumala virus and Dobrava Belgrade virus in small mammals in the Volyn Province, Ukraine, as determined by immunofluorescence assay (IFA). (A) Sampling locations in 2012-2013 in Volyn Province where small mammals were captured for testing. (B) The location of Volyn Province within Ukraine (yellow). (C) Numbers of bank vole (Myodes glareolus) captures, increasing from 0 (white) to 207 (darkest blue). (D) Numbers of bank vole with IFA-positive results, from 0 (white) to 12 (darkest blue). (E) Numbers of striped field mouse (Apodemus agrarius) captures, from 0 (white) to 57 (darkest blue). (F) Numbers of striped field mouse with IFA-positive results, from 0 (white) to 5 (darkest blue)."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        42,
+                        416,
+                        237,
+                        477
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                42,
+                                416,
+                                237,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        416,
+                                        237,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": "trap success); of these, 1,109 were rodents. Seventeen species were identified (Table 1), with the two most common being the striped field mouse "
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        416,
+                                        237,
+                                        477
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(32.4\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        416,
+                                        237,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": " of captures) and the bank vole "
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        416,
+                                        237,
+                                        477
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(34.4\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        42,
+                                        416,
+                                        237,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": " of captures)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        42,
+                        477,
+                        237,
+                        659
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                42,
+                                477,
+                                237,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        477,
+                                        237,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": "Briefly, transects of 25-100 Sherman live traps were set in uniform habitats in various political districts within the province. Transect lengths depended on the size of the available habitat patch. Traps were set in the afternoon and baited with rye grain coated in oil and provided with cotton batting for insulation during cool weather. Traps were collected the next morning and rodents were euthanized in the field according to approved Institutional Animal Care and Use Committee protocols (Johns Hopkins University SP 14H08). Euthanized animals were identified to species in the field, and location, sex, and age were recorded on a necropsy form. Individuals"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        244,
+                        416,
+                        439,
+                        488
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                244,
+                                416,
+                                439,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        244,
+                                        416,
+                                        439,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": "were sealed in plastic bags on ice and transported with their necropsy forms to the laboratory for tissue collection and completion of the data form that included information on reproductive status. Tissues were stored at "
+                                },
+                                {
+                                    "bbox": [
+                                        244,
+                                        416,
+                                        439,
+                                        488
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "-80\\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        244,
+                                        416,
+                                        439,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        244,
+                        489,
+                        440,
+                        659
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                244,
+                                489,
+                                440,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        244,
+                                        489,
+                                        440,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": "Capture locations and associated sampling efforts were visualized using QGIS version 2.18 (QGIS 2019) and statistical spatial analysis was performed using SatScan version 9.6 (SatScan 2019) to identify purely spatial clusters with a discrete Poisson model. Both the bank vole and the striped field mouse were widespread but not uniformly distributed throughout the province (Fig. 1C, E). The bank voles were predominantly captured north and west of the main highway (Highway E373) through the region (Fig. 1C), whereas the striped field mice were most frequently captured south and east in the province (Fig."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        43,
+                        29,
+                        50,
+                        36
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                29,
+                                50,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        29,
+                                        50,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        62,
+                        28,
+                        278,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                28,
+                                278,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        28,
+                                        278,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "JOURNAL OF WILDLIFE DISEASES, VOL. 56, NO. 3, JULY 2020"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                494,
+                720
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        85,
+                        451,
+                        327
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                58,
+                                448,
+                                79
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        58,
+                                        448,
+                                        79
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                58,
+                                                448,
+                                                79
+                                            ],
+                                            "type": "text",
+                                            "content": "TABLE 1. Small mammals captured during survey of Volyn Province, Ukraine, from 2012 to 2013 for serologic evidence of the presence of the hantaviruses Puumala virus and Dobrava Belgrade virus."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                85,
+                                451,
+                                327
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        85,
+                                        451,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                85,
+                                                451,
+                                                327
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Taxon</td><td>Common Name</td><td>Scientific name</td><td>Captures</td></tr><tr><td rowspan=\"14\">Rodentia</td><td>Striped field mouse</td><td>Apodemus agrarius</td><td>408</td></tr><tr><td>Yellow-necked field mouse</td><td>Apodemus flavicollis</td><td>23</td></tr><tr><td>Wood mouse</td><td>Apodemus sylvaticus</td><td>146</td></tr><tr><td>Forest dormouse</td><td>Dryomys nitedula</td><td>1</td></tr><tr><td>Harvest mouse</td><td>Micromys minutus</td><td>1</td></tr><tr><td>Common vole</td><td>Microtus arvalis</td><td>78</td></tr><tr><td>Tundra vole</td><td>Microtus oeconomus</td><td>18</td></tr><tr><td>Western European house mouse</td><td>Mus domesticus</td><td>3</td></tr><tr><td>House mouse</td><td>Mus musculus</td><td>3</td></tr><tr><td>Common dormouse</td><td>Muscardinus avellinarius</td><td>1</td></tr><tr><td>Bank vole</td><td>Myodes glareolus</td><td>434</td></tr><tr><td>Southern water shrew</td><td>Neomys anomalus</td><td>1</td></tr><tr><td>Norwegian rat</td><td>Rattus norvegicus</td><td>2</td></tr><tr><td>Northern birch mouse</td><td>Sicista betulina</td><td>4</td></tr><tr><td>Carnivora</td><td>Least weasel</td><td>Mustela nivalis</td><td>3</td></tr><tr><td rowspan=\"4\">Insectivora</td><td>Shrew</td><td>Sorex sp.</td><td>1</td></tr><tr><td>Eurasian shrew</td><td>Sorex araneus</td><td>66</td></tr><tr><td>Eurasian pygmy shrew</td><td>Sorex minutus</td><td>63</td></tr><tr><td></td><td>Unknown</td><td>5</td></tr></table>",
+                                            "image_path": "7f0e0ef0e9e582cdb920be4e1d5e0605df88ddbee15274a6462d089b469979fb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        51,
+                        344,
+                        246,
+                        622
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                344,
+                                246,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "1E). After adjusting for sampling effort, there were multiple regions within the province with significant clusters of elevated trap success. For the striped field mouse, there was a geographically extensive cluster in the southeast, encompassing 10 survey sites, where sampling success exceeded "
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "10\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": " for the species. The remaining three significant clusters were geographically less extensive, typically including two or three adjacent sampling sites. These foci extended to the west and north towards the Polish border. These four foci accounted for "
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "62\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": " of the striped field mouse captures. Among the bank vole sampling, four significant clusters also were identified. These sites with excess numbers of vole captures were geographically less extensive than seen for the striped field mouse. None included more than three adjacent sampling sites. They clustered as foci in the north and western regions of the province. These four foci accounted for "
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "69\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        246,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": " of the bank vole captures."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        51,
+                        622,
+                        246,
+                        658
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                622,
+                                246,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        622,
+                                        246,
+                                        658
+                                    ],
+                                    "type": "text",
+                                    "content": "We used an indirect immunofluorescence assay (IFA) to screen rodent blood for antibodies cross-reactive with PUUV or Han"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        254,
+                        344,
+                        449,
+                        659
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                254,
+                                344,
+                                449,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": "taan virus (HTNV) grown in Vero E6 cells (Jonsson et al. 2010a). Hantaan virus is closely related to DOBV and can serve as a surrogate antigen for IFA for screening for antibodies to DOBV. Blood was harvested from liver from 433 bank voles, 404 striped field mice, and 23 yellow-necked field mice. To identify potential positives, we screened a 1:10 dilution of blood and then the reciprocal titer was determined with twofold dilutions of blood from 1:32 to 1:2,048 (Table 2). We detected antibody in the striped field mouse "
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(2.2\\%, 9/404)"
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": " and the bank vole "
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(7\\%, 31/433)"
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": ". We expected the antibody prevalence reflected infection or prior infection by DOBV and PUUV in the striped field mouse or bank vole, respectively. However, only sequencing can confirm the precise species and strain of virus, as the antibodies from theses viruses may have some level of cross-reactivity. None of the yellow-necked field mice (12 males, 10 females, 1 unknown sex) had any cross-reactivity by IFA to HTNV antigen. Of the nine antibody-positive striped field mice, "
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "5\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": " (5/101) of the males had antibodies, whereas only "
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "1\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        254,
+                                        344,
+                                        449,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": " of the females (4 of 303 tested) were positive by IFA."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        334,
+                        28,
+                        431,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                334,
+                                28,
+                                431,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        28,
+                                        431,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "SHORT COMMUNICATIONS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        443,
+                        28,
+                        448,
+                        36
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                443,
+                                28,
+                                448,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        443,
+                                        28,
+                                        448,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                494,
+                720
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        43,
+                        84,
+                        442,
+                        157
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                42,
+                                58,
+                                441,
+                                80
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        58,
+                                        441,
+                                        80
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                58,
+                                                441,
+                                                80
+                                            ],
+                                            "type": "text",
+                                            "content": "TABLE 2. Summary of reciprocal titers of antibodies cross-reactive to hantaviral antigens measured in rodent reservoir species in Ukraine during 2012-2013 using an indirect immunofluorescence assay (IFA)."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                84,
+                                442,
+                                157
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        84,
+                                        442,
+                                        157
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                84,
+                                                442,
+                                                157
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">Common name</td><td rowspan=\"2\">Scientific name</td><td colspan=\"5\">Reciprocal titers</td></tr><tr><td>32–64</td><td>128–256</td><td>512–1,024</td><td>2,048–5,096</td><td>Total</td></tr><tr><td>Bank volea</td><td>Myodes glareolus</td><td>2</td><td>13</td><td>16</td><td>0</td><td>31</td></tr><tr><td>Striped field mouseb</td><td>Apodemus agrarius</td><td>7</td><td>2</td><td>0</td><td>0</td><td>9</td></tr></table>",
+                                            "image_path": "e4c8ddf6147b9744a8087929f2c6ee9eb898854af18842d27e5543fdcf0aa6a5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                159,
+                                312,
+                                168
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        159,
+                                        312,
+                                        168
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                159,
+                                                312,
+                                                168
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{}^{a}"
+                                        },
+                                        {
+                                            "bbox": [
+                                                43,
+                                                159,
+                                                312,
+                                                168
+                                            ],
+                                            "type": "text",
+                                            "content": " Bank voles were screened using IFA slides made with cells infected with Puumala virus."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                168,
+                                441,
+                                187
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        168,
+                                        441,
+                                        187
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                168,
+                                                441,
+                                                187
+                                            ],
+                                            "type": "text",
+                                            "content": "b Striped field mice were screened using IFA slides made with cells infected with Hantaan virus, which has high cross-reactivity to Dobrava virus and is anticipated to be circulating in these mice in Ukraine."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        41,
+                        200,
+                        238,
+                        335
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                200,
+                                238,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        200,
+                                        238,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": "Of the 31 positive bank voles, 12 of 169 were male "
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        200,
+                                        238,
+                                        335
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(7\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        200,
+                                        238,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": " and 16 of 235 were female "
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        200,
+                                        238,
+                                        335
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "(7\\%)"
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        200,
+                                        238,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": ". The sex information was not taken for three of the antibody-positive and 14 of the antibody-negative animals. The distribution of positive animals by weight is provided in Table 3. Sites with IFA-positive results in the small mammals tended to be most likely in the identified clusters where large numbers of individuals of the bank vole (Fig. 1D) and the striped field mouse (Fig. 1F) were available for testing."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        42,
+                        335,
+                        238,
+                        372
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                42,
+                                335,
+                                238,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        335,
+                                        238,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "Total RNA was extracted from homogenized lung or liver in TRIzol Reagent (Invitrogen, Carlsbad, California, USA) ac"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        245,
+                        200,
+                        440,
+                        373
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                200,
+                                440,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        200,
+                                        440,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "cording to the manufacturer's protocol, with the exception that Phasemaker tubes (Invitrogen) were included to separate layers. We synthesized cDNA using random hexamers and SuperScript IV First-Strand Synthesis System (Thermo Scientific, Waltham, Massachusetts, USA). Each cDNA was then PCR amplified with Phusion High-Fidelity PCR Master Mix with HF Buffer (Thermo Scientific) for a total of 30 cycles using gene-specific primers (Table 4). Because of the low yield of the PCR product, all PCR products were pooled for library preparation for Illumina sequencing using the Nextera XT DNA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        43,
+                        411,
+                        440,
+                        636
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                42,
+                                385,
+                                441,
+                                406
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        385,
+                                        441,
+                                        406
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                385,
+                                                441,
+                                                406
+                                            ],
+                                            "type": "text",
+                                            "content": "TABLE 3. Distribution by weight and sex of hantavirus antibody-positive and -negative animals detected using an indirect immunofluorescence assay to Dobrava or Hantaan virus."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                411,
+                                440,
+                                636
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        411,
+                                        440,
+                                        636
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                411,
+                                                440,
+                                                636
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">Common name</td><td rowspan=\"2\">Scientific name</td><td rowspan=\"2\">Sex</td><td rowspan=\"2\">Weight range (g)</td><td colspan=\"2\">Immunofluorescence assay</td></tr><tr><td>No. negative</td><td>No. positive</td></tr><tr><td rowspan=\"8\">Striped field mousea</td><td rowspan=\"8\">Apodemus agrarius</td><td rowspan=\"4\">Male</td><td>5–14</td><td>63</td><td>0</td></tr><tr><td>15–24</td><td>202</td><td>4</td></tr><tr><td>25–34</td><td>29</td><td>0</td></tr><tr><td>35–44</td><td>6</td><td>0</td></tr><tr><td rowspan=\"4\">Female</td><td>5–14</td><td>6</td><td>0</td></tr><tr><td>15–24</td><td>67</td><td>0</td></tr><tr><td>25–34</td><td>15</td><td>3</td></tr><tr><td>35–44</td><td>4</td><td>1</td></tr><tr><td rowspan=\"8\">Bank voleb</td><td rowspan=\"8\">Myodes glareolus</td><td rowspan=\"4\">Male</td><td>5–14</td><td>21</td><td>0</td></tr><tr><td>15–24</td><td>108</td><td>11</td></tr><tr><td>25–34</td><td>25</td><td>2</td></tr><tr><td>35–44</td><td>2</td><td>0</td></tr><tr><td rowspan=\"4\">Female</td><td>5–14</td><td>40</td><td>4</td></tr><tr><td>15–24</td><td>145</td><td>7</td></tr><tr><td>25–34</td><td>34</td><td>4</td></tr><tr><td>35–44</td><td>1</td><td>0</td></tr></table>",
+                                            "image_path": "719722cc46755a1f80dc18408194ce8d79af22f187c45e775266562f32365535.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                638,
+                                221,
+                                648
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        638,
+                                        221,
+                                        648
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                638,
+                                                221,
+                                                648
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "{}^{a}"
+                                        },
+                                        {
+                                            "bbox": [
+                                                43,
+                                                638,
+                                                221,
+                                                648
+                                            ],
+                                            "type": "text",
+                                            "content": " Screened for antibodies that cross-react to Hantaan virus."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        },
+                        {
+                            "bbox": [
+                                43,
+                                648,
+                                221,
+                                658
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        648,
+                                        221,
+                                        658
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                43,
+                                                648,
+                                                221,
+                                                658
+                                            ],
+                                            "type": "text",
+                                            "content": "<sup>b</sup> Screened for antibodies that cross-react to Puumala virus."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        44,
+                        28,
+                        50,
+                        36
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                28,
+                                50,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        28,
+                                        50,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        62,
+                        28,
+                        278,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                28,
+                                278,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        28,
+                                        278,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "JOURNAL OF WILDLIFE DISEASES, VOL. 56, NO. 3, JULY 2020"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                494,
+                720
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        53,
+                        85,
+                        449,
+                        216
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                51,
+                                58,
+                                448,
+                                79
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        58,
+                                        448,
+                                        79
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                58,
+                                                448,
+                                                79
+                                            ],
+                                            "type": "text",
+                                            "content": "TABLE 4. Pan-oligonucleotide primers used for genome amplification of complete small, medium, and large genomic RNA segments targeting Puumala virus for next-generation sequencing."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                85,
+                                449,
+                                216
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        85,
+                                        449,
+                                        216
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                85,
+                                                449,
+                                                216
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Genome segment</td><td>Primer</td><td>5&#x27; to 3&#x27; primer sequence</td><td>PCR extension time (min)</td></tr><tr><td rowspan=\"2\">Small</td><td>1-30F</td><td>TAGTAGTAGACTCCTTGAAAAGCTACTACG</td><td>1</td></tr><tr><td>1888-1917R</td><td>TAGTAGTAGACTCCTTGAAAAGCAATCAAG</td><td></td></tr><tr><td rowspan=\"2\">Medium</td><td>1-26F</td><td>TAGTAGTAGACTCCGCAAGAAGAAGC</td><td>2</td></tr><tr><td>3656-3682R</td><td>TAGTAGTAGRCTCCGCARCAACAAAAG</td><td></td></tr><tr><td rowspan=\"4\">Large</td><td>1-26F</td><td>TAGTAGTAGACTCCGAGATAGAGAAR</td><td>2</td></tr><tr><td>3273-3294R</td><td>CACCCGRTTTAAYATRGGTCTC</td><td></td></tr><tr><td>3047-3076F</td><td>GTGTAGTTGATGCCYTAAGRAAYATWTATG</td><td></td></tr><tr><td>6527-6550R</td><td>GAGAAAAGAGCCTCGTATGATGAT</td><td></td></tr></table>",
+                                            "image_path": "1f982f672e513e0d9047c1244ee007282cb2da6f15bb859a454fb7a9835b6546.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        51,
+                        234,
+                        247,
+                        474
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                234,
+                                247,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        247,
+                                        474
+                                    ],
+                                    "type": "text",
+                                    "content": "Sample Preparation kit (Illumina, San Diego, California, USA). Libraries were sequenced on the MiSeq platform (Illumina) using "
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        247,
+                                        474
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "2 \\times 300"
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        247,
+                                        474
+                                    ],
+                                    "type": "text",
+                                    "content": " paired ends. The RNA isolation and next-generation sequencing (NGS) were conducted again for 26 of the Myodes for which sample was available. Of these, two animal lungs were positive by NGS for PUUV sequence. Adapters were trimmed on the MiSeq instrument (Illumina) as well as reads with Phred quality scores "
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        247,
+                                        474
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "< 30"
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        247,
+                                        474
+                                    ],
+                                    "type": "text",
+                                    "content": ". Duplicate reads were removed and a length fraction of 0.9 and a similarity fraction of 0.8 were applied to ensure a quality consensus. In both sequencing runs, the coverage was too low to discriminate the specific strain, but examination by the Basic Local Alignment Search Tool (National Center for Biotechnology Information 2019) suggested the highest similarity to PUUV."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        51,
+                        476,
+                        247,
+                        659
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                476,
+                                247,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        476,
+                                        247,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": "Our study suggests that two human hantavirus pathogens, PUUV and DOBV, circulate in the bank vole and the striped field mouse, respectively, in Ukraine. Antibody prevalence data suggest that, in Volyn Province, the probability of spillover to humans would be from the bank vole of both sexes. In contrast, the prevalence in the striped field mouse was lower, and prevalence was higher in males than females. Unfortunately, we had so few specimens of Apodemus flavicollis that we cannot draw any conclusions, and we await further specimen collections to determine if any strains of hantavirus are carried by this species in Ukraine. Lastly, our data suggest"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        253,
+                        233,
+                        448,
+                        395
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                253,
+                                233,
+                                448,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        233,
+                                        448,
+                                        395
+                                    ],
+                                    "type": "text",
+                                    "content": "that adults had a higher prevalence, although additional studies will be required to examine population and community structure. The prevalence of HFRS in Ukraine is unknown but has been suspected by public health officials based on clinical symptoms. Future studies will focus on obtaining the complete genome sequences of the PUUV and DOBV strains circulating in Ukraine. These efforts will provide guidance on the design of optimal molecular diagnostics to determine the potential contribution of hantaviruses to human disease in Ukraine."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        253,
+                        396,
+                        449,
+                        535
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                253,
+                                396,
+                                449,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        396,
+                                        449,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "This work was funded by the US Defense Threat Reduction Agency through the Cooperative Biological Engagement Program in Ukraine. The contents of this publication are the responsibility of the authors and do not necessarily reflect the views of the US Defense Threat Reduction Agency or the US government. We thank members of the Black and Veatch Special Projects Corp. and the Metabiota, Inc., science team for their assistance in facilitating of this study."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        312,
+                        547,
+                        392,
+                        556
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                312,
+                                547,
+                                392,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        547,
+                                        392,
+                                        556
+                                    ],
+                                    "type": "text",
+                                    "content": "LITERATURE CITED"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        255,
+                        564,
+                        449,
+                        658
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 11,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                255,
+                                564,
+                                449,
+                                625
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        255,
+                                        564,
+                                        449,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                255,
+                                                564,
+                                                449,
+                                                625
+                                            ],
+                                            "type": "text",
+                                            "content": "Heyman P, Ceianu CS, Christova I, Tordo N, Beersma M, Joao Alves M, Lundkvist A, Hukic M, Papa A, Tenorio A, et al. 2011. A five-year perspective on the situation of haemorrhagic fever with renal syndrome and status of the hantavirus reservoirs in Europe, 2005-2010. Euro Surveill 16:19961."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                255,
+                                627,
+                                448,
+                                658
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        255,
+                                        627,
+                                        448,
+                                        658
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                255,
+                                                627,
+                                                448,
+                                                658
+                                            ],
+                                            "type": "text",
+                                            "content": "Jonsson CB, Chu YK, Ontiveros SP. 2010a. Hantaan virus. In: Molecular detection of human viral pathogens, Liu D, editor. Publisher, Location."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        334,
+                        28,
+                        431,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                334,
+                                28,
+                                431,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        28,
+                                        431,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "SHORT COMMUNICATIONS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        443,
+                        28,
+                        448,
+                        36
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                443,
+                                28,
+                                448,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        443,
+                                        28,
+                                        448,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                494,
+                720
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        44,
+                        58,
+                        238,
+                        210
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 6,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                44,
+                                58,
+                                238,
+                                88
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        58,
+                                        238,
+                                        88
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                44,
+                                                58,
+                                                238,
+                                                88
+                                            ],
+                                            "type": "text",
+                                            "content": "Jonsson CB, Figueiredo LT, Vapalahti O. 2010b. A global perspective on hantavirus ecology, epidemiology, and disease. Clin Microbiol Rev 23:412-441."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                89,
+                                238,
+                                149
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        89,
+                                        238,
+                                        149
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                44,
+                                                89,
+                                                238,
+                                                149
+                                            ],
+                                            "type": "text",
+                                            "content": "Klempa B, Avsic-Zupanc T, Clement J, Dzagurova TK, Henttonen H, Heyman P, Jakab F, Kruger DH, Maes P, Papa A, et al. 2013. Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: definition of genotypes and their characteristics. Arch Virol 158:521-529."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                149,
+                                238,
+                                180
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        149,
+                                        238,
+                                        180
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                44,
+                                                149,
+                                                238,
+                                                180
+                                            ],
+                                            "type": "text",
+                                            "content": "National Center for Biotechnology Information. 2019. Basic local alignment search tool (BLAST). http://blast.ncbi.nlm.nih.gov/Blast.cgi. Accessed May 2019."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                44,
+                                180,
+                                238,
+                                210
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        180,
+                                        238,
+                                        210
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                44,
+                                                180,
+                                                238,
+                                                210
+                                            ],
+                                            "type": "text",
+                                            "content": "QGIS. 2019. QGIS: A free and open source geographic information system, v. 2.18 .https://qgis.org/en/site/index.html. Accessed February 2019."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        247,
+                        58,
+                        440,
+                        178
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 11,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                247,
+                                58,
+                                440,
+                                79
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        58,
+                                        440,
+                                        79
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                247,
+                                                58,
+                                                440,
+                                                79
+                                            ],
+                                            "type": "text",
+                                            "content": "SatScan2019. SatScan v. 9.6. https://www.satscan.org/download.html. Accessed February 2019."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                247,
+                                79,
+                                440,
+                                98
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        79,
+                                        440,
+                                        98
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                247,
+                                                79,
+                                                440,
+                                                98
+                                            ],
+                                            "type": "text",
+                                            "content": "Sironen T, Vaheri A, Plyusnin A. 2001. Molecular evolution of Puumala hantavirus. J Virol 75:11803-11810."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                247,
+                                99,
+                                440,
+                                138
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        99,
+                                        440,
+                                        138
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                247,
+                                                99,
+                                                440,
+                                                138
+                                            ],
+                                            "type": "text",
+                                            "content": "Vaheri A, Henttonen H, Voutilainen L, Mustonen J, Sironen T, Vapalahti O. 2013a. Hantavirus infections in Europe and their impact on public health. Rev Med Virol 23:35-49."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                247,
+                                138,
+                                440,
+                                178
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        138,
+                                        440,
+                                        178
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                247,
+                                                138,
+                                                440,
+                                                178
+                                            ],
+                                            "type": "text",
+                                            "content": "Vaheri A, Strandin T, Hepojoki J, Sironen T, Henttonen H, Maakela S, Mustonen J. 2013b. Uncovering the mysteries of hantavirus infections. Nat Rev Microbiol 11:539-550."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        247,
+                        190,
+                        402,
+                        201
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                247,
+                                190,
+                                402,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        190,
+                                        402,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Submitted for publication 27 September 2019."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        247,
+                        201,
+                        345,
+                        210
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                247,
+                                201,
+                                345,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        201,
+                                        345,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "Accepted 21 November 2019."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        44,
+                        29,
+                        50,
+                        36
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                44,
+                                29,
+                                50,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        44,
+                                        29,
+                                        50,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        62,
+                        28,
+                        278,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                28,
+                                278,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        28,
+                                        278,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "JOURNAL OF WILDLIFE DISEASES, VOL. 56, NO. 3, JULY 2020"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                494,
+                720
+            ],
+            "page_idx": 5
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "2.7.6"
+}

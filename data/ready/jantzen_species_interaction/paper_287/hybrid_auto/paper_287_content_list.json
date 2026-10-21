@@ -1,0 +1,837 @@
+[
+    {
+        "type": "text",
+        "text": "PCR Detection of Granulocytic Ehrlichiae in Ixodes ricinus Ticks and Wild Small Mammals in Western Switzerland ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            127,
+            901,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JORGE S. LIZ,1 * LAURENCE ANDERES,1 JOHN W. SUMNER,2 ROBERT F. MASSUNG,2 LISE GERN,3 BERNARD RUTTI,1 AND MICHEL BROSSARD1 ",
+        "bbox": [
+            136,
+            179,
+            890,
+            207
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Immunology1 and Department of Parasitology,3 Institute of Zoology, University of Neuchaˆtel, 2007 Neuchaˆtel, Switzerland; and Viral and Rickettsial Zoonoses Branch, Division of Viral and Rickettsial Diseases, National Center for Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia 303332 ",
+        "bbox": [
+            146,
+            211,
+            880,
+            251
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The presence of granulocytic ehrlichiae was demonstrated by PCR in Ixodes ricinus ticks and wild small mammals in Switzerland in two areas of endemicity for bovine ehrlichiosis. Six ticks (three females and three nymphs) $( 1 . 4 \\% )$ of $4 1 7 I .$ ricinus ticks collected by flagging vegetation contained ehrlichial DNA. A total of 201 small mammals from five species, wood mouse (Apodemus sylvaticus), yellow-necked mouse (Apodemus flavicollis), earth vole (Pitymys subterraneus), bank vole (Clethrionomys glareolus), and common shrew (Sorex araneus), were trapped. The analysis of I. ricinus mammals collected on 116 small mammals showed that nine C. glareolus voles and two A. sylvaticus mice hosted infected tick larvae. In these rodents, granulocytic ehrlichia infection was also detected in blood, spleen, liver, and ear samples. Further examinations of 190 small mammals without ticks or with noninfected ticks showed the presence of ehrlichial DNA in spleen and other tissues from six additional C. glareolus, three A. flavicollis, and one S. araneus mammals. This study suggests that A. sylvaticus, A. flavicollis, S. araneus, and particularly C. glareolus are likely to be natural reservoirs for granulocytic ehrlichiae. Partial 16S rRNA gene sequences of granulocytic ehrlichiae from ticks and rodents showed a high degree of homology (99 to $1 0 0 \\%$ ) with granulocytic ehrlichiae isolated from humans. In contrast, groESL heat shock operon sequence analysis showed a strong divergence (approximately $5 \\%$ ) between the sequences in samples derived from rodents and those derived from samples from questing ticks or from other published ehrlichia sequences. Dual infections with granulocytic ehrlichia and Borrelia burgdorferi were found in ticks and small mammals. ",
+        "bbox": [
+            148,
+            276,
+            878,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Granulocytic ehrlichiae (GE) are obligate intracellular bacteria (Ehrlichia spp.) which have been well established as tickborne pathogens of veterinary importance and are currently considered emerging human pathogens. In 1994, human granulocytic ehrlichiosis (HGE) was reported for the first time (3, 16), and since then, an increasing number of cases have been described mostly in the upper Midwest and in the Northeast of the United States. Since 1995, serological evidence of HGE has been demonstrated in several European countries (4, 8, 17, 23, 24, 32, 34, 64, 66), including Switzerland (9, 37, 55), in areas of known endemicity for Lyme borreliosis. Documented cases of human infections with a granulocytic Ehrlichia species were described in Slovenia (48) and, more recently, in The Netherlands (67). The Ehrlichia species responsible for HGE has not been defined, although nucleotide sequence studies of the 16S rRNA gene showed strong homology with two well-known agents of veterinary disease, Ehrlichia equi, the agent of the equine granulocytic ehrlichiosis, and Ehrlichia phagocytophila, the agent of the tick-borne fever in ruminants (16). Tick-borne fever, also called bovine ehrlichiosis or pasture fever, occurs in most European countries. Analysis based on the 16S rRNA gene sequence has demonstrated that the HGE agent, E. equi, and $E$ . phagocytophila are part of a single group which was named the $E$ . phagocytophila genogroup (70). In some localized areas of Switzerland, E. phagocytophila infection is a common disease in cattle (36, 50, 56). During the year, infections in ",
+        "bbox": [
+            88,
+            522,
+            500,
+            854
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "* Corresponding author. Mailing address: Department of Immunology, Institute of Zoology, University of Neuchaˆtel, Rue Emile-Argand 11, 2007 Neuchaˆtel, Switzerland. Phone: 41-32-7183016. Fax: 41-32- 7183011. E-mail: jorge.liz@zool.unine.ch. ",
+        "bbox": [
+            88,
+            880,
+            500,
+            928
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "cattle have a bimodal distribution closely linked to the peak seasonal activity of the vector, Ixodes ricinus, with one major peak in the spring and a second minor peak in autumn. Additionally, GE were also isolated from dogs (51) and horses (52; J. S. Liz, J. W. Sumner, and W. L. Nicholson, unpublished data) in Switzerland. ",
+        "bbox": [
+            527,
+            522,
+            938,
+            597
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the United States, GE have often been associated with Ixodes scapularis and with Ixodes pacificus on the west coast, and these may serve as the primary vectors (5, 14, 20, 22, 29, 40, 46, 57–60, 62, 65, 68). Rodents, particularly white-footed mice (Peromyscus leucopus) (10, 39, 65, 72, 73), and white-tailed deer (Odocoileus virginianus) (7, 71) are implicated as natural reservoirs for GE. Very little is known about animal reservoirs and the ecology of GE throughout Europe. PCR has been used to identify GE in I. ricinus ticks in France (47), Italy (19), Slovenia (49), Sweden (69), Switzerland (54), the United Kingdom (27, 45), and The Netherlands (61). To our knowledge, except for the study of Ogden et al. (45), who found granulocytic ehrlichial DNA in the blood of one bank vole (Clethrionomys glareolus), no other study of wild small mammals and GE in Europe has been published. ",
+        "bbox": [
+            527,
+            599,
+            938,
+            788
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The purpose of the present study was to determine the prevalence of GE in I. ricinus ticks and to determine if small mammals, frequent hosts of immature stages of I. ricinus ticks, are naturally infected or host infected ticks in two western areas of Switzerland where granulocytic ehrlichiosis is endemic in cattle. ",
+        "bbox": [
+            527,
+            790,
+            938,
+            865
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            651,
+            872,
+            817,
+            882
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study sites. Unfed, actively questing ticks and small mammals were collected during the spring, summer, and fall 1998 in wooded areas and nearby fields adjacent to pastures in two areas where bovine ehrlichiosis is endemic (36, 50): area 1, regions of Plateau de Diesse (Canton of Bern) and Val-de-Ruz (Canton ",
+        "bbox": [
+            527,
+            886,
+            938,
+            928
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Published in Journal of Clinical Biology 38, issue 3, 1002-1007, 2000 which should be used for any reference to this work ",
+        "bbox": [
+            288,
+            44,
+            708,
+            69
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "1 ",
+        "bbox": [
+            931,
+            45,
+            941,
+            55
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of Neuchaˆtel) in the northwestern part of Switzerland, and area 2, regions of Balzenberg-Erlenbach, Frutigen, Aeschiried, and Reutigen (Canton of Bern) in the midwestern part of Switzerland. ",
+        "bbox": [
+            88,
+            87,
+            500,
+            119
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ticks and small mammals were collected at the same sites or in the close vicinity. ",
+        "bbox": [
+            88,
+            119,
+            500,
+            139
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ticks, small mammals, and sample collection. Host-seeking I. ricinus ticks (adults, nymphs, and, occasionally, larvae) were collected by flagging vegetation. Ticks were identified to the species level and the developmental stage and were stored individually; larvae, however, were stored in pools in 1.5-ml microcentrifuge tubes at $- 2 0 ^ { \\circ } \\mathrm { C }$ prior to DNA extraction. ",
+        "bbox": [
+            88,
+            139,
+            500,
+            190
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Small mammals were trapped alive with wooden box traps; shrews, however, were always found dead in the traps. Traps were baited with grains, sunflower seeds, and pieces of carrots. After bringing the filled box traps to the field laboratory, each animal was euthanatized and its species and sex were determined. Attached feeding ticks (essentially larvae) were removed by using sterile forceps, identified by species and life stage, and combined into pools (one pool for each mammal) and stored in $1 . 5 { \\mathrm { - m l } }$ microcentrifuge tubes at $- 2 0 \\mathrm { { } ^ { \\circ } C }$ prior to DNA extraction. Blood samples were collected by cardiac puncture. Blood was immediately used to make Giemsa-stained buffy coat smears. The remaining blood was frozen at $- 2 0 \\mathrm { { } ^ { \\circ } C }$ prior to DNA extraction. Tissue samples from the liver, spleen, and ear were removed and stored individually in 1.5-ml microcentrifuge tubes at $- 2 0 \\mathrm { { } ^ { \\circ } C }$ prior to DNA extraction. ",
+        "bbox": [
+            88,
+            190,
+            500,
+            314
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA purification. Total DNA was purified with a QIAamp Tissue kit (for ticks and tissue samples) and a QIAamp Blood kit (for blood samples) (Qiagen, Basel, Switzerland). The protocol used was that suggested by the manufacturer, with some modifications. ",
+        "bbox": [
+            88,
+            314,
+            500,
+            354
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Briefly, DNA was extracted from blood by using 100- to $2 0 0 \\mathrm { - } \\mu \\mathrm { l }$ aliquots of whole clotted blood. Detergent lysis was carried out in the presence of proteinase K for 15 min at $7 0 \\mathrm { { } ^ { \\circ } C }$ . The lysed material was applied to a spin column containing a silica gel-based membrane and was processed as described by the manufacturer. Purified DNA was eluted from the columns in $2 0 0 ~ \\mu \\mathrm { l }$ of $1 0 \\mathrm { { \\ m M } }$ Tris-HCl– $0 . 5 \\mathrm { \\ m M }$ EDTA $\\mathrm { ( p H ~ 9 . 0 ) }$ ) and was stored at $- 2 0 \\mathrm { { } ^ { \\circ } C }$ until it was used as the template for PCR amplification. ",
+        "bbox": [
+            88,
+            354,
+            500,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA was purified from mammal tissue samples (liver, ear, and spleen) essentially as described above. The lysis time was increased until the tissue was completely lysed (3 h). ",
+        "bbox": [
+            88,
+            426,
+            500,
+            456
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA was purified from feeding larval I. ricinus ticks as follows. Pools of larval ticks were placed in 1.5-ml microcentrifuge tubes containing $1 8 0 ~ \\mu \\mathrm { l }$ of detergent lysis buffer and $2 0 ~ \\mu \\mathrm { l }$ of proteinase K and were crushed with a sterile disposable scalpel. The samples were mixed by vortexing and were incubated at $5 5 ^ { \\circ } \\mathrm { C }$ overnight. The extraction protocol was followed as described above. Purified DNA was eluted from the columns in $8 0 ~ \\mu \\mathrm { l }$ of $1 0 ~ \\mathrm { m M }$ Tris-HCl–0.5 mM EDTA (pH 9.0) and was stored at $- 2 0 \\mathrm { { } ^ { \\circ } C }$ until it was used as the template for PCR amplification. ",
+        "bbox": [
+            88,
+            456,
+            500,
+            538
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA was purified from unfed questing nymph and adult I. ricinus ticks collected from vegetation as described above for larvae. Nymphs and adults were processed individually. ",
+        "bbox": [
+            88,
+            538,
+            500,
+            569
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PCR amplification. Granulocytic ehrlichial infections in questing ticks and in feeding ticks and tissue samples from small mammals were detected with two sets of primers in a nested PCR format which specifically targets the 16S rRNA gene of the $E$ . phagocytophila genogroup (16, 42). PCR amplifications were performed in a Mastercycler Personnal instrument (Eppendorf, Hamburg, Germany). The primary reaction mixture used $5 ~ { \\mu \\mathrm { l } }$ of DNA extraction sample as the template in a total volume of $5 0 ~ \\mu \\mathrm { l }$ . The reaction mixtures contained $1 0 ~ \\mathrm { m M }$ Tris-HCl, 1.5 mM $\\mathrm { { M g C l } } _ { 2 }$ , $5 0 \\mathrm { m M }$ KCl (pH 8.3), each deoxynucleoside triphosphate (dNTP) at a concentration of $2 0 0 ~ \\mu \\mathrm { M }$ , 1.25 U of Taq polymerase, and each primer at a concentration of $0 . 5 ~ \\mu \\mathrm { M }$ . The outer primers were ge3a $[ 5 ^ { \\prime }$ -CACATGCAAGTC GAACGGATTATTC) and ge10r $5 ^ { \\prime }$ -TTCCGTTAAGAAGGATCTAATCTC C), which produce a 932-bp product. Cycling conditions involved an initial 2-min denaturation at $9 5 ^ { \\circ } \\mathrm { C } ,$ , followed by 40 cycles, each consisting of a 30-s denaturation at $9 4 ^ { \\circ } \\mathrm { C } ,$ , a 30-s annealing at $5 5 ^ { \\circ } \\mathrm { C } .$ , and a 1-min extension at $7 2 ^ { \\circ } \\mathrm { C }$ . These 40 cycles were followed by a 5-min extension at $7 2 ^ { \\circ } \\mathrm { C }$ . Samples from which no products were amplified after the initial PCR were subjected to reamplification in a nested PCR. The reaction mixture for the nested amplifications used $1 \\mu \\mathrm { l }$ of the primary PCR product as the template in a total volume of $5 0 \\mu \\mathrm { l }$ . The reaction mixture for each nested amplification contained $1 0 \\mathrm { ~ m M }$ Tris-HCl, $1 . 5 \\mathrm { \\ m M }$ $\\mathrm { { M g C l } } _ { 2 }$ , 50 mM KCl (pH 8.3), each dNTP at a concentration of $2 0 0 ~ \\mu \\mathrm { M }$ , 1.25 U of Taq polymerase, and each internal primer at a concentration of $0 . 2 \\mu \\mathrm { M }$ . The internal primers were ge9f $5 ^ { \\prime }$ -AACGGATTATTCTTTATAGCTTGCT) and ge2 $5 ^ { \\prime }$ -GGCAGTATTAAAAGCAGCTCCAGG), which produce a 546-bp product. Nested cycling conditions were as described above for the primary amplification, except that 30 cycles were used. ",
+        "bbox": [
+            88,
+            569,
+            500,
+            824
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For further characterization, selected DNA samples positive for the E. phagocytophila genogroup 16S rRNA gene were tested by PCR assays with primers designed to amplify the groESL heat shock operon of Ehrlichia spp. The assay was conducted in a nested format with primers HS1a $5 ^ { \\prime }$ -AITGGGCTGGTAIT-GAAAT) and HS6a $5 ^ { \\prime }$ -CCICCIGGIACIAIACCTTC) (modified from those used in a previous study [63]) (43) in the first round and primers HS43 [59 AT(A/T)GC(A/T)AA(G/A)GAAGCATAGTC] and HSVR $5 ^ { \\prime }$ -CTCAACAGC AGCTCTAGTAGC) (38) in the nested reactions. The primers used in the nested PCR amplify a 1,297-bp region of the heat shock operon that includes the end of the groES gene, the spacer region between the groES and groEL genes, ",
+        "bbox": [
+            88,
+            825,
+            500,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and approximately two-thirds of the groEL gene. All PCR assays were prepared by using commercial amplification kits (Ready-To-Go PCR; Amersham Pharmacia Biotech, Piscataway, N.J.). One microliter of DNA template was added to $2 4 ~ \\mu \\mathrm { l }$ of a reaction mixture containing $1 0 0 ~ \\mathrm { m M }$ Tris-HCl (pH 8.3), 50 mM KCl, 0.15 mM $\\mathrm { { M g C l } } _ { 2 }$ , $0 . 0 0 1 \\%$ gelatin, each dNTP at a concentration of $2 0 0 \\mu \\mathrm { M }$ , each primer at a concentration of $1 \\ \\mu \\mathrm { M }$ , and $2 . 5 \\mathrm { ~ U ~ }$ of Taq polymerase. PCRs were performed in a Thermal Cycler (Perkin-Elmer Cetus, Norwalk, Conn.). Cycling conditions involved three preliminary cycles, each consisting of a 1-min denaturation at $9 4 ^ { \\circ } \\mathrm { C }$ , a 2-min annealing at $4 8 \\mathrm { { } ^ { \\circ } C }$ , and a 1.5-min extension at $6 8 ^ { \\circ } \\mathrm { C }$ followed by 37 amplification cycles, each consisting of a 1-min denaturation at $8 8 ^ { \\circ } \\mathrm { C }$ , a 2-min annealing at $4 8 ^ { \\circ } \\mathrm { C }$ , and a $1 . 5 { \\mathrm { - m i n } }$ extension at $6 8 ^ { \\circ } \\mathrm { C }$ . These cycles are followed by an additional extension period of 5 min at $6 8 ^ { \\circ } \\mathrm { C }$ . During the second (nested) amplification round, the annealing temperature of the reaction was increased to $5 5 ^ { \\circ } \\mathrm { C }$ and the temperature of extension was increased to $7 2 ^ { \\circ } \\mathrm { C }$ ",
+        "bbox": [
+            527,
+            87,
+            938,
+            231
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oligonucleotide primers (SL) that recognize the OspA sequences of most Borrelia burgdorferi strains (21) were used to look for possible dual infections with B. burgdorferi sensu lato in ticks and small mammal tissue samples which were positive for granulocytic ehrlichial DNA. Five microliters of purified DNA was used per reaction mixture (final volume, $5 0 ~ \\mu \\mathrm { l } )$ ) with the SL primers $5 ^ { \\prime }$ -AATA GGTCTAATAATAGCCTTTAAATAGC and $5 ^ { \\prime }$ -CTAGTGTTTTGCCATCTT CTTTGAAAA). Cycling conditions involved an initial 2-min denaturation at $9 5 ^ { \\circ } \\mathrm { C } ,$ , followed by 40 cycles consisting of a 1-min denaturation at $9 3 ^ { \\circ } \\mathrm { C }$ , a 1-min annealing at $6 9 ^ { \\circ } \\dot { \\mathrm { C } } ,$ , and a 1-min extension at $7 2 ^ { \\circ } \\mathrm { C }$ . To distinguish B. burgdorferi at the species level, SL-positive samples were further analyzed with different genospecies-specific primers that have been described previously (21) and that target the OspA gene. ",
+        "bbox": [
+            527,
+            231,
+            938,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All amplified products were subsequently maintained at $4 ^ { \\circ } \\mathrm { C }$ until they were analyzed by agarose gel electrophoresis or were purified for DNA sequencing. ",
+        "bbox": [
+            527,
+            353,
+            938,
+            372
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quality control included both positive and negative controls that were amplified by PCR in parallel with the PCR amplification of all specimens. In order to minimize the potential for contamination, DNA extractions, PCR setup, and agarose gel electrophoresis were performed in three separate rooms. Precautions were taken to prevent contamination of samples, including the use of aerosol barrier pipette tips. ",
+        "bbox": [
+            527,
+            372,
+            938,
+            433
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA sequencing and data analysis. Sequencing of the PCR products was conducted by previously described purification methods and automated sequencing techniques (42, 63). We partially sequenced the 16S rRNA gene from nine samples: two from area 1 (one questing female tick [tick T113] and one pool of larval ticks from one C. glareolus vole [vole 63]) and seven from area 2 (two questing female ticks [ticks T163 and T192], one blood sample and one ear sample from one C. glareolus vole [vole 196], and one pool of larval ticks, one ear sample, and one spleen sample from another C. glareolus vole [vole 197]). The 16S rRNA gene sequences used for comparison were obtained from the Gen-Bank database and included E. phagocytophila genogroup sequences from a U.S. HGE patient (GenBank accession no. U02521), a horse from California (Gen-Bank accession no. M73223), and a Scottish sheep (GenBank accession no. M73220). We partially sequenced the groESL heat shock operon from eight samples: two from area 1 (one questing female tick [tick T113] and one pool of larval ticks from one C. glareolus vole [vole 63]) and six from area 2 (two questing female ticks [ticks T163 and T192] and ear samples from four C. glareolus voles [voles 135, 196, 197, and 200]). The groESL sequences used for comparison were obtained from the GenBank database and included E. phagocytophila genogroup sequences from a horse from California (GenBank accession no. U96727), a New York State HGE patient (GenBank accession no. U96728), a Scottish feral goat (GenBank accession no. U96729), a Scottish sheep (GenBank accession no. U96730), a Swiss horse (GenBank accession no. U96735), an HGE patient from the United States (GenBank accession no. U72628), and a Slovenian HGE patient (GenBank accession no. AF033101). ",
+        "bbox": [
+            527,
+            435,
+            938,
+            678
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis. Fisher’s exact test was used to compare the proportions. Probabilities of $P$ values of $< 0 . 0 5$ were considered statistically significant. ",
+        "bbox": [
+            527,
+            678,
+            938,
+            699
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nucleotide sequence accession numbers. The groESL heat shock operon sequences of GE obtained from a C. glareolus vole (vole 196) and from a flagged I. ricinus tick (tick T163) are available in GenBank under accession nos. AF192796 and AF202895, respectively. ",
+        "bbox": [
+            527,
+            699,
+            938,
+            740
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            697,
+            756,
+            769,
+            769
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A total of 417 unfed, host-seeking I. ricinus ticks (nymphs and adults) were collected and individually analyzed for the presence of granulocytic ehrlichial DNA. Six ticks, one female and three nymphs in area 1 ( $2 . 2 \\%$ ; 4 of 185) and two females in area 2 $0 . { \\dot { 9 } } \\%$ ; 2 of 232), were found to be infected (Table 1). The examination of a pool of $1 1 \\ I .$ . ricinus larvae collected in area 1 was negative. ",
+        "bbox": [
+            527,
+            774,
+            938,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Small mammals are common hosts of immature stages of I. ricinus and so they are suspected to be the natural reservoirs for GE. A total of 201 small mammals from four rodent species, wood mouse (Apodemus sylvaticus), yellow-necked mouse (Apodemus flavicollis), earth vole (Pitymys subterraneus), and ",
+        "bbox": [
+            527,
+            863,
+            938,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            931,
+            45,
+            941,
+            55
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/001e1223252d9c6a12c6b120c4ca1960e65fc59829e5c984f52ad1a2a85646b1.jpg",
+        "table_caption": [
+            "TABLE 1. PCR detection of granulocytic ehrlichial DNA in I. ricinus ticks collected by flagging vegetation in two areas in western Switzerland "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Collection area</td><td>Life stage</td><td>No. of ticks examined</td><td>No. (%) positive</td></tr><tr><td rowspan=\"3\">Area 1</td><td>Female</td><td>14</td><td>1 (7.1)</td></tr><tr><td>Male</td><td>21</td><td>0</td></tr><tr><td>Nymph</td><td>150</td><td>3 (2.0)</td></tr><tr><td rowspan=\"3\">Area 2</td><td>Female</td><td>93</td><td>2 (2.2)</td></tr><tr><td>Male</td><td>88</td><td>0</td></tr><tr><td>Nymph</td><td>51</td><td>0</td></tr><tr><td>Total</td><td></td><td>417</td><td>6 (1.4)</td></tr></table>",
+        "bbox": [
+            87,
+            125,
+            500,
+            259
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "bank vole (C. glareolus), and from one insectivorous species, the common shrew (Sorex araneus), were trapped (Table 2) in order to determine if such small mammals were naturally infected or harbored infected ticks. Among the 201 small mammals, 116 hosted I. ricinus ticks (almost exclusively larvae, but $_ { 3 A }$ . sylvaticus mice hosted nymphs as well). Analysis of the tick pools removed from each animal showed that 11 rodents $\\bar { ( 9 . 5 \\% ) }$ , 5 C. glareolus voles and $2 A$ . sylvaticus mice in area 1 and $4 C .$ . glareolus voles in area 2, harbored ticks infected with GE (Table 2). In the latter area, C. glareolus was the only rodent species found to harbor infected ticks. In area 1, the prevalence of hosts harboring infected ticks was significantly higher for $C .$ . glareolus voles $( 3 3 . 3 \\% )$ than A. sylvaticus mice $( 7 . 4 \\% )$ $( P < 0 . 0 5 )$ ) (Table 2). Among the 11 rodents infested with infected larval ticks, granulocytic ehrlichial DNA was detected in blood (3 of 11), spleen (5 of 11), liver (4 of 11), and ear (7 of 11) samples (Table 3). In two $C .$ . glareolus voles and two A. sylvaticus mice from area 1 that harbored infected larval ticks, no ehrlichial DNA was found in any tissues examined. PCR analysis of spleen samples from the small mammals that did not harbor ticks $( n = 8 5$ ) or that harbored uninfected ticks ${ \\mathit { n } } = 1 0 5$ ) showed the presence of granulocytic ehrlichial DNA in eight additional rodents, four C. glareolus voles and two $A$ . flavicollis mice in area 1 and two $C .$ . glareolus voles in area 2. Ehrlichial DNA was also found in blood (three of eight), liver (four of eight), and ear (six of eight) samples from these eight rodents (Table 4). Furthermore, in area 1, granulocytic ehrlichial DNA was found in blood, spleen, liver, and ear samples collected from one S. araneus shrew without ticks (Table 4). The number of larvae hosted by each infected small mammal (PCR-positive tissues or feeding ticks) ranged from 0 to 25 ",
+        "bbox": [
+            85,
+            288,
+            500,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6324350b80e054eacbd12527c6ddd6f81de4549d68e528baea08f27220d463a1.jpg",
+        "table_caption": [
+            "TABLE 2. PCR detection of granulocytic ehrlichial DNA in I. ricinus ticks from small mammals captured in two areas in western Switzerland "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Collection area</td><td>Species collected</td><td>No. infested with I. ricinus/total no.</td><td>No. (%) infested with infected I. ricinus</td></tr><tr><td rowspan=\"5\">Area 1</td><td>Wood mouse (Apodemus sylvaticus)</td><td>27/29</td><td>2 (7.4)</td></tr><tr><td>Yellow-necked mouse (Apodemus flavicollis)</td><td>33/65</td><td>0</td></tr><tr><td>Bank vole (Clethrionomys glareolus)</td><td>15/28</td><td>5 (33.3)</td></tr><tr><td>Earth vole (Pitymys subterraneus)</td><td>0/1</td><td>0</td></tr><tr><td>Common shrew (Sorex araneus)</td><td>0/5</td><td>0</td></tr><tr><td rowspan=\"3\">Area 2</td><td>Wood mouse (Apodemus sylvaticus)</td><td>16/19</td><td>0</td></tr><tr><td>Yellow-necked mouse (Apodemus flavicollis)</td><td>3/4</td><td>0</td></tr><tr><td>Bank vole (Clethrionomys glareolus)</td><td>22/50</td><td>4 (18.2)</td></tr></table>",
+        "bbox": [
+            87,
+            749,
+            500,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7aa5908c15e0c14c5dcb7e18f501963a91e368108d618fefdf6703f4b1fa9653.jpg",
+        "table_caption": [
+            "TABLE 3. PCR examination for granulocytic ehrlichial DNA in tissues from small mammals harboring infected I. ricinus larvae in two areas in western Switzerland "
+        ],
+        "table_footnote": [
+            "a PCR negative $( - )$ or positive $( + )$ . "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">Collection area</td><td rowspan=\"2\">Species collected (trapping no.)</td><td rowspan=\"2\">No. of I. ricinus larvae collected on small mammals</td><td colspan=\"4\">Detection of GE in mammal \\( tissues^a \\)</td></tr><tr><td>Blood</td><td>Spleen</td><td>Liver</td><td>Ear</td></tr><tr><td rowspan=\"7\">Area 1</td><td>C. glareolus(12)</td><td>7</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>C. glareolus(18)</td><td>25</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>C. glareolus(58)</td><td>2</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>C. glareolus(63)</td><td>16</td><td>-</td><td>-</td><td>-</td><td>+</td></tr><tr><td>C. glareolus(120)</td><td>2</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>A. sylvaticus(15)</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>A. sylvaticus(22)</td><td>6</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td rowspan=\"4\">Area 2</td><td>C. glareolus(135)</td><td>7</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>C. glareolus(196)</td><td>1</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>C. glareolus(197)</td><td>6</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>C. glareolus(200)</td><td>4</td><td>+</td><td>-</td><td>-</td><td>+</td></tr></table>",
+        "bbox": [
+            527,
+            125,
+            941,
+            314
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Tables 3 and 4). Direct microscopic examinations of rodent Giemsa-stained buffy coat blood smears never demonstrated any intragranulocytic ehrlichial inclusions (morulae). ",
+        "bbox": [
+            523,
+            358,
+            940,
+            396
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Partial sequence analysis (388 bp) of the 16S rRNA genes from nine DNA samples derived from questing I. ricinus ticks and rodents revealed strong homology (99 to $1 0 0 \\%$ ) with known granulocytic ehrlichial DNA sequences. In contrast, the results of partial sequence analysis of the groESL heat shock operon were different. Sequence analysis of eight DNA samples allowed us to distribute them into two homologous groups: one group (group a), that included four ear samples and one pool of I. ricinus larvae from C. glareolus (voles 135, 196, 197, 200, and 63, respectively) and another group (group b) that included three questing female I. ricinus ticks (ticks T113, T163, and T192). The two groups, the one derived from rodents and the one derived from questing ticks, were $9 6 . 3 \\%$ homologous at the nucleotide level, and the nucleotide sequences within each group were identical. The region sequenced included a 432-bp segment following primer HS43. Subsequently, the complete nucleotide sequence (1,256 bp between the HS43 and HSVR primer sites) of an amplicon representing each group was obtained, one from a rodent ear sample (vole 196) and one from a flagged tick (tick T163). These two sequences were $9 4 . 3 \\%$ homologous. There were 71 substitutions at the nucleotide level: 2 in the spacer region and ",
+        "bbox": [
+            525,
+            398,
+            940,
+            679
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/381278519c0f02fbd52029c8f0c9f46a950d5a623be25a174f15a23cd04a8d28.jpg",
+        "table_caption": [
+            "TABLE 4. PCR examination for granulocytic ehrlichial DNA in tissues from small mammals with noninfected or without I. ricinus ticks in two regions in western Switzerland "
+        ],
+        "table_footnote": [
+            "a PCR negative (2) or positive $( + )$ . "
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">Collection area</td><td rowspan=\"2\">Species collected (trapping no.)</td><td rowspan=\"2\">No. of I. ricinus larvae collected on small mammals</td><td colspan=\"4\">Detection of GE in mammal \\( tissues^a \\)</td></tr><tr><td>Blood</td><td>Spleen</td><td>Liver</td><td>Ear</td></tr><tr><td rowspan=\"7\">Area 1</td><td>C. glareolus(59)</td><td>Without ticks</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>C. glareolus(86)</td><td>Without ticks</td><td>-</td><td>+</td><td>-</td><td>+</td></tr><tr><td>C. glareolus(116)</td><td>3</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>C. glareolus(123)</td><td>3</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>A. flavicollis(83)</td><td>1</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>A. flavicollis(112)</td><td>Without ticks</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>S. araneus(69)</td><td>Without ticks</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td rowspan=\"2\">Area 2</td><td>C. glareolus(164)</td><td>10</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>C. glareolus(167)</td><td>1</td><td>+</td><td>+</td><td>-</td><td>-</td></tr></table>",
+        "bbox": [
+            527,
+            746,
+            941,
+            914
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            931,
+            45,
+            941,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "69 in the groEL-coding sequence. Comparison of the groESL heat shock operon sequences of these two groups with all the E. phagocytophila genogroup sequences deposited in the Gen-Bank database showed that the group (group b) derived from questing ticks had 99.3 to $9 9 . 8 \\%$ homology but that the group (group a) derived from rodents was unique and presented only 94.3 to $9 4 . 5 \\%$ homology. Furthermore, the deduced amino acid sequence for the groEL protein amplified from the rodent group differed at three positions $( 0 . 7 \\% )$ . ",
+        "bbox": [
+            88,
+            87,
+            500,
+            202
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dual infections with GE and B. burgdorferi sensu lato were found in one questing I. ricinus nymph (tick T74) and in ear samples from one A. sylvaticus mouse (mouse 15) and three $C _ { ☉ }$ . glareolus voles (voles 12, 135, and 197). The samples from tick T74, mouse 15, and vole 12 came from area 1, and those from voles 135 and 197 came from area 2. Further examinations showed that one C. glareolus vole (vole 135) was actually infected with GE and Borrelia afzelii. ",
+        "bbox": [
+            88,
+            202,
+            500,
+            304
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            247,
+            321,
+            341,
+            334
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "I. ricinus is the commonest tick species in Switzerland, living in wooded areas with abundant low-stratum vegetation (generally deciduous woodland but also coniferous or mixed forest). This tick species plays an important role as a vector of pathogens of medical and veterinary importance. In Switzerland, in addition to $E$ . phagocytophila (50), I. ricinus transmits B. burgdorferi sensu lato (13), the viral agent of tick-borne encephalitis (1), rickettsiae including Rickettsia helvetica (1, 6), Rickettsia slovaca, and Coxiella burnetii (1), and the protozoan Babesia divergens, the causative agent of bovine babesiosis (26). Additionally, I. ricinus ticks may carry trypanosomes (Trypanosoma theileri) and nematodes (Dipetalonema rugosicauda) (1). ",
+        "bbox": [
+            88,
+            342,
+            500,
+            494
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A low overall prevalence of infection with GE $( 1 . 4 \\% )$ was detected in I. ricinus ticks collected in two areas of Switzerland. Our results are in agreement with the infection prevalences of 0.8 and $1 . 3 \\%$ detected in host-seeking I. ricinus ticks collected in similar areas in eastern Switzerland by Pusterla et al. (53, 54). The low prevalence of infection that we found in I. ricinus ticks in western Switzerland was generally similar to those described elsewhere in Europe, although the prevalence of infected ticks varied greatly with the origin of the ticks examined. In Europe, studies that have used PCR methods to detect GE in questing ticks have demonstrated the role of I. ricinus as a vector. In Scotland, the prevalence of infection in pools of nymphs and adults ranged from ${ > } 0 . 2 5$ to $2 \\%$ (2). Ogden et al. (45) found a prevalence of infection of $1 . 4 \\%$ in nymphs and adults in English woodlands and a higher prevalence in the uplands, 6 and $9 \\%$ , respectively. In central France, Parola et al. (47) amplified ehrlichial DNA from 1 of 80 $( 1 . 3 \\% )$ adult ticks examined. The presence of GE in I. ricinus has also been demonstrated in Sweden, in areas where antibodies to the HGE agent had previously been found in serum samples from healthy inhabitants (23). Of 151 ticks collected from the west and east Swedish coasts, 10 $( 6 . 6 \\% )$ were found to contain ehrlichial DNA (69). In Slovenia, where the first case of HGE was described in Europe, $3 . 2 \\%$ of adult ticks contained GE (49). In central Italy, the analysis of 86 nymphs showed an infection rate of $2 4 . \\dot { 4 } \\%$ (19). This infection rate constitutes the highest prevalence registered in Europe. The prevalence is lower $( 4 . 2 \\% )$ in the northeastern region of Italy (18). ",
+        "bbox": [
+            88,
+            496,
+            500,
+            851
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the United States, the prevalence of infection in I. scapularis and I. pacificus, tick species closely related to I. ricinus, is often higher. The role of I. scapularis as a vector of transmission of GE to animals and humans in the upper Midwest and in the Northeast United States is well documented. In the eastern United States, studies carried out in Connecticut, Mas-",
+        "bbox": [
+            88,
+            852,
+            500,
+            927
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "sachusetts, New Jersey, New York, and Rhode Island described various prevalences of infection with GE in I. scapularis ticks ranging from 7.6 to $53 \\%$ in adults and from 1.5 to $2 0 . 6 \\%$ in nymphs (14, 20, 35, 41, 46, 60, 62, 68, 73). Because I. scapularis does not occur in California, I. pacificus, a closely related tick species, has been suspected to be the vector of GE in that state. Kramer et al. (33) found a minimum infection rate of $2 \\%$ in adult ticks. Barlough et al. (5) found a minimum infection rate of $0 . 8 \\%$ among adult ticks harboring detectable GE. ",
+        "bbox": [
+            529,
+            87,
+            938,
+            202
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our study provides supporting evidence for the role of wild small mammals, such as A. sylvaticus, A. flavicollis, S. araneus, and particularly C. glareolus, in the transmission of GE to I. ricinus ticks in Europe. Combining the results for small mammals, that is, granulocytic ehrlichial infection in hosted larval ticks or in blood and tissue samples from mammals, we found that the prevalence of granulocytic ehrlichial infection is significantly higher in $C .$ . glareolus $( 1 9 . 2 \\%$ ; 15 of 78) than in A. sylvaticus ( $4 . 2 \\%$ ; 2 of 48 $[ P = 0 . 0 1 ]$ ) and A. flavicollis $( 2 . 9 \\%$ 2 of 69 $[ P = 0 . 0 0 1 ]$ ). Unfortunately, the number of S. araneus shrews trapped was insufficient to be taken into consideration. In Switzerland, as elsewhere in Europe, Apodemus mice and Clethrionomys voles are important hosts for larval I. ricinus but carry very few nymphal I. ricinus ticks and no adults (31). This was also the case in this study. Most of the ticks that we collected on mammals were larvae, but three A. sylvaticus mice hosted nymphs as well. Unlike other rickettsial agents, Ehrlichia spp. are not known to be maintained through transovarial transmission in ticks. Therefore, the prevalence of granulocytic ehrlichial infection in small mammals could be expected to be low because they would receive few bites from ticks with granulocytic ehrlichial infection. Granulocytic ehrlichial DNA was amplified from the tissues and ticks of 20 $( 1 0 . 0 \\% )$ of 201 mammals, including C. glareolus, A. sylvaticus (only from feeding larval ticks), A. flavicollis, and S. araneus. As far as we know, this is the first observation of the presence of GE in I. ricinus larvae feeding on these four mammal species and in the tissues of A. sylvaticus, A. flavicollis, and S. araneus. In the woodlands of the northwest of England (45), in areas where no I. ricinus ticks have been found on any rodents over 2 years of study, results showed that 5 of 25 $( 2 0 \\% )$ engorged adult Ixodes trianguliceps ticks collected from five C. glareolus voles and eight A. sylvaticus mice were PCR positive for GE. Blood from one C. glareolus vole which yielded an infected tick was also positive. In contrast, none of the 365 colony-reared, infectionfree I. ricinus larvae which fed successfully on $4 0 ~ C .$ . glareolus and A. sylvaticus rodents captured in the woodlands was PCR positive, suggesting that none of these rodents was infected with GE (45). In the United States, the white-footed mouse (P. leucopus), besides being a major host for submature I. scapularis, is apparently a main reservoir host for GE as well. Granulocytic ehrlichial DNA was amplified from laboratory-reared I. scapularis ticks that fed upon wild $P _ { \\ l }$ . leucopus mice trapped in areas of Massachusetts where HGE is endemic (65). In areas of Minnesota where I. scapularis was abundant, Walls et al. (72) found that 18 of $1 5 8 ~ P .$ . leucopus mice $( 1 1 . 4 \\% )$ were PCR positive. Serologic evidence of GE infection in $P$ . leucopus was demonstrated as well (10, 73). More serologic evidence of GE infection was also found in Tamias striatus and Clethrionomys gapperi (72) and in Neotoma spp. and other Peromyscus spp. (44). ",
+        "bbox": [
+            529,
+            203,
+            938,
+            851
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The comparative sensitivity of PCR for the various matrices tested (blood and tissues) is unknown, but among the samples that we collected from small mammals and that were PCR positive for granulocytic ehrlichial DNA, blood seems to be less often infected $3 5 \\%$ ; 7 of 20 samples). This result could mean that the presence of ehrlichiae in the peripheral blood-",
+        "bbox": [
+            529,
+            852,
+            938,
+            927
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            931,
+            45,
+            941,
+            55
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "streams of small mammals is short-lived. In contrast, spleen and ear samples $7 0 \\%$ ; 14 of 20) seem to be more often infected. Studies on canine ehrlichiosis showed that the spleen is probably the organ that harbors $E$ . canis organisms for the longest period of time and is the best source for the diagnosis of the $E$ . canis carrier state by PCR. Similar results were found for monkeys experimentally infected with the HGE agent (25). In dogs infection with $E$ . canis can persist in the spleen for years (28). Studies conducted with mice experimentally infected with the HGE agent showed splenic infection (11). In horses that were experimentally infected with the HGE agent and then killed, ehrlichial DNA was detected in various organs but never in blood (15). ",
+        "bbox": [
+            83,
+            87,
+            501,
+            256
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GE and B. burgdorferi, the agent of Lyme borreliosis, share the same tick vectors in Europe and in the United States (12, 13): I. ricinus ticks and I. scapularis and I. pacificus ticks, respectively. Furthermore, small mammals such as Apodemus mice and Clethrionomys voles are competent reservoirs for B. burgdorferi and hosts for subadult I. ricinus in Europe (30), just as $P .$ . leucopus is a competent reservoir for the Lyme disease agent and for subadult I. scapularis ticks in the United States. The majority of the studies that we cited earlier were carried out in areas where Lyme borreliosis is highly endemic. In our study, one questing I. ricinus nymph of 417 ticks examined was infected with both pathogens, as were ear samples from one A. sylvaticus mouse and three C. glareolus voles. Dual infections in these rodent species are described here for the first time. Further analyses to identify B. burgdorferi sensu lato to the species level showed that one of these C. glareolus voles was actually infected with B. afzelii, a common specific association observed in Switzerland (30, 31). Cinco et al. (19) found a dual-infection rate of $8 . 1 \\%$ in adult I. ricinus ticks. In the United States, the rates of simultaneous infection with B. burgdorferi and GE ranged from 4 to $2 8 . 2 \\%$ in adult ticks (14, 35, 60, 62, 68) and from 1.6 to $4 . 8 \\%$ in nymphs (20, 62). All these ticks were collected in areas situated in counties which have among the highest rates of Lyme disease in the United States. ",
+        "bbox": [
+            83,
+            256,
+            500,
+            566
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is interesting that a unique groESL sequence was amplified from the samples associated with rodents. The groESL sequences obtained from questing ticks were similar to sequences previously obtained from the E. phagocytophila genogroup and were most similar to sequences of European origin. Among the E. phagocytophila genogroup groESL sequences reported previously, the maximum divergence was $1 . 5 \\%$ , and the nucleotide sequences of the spacer region and the deduced amino acid sequences of the groEL protein were identical (49, 63). The groESL sequences obtained from the rodents and rodent-associated I. ricinus ticks were distinctly different, showing divergences of approximately $5 \\%$ at the nucleotide level and $0 . 7 \\%$ at the amino acid level. Two nucleotide differences were detected in the spacer region. It will be interesting to see whether this variant will eventually be detected in samples from questing ticks or larger infected animals. We cannot discount the possibility that the groESL sequences were amplified from a different but closely related species. Among a mixed population, a majority of variants or variants with sequences most similar to the PCR primers would be detected and other variants could be missed. The use of degenerate primers in the primary step of the groESL PCR enhances the possibility of detecting related bacteria. Moreover, dual peaks were detected in several positions in the 16S rRNA gene sequences amplified from the rodents, suggesting that multiple sequence variants of GE were present in individual rodents. Whereas rodents in western Switzerland appear to represent an important reservoir for the propagation of these variant ",
+        "bbox": [
+            83,
+            566,
+            500,
+            930
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "forms of GE, additional studies are needed to examine the roles of these agents in human and veterinary diseases. ",
+        "bbox": [
+            525,
+            87,
+            941,
+            114
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            656,
+            123,
+            808,
+            134
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Swiss National Science Foundation (grant 32-52744.97). ",
+        "bbox": [
+            525,
+            141,
+            940,
+            165
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to W. L. Nicholson and J. E. Childs (Centers for Disease Control and Prevention, Atlanta, Ga.) for continued support and cooperation. ",
+        "bbox": [
+            525,
+            164,
+            941,
+            199
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            692,
+            201,
+            774,
+            211
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "1. Aeschlimann, A., W. Burgdorfer, H. Matile, O. Pe´ter, and R. Wyler. 1979. Aspects nouveaux du roˆle de vecteur joue´ par I. ricinus L. en Suisse. Acta Trop. 36:181–191. ",
+            "2. Alberdi, M. P., A. R. Walker, E. A. Paxton, and K. J. Sumption. 1998. Natural prevalence of infection with Ehrlichia (Cytoecetes) phagocytophila of Ixodes ricinus ticks in Scotland. Vet. Parasitol. 78:203–213. ",
+            "3. Bakken, J. S., J. S. Dumler, S. M. Chen, M. R. Eckman, L. L. Van Etta, and D. H. Walker. 1994. Human granulocytic ehrlichiosis in the upper Midwest United States. A new species emerging? JAMA 272:212–218. ",
+            "4. Bakken, J. S., J. Krueth, R. L. Tilden, J. S. Dumler, and B. E. Kristiansen. 1996. Serological evidence of human granulocytic ehrlichiosis in Norway. Eur. J. Clin. Microbiol. Infect. Dis. 15:829–832. ",
+            "5. Barlough, J. E., J. E. Madigan, V. L. Kramer, J. R. Clover, L. T. Hui, J. P. Webb, and L. K. Vredevoe. 1997. Ehrlichia phagocytophila genogroup rickettsiae in ixodid ticks from California collected in 1995 and 1996. J. Clin. Microbiol. 35:2018–2021. ",
+            "6. Beati, L., O. Pe´ter, W. Burgdorfer, A. Aeschlimann, and D. Raoult. 1993. Confirmation that Rickettsia helvetica sp. nov. is a distinct species of the spotted fever group of rickettsiae. Int. J. Syst. Bacteriol. 43:521–526. ",
+            "7. Belongia, E. A., K. D. Reed, P. D. Mitchell, C. P. Kolbert, D. H. Persing, J. S. Gill, and J. J. Kazmierczak. 1997. Prevalence of granulocytic Ehrlichia infection among white-tailed deer in Wisconsin. J. Clin. Microbiol. 35:1465–1468. ",
+            "8. Bjoersdorff, A., P. Brouqui, I. Eliasson, R. F. Massung, B. Wittesjo, and J. Berglund. 1999. Serological evidence of Ehrlichia infection in Swedish Lyme borreliosis patients. Scand. J. Infect. Dis. 31:51–55. ",
+            "9. Brouqui, P., J. S. Dumler, R. Lienhard, M. Brossard, and D. Raoult. 1995. Human granulocytic ehrlichiosis in Europe. Lancet 346:782–783. ",
+            "10. Bunnell, J. E., J. S. Dumler, J. E. Childs, and G. E. Glass. 1998. Retrospective serosurvey for human granulocytic ehrlichiosis agent in urban whitefooted mice from Maryland. J. Wildl. Dis. 34:179–181. ",
+            "11. Bunnell, J. E., E. R. Trigiani, S. R. Srinivas, and J. S. Dumler. 1999. Development and distribution of pathologic lesions are related to immune status and tissue deposition of human granulocytic ehrlichiosis agent-infected cells in a murine model system. J. Infect. Dis. 180:546–550. ",
+            "12. Burgdorfer, W., A. G. Barbour, S. F. Hayes, J. L. Benach, E. Grunwaldt, and J. P. Davis. 1982. Lyme disease—a tick-borne spirochetosis? Science 216: 1317–1319. ",
+            "13. Burgdorfer, W., A. G. Barbour, S. F. Hayes, O. Pe´ter, and A. Aeschlimann. 1983. Erythema chronicum migrans—a tickborne spirochetosis. Acta Trop. 40:79–83. ",
+            "14. Chang, Y. F., V. Novosel, C. F. Chang, J. B. Kim, S. J. Shin, and D. H. Lein. 1998. Detection of human granulocytic ehrlichiosis agent and Borrelia burgdorferi in ticks by polymerase chain reaction. J. Vet. Diagn. Invest. 10:56–59. ",
+            "15. Chang, Y. F., V. Novosel, E. Dubovi, S. J. Wong, F. K. Chu, C. F. Chang, F. Del Piero, S. Shin, and D. H. Lein. 1998. Experimental infection of the human granulocytic ehrlichiosis agent in horses. Vet. Parasitol. 78:137–145. ",
+            "16. Chen, S. M., J. S. Dumler, J. S. Bakken, and D. H. Walker. 1994. Identification of a granulocytotropic Ehrlichia species as the etiologic agent of human disease. J. Clin. Microbiol. 32:589–595. ",
+            "17. Christova, I. S., and J. S. Dumler. 1999. Human granulocytic ehrlichiosis in Bulgaria. Am. J. Trop. Med. Hyg. 60:58–61. ",
+            "18. Cinco, M., D. Padovan, R. Murgia, M. Heldtander, and E. Olsson Engwall. 1998. Detection of HGE agent-like Ehrlichia in Ixodes ricinus ticks in northern Italy by PCR. Wien. Klin. Wochenschr. 110:898–900. ",
+            "19. Cinco, M., D. Padovan, R. Murgia, M. Maroli, L. Frusteri, M. Heldtander, K. E. Johansson, and E. Olsson Engwall. 1997. Coexistence of Ehrlichia phagocytophila and Borrelia burgdorferi sensu lato in Ixodes ricinus ticks from Italy as determined by 16S rRNA gene sequencing. J. Clin. Microbiol. 35: 3365–3366. ",
+            "20. Daniels, T. J., T. M. Boccia, S. Varde, J. Marcus, J. Le, D. J. Bucher, R. C. Falco, and I. Schwartz. 1998. Geographic risk for Lyme disease and human granulocytic ehrlichiosis in southern New York state. Appl. Environ. Microbiol. 64:4663–4669. ",
+            "21. Demaerschalck, I., A. Ben Messaoud, M. De Kesel, B. Hoyois, Y. Lobet, P. Hoet, G. Bigaignon, A. Bollen, and E. Godfroid. 1995. Simultaneous presence of different Borrelia burgdorferi genospecies in biological fluids of Lyme disease patients. J. Clin. Microbiol. 33:602–608. ",
+            "22. Des Vignes, F., and D. Fish. 1997. Transmission of the agent of human granulocytic ehrlichiosis by host-seeking Ixodes scapularis (Acari:Ixodidae) in southern New York state. J. Med. Entomol. 34:379–382. "
+        ],
+        "bbox": [
+            527,
+            213,
+            941,
+            928
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "5 ",
+        "bbox": [
+            931,
+            45,
+            941,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "23. Dumler, J. S., L. Dotevall, R. Gustafson, and M. Granstro¨m. 1997. A population-based seroepidemiologic study of human granulocytic ehrlichiosis and Lyme borreliosis on the west coast of Sweden. J. Infect. Dis. 175:720–722. ",
+            "24. Fingerle, V., J. L. Goodman, R. C. Johnson, T. J. Kurtti, U. G. Munderloh, and B. Wilske. 1997. Human granulocytic ehrlichiosis in southern Germany: increased seroprevalence in high-risk groups. J. Clin. Microbiol. 35:3244–3247. ",
+            "25. Foley, J. E., N. W. Lerche, J. S. Dumler, and J. E. Madigan. 1999. A simian model of human granulocytic ehrlichiosis. Am. J. Trop. Med. Hyg. 60:987–993. ",
+            "26. Gern, L., A. Kindler, and M. Brossard. 1988. Annual evolution of cattle immunity against Babesia divergens in northern Switzerland. Prev. Vet. Med. 6:9–16. ",
+            "27. Guy, E., S. Tasker, and D. H. Joynson. 1998. Detection of the agent of human granulocytic ehrlichiosis (HGE) in UK ticks using polymerase chain reaction. Epidemiol. Infect. 121:681–683. ",
+            "28. Harrus, S., T. Waner, I. Aizenberg, J. E. Foley, A. M. Poland, and H. Bark. 1998. Amplification of ehrlichial DNA from dogs 34 months after infection with Ehrlichia canis. J. Clin. Microbiol. 36:73–76. ",
+            "29. Hodzic, E., D. Fish, C. M. Maretzki, A. M. De Silva, S. Feng, and S. W. Barthold. 1998. Acquisition and transmission of the agent of human granulocytic ehrlichiosis by Ixodes scapularis ticks. J. Clin. Microbiol. 36:3574–3578. ",
+            "30. Humair, P. F., O. Pe´ter, R. Wallich, and L. Gern. 1995. Strain variation of Lyme disease spirochetes isolated from Ixodes ricinus ticks and rodents collected in two endemic areas in Switzerland. J. Med. Entomol. 32:433–438. ",
+            "31. Humair, P. F., O. Rais, and L. Gern. 1999. Transmission of Borrelia afzelii from Apodemus mice and Clethrionomys voles to Ixodes ricinus ticks: differential transmission pattern and overwintering maintenance. Parasitology 118:33–42. ",
+            "32. Hunfeld, K.-P., R. Allwinn, S. Peters, P. Kraiczy, and V. Brade. 1998. Serologic evidence for tick-borne pathogens other than Borrelia burgdorferi (TOBB) in Lyme borreliosis patients from midwestern Germany. Wien. Klin. Wochenschr. 110:901–908. ",
+            "33. Kramer, V. L., M. P. Randolph, L. T. Hui, W. E. Irwin, A. G. Gutierrez, and D. J. Vugia. 1999. Detection of the agents of human ehrlichioses in ixodid ticks from California. Am. J. Trop. Med. Hyg. 60:62–65. ",
+            "34. Lebech, A. M., K. Hansen, P. Pancholi, L. M. Sloan, J. M. Magera, and D. H. Persing. 1998. Immunoserologic evidence of human granulocytic ehrlichiosis in Danish patients with Lyme neuroborreliosis. Scand. J. Infect. Dis. 30: 173–176. ",
+            "35. Levin, M. L., F. des Vignes, and D. Fish. 1999. Disparity in the natural cycles of Borrelia burgdorferi and the agent of human granulocytic ehrlichiosis. Emerg. Infect. Dis. 5:204–208. ",
+            "36. Liz, J. S. 1994. Ehrlichia phagocytophila: aspects ´pidee ´miologiques, he´matologiques et se´rologiques de l’infection chez les bovins en Suisse. Ph.D. thesis. University of Neuchaˆtel, Neuchaˆtel, Switzerland. ",
+            "37. Liz, J. S., B. Rutti, and M. Brossard. 1997. Human granulocytic ehrlichiosis in Switzerland: serological evidences. Clin. Microbiol. Infect. 3:343. ",
+            "38. Lotric-Furlan, S., M. Petrovec, T. A. Zupanc, W. L. Nicholson, J. W. Sumner, J. E. Childs, and F. Strle. 1998. Human granulocytic ehrlichiosis in Europe: clinical and laboratory findings for four patients from Slovenia. Clin. Infect. Dis. 27:424–428. ",
+            "39. Magnarelli, L. A., J. F. Anderson, K. C. Stafford III, and J. S. Dumler. 1997. Antibodies to multiple tick-borne pathogens of babesiosis, ehrlichiosis, and Lyme borreliosis in white-footed mice. J. Wildl. Dis. 33:466–473. ",
+            "40. Magnarelli, L. A., T. N. Mather, and M. T. Yeh. 1995. Hemocytic rickettsialike organisms in Ixodes scapularis: transovarial and transstadial transmission. Can. J. Zool. 73:1380–1383. ",
+            "41. Magnarelli, L. A., K. C. Stafford III, T. N. Mather, M. T. Yeh, K. D. Horn, and J. S. Dumler. 1995. Hemocytic rickettsia-like organisms in ticks: serologic reactivity with antisera to ehrlichiae and detection of DNA of agent of human granulocytic ehrlichiosis by PCR. J. Clin. Microbiol. 33:2710–2714. ",
+            "42. Massung, R. F., K. Slater, J. H. Owens, W. L. Nicholson, T. N. Mather, V. B. Solberg, and J. G. Olson. 1998. Nested PCR assay for detection of granulocytic ehrlichiae. J. Clin. Microbiol. 36:1090–1095. ",
+            "43. Nicholson, W. L., M. B. Castro, V. L. Kramer, J. W. Sumner, and J. E. Childs. 1999. Dusky-footed wood rats (Neotoma fuscipes) as reservoirs of granulocytic ehrlichiae (Rickettsiales: Ehrlichieae) in northern California. J. Clin. Microbiol. 37:3323–3327. ",
+            "44. Nicholson, W. L., S. Muir, J. W. Sumner, and J. E. Childs. 1998. Serologic evidence of infection with Ehrlichia spp. in wild rodents (Muridae: Sigmodontinae) in the United States. J. Clin. Microbiol. 36:695–700. ",
+            "45. Ogden, N. H., K. Bown, B. K. Horrocks, Z. Woldehiwet, and M. Bennett. 1998. Granulocytic Ehrlichia infection in ixodid ticks and mammals in woodlands and uplands of the U.K. Med. Vet. Entomol. 12:423–429. ",
+            "46. Pancholi, P., C. P. Kolbert, P. D. Mitchell, K. D. Reed, J. S. Dumler, J. S. Bakken, S. R. Telford III, and D. H. Persing. 1995. Ixodes dammini as a potential vector of human granulocytic ehrlichiosis. J. Infect. Dis. 172:1007– 1012. ",
+            "47. Parola, P., L. Beati, M. Cambon, P. Brouqui, and D. Raoult. 1998. Ehrlichial DNA amplified from Ixodes ricinus (Acari: Ixodidae) in France. J. Med. Entomol. 35:180–183. ",
+            "48. Petrovec, M., S. Lotric Furlan, T. A. Zupanc, F. Strle, P. Brouqui, V. Roux, and J. S. Dumler. 1997. Human disease in Europe caused by a granulocytic Ehrlichia species. J. Clin. Microbiol. 35:1556–1559. "
+        ],
+        "bbox": [
+            87,
+            87,
+            501,
+            924
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "49. Petrovec, M., J. W. Sumner, W. L. Nicholson, J. E. Childs, F. Strle, J. Barlic, S. Lotric-Furlan, and T. Avsic-Zupanc. 1999. Identity of ehrlichial DNA sequences derived from Ixodes ricinus ticks with those obtained from patients with human granulocytic ehrlichiosis in Slovenia. J. Clin. Microbiol. 37:209–210. ",
+            "50. Pfister, K., A. Roesti, P. H. Boss, and B. Balsiger. 1987. Ehrlichia phagocytophila als Erreger des “Weidesfiebers” in der Berner Oberland. Schweiz. Arch. Tierheilkd. 129:343–347. ",
+            "51. Pusterla, N., J. Huder, C. Wolfensberger, B. Litschi, A. Parvis, and H. Lutz. 1997. Granulocytic ehrlichiosis in two dogs in Switzerland. J. Clin. Microbiol. 35:2307–2309. ",
+            "52. Pusterla, N., J. B. Huder, K. Feige, and H. Lutz. 1998. Identification of a granulocytic Ehrlichia strain isolated from a horse in Switzerland and comparison with other rickettsiae of the Ehrlichia phagocytophila genogroup. J. Clin. Microbiol. 36:2035–2037. ",
+            "53. Pusterla, N., J. B. Huder, H. Lutz, and U. Braun. 1998. Detection of Ehrlichia phagocytophila DNA in Ixodes ricinus ticks from areas in Switzerland where tick-borne fever is endemic. J. Clin. Microbiol. 36:2735–2736. ",
+            "54. Pusterla, N., C. M. Leutenegger, J. B. Huder, R. Weber, U. Braun, and H. Lutz. 1999. Evidence of the human granulocytic ehrlichiosis agent in Ixodes ricinus ticks in Switzerland. J. Clin. Microbiol. 37:1332–1334. ",
+            "55. Pusterla, N., R. Weber, C. Wolfensberger, G. Schar, R. Zbinden, W. Fierz, J. E. Madigan, J. S. Dumler, and H. Lutz. 1998. Serological evidence of human granulocytic ehrlichiosis in Switzerland. Eur. J. Clin. Microbiol. Infect. Dis. 17:207–209. ",
+            "56. Pusterla, N., C. Wolfensberger, H. Lutz, and U. Braun. 1997. Serologische Untersuchungen u¨ber das Vorkommen der bovinen Ehrlichiose in den Kantonen Zu¨rich, Schaffhausen, Thurgau, St. Gallen und Obwalden. Schweiz. Arch. Tierheilkd. 139:543–549. ",
+            "57. Reed, K. D., P. D. Mitchell, D. H. Persing, C. P. Kolbert, and V. Cameron. 1995. Transmission of human granulocytic ehrlichiosis. JAMA 273:23. ",
+            "58. Reubel, G. H., R. B. Kimsey, J. E. Barlough, and J. E. Madigan. 1998. Experimental transmission of Ehrlichia equi to horses through naturally infected ticks (Ixodes pacificus) from northern California. J. Clin. Microbiol. 36:2131–2134. ",
+            "59. Richter, P. J., Jr., R. B. Kimsey, J. E. Madigan, J. E. Barlough, J. S. Dumler, and D. L. Brooks. 1996. Ixodes pacificus (Acari: Ixodidae) as a vector of Ehrlichia equi (Rickettsiales: Ehrlichieae). J. Med. Entomol. 33:1–5. ",
+            "60. Schauber, E. M., S. J. Gertz, W. T. Maple, and R. S. Ostfeld. 1998. Coinfection of blacklegged ticks (Acari: Ixodidae) in Dutchess County, New York, with the agents of Lyme disease and human granulocytic ehrlichiosis. J. Med. Entomol. 35:901–903. ",
+            "61. Schouls, L. M., I. Van De Pol, S. G. Rijpkema, and C. S. Schot. 1999. Detection and identification of Ehrlichia, Borrelia burgdorferi sensu lato, and Bartonella species in Dutch Ixodes ricinus ticks. J. Clin. Microbiol. 37:2215– 2222. ",
+            "62. Schwartz, I., D. Fish, and T. J. Daniels. 1997. Prevalence of the rickettsial agent of human granulocytic ehrlichiosis in ticks from a hyperendemic focus of Lyme disease. N. Engl. J. Med. 337:49. ",
+            "63. Sumner, J. W., W. L. Nicholson, and R. F. Massung. 1997. PCR amplification and comparison of nucleotide sequences from the groESL heat shock operon of Ehrlichia species. J. Clin. Microbiol. 35:2087–2092. ",
+            "64. Sumption, K. J., D. J. M. Wright, S. J. Cutler, and B. A. S. Dale. 1995. Human ehrlichiosis in the UK. Lancet 346:1487–1488. ",
+            "65. Telford, S. R., III, J. E. Dawson, P. Katavolos, C. K. Warner, C. P. Kolbert, and D. H. Persing. 1996. Perpetuation of the agent of human granulocytic ehrlichiosis in a deer tick-rodent cycle. Proc. Natl. Acad. Sci. USA 93: 6209–6214. ",
+            "66. Thomas, D. R., M. Sillis, T. J. Coleman, S. M. Kench, N. H. Ogden, R. L. Salmon, P. Morgan-Capner, P. Softley, and D. Meadows. 1998. Low rates of ehrlichiosis and Lyme borreliosis in English farmworkers. Epidemiol. Infect. 121:609–614. ",
+            "67. van Dobbenburgh, A., A. P. van Dam, and E. Fikrig. 1999. Human granulocytic ehrlichiosis in western Europe. N. Engl. J. Med. 340:1214–1216. ",
+            "68. Varde, S., J. Beckley, and I. Schwartz. 1998. Prevalence of tick-borne pathogens in Ixodes scapularis in a rural New Jersey county. Emerg. Infect. Dis. 4: 97–99. ",
+            "69. Von Stedingk, L. V., M. G. Gu¨rtleschmid, H. S. Hanson, R. Gustafson, L. Dotevall, E. Olsson Engwall, and M. Granstro¨m. 1997. The human granulocytic ehrlichiosis (HGE) agent in Swedish ticks. Clin. Microbiol. Infect. 3:573–574. ",
+            "70. Walker, D. H., and J. S. Dumler. 1996. Emergence of the ehrlichioses as human health problems. Emerg. Infect. Dis. 2:18–29. ",
+            "71. Walls, J. J., K. M. Asanovich, J. S. Bakken, and J. S. Dumler. 1998. Serologic evidence of a natural infection of white-tailed deer with the agent of human granulocytic ehrlichiosis in Wisconsin and Maryland. Clin. Diagn. Lab. Immunol. 5:762–765. ",
+            "72. Walls, J. J., B. Greig, D. F. Neitzel, and J. S. Dumler. 1997. Natural infection of small mammal species in Minnesota with the agent of human granulocytic ehrlichiosis. J. Clin. Microbiol. 35:853–855. ",
+            "73. Yeh, M. T., T. N. Mather, R. T. Coughlin, C. Gingrich-Baker, J. W. Sumner, and R. F. Massung. 1997. Serologic and molecular detection of granulocytic ehrlichiosis in Rhode Island. J. Clin. Microbiol. 35:944–947. "
+        ],
+        "bbox": [
+            525,
+            87,
+            940,
+            924
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "6 ",
+        "bbox": [
+            931,
+            45,
+            941,
+            55
+        ],
+        "page_idx": 5
+    }
+]

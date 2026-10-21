@@ -1,0 +1,3407 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Первый случай идентификации Orthohantavirus dobravaense, вирус Куркино (Hantaviridae: Orthohantavirus) на территории Приволжского федерального округа "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                142,
+                152,
+                931,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Насыров Т.Р.1 , Елбоева П.И.1 , Мартынова Е.В.1 , Охлопкова О.В.2 , Тюрин Ю.А.3 , Кабве Э.1 , Давидюк Ю.Н.1 "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                226,
+                823,
+                259
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 Институт фундаментальной медицины и биологии ФГАОУ ВО «Казанский (Приволжский) федеральный университет», 420008, г. Казань, Россия; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 НИИ вирусологии ФГБНУ «Федеральный исследовательский центр фундаментальной и трансляционной медицины», 630060, г. Новосибирск, Россия; "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 ФГБОУ ВО «Казанский государственный медицинский университет» Минздрава России, 420012, г. Казань, Россия "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                268,
+                892,
+                329
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Резюме "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                142,
+                350,
+                201,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Введение. Вирусы Куркино и Сочи – Orthohantavirus dobravaense (ODOB), являются одними из возбудите- лей геморрагической лихорадки с почечным синдромом на европейской части территории России. Однако в настоящее время в литературе приводятся только ограниченные данные о распространении в России генетических вариантов ODOB. "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                362,
+                862,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Цель – выявление ODOB на территориях ряда регионов Приволжского (ПФО), Центрального и Уральского федеральных округов "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { P } \\Phi"
+                    },
+                    {
+                        "type": "text",
+                        "content": "и проведение анализа их генома. "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                411,
+                862,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Материалы и методы. Общую РНК выделяли из образцов легочной ткани полевых мышей (Apodemus agrarius) и желтогорлых мышей (A. flavicollis), отловленных в ряде субъектов ПФО и соседних регионах в 2015–2023 гг. Выявление ортохантавирусной РНК проводили методом полимеразной цепной реакции (ПЦР) с обратной транскрипцией с использованием видоспецифичных праймеров для ODOB. Про- дукты ПЦР-амплификации разделяли в агарозном геле, очищали и секвенировали по Сэнгеру. Для секве- нированных участков генома проводили сравнительный и филогенетический анализ. "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                437,
+                862,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Результаты. В одном образце A. flavicollis из Ульяновской области была выявлена ортохантавирусная РНК. По результатам анализа нуклеотидных последовательностей секвенированных ПЦР-продуктов было установлено, что наиболее высокие значения идентичности были получены при сравнении выявленного нуклеотидной последовательности РНК-изолята с референсным штаммом ODOB (вирус Куркино из Туль- ской области). Данные филогенетического анализа секвенированных участков S- и M-сегментов позволили установить, что наиболее близкородственным выявленному РНК-изоляту оказался вирус Куркино, найден- ный ранее у A. agrarius в Тульской области. Таким образом, выявленный изолят был идентифицирован как вариант вируса Куркино, ранее выявленного в центральных областях России и в Западной Сибири, близко- родственные которому геноварианты распространены в странах центральной Европы. "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                510,
+                862,
+                622
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Выводы. Впервые доказано, что: 1) ареал Orthohantavirus dobravaense (вирус Куркино) распространяется на часть территории ПФО; 2) в Ульяновской области коциркулируют Orthohantavirus dobravaense (вирус Куркино) и Orthohantavirus puumalaense (вирус Пуумала). "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                622,
+                862,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ключевые слова: Orthohantavirus dobravaense; вирус Куркино; ГЛПС; Apodemus flavicollis; филогенетиче- ский анализ; коциркуляция; природный резервуар "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                666,
+                862,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Для цитирования: Насыров Т.Р., Елбоева П.И., Мартынова Е.В., Охлопкова О.В., Тюрин Ю.А., Кабве Э., Давидюк Ю.Н. Первый случай идентификации Orthohantavirus dobravaense, вирус Куркино (Hantaviridae: Orthohantavirus) на территории Приволжского федерального округа. Вопросы вирусологии. 2025; 70(6): 570–580. DOI: https://doi.org/10.36233/0507-4088-350 EDN: https://elibrary.ru/vwfdos "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                694,
+                862,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Финансирование. Исследование выполнено за счет гранта РНФ № 25-24-00186. "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                746,
+                658,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Конфликт интересов. Авторы подтверждают отсутствие конфликта финансовых/нефинансовых интересов, свя- занных с публикацией статьи. "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                757,
+                862,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Этическое утверждение. Авторы подтверждают соблюдение институциональных и национальных стандартов по использованию лабораторных животных в соответствии с Consensus author guidelines for animal use (IAVES 23.07.2010). Протокол исследования с использованием животных одобрен Комитетом по биомедицинской этике КФУ (Протокол № 23 от 30.06.2020). "
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                779,
+                862,
+                824
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                27,
+                463,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                41,
+                297,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCHES "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                55,
+                211,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "0 "
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                63,
+                781,
+                83
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Check for updates "
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                66,
+                926,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ОРИГИНАЛЬНЫЕ ИССЛЕДОВАНИЯ "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                99,
+                287,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                111,
+                277,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BY "
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                100,
+                863,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "© НАСЫРОВ Т.Р., ЕЛБОЕВА П.И., МАРТЫНОВА Е.В., ОХЛОПКОВА О.В., ТЮРИН Ю.А., КАБВЕ Э., ДАВИДЮК Ю.Н., 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                125,
+                673,
+                137
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                73,
+                930,
+                102,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL STUDY ARTICLE DOI: https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                62,
+                99,
+                270,
+                122
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The first identification of Orthohantavirus dobravaense, Kurkino virus (Hantaviridae: Orthohantavirus) in the Volga Federal District "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                134,
+                139,
+                816,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Timur R. Nasyrov1 , Polina I. Elboeva1 , Ekaterina V. Martynova1 , Olesia V. Ohlopkova2 , Yuriy A. Tyurin3 , Emmanuel Kabwe1 , Yuriy N. Davidyuk1 "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                214,
+                836,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Institute of Fundamental Medicine and Biology Federal State Autonomous Educational Institution of Higher Education «Kazan (Volga Region) Federal University», 420008, Kazan, Russia; "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                256,
+                836,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2 Research Institute of Virology, Federal Research Center for Fundamental and Translational Medicine, 630060, Novosibirsk, Russia; "
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                281,
+                794,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3 Kazan State Medical University of the Ministry of Health of the Russian Federation, 420012, Kazan, Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                304,
+                776,
+                315
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                132,
+                329,
+                196,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction. The Kurkino and Sochi viruses of species Orthohantavirus dobravaense (ODOB) are among the pathogens that cause hemorrhagic fever with renal syndrome in the European part of Russia. However, the current literature provides limited data on the distribution of genetic variants of the ODOB in Russia. "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                341,
+                853,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The aim is to identify ODOB in several regions of Volga, Central and Ural Federal districts of the Russian Federation and analyze their genome. "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                379,
+                853,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and methods. Total RNA was isolated from lung tissue samples of striped field mouse (Apodemus agrarius) and yellow-necked mouse (A. flavicollis) captured in a number of areas of the Volga Federal District and neighboring regions in 2015–2023. Orthohantavirus RNA was detected by RT-PCR using specific primers to ODOB. The PCR amplification products were separated in agarose gel, purified, and subjected to Sanger sequencing. Comparative and phylogenetic analyses were performed for the sequenced genome fragments. "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                403,
+                853,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Results. Orthohantavirus RNA was detected in one sample of A. flavicollis from the Ulyanovsk region. Based on the analysis of the nucleotide sequences of the sequenced PCR products, it was found that the highest values of similarity were obtained when comparing the identified strain with the reference Kurkino virus from the Tula region. The data from the phylogenetic analysis of the sequenced fragment of the S and M segments allowed us to establish that the identified isolate is closely related to the Kurkino virus found earlier in A. agrarius in the Tula region. Thus, the detected isolate was identified as variant of Kurkino virus, which is also widespread in the central regions of Russia, Wetern Siberia and close related to genome variants that are distributed in Central Europian countries. "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                467,
+                853,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusions. It is proved for the first time that: 1) the range of Orthohantavirus dobravaense (Kurkino virus) extends to a part of the territory of the Volga Federal District; 2) Orthohantavirus dobravaense (Kurkino virus) and Orthohantavirus puumalaense (Puumala virus) are co-circulating in the Ulyanovsk region. "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                565,
+                853,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: Orthohantavirus dobravaense; Kurkino virus; HFRS; Apodemus flavicollis; phylogenetic analysis; co-circulation; natural reservior "
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                609,
+                853,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For citation: Nasyrov T.R., Elboeva P.I., Martynova E.V., Ohlopkova O.V., Tyurin Yu.A., Kabwe E., Davidyuk Yu.N. The first identification of Orthohantavirus dobravaense, Kurkino virus (Hantaviridae: Orthohantavirus) in the Volga Federal District. Problems of Virology (Voprosy Virusologii). 2025; 70(6): 570–580. "
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                637,
+                853,
+                673
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: https://doi.org/10.36233/0507-4088-350 EDN: https://elibrary.ru/vwfdos "
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                675,
+                618,
+                687
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding. The research was funded by RNF grant № 25-24-00186. "
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                689,
+                534,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflict of interest. The authors confirm that there is no conflict of financial/non-financial interests related to the publication of the article. "
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                701,
+                843,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ethics approval. Authors confirm compliance with institutional and national standards for the use of laboratory animals in accordance with «Consensus Author Guidelines for Animal Use» (IAVES, July 23, 2010). The research protocol was approved by the Ethics Committee of the institution (Protocol No 23 dated June 30, 2020). "
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                723,
+                843,
+                757
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Введение "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                231,
+                782,
+                312,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ортохантавирусы представители семейства Hantaviridae, рода Orthohantavirus, – широко распро- странены на территориях всех континентов, за исклю- чением Антарктиды. Патогенные ортохантавирусы являются возбудителями таких заболеваний человека, как геморрагическая лихорадка с почечным синдро- мом (ГЛПС) и хантавирусный кардиопульмональный синдром, регистрируемых в Старом и Новом Свете соответственно [1]. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                800,
+                482,
+                924
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ГЛПС – это острая зоонозная инфекция, широко распространенная в Евразии. Клиническая картина заболевания характеризуется интоксикацией, лихо- радкой и поражением почек, однако степень тяжести, выраженность симптомов и наличие патогномонич- ных признаков могут существенно различаться в за- висимости от вида и генотипа вируса-возбудителя [2]. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                785,
+                924,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Представители разных видов и геновариантов ор- тохантавирусов ассоциированы со специфическими природными резервуарами, которыми являются мел- "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                881,
+                924,
+                923
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ВОПРОСЫ ВИРУСОЛОГИИ. 2025; 70(6) https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                682,
+                27,
+                924,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ОРИГИНАЛЬНЫЕ ИССЛЕДОВАНИЯ "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                55,
+                924,
+                68
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "571 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                930,
+                922,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "кие млекопитающие, преимущественно грызуны. Ос- новной путь инфицирования человека – аэрогенный: попадание вирусных частиц в дыхательные пути про- исходит при вдыхании аэрозоля, содержащего части- цы экскрементов, высохшей мочи или слюны инфи- цированного животного [3]. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                100,
+                492,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "В России ГЛПС занимает одно из первых мест по заболеваемости среди всех природно-очаговых ин- фекций: за 10-летний период (с 2015 по 2024 г.) в РФ было зарегистрировано 64 954 случая заболевания, более "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "82 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "из которых – в Приволжском федеральном округе (ПФО)1 . В азиатской части РФ основными воз- будителями ГЛПС являются Orthohantavirus hantanense (ранее Hantaan orthohantavirus – HNTV) и O. seoulense (ранее Seoul orthohantavirus – SEOV), в европейской – O. puumalaense (ранее Puumala orthohantavirus – PUUV), вызывающий подавляющее большинство слу- чаев заболевания в стране, и O. dobravaense (ODOB, ранее Dobrava-Belgrade orthohantavirus – DOBV) – ви- русы Куркино и Сочи [2]. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                183,
+                492,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Геном ортохантавирусов представлен тремя сег- ментами одноцепочечной РНК отрицательной поляр- ности: малым (S), средним (M) и большим (L), коди- рующими, соответственно, нуклеокапсидный белок (N), прекурсор мембранных гликопротеинов Gn и Gc (GPC) и РНК-зависимую РНК-полимеразу (RdRp) [4]. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                374,
+                490,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Среди циркулирующих в Европе ортохантавирусов наибольшую угрозу для жизни человека представляет ODOB, характеризующийся особенно тяжелым тече- нием заболевания и сравнительно высокой летально- стью, достигающей "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "12 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[5]. В настоящее время выде- ляют ряд генетических групп ODOB, ассоциирован- ных с определенными видами мышей рода Apodemus, являющимися их природными резервуарами. Однако были также выявлены случаи возможного перехода вирусов из одной генетической группы на вид мы- шей, ассоциированный с другой группой [6]. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                456,
+                492,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Генетическая группа вируса Добрава (обозначав- шаяся также как DOBV-Af) ассоциирована с жел- тогорлой мышью (A. flavicollis) и циркулирует пре- имущественно на территориях Юго-Восточной и Центральной Европы [7, 8]. Представители дан- ной генетической группы ассоциируются с тяжелым клиническим течением вызываемого заболевания, а также характеризуются наибольшими вирулент- ностью и летальностью среди всех геновариантов ODOB. Основным естественным резервуаром груп- пы вируса Куркино (DOBV-Aa) является полевая мышь (A. agrarius), обитающая преимущественно в Центральной Европе, в европейской части России (ЕЧР) и западной Сибири, ассоциированная форма ГЛПС, как правило, проходит в легкой и умеренно тяжелой форме [9–13]. Генетическая группа виру- са Сочи (DOBV-Ap) ассоциирована с кавказской мышью (A. ponticus) и характеризуется клиниче- ским течением ГЛПС средней и тяжелой степени тяжести. Исследованные на сегодняшний день изо- "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                605,
+                492,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ляты данной группы были выявлены в грызунах, отловленных на юге ЕЧР [11, 14]. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                100,
+                934,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Основным возбудителем ГЛПС в РФ является PUUV, однако в ряде регионов также регистрируются случаи и вспышки заболевания ГЛПС, ассоциирован- ные с ODOB, которые представляют значительную угрозу общественному здоровью [11, 13, 15]. Поиск ODOB в неисследованных регионах страны представ- ляется необходимым для выявления новых потенци- альных очагов ГЛПС. Изучение генома обнаружен- ных изолятов может быть полезным для определения закономерностей распространения ODOB в популя- циях их природных резервуаров. При этом значитель- ная часть территории России, включая ПФО, до на- стоящего времени оставалась неисследованной в от- ношении циркулирующих геновариантов ODOB. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                128,
+                934,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Цель исследования – выявление ODOB на терри- ториях ряда регионов РФ и проведение анализа их генома. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                319,
+                934,
+                358
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Материалы и методы "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                633,
+                369,
+                815,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "В качестве биоматериала для исследования были использованы замороженные образцы легочной ткани грызунов (естественных резервуаров ODOB), отлов- ленных на протяжении 2015–2023 гг. (предоставлены ФБУЗ «Центр гигиены и эпидемиологии в Республи- ке Татарстан (Татарстан)»). Образцы биоматериала хранили при "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 7 0 { } ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                389,
+                934,
+                485
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Выделение общей РНК из тканей грызунов осу- ществляли с использованием набора реагентов ExtractRNA («Евроген», Россия) в соответствии с про- токолом, рекомендованным производителем. Препа- раты выделенной РНК хранили при "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 7 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Первич- ный скрининг образцов для обнаружения вирусной РНК проводили методом полимеразной цепной реак- ции (ПЦР) с обратной транскрипцией (ОТ-ПЦР), для этого использовали набор «БиоМастер ОТ-ПЦР-Пре- миум "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 \\times ) \\gg"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(«Биолабмикс», Россия) и специфичные праймеры собственной разработки, комплементар- ные различным участкам генома ODOB. Синтез ком- плементарной ДНК (кДНК) осуществляли при помо- щи обратной транскриптазы RNAscribe RT («Биолаб- микс», Россия) согласно инструкции производителя. Синтезированные кДНК хранили при "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 7 0 ~ ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". От- дельные участки вирусного генома амплифицирова- ли с использованием реакционной смеси "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Screen Mix («Евроген», Россия) и набора специфических праймеров. Полученные ПЦР-продукты разделяли в агарозном геле и очищали с использованием набора Cleanup S-Cap («Евроген», Россия) согласно методи- ке производителя и секвенировали по Сэнгеру с ис- пользованием ABI PRISM 310 Big Dye Terminator 3.1 Sequencing Kit (ABI, США). Выравнивание нукле- отидных последовательностей выполняли методом ClustalW с использованием программы MegAlign (DNASTAR, США). Сравнительный анализ нукле- отидных и аминокислотных последовательностей также проводили при помощи программы MegAlign (DNASTAR, США), в качестве референсных исполь- зовали последовательности отдельных сегментов "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                485,
+                934,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                27,
+                462,
+                41
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                41,
+                297,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCHES "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                55,
+                211,
+                66
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 ЕМИСС (2025). Доступно по: https://www.fedstat.ru/ indicator/38208# "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                895,
+                492,
+                922
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                73,
+                931,
+                102,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e1958b3b048ae98c3098084610f3548cce4591e773b87587f0a78aecdfbea0f1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Таблица 1. Список референсных последовательностей из базы данных GenBank, использованных для проведения сравнительного и филогенетического анализа "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Table 1. List of reference sequences from the GenBank database used for comparative and phylogenetic analysis "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Perinon\nRegion</td><td rowspan=\"2\">Истор\nIsolate</td><td colspan=\"2\">№ в GenBank\nGenBank accession number</td></tr><tr><td>S-сер盟\nS segment</td><td>M-сер盟\nM segment</td></tr><tr><td>Словak细а / Slovakia</td><td>SK/Aa</td><td>AY961615</td><td>AY961616</td></tr><tr><td>Восточая Словak细a / Eastern Slovakia</td><td>East Slovakia/400Af/98</td><td>AY168576</td><td>AY168577</td></tr><tr><td rowspan=\"2\">Словak细a, Кшице / Slovakia, Košice</td><td>East Slovakia/862Aa/97</td><td>AJ269550</td><td>AY168578</td></tr><tr><td>East Slovakia-856-Aa</td><td>AJ269549</td><td></td></tr><tr><td>Тгеля, Ано-Порói / Greece, Ano-Poroiia</td><td>DOBV/Ano-Poroiia/Afl9/1999</td><td>AJ410615</td><td>AJ410616</td></tr><tr><td>Туши, Игнеда / Turkey, Igneada</td><td>Turkey/Igneada/13Af/2009</td><td>MW055919</td><td>MW055918</td></tr><tr><td>Словени / Slovenia</td><td>Slo/Af-BER</td><td>GU904029</td><td>GU904035</td></tr><tr><td rowspan=\"5\">Германь / Germany</td><td>GER/07/293/Aa</td><td>GQ205401</td><td>GQ205409</td></tr><tr><td>GER/07/607/Af</td><td>GQ205402</td><td>GQ205410</td></tr><tr><td>GER/05/477/Af</td><td>GQ205406</td><td>GQ205411</td></tr><tr><td>GER/08/118/Aa</td><td>GQ205407</td><td>GQ205412</td></tr><tr><td>GER/08/131/Af</td><td>GQ205408</td><td>GQ205413</td></tr><tr><td rowspan=\"2\">Линва, Руче / Lithuania, Rusne</td><td>LT17/RUS_56</td><td>MT580917</td><td></td></tr><tr><td>LT18/RUS_2</td><td>MT580918</td><td>MT580914</td></tr><tr><td rowspan=\"2\">Линва, Лужштac / Lithuania, Lukstas</td><td>LT18/LK_11</td><td>MT580919</td><td>MT580916</td></tr><tr><td>LT18/LK_57</td><td>MT580920</td><td></td></tr><tr><td>Линва, Тигуневай / Lithuania, Tutyvenai</td><td>LT18/TYT_44</td><td>MT580921</td><td>OK422868</td></tr><tr><td>Линва, Биржай / Lithuania, Birzai</td><td>LT16/BR_42</td><td>MT580922</td><td>OK422867</td></tr><tr><td rowspan=\"2\">Астрии, Н�идем-Зe / Austria, Lake Neusiedl</td><td>KS18/1812</td><td>MN657233</td><td>MW091492</td></tr><tr><td>KS12/1827</td><td>MW151008</td><td>MW091491</td></tr><tr><td>Итalia, Уд范围内 / Italy, Udine</td><td>21RS2853-23</td><td></td><td>OM677635</td></tr><tr><td>Хорbatnia, Геро / Croatia, Gerovo</td><td>DOBV/Croatia_Gerovo/Af966/2008</td><td>KC676598</td><td></td></tr><tr><td>Хорbatnia, Зтука / Croatia, Zutica</td><td>DOBV/Croatia_Zutica/Af813/2007</td><td>KC676602</td><td></td></tr><tr><td rowspan=\"4\">Россий, Сочи / Russia, Sochi</td><td>Ap1584/Sochi-01</td><td>EU188449</td><td>EU188450</td></tr><tr><td>Ap/Sochi/43</td><td>JF920151</td><td></td></tr><tr><td>10636/AP</td><td>KP878311</td><td></td></tr><tr><td>10645/AP</td><td>KP878312</td><td></td></tr><tr><td>Россий, Горайский / Russia, Goryachiy Klyuch</td><td>Ap-1/Goryachiy Klyuch-2000</td><td>AF442622</td><td></td></tr><tr><td>Россий, Касnodar / Russia, Krasnodar</td><td>P-s1223/Krasnodar-2000</td><td>AF442623</td><td></td></tr><tr><td>Россий, Линец / Russia, Lipetsk</td><td>Aa1854/Lipetsk-02</td><td>EU188452</td><td>EU188453</td></tr><tr><td rowspan=\"3\">Россий, Курkinho / Russia, Kurkino</td><td>Kurkino/44Aa/98</td><td>AJ131672</td><td></td></tr><tr><td>Kurkino/Aa38/97</td><td></td><td>GQ303581</td></tr><tr><td>Kurkino/Aa44/97</td><td></td><td>GQ303582</td></tr><tr><td>Китай, Хбэй / China, Hubei</td><td>HV004</td><td>JQ083395</td><td>JQ083394</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                63,
+                141,
+                924,
+                920
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ВОПРОСЫ ВИРУСОЛОГИИ. 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                682,
+                29,
+                922,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                700,
+                41,
+                922,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ОРИГИНАЛЬНЫЕ ИССЛЕДОВАНИЯ "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                55,
+                922,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                892,
+                931,
+                922,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/950e2b9dfbaabb6943ed8c1d88f917f9b293bf9a59a160b776a282a0f4440341.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Таблица 2. Регионы отлова и видовой состав грызунов "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Table 2. Trapping regions and rodent species "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Фелераловский\nVolga</td><td>Релегон / Region</td><td>КолочECTBO Гльизунов / Rodents number</td><td>A. agrarius</td><td>A. flavicollis</td></tr><tr><td rowspan=\"7\">Приноveal                        Volga</td><td>Респubesкая Татарстан\nRepublic of Tatarstan</td><td>131</td><td>29</td><td>102</td></tr><tr><td>Респubesкая Башкоportостан\nRepublic of Bashkortostan</td><td>12</td><td>2</td><td>10</td></tr><tr><td>УдмYPТСКая Респubesкая\nUdmurt Republic</td><td>18</td><td>18</td><td>0</td></tr><tr><td>Чужшская Респubesкая\nChuvash Republic</td><td>13</td><td>0</td><td>13</td></tr><tr><td>Кирoveckая облacrь\nKirov Oblast</td><td>3</td><td>3</td><td>0</td></tr><tr><td>Ножегорodская облacrь\nNizhny Novgorod Oblast</td><td>5</td><td>0</td><td>5</td></tr><tr><td>Улбовская облacrь\nUlyanovsk Oblast</td><td>18</td><td>7</td><td>11</td></tr><tr><td rowspan=\"2\">Пентральный\nCentral</td><td>Коссторская облacrь\nKostoma Oblast</td><td>4</td><td>4</td><td>0</td></tr><tr><td>Тульская облacrь\nTula Oblast</td><td>53</td><td>53</td><td>0</td></tr><tr><td>Уральский\nUral</td><td>Чeled�нская облacrь\nChelyabinsk Oblast</td><td>18</td><td>0</td><td>18</td></tr><tr><td>В薪水\nIn total</td><td></td><td>275</td><td>116</td><td>159</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                73,
+                128,
+                934,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ODOB (табл. 1), размещенные в базе данных Gen-Bank2 . Для филогенетического анализа использовали программу MEGA11 [16], метод Maximum Likelihood, модель Tamura-Nei [17]. В качестве внешней группы использовали последовательности S- и M-сегментов штамма O. hantanense HV004. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                527,
+                490,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Авторы подтверждают соблюдение институциональ- ных и национальных стандартов по использованию лабораторных животных в соответствии с Consensus author guidelines for animal use (IAVES 23.07.2010). Протокол исследования с использованием животных одобрен Комитетом по биомедицинской этике КФУ (Протокол № 23 от 30.06.2020) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                610,
+                490,
+                706
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Результаты "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                231,
+                714,
+                332,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Всего было исследовано 275 образцов легочной ткани A. agrarius и A. flavicollis, отловленных в пери- од с 2016 по 2023 год на территориях ряда субъектов Приволжского, Центрального и Уральского федераль- ных округов (табл. 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                731,
+                490,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "В результате исследования ортохантавирусная РНК была выявлена только в одном образце, полученном от A. flavicollis, отловленного поблизости от СНТ «Со- зидатель» Чердаклинского района Ульяновской обла- сти ПФО в 2019 г. Выявленному РНК-изоляту было "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                800,
+                490,
+                869
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "присвоено обозначение ML1779. У A. agrarius орто- хантавирусной РНК выявлено не было. Таким обра- зом, средняя инфицированность образцов A. flavicollis была очень низкой и составляла всего лишь "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 { , } 6 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Полученные результаты согласуются с данными определения ODOB в Польше, где из 194 исследован- ных образцов вирус был выявлен только в одном [8], и в Германии, где 7 штаммов вируса были выделены из 366 образцов [6]. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                527,
+                934,
+                650
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Для выявленного РНК-изолята были получе- ны нуклеотидные последовательности участков Sи M‑сегментов генома. Длина последовательностей и их локализация внутри сегмента составили 629 ну- клеотидов (позиции 36–664) и 441 нуклеотида (1718– 2158) для сегментов S и M соответственно (здесь и далее локализация нуклеотидных последовательно- стей внутри сегментов генома указана относительно S- и M-сегментов генома изолята Aa1854/Lipetsk-02 из России, номера в GenBank EU188452 и EU188453 соответственно). На основании полученных нуклео- тидных последовательностей были рассчитаны ами- нокислотные последовательности участков белков N и GPC длиной "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 4 7 \\textbf { \\em u } 2 0 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "аминокислотных остатков соответственно. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                650,
+                934,
+                855
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "В результате сравнительного анализа установлено, что значения идентичности нуклеотидных последова- тельностей участков S- и M-сегментов РНК-изолята ML1779 и референсных изолятов ODOB варьируют в диапазонах "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\hat { 8 } 5 , 1 - 9 4 , 0 \\mathrm { ~ u ~ } 7 9 , 8 - 9 2 , 1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "соответственно, "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                856,
+                934,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                27,
+                462,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                41,
+                297,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCHES "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                55,
+                211,
+                66
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2 National Center for Biotechnology Information (NCBI), GenBank (2025). Доступно по: https://www.ncbi.nlm.nih.gov/genbank/ "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                896,
+                490,
+                924
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "574 "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                930,
+                104,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "что позволяет идентифицировать его как ODOB (рис. 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                100,
+                480,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Наиболее схожими с ML1779 являются участки S-сегментов штаммов из России: AJ131672 (Куркино) и EU188452 (Липецк), значения идентичности по- следовательностей составили "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 4 , 0 \\mathrm { ~ u ~ } 9 3 , 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "соответ- ственно. Для участка M-сегмента ML1779 наиболее высокие значения "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 9 2 , 1 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "также наблюдали при срав- нении со штаммами из России: EU188453 (Липецк), GQ303581 и GQ303582 (Куркино). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                114,
+                480,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Значения идентичности аминокислотных последо- вательностей участков белков N и GPC ML1779 и ре- ференсных изолятов варьировали в диапазонах 98,1– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 , 0 \\mathrm { ~ u ~ } 9 3 , 2 { \\mathrm { - } } 9 9 , 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "соответственно (рис. 1). При этом наиболее высокие значения идентичности последо- "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                223,
+                480,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "вательностей выявлены при сравнении со штамма- ми из России (Липецк и Куркино), Литвы, Австрии и Словакии (рис. 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                100,
+                924,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Подавляющее большинство референсных штам- мов ODOB, значения идентичности нуклеотидных и аминокислотных последовательностей которых имели наивысшие значения при сравнении с изоля- том ML1779, было выделено из A. agrarius, за исклю- чением трех штаммов из Германии, которые были вы- делены из A. flavicollis. В то же время референсные штаммы ODOB, выделенные из A. flavicollis, которые были отловлены в Словении, Хорватии, Греции и Тур- ции, характеризовались более низкими значениями идентичности нуклеотидных и аминокислотных по- "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                141,
+                926,
+                291
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/496ec3715a33e96d9fe1898e7e6bdca45e43d61218e704e3c701430d069a74f9.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Рис. 1. Значения идентичности, полученные при сравнении последовательностей участков S- и M-сегментов, белков N и GPC выявленного (ML1779) и референсных изолятов/штаммов ODOB. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. The similarity values obtained by comparing the sequences of S and M segment fragments, N and GPC proteins of the identified (ML1779) and reference ODOB isolates/strains. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                231,
+                319,
+                757,
+                866
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ВОПРОСЫ ВИРУСОЛОГИИ. 2025; 70(6) https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                680,
+                27,
+                924,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ОРИГИНАЛЬНЫЕ ИССЛЕДОВАНИЯ "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                55,
+                924,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "575 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                931,
+                924,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/237207ee395af92194702486f44f08c452be0b5ec0d98bf1fb72376ea3556a72.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Рис. 2. Филогенетическое древо, построенное для нуклеотидных последовательностей участка S-сегмента (позиция 36–664). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                100,
+                492,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Изолят, выявленный в ПФО, обозначен как ML1779. Изоляты, полу- ченные от A. flavicollis, обозначены синим, от A. agrarius – зеленым, от A. ponticus – коричневым цветом. Значения бутстрепов ниже 70 не показаны. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                529,
+                490,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. A phylogenetic tree constructed for the nucleotide sequences of the partial S segment (pos. 36–664). "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                576,
+                489,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The isolate identified in the Volga Federal District is designated as ML1779. Isolates obtained from A. flavicollis are indicated in blue, from A. agrarius – in green, from A. ponticus – in brown. Bootstrap values below 70 are not shown. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                600,
+                490,
+                647
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "следовательностей при сравнении с исследованным изолятом. "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                664,
+                489,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "По результатам филогенетического анализа нуклео- тидных последовательностей секвенированных участ- ков S- и M-сегментов все референсные штаммы были сгруппированы в три большие клады (рис. 2, 3). Клада DOBV-Ap объединяет штаммы вируса генетической группы вируса Сочи, циркулирующие в Южном феде- ральном округе, носителями которых является A. ponticus, а в состав клады DOBV-Af вошли штаммы генети- ческой группы вируса Добрава, выявленные в A. flavicollis, которые были отловлены на территории Турции, Греции, Хорватии, Словении и восточной Словакии. В то же время клада DOBV-Aa включает штаммы ге- нетической группы вируса Куркино из Германии, Ав- стрии, Словакии, Литвы и центра ЕЧР – из Липецкой и Тульской областей (Липецк и Куркино), а также ис- следованный изолят из Ульяновской области, причем выявленный изолят ML1779 входит в субкладу «Рос- "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                690,
+                492,
+                925
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0a9493cbba49e2b4b2ded6de26d3aca7e0ddfd17eabdcc1216373a25c09c3828.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Рис. 3. Филогенетическое древо, построенное для нуклеотидных последовательностей участка M-сегмента (позиции 1718–2158). "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                521,
+                105,
+                934,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Изолят, выявленный в ПФО, обозначен как ML1779. Изоляты, полу- ченные от A. flavicollis, обозначены синим, от A. agrarius – зеленым, от A. ponticus – коричневым цветом. Значения бутстрепов ниже 70 не показаны. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                490,
+                934,
+                534
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. A phylogenetic tree constructed for the nucleotide sequences of the partial M segment (pos. 1718–2158). "
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                537,
+                932,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The isolate identified in the Volga Federal District is designated as ML1779. Isolates obtained from A. flavicollis are indicated in blue, from A. agrarius – in green, from A. ponticus – in brown. Bootstrap values below 70 are not shown. "
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                562,
+                934,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "сия, центр» вместе с референсными штаммами из Ли- пецкой и Тульской областей. "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                664,
+                932,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Таким образом, результаты сравнительного и фи- логенетического анализа свидетельствуют о принад- лежности изолята ML1779 к генетической группе ви- руса Куркино. Следует отметить, что в состав клады DOBV-Aa входят штаммы ODOB, выявленные как в A. flavicollis (ML1779 и три штамма из Германии), так и в A. agrarius (остальные штаммы). "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                690,
+                932,
+                788
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Обсуждение "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                670,
+                795,
+                776,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Основным возбудителем ГЛПС в ЕЧР является PUUV, однако в ряде регионов были зарегистри- рованы отдельные случаи и вспышки заболевания, вызванные ODOB [18]. Как правило, ГЛПС, вызван- ный ODOB, в средней и тяжелой форме протекает чаще, чем вызванный PUUV, в связи с чем изучение распространенности различных генетических вари- антов ODOB является необходимым для повыше- "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                812,
+                934,
+                923
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                27,
+                462,
+                41
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                41,
+                297,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCHES "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                55,
+                211,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                73,
+                931,
+                102,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a16f08e9177e3594aa9fe6971abc1c9c09bc88885a0f81f00627e8941527ef68.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. The location of the studied (ML1779) and reference ODOB strains. "
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Представители генетической группы вируса Добрава обозначены серым, вируса Куркино – голубым, вируса Сочи – желтым цветом. Изоляты, полу- ченные от A. flavicollis, обозначены квадратами, от A. agrarius – кругами, от A. ponticus – треугольниками. Измененная карта с сайта https://snazzymaps. com/style/253658/only-borders, дата доступа 23.09.2025. "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                100,
+                875,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Рис. 4. Локация исследованного (ML1779) и референсных штаммов ODOB. "
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                445,
+                739,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Representatives of the Dobrava virus genetic group are indicated in gray, Kurkino virus in blue, and Sochi virus in yellow. Isolates obtained from A. flavicollis are indicated by squares, isolates from A. agrarius – by circles, isolates from A. ponticus – by triangles. The map was modified from https://snazzymaps.com/ style/253658/only-borders, accessed on September 23, 2025. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                510,
+                926,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ния эпидемиологической безопасности населения в потенциально опасных регионах. Несмотря на то что ODOB был выявлен более 30 лет назад [19], в настоящее время в доступной литературе име- ется только ограниченная информация о районах циркуляции штаммов разных генетических вариан- тов вируса. Так, в России ODOB (вирусы Куркино и Сочи) был найден только в ряде локаций централь- ной ЕЧР, Астраханской области, западной Сибири [13] и Краснодарском крае [11]. Выявленный нами в Ульяновской области изолят ML1779 является пер- вым случаем обнаружения ODOB в ПФО, что позво- ляет сделать вывод о более широкой распространен- ности генетических вариантов вируса Куркино на территории ЕЧР (рис. 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                563,
+                482,
+                767
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Локализация изолята ML1779 дает основания для расширения предполагаемого ареала циркуляции вируса на левый берег реки Волга. Нуклеотидные и аминокислотные последовательности участков ге- нома изолята ML1779 продемонстрировали высокие значения идентичности с патогенными референсны- ми штаммами вируса Куркино из Липецкой и Туль- ской областей, что позволяет сделать вывод о суще- ствовании реальной угрозы появления случаев ГЛПС вследствие инфицирования человека этим вирусом как минимум на части территории ПФО. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                767,
+                482,
+                919
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Важным представляется также то, что референс- ные штаммы вируса Куркино из Липецка и Куркино были выделены из A. agrarius, большинство иденти- фицированных штаммов группы вируса Куркино, ну- клеотидные последовательности которых доступны в GenBank, также были выявлены у A. agrarius. Од- нако штаммы этой генетической группы были найде- ны также у A. flavicollis из Германии [6]. Выявленный в данном исследовании изолят ML1779 обнаружен у A. flavicollis, что, вероятнее всего, является случаем спилловера, как ранее описано M. Schlegel и соавт. [6] (множественный спилловер DOBV-Aa в A. flavicollis). В настоящее время данных недостаточно для вывода, является ли желтогорлая мышь природным резервуа- ром для какого-нибудь из генетических вариантов ви- руса Куркино. Возможно также, что явление переноса генетической группы вируса Куркино способствует увеличению его генетического разнообразия. Поэто- му представляется целесообразным проведение даль- нейших исследований по выявлению генетических вариантов ODOB в популяциях как A. agrarius, так и A. flavicollis на территории ЕЧР. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                562,
+                924,
+                863
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Необходимо отметить, что ранее в Ульяновской области в образцах биоматериала особей рыжей по- левки, отловленных в 2019 г. вблизи поселков Кур- лан и Мулловка, которые расположены на рассто- "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                863,
+                924,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ВОПРОСЫ ВИРУСОЛОГИИ. 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                682,
+                27,
+                924,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                699,
+                41,
+                924,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ОРИГИНАЛЬНЫЕ ИССЛЕДОВАНИЯ "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                55,
+                924,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "577 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                930,
+                924,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "янии "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 { - } 6 0 \\ \\mathrm { \\ K M }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "от локации изолята ML1779, были выявлены изоляты PUUV [20]. Таким образом, на относительно небольшой территории Ульяновской области зарегистрирована коциркуляция двух видов ортохантавирусов – ODOB и PUUV. Ранее подобный случай коциркуляции двух видов ортохантавирусов (PUUV и ODOB) был обнаружен в Белоруссии [9], а в Республике Башкортостан была выявлена ко- циркуляция трех видов ортохантавирусов: PUUV, O. tulaense и O. seewisense [21]. Таким образом, ко- циркуляция двух и более ортохантавирусов на одной территории представляется достаточно распростра- ненным явлением, в том числе в ПФО. Таким обра- зом, важным представляется изучение возможности обмена генетическим материалом между коцирку- лирющими видами ортохантавирусов и возникнове- ния гибридных генетических вариантов, что требует дальнейших исследований. "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                99,
+                492,
+                347
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Выводы "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                243,
+                354,
+                317,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "В данном исследовании осуществлен первый мас- штабный поиск ODOB в популяциях A. agrarius и A. flavicollis на территории ряда субъектов ПФО и со- седних регионов. Установлено, что инфицированность исследованных мелких грызунов ортохантавирусами была близка к нулю. Только один изолят ортохантави- руса, идентифицированный как относящийся к генети- ческой группе вируса Куркино, был выявлен у A. flavicollis из Ульяновской области. Наиболее близкород- ственными выявленному штамму оказались штаммы вируса Куркино, найденные ранее у A. agrarius в Ли- пецкой и Тульской областях. Таким образом, впервые доказано, что: 1) ареал Orthohantavirus dobravaense (вирус Куркино) распространяется на часть террито- рии ПФО; 2) в Ульяновской области коциркулируют Orthohantavirus dobravaense (вирус Куркино) и Orthohantavirus puumalaense (вирус Пуумала). "
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                371,
+                492,
+                605
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Л И Т Е РАТ У РА "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                618,
+                344,
+                630
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Савицкая Т.А., Иванова А.В., Зубова А.А., Решетникова И.Д., Исаева Г.Ш., Трифонов В.А. и др. Хантавирусные болезни: об- зор эпидемиологической ситуации в мире. Анализ эпидемиоло- гической ситуации по геморрагической лихорадке с почечным синдромом в Российской Федерации в 2023 г. и прогноз на 2024 г. Проблемы особо опасных инфекций. 2024; (1): 113–24. https:// doi.org/10.21055/0370-1069-2024-1-113-124 https://elibrary.ru/ wvtews "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Tkachenko E., Dzagurova T., Galieva G., Ivanis V., Kurashova S., Tkachenko P., et al. Clinical manifestations of hemorrhagic fever with renal syndrome, various nosologic forms and issues of hantavirus infections terminology. Viruses. 2025; 17(4): 578. https://doi. org/10.3390/v17040578 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Морозов В.Г., Ишмухаметов А.А., Дзагурова Т.К., Ткачен- ко Е.А. Клинические особенности геморрагической лихорадки с почечным синдромом в России. Медицинский совет. 2017; (5): 156–61. https://doi.org/10.21518/2079-701X-2017-5-156-161 https://elibrary.ru/yorunb "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Plyusnin A., Vapalahti O., Vaheri A. Hantaviruses: genome structure, expression and evolution. J. Gen. Virol. 1996; 77 (Pt. 11): 2677–87. https://doi.org/10.1099/0022-1317-77-11-2677 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Papa A. Dobrava-Belgrade virus: phylogeny, epidemiology, disease. Antiviral. Res. 2012; 95(2): 104–17. https://doi.org/10.1016/j. antiviral.2012.05.011 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Schlegel M., Klempa B., Auste B., Bemmann M., Schmidt-Chanasit J., Büchner T., et al. Dobrava-Belgrade virus spillover infections, "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                636,
+                492,
+                923
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Germany. Emerg. Infect. Dis. 2009; 15(12): 2017–20. https://doi. org/10.3201/eid1512.090923 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Papa A., Nemirov K., Henttonen H., Niemimaa J., Antoniadis A., Vaheri A., et al. Isolation of Dobrava virus from Apodemus flavicollis in Greece. J. Clin. Microbiol. 2001; 39(6): 2291–3. https://doi. org/10.1128/JCM.39.6.2291-2293.2001 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Kolodziej M., Melgies A., Joniec-Wiechetek J., Michalski A., Nowakowska A., Pitucha G., et al. First molecular characterization of Dobrava-Belgrade virus found in Apodemus flavicollis in Poland. Ann. Agric. Environ. Med. 2018; 25(2): 368–73. https://doi. org/10.26444/aaem/90535 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Семижон П.А., Счесленок Е.П., Дубков Н.А., Сухоцкая Е.А., Столбунова К.А., Попов И.В. и др. Идентификация ортохан- тавирусов, впервые выявленных на территории Республики Беларусь. Вопросы вирусологии. 2025; 70(1): 87–98. https://doi. org/10.36233/0507-4088-292 https://elibrary.ru/rzopww "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. Klempa B., Stanko M., Labuda M., Ulrich R., Meisel H., Krüger D.H. Central European Dobrava hantavirus isolate from a striped field mouse (Apodemus agrarius). J. Clin. Microbiol. 2005; 43(6): 2756–63. https://doi.org/10.1128/JCM.43.6.2756-2763.2005 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Klempa B., Tkachenko E.A., Dzagurova T.K., Yunicheva Y.V., Morozov V.G., Okulova N.M., et al. Hemorrhagic fever with renal syndrome caused by 2 lineages of Dobrava hantavirus, Russia. Emerg. Infect. Dis. 2008; 14(4): 617–25. https://doi.org/10.3201/eid1404.071310 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Klempa B., Radosa L., Kruger D.H. The broad spectrum of hantaviruses and their hosts in Central Europe. Acta Virol. 2013; 57(2): 130–7. https://doi.org/10.4149/av_2013_02_130 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. Garanina S.B., Platonov A.E., Zhuravlev V.I., Murashkina A.N., Yakimenko V.V., Korneev A.G., et al. Genetic diversity and geographic distribution of hantaviruses in Russia. Zoonoses Public Health. 2009; 56(6-7): 297–309. https://doi.org/10.1111/j.1863- 2378.2008.01210.x "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Klempa B., Avsic-Zupanc T., Clement J., Dzagurova T.K., Henttonen H., Heyman P., et al. Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: definition of genotypes and their characteristics. Arch. Virol. 2013; 158(3): 521–9. https://doi. org/10.1007/s00705-012-1514-5 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. Dzagurova T.K., Klempa B., Tkachenko E.A., Slyusareva G.P., Morozov V.G, Auste B., et al. Molecular diagnostics of hemorrhagic fever with renal syndrome during a Dobrava virus infection outbreak in the European part of Russia. J. Clin. Microbiol. 2009; 47(12): 4029–36. https://doi.org/10.1128/JCM.01225-09 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Tamura K., Stecher G., Kumar S. MEGA11: Molecular Evolutionary Genetics Analysis version 11. Mol. Biol. Evol. 2021; 38(7): 3022–7. https://doi.org/10.1093/molbev/msab120 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. Tamura K., Nei M. Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees. Mol. Biol. Evol. 1993; 10(3): 512–26. https://doi. org/10.1093/oxfordjournals.molbev.a040023 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Tkachenko E., Kurashova S., Balkina A., Ivanov A., Egorova M., Leonovich O., et al. Cases of hemorrhagic fever with renal syndrome in Russia during 2000–2022. Viruses. 2023; 15(7): 1537. https://doi.org/10.3390/v15071537 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. Avsic-Zupanc T., Xiao S.Y., Stojanovic R., Gligic A., van der Groen G., LeDuc J.W. Characterization of Dobrava virus: a Hantavirus from Slovenia, Yugoslavia. J. Med. Virol. 1992; 38(2): 132–7. https://doi.org/10.1002/jmv.1890380211 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Kabwe E., Al Sheikh W., Shamsutdinov A.F., Ismagilova R.K., Martynova E.V., Okhlopkova O.V., et al. Analysis of Puumala orthohantavirus genome variants identified in the territories of Volga Federal District. Trop. Med. Infect. Dis. 2022; 7(3): 46. https://doi. org/10.3390/tropicalmed7030046 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. Мочалкин П.А., Акимкин В.Г., Углева С.В., Морозкин Е.С., Блинова Е.А., Сычева К.А. и др. Сочетанная циркуляция хан- тавирусов Пуумала, Тула, Сивис на территории Республи- ки Башкортостан. Проблемы особо опасных инфекций. 2024; (2): 140–7. https://doi.org/10.21055/0370-1069-2024-2-140-147 https://elibrary.ru/iukfus "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                99,
+                934,
+                846
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "R E F E R E N C E S "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                660,
+                858,
+                786,
+                869
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Savitskaya T.A., Ivanova A.V., Zubova A.A., Reshetnikova I.D., Isaeva G.Sh., Trifonov V.A., et al. Hantavirus infections: review of the epidemiological situation around the world. Analysis of the epidemiological situation on hemorrhagic fever with renal syndrome "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                879,
+                934,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                27,
+                462,
+                41
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                41,
+                297,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCHES "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                55,
+                211,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                73,
+                930,
+                102,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "in the Russian Federation in 2023 and forecast of its development for 2024. Problemy osobo opasnykh infektsii. 2024; (1): 113–24. https://doi.org/10.21055/0370-1069-2024-1-113-124 https://elibrary.ru/wvtews (in Russian) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Tkachenko E., Dzagurova T., Galieva G., Ivanis V., Kurashova S., Tkachenko P., et al. Clinical manifestations of hemorrhagic fever with renal syndrome, various nosologic forms and issues of hantavirus infections terminology. Viruses. 2025; 17(4): 578. https://doi. org/10.3390/v17040578 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Morozov V.G., Ishmukhametov A.A., Dzagurova T.K., Tkachenko E.A. Clinical manifestations of hemorrhagic fever with renal syndrome in Russia. Meditsinskii sovet. 2017; (5): 156–61. https:// doi.org/10.21518/2079-701X-2017-5-156-161 https://elibrary.ru/ yorunb (in Russian) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Plyusnin A., Vapalahti O., Vaheri A. Hantaviruses: genome structure, expression and evolution. J. Gen. Virol. 1996; 77 (Pt. 11): 2677–87. https://doi.org/10.1099/0022-1317-77-11-2677 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Papa A. Dobrava-Belgrade virus: phylogeny, epidemiology, disease. Antiviral. Res. 2012; 95(2): 104–17. https://doi.org/10.1016/j. antiviral.2012.05.011 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Schlegel M., Klempa B., Auste B., Bemmann M., Schmidt-Chanasit J., Büchner T., et al. Dobrava-Belgrade virus spillover infections, Germany. Emerg. Infect. Dis. 2009; 15(12): 2017–20. https://doi. org/10.3201/eid1512.090923 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Papa A., Nemirov K., Henttonen H., Niemimaa J., Antoniadis A., Vaheri A., et al. Isolation of Dobrava virus from Apodemus flavicollis in Greece. J. Clin. Microbiol. 2001; 39(6): 2291–3. https://doi. org/10.1128/JCM.39.6.2291-2293.2001 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Kolodziej M., Melgies A., Joniec-Wiechetek J., Michalski A., Nowakowska A., Pitucha G., et al. First molecular characterization of Dobrava-Belgrade virus found in Apodemus flavicollis in Poland. Ann. Agric. Environ. Med. 2018; 25(2): 368–73. https://doi. org/10.26444/aaem/90535 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Semizhon P.A., Scheslenok E.P., Dubkov N.A., Sukhotskaya E.A., Stolbunova K.A., Popov I.V., et al. Identification of orthohantaviruses detected for the first time in the Republic of Belarus. Voprosy virusologii. 2025; 70(1): 87–98. https://doi.org/10.36233/0507- 4088-292 https://elibrary.ru/rzopww (in Russian) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. Klempa B., Stanko M., Labuda M., Ulrich R., Meisel H., Krüger D.H. Central European Dobrava hantavirus isolate from a striped field mouse (Apodemus agrarius). J. Clin. Microbiol. 2005; 43(6): 2756–63. https://doi.org/10.1128/JCM.43.6.2756- 2763.2005 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Klempa B., Tkachenko E.A., Dzagurova T.K., Yunicheva Y.V., Morozov V.G., Okulova N.M., et al. Hemorrhagic fever with re-"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                100,
+                480,
+                585
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "nal syndrome caused by 2 lineages of Dobrava hantavirus, Russia. Emerg. Infect. Dis. 2008; 14(4): 617–25. https://doi.org/10.3201/ eid1404.071310 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Klempa B., Radosa L., Kruger D.H. The broad spectrum of hantaviruses and their hosts in Central Europe. Acta Virol. 2013; 57(2): 130–7. https://doi.org/10.4149/av_2013_02_130 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. Garanina S.B., Platonov A.E., Zhuravlev V.I., Murashkina A.N., Yakimenko V.V., Korneev A.G., et al. Genetic diversity and geographic distribution of hantaviruses in Russia. Zoonoses Public Health. 2009; 56(6-7): 297–309. https://doi.org/10.1111/j.1863-2378.2008.01210.x "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Klempa B., Avsic-Zupanc T., Clement J., Dzagurova T.K., Henttonen H., Heyman P., et al. Complex evolution and epidemiology of Dobrava-Belgrade hantavirus: definition of genotypes and their characteristics. Arch. Virol. 2013; 158(3): 521–9. https://doi.org/10.1007/s00705-012-1514-5 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. Dzagurova T.K., Klempa B., Tkachenko E.A., Slyusareva G.P., Morozov V.G, Auste B., et al. Molecular diagnostics of hemorrhagic fever with renal syndrome during a Dobrava virus infection outbreak in the European part of Russia. J. Clin. Microbiol. 2009; 47(12): 4029–36. https://doi.org/10.1128/JCM.01225-09 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Tamura K., Stecher G., Kumar S. MEGA11: Molecular Evolutionary Genetics Analysis version 11. Mol. Biol. Evol. 2021; 38(7): 3022–7. https://doi.org/10.1093/molbev/msab120 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. Tamura K., Nei M. Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees. Mol. Biol. Evol. 1993; 10(3): 512–26. https://doi. org/10.1093/oxfordjournals.molbev.a040023 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Tkachenko E., Kurashova S., Balkina A., Ivanov A., Egorova M., Leonovich O., et al. Cases of hemorrhagic fever with renal syndrome in Russia during 2000–2022. Viruses. 2023; 15(7): 1537. https://doi.org/10.3390/v15071537 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. Avsic-Zupanc T., Xiao S.Y., Stojanovic R., Gligic A., van der Groen G., LeDuc J.W. Characterization of Dobrava virus: a Hantavirus from Slovenia, Yugoslavia. J. Med. Virol. 1992; 38(2): 132–7. https://doi.org/10.1002/jmv.1890380211 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Kabwe E., Al Sheikh W., Shamsutdinov A.F., Ismagilova R.K., Martynova E.V., Okhlopkova O.V., et al. Analysis of Puumala orthohantavirus genome variants identified in the territories of Volga Federal District. Trop. Med. Infect. Dis. 2022; 7(3): 46. https://doi. org/10.3390/tropicalmed7030046 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. Mochalkin P.A., Akimkin V.G., Ugleva S.V., Morozkin E.S., Blinova E.A., Sycheva K.A., et al. Combined circulation of Puumala, Tula, Seewis hantaviruses in the territory of the republic of Bashkortostan. Problemy osobo opasnykh infektsii. 2024; (2): 140–7. https://doi.org/10.21055/0370-1069-2024-2-140-147 https://elibrary.ru/iukfus (in Russian) "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                100,
+                924,
+                583
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Информация об авторах "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                62,
+                593,
+                240,
+                605
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Насыров Тимур Радикович – лаборант-исследователь НИЛ «OpenLab Генные и клеточные технологии» Института фундаментальной меди- цины и биологии Казанского федерального университета, Казань, Россия. E-mail: nasyrovtimur1@mail.ru; https://orcid.org/0009-0000-4116-0471 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                608,
+                924,
+                632
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Елбоева Полина Игоревна – младший научный сотрудник НИЛ «OpenLab Генные и клеточные технологии» Института фун- даментальной медицины и биологии Казанского федерального университета, Казань, Россия. E-mail: polinaelboeva@mail.ru; https://orcid.org/0009-0001-2949-3289 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                633,
+                924,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Мартынова Екатерина Владимировна – канд. мед. наук, ведущий научный сотрудник НИЛ «OpenLab Генные и клеточные технологии» Института фундаментальной медицины и биологии Казанского федерального университета, Казань, Россия. E-mail: ignietferro.venivedivici@gmail.com, https://orcid.org/0000-0003-1537-3099 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                670,
+                924,
+                704
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Охлопкова Олеся Викторовна – канд. биол. наук, старший научный сотрудник НИИ вирусологии ФГБНУ «Федеральный исследователь- ский центр фундаментальной и трансляционной медицины», Новосибирск, Россия. E-mail: ohlopkova.lesia@yandex.ru; https://orcid.org/0000-0002-8214-7828 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                706,
+                924,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Тюрин Юрий Александрович – д-р мед. наук, доцент, доцент кафедры биохимии и клинической лабораторной диагностики Казанского государственного медицинского университета, Казань, Россия. E-mail: tyurin.yurii@yandex.ru; https://orcid.org/0000-0002-2536-3604 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                743,
+                924,
+                767
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Кабве Эммануэль – канд. биол. наук, старший научный сотрудник НИЛ «OpenLab Генные и клеточные технологии» Института фун- даментальной медицины и биологии Казанского федерального университета, Казань, Россия. E-mail: emmanuelkabwe@ymail.com; https://orcid.org/0000-0003-4328-8190 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                768,
+                924,
+                802
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Давидюк Юрий Николаевич – канд. биол. наук, доцент, старший научный сотрудник НИЛ «OpenLab Генные и клеточные технологии» Института фундаментальной медицины и биологии Казанского федерального университета, Казань, Россия. E-mail: davi.djuk@mail.ru; https://orcid.org/0000-0002-4409-2942 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                804,
+                924,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Участие авторов: Насыров Т.Р. – проведение исследований, анализ данных, подготовка иллюстраций, подготовка чернового текста; Елбоева П.И. – проведение исследований, анализ данных; Мартынова Е.В. – анализ данных, научное редактирование рукописи; Охлоп- кова О.В. – анализ данных, научное редактирование рукописи; Тюрин Ю.А. – научное редактирование рукописи; Кабве Э. – организация исследовательской работы, научное редактирование рукописи; Давидюк Ю.Н. – методология и дизайн исследования, анализ данных, научное редактирование рукописи. "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                840,
+                924,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ВОПРОСЫ ВИРУСОЛОГИИ. 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                682,
+                29,
+                922,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                699,
+                41,
+                922,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ОРИГИНАЛЬНЫЕ ИССЛЕДОВАНИЯ "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                55,
+                922,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Поступила 30.09.2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                816,
+                897,
+                924,
+                907
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Принята в печать 20.11.2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                907,
+                924,
+                914
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Опубликована 28.12.2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                916,
+                924,
+                925
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "579 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                930,
+                922,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Information about the authors: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                99,
+                282,
+                111
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Timur R. Nasyrov – laborant researcher, OpenLab ‘Gene and Cell Technologies’ Institute of Fundamental Medicine and Biology Kazan (Volga) Federal University, Kazan, Russia. E-mail: nasyrovtimur1 "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "@"
+                            },
+                            {
+                                "type": "text",
+                                "content": "mail.ru; https://orcid.org/0009-0000-4116-0471 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Polina I. Elboeva – junior researcher, OpenLab ‘Gene and Cell Technologies’ Institute of Fundamental Medicine and Biology Kazan (Volga) Federal University, Kazan, Russia. E-mail: polinaelboeva@mail.ru; https://orcid.org/0009-0001-2949-3289 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ekaterina V. Martynova – Cand. Sci. (Med.), leading researcher, OpenLab ‘Gene and Cell Technologies’ Institute of Fundamental Medicine and Biology Kazan (Volga) Federal University, Kazan, Russia. E-mail: ignietferro.venivedivici@gmail.com; https://orcid.org/0000-0003-1537-3099 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Olesia V. Ohlopkova – Cand. Sci. (Biol.), senior researcher, Research Institute of Virology, Federal Research Center for Fundamental and Translational Medicine, Novosibirsk, Russia. E-mail: ohlopkova.lesia@yandex.ru; https://orcid.org/0000-0002-8214-7828 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yuriy A. Tyurin – D. Sci. (Med.), assistant professor, assistant professor of Department of Biochemistry and Clinical Laboratory Diagnostics, Kazan State Medical University, Kazan, Russia. E-mail: tyurin.yurii@yandex.ru; https://orcid.org/0000-0002-2536-3604 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Emmanuel Kabwe – Cand. Sci. (Biol.), senior researcher, OpenLab ‘Gene and Cell Technologies’ Institute of Fundamental Medicine and Biology Kazan (Volga) Federal University, Kazan, Russia. E-mail: emmanuelkabwe@ymail.com; https://orcid.org/0000-0003-4328-8190 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yuriy N. Davidyuk – Cand. Sci. (Biol.), assistant professor, senior researcher, OpenLab ‘Gene and Cell Technologies’ Institute of Fundamental Medicine and Biology Kazan (Volga) Federal University, Kazan, Russia. E-mail: davi.djuk@mail.ru; https://orcid.org/0000-0002-4409-2942 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Contribution: Nasyrov T.R. – conducting the study, data analysis, illustrating, writing the text drift; Elboeva P.I. – conducting the study, data analysis; Martynova E.V. – data analysis, scientific editing of the manuscript; Ohlopkova O.V. – data analysis, scientific editing of the manuscript; Tyurin Yu.A. – scientific editing of the manuscript; Kabwe E. – financial sourcing and organization of research work, scientific editing of the manuscript; Davidyuk Yu.N. – methodology and design of the research, data analysis, scientific editing of the manuscript. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                115,
+                932,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received 30 September 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                796,
+                339,
+                932,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted 20 November 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                798,
+                349,
+                932,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published 28 December 2025 "
+                    }
+                ]
+            },
+            "bbox": [
+                798,
+                357,
+                932,
+                364
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PROBLEMS OF VIROLOGY (VOPROSY VIRUSOLOGII). 2025; 70(6) "
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                27,
+                462,
+                40
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "https://doi.org/10.36233/0507-4088-350 "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                41,
+                297,
+                52
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL RESEARCHES "
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                55,
+                211,
+                66
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "580 "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                930,
+                104,
+                942
+            ]
+        }
+    ]
+]

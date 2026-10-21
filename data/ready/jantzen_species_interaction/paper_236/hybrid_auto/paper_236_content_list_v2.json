@@ -1,0 +1,2782 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Parallel Survey of Two Widespread Renal Syndrome-Causing Zoonoses: Leptospira spp. and Hantavirus in Urban Environment, Hungary "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                256,
+                140,
+                738,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kornélia Kurucz, Monika Madai, Dominika Bali, David Hederics, Győző Horváth, Gábor Kemenesi, and Ferenc Jakab "
+                    }
+                ]
+            },
+            "bbox": [
+                240,
+                275,
+                751,
+                309
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                93,
+                359,
+                158,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodents are important reservoir hosts for several zoonotic pathogens that cause significant morbidity and mortality in humans. Among others, leptospirosis is one of the most widespread zoonotic diseases worldwide and has the similar clinical manifestation with hantavirus infection in humans. Despite the fact that both pathogens have great epidemiological significance in Europe, no epizootiological data exist for urbanized areas so far. Therefore, this study was conducted to investigate the occurrence and prevalence of Leptospira spp. and hantaviruses in small wild rodents living in close proximity to humans. Altogether, 338 small rodents representing five different species (Apodemus agrarius, A. flavicollis, A. sylvaticus, Microtus arvalis, and Myodes glareolus) were captured in the city of Pécs (Hungary) and screened for pathogens by different types of PCR methods (TaqMan-based real-time PCR/PCR, RT-PCR/PCR). A total of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "18.3\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of the rodents were positive for Leptospira kirschneri, L. interrogans, and L. borgpetersenii. Nucleic acid of Tula hantavirus and human pathogen Dobrava-Belgrade orthohantavirus were detected in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of tested specimens. Furthermore, dual infections with both Leptospira spp. and hantaviruses were shown in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.6\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of animals, suggesting that the same rodent host can be infected with several pathogens at the same time, therefore, representing a serious threat to public health. Overall, this study provides important surveillance data on the prevalence of Leptospira spp. and hantaviruses from rodents in urbanized environment for the first time in Hungary and emphasizes the importance of further ecoepidemiological investigations. "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                386,
+                901,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: ecology, coinfection, infection diseases, Myodes glareolus, urbanization "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                628,
+                692,
+                643
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                91,
+                670,
+                184,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ABOUT  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "75\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " OF THE NEW DISEASES that have affected humans over the past 10 years have been caused by pathogens originating from animals or from products of animal origin, which denotes the significant impact of zoonotic diseases worldwide (WHO, www.who.int). Many of these diseases have the potential to spread in different ways over long distances, therefore dispose the possibility to become global problems. There are several factors that drive the emergence and/or reemergence of zoonotic agents, however, one of the most important factors is the growing human population, which results increased urbanization, land use, and consequential deforestation. Urbanization is one of the most extreme forms of environmental alteration, posing a "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                696,
+                488,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "remarkable threat to biodiversity and altering fundamental ecosystem services, for example, inducing changes in both food processing as well as in the distribution of animal/vector populations. Furthermore, it procures a closer coexistence between animals and humans, therefore potentially induces changes in zoonotic disease transmission as well. "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                670,
+                900,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodents are important reservoirs for a large number of zoonotic pathogens, which agents are usually transmitted to humans through direct or indirect contact. Among others, leptospirosis and hantaviral infections are considered the most widespread zoonotic diseases worldwide (Vijayachari et al. 2008, Gowen and Hickerson 2017), having the similar epidemiology and clinical symptoms. Ten pathogenic Leptospira spp. are grouped in 20 bacterial serogroups and 300 serovars are known so far (Levett 2001). In addition, "
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                752,
+                900,
+                878
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by Tufts University package NERL from online.liebertpub.com at 02/14/18. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                299,
+                53,
+                700
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "VECTOR-BORNE AND ZOONOTIC DISEASES "
+                    }
+                ]
+            },
+            "bbox": [
+                91,
+                39,
+                377,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Volume XX, Number XX, 2018 "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                54,
+                274,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\odot"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Mary Ann Liebert, Inc. "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                65,
+                240,
+                75
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DOI: 10.1089/vbz.2017.2204 "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                75,
+                263,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL ARTICLE "
+                    }
+                ]
+            },
+            "bbox": [
+                676,
+                40,
+                898,
+                59
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>1</sup>Virological Research Group, Szentágothai Research Centre, University of Pécs, Pécs, Hungary. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                893,
+                679,
+                907
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "^{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Department of Genetics and Molecular Biology, Faculty of Sciences, University of Pecs, Pecs, Hungary. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                906,
+                732,
+                919
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "^{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Department of Ecology, Institute of Biology, Faculty of Sciences, University of Pecs, Pecs, Hungary. "
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                917,
+                712,
+                931
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                491,
+                946,
+                501,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "more than 50 hantavirus strains have been identified, 24 of those strains have pathogenic relevance to humans (Jiang et al. 2017). Although a number of various hantavirus species, for example, Dobrava-Belgrade orthohantavirus (DOBV) and Tula hantavirus (TULV), are circulating in Europe, Puumala virus is by far the most prevalent pathogen and is responsible for nephropathia epidemiica, which is the milder form of the more severe diseases called hemorrhagic fever with renal syndrome (HFRS) (Jiang et al. 2017). "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                73,
+                491,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although both Leptospira spp. and hantaviruses are worldwide distributed zoonoses with great clinical and epidemiological significance in Europe, no epizootiological data exist for urbanized areas in Hungary so far. Identification of reservoir hosts of zoonotic agents is a prerequisite for an effective prevention of human infections. Therefore, this study was conducted to investigate the occurrence and prevalence of Leptospira spp. and hantaviruses in small wild rodents living in urban habitats. Furthermore, by molecular biological identification of detected pathogens to broaden our knowledge about human health risk related to rodents living in close proximity to humans. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                198,
+                491,
+                362
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                388,
+                259,
+                400
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Study area and habitat description "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                409,
+                325,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study focused on urban habitats in Pécs, which is the largest city of the South Transdanubian region (Baranya county) in Hungary. The town is bordered by Mecsek mountains from the north and a plain from the south  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(46^{\\circ}04'21.84''\\mathrm{N}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "18^{\\circ}13'56.16''\\mathrm{E})"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Sub-Mediterranean climate characterizes the town with a mean annual precipitation of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "710\\mathrm{mm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and a mean annual temperature of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Pécs is characterized by moderate density of human population with a total inhabitants of 145,985 and covering an area of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "162.8\\mathrm{km}^2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (HCSO 2015). In accordance with most urban ecological studies, we defined urban habitats as highly urbanized environments within boundaries of the city, characterized by densely built-up areas, commonly with block houses, green patches, and backyards. According to this, we selected 30 sampling sites throughout the much-frequented and popular parts of the city and surrounding built-up areas. The study sites included residential areas, commercial centers and markets, tourist spots, and recreational parks. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                429,
+                491,
+                664
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodent trapping, species identification, and sample collection "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                99,
+                689,
+                352,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Small terrestrial mammal samplings were conducted in March, May, and August 2016. Plastic box-type live traps (Herczeg and Horvath 2015) were used at each site, placed in lines (10 catching points at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{m}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " distance) and baited with a mixture of corn and diced bacon. The traps were checked in 24-h intervals (every morning), exposed to five consecutive nights per every month (in total 4500 trap nights). The trapped specimens were determined by species according to their phenotypic characteristics such as fur color and morphological measurements such as body length, tail length, hind foot length, as well as by sex (Aulagnier et al. 2008). Animals belonging to protected species were subsequently released. All the other rodents (species with Least Concern IUCN conservation status) under the families Muridae and Cricetidae were euthanized using carbon dioxide. The animals "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                723,
+                491,
+                929
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "were dissected, and then, lung and kidney tissues were used for hantavirus and Leptospira spp. detection, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                73,
+                901,
+                99
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Molecular detection of hantavirus and pathogenic Leptospira spp. "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                114,
+                833,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A small piece of tissue  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\sim 50\\mathrm{mg})"
+                    },
+                    {
+                        "type": "text",
+                        "content": " was homogenized in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "500~\\mu \\mathrm{L}1\\times \\mathrm{PBS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " . After  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " centrifugation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6000\\times g"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "200~\\mu \\mathrm{L}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of the supernatant was used for nucleic acid extraction, performed with GeneJET Viral DNA/RNA Purification Kit (Thermo Scientific), following the manufacturer's instructions. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                148,
+                901,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All samples were screened for hantavirus RNA by nested reverse transcription-PCR (RT-PCR), using degenerated primers HAN-L-F1 and HAN-L-R1 for primary RT-PCR, then HAN-L-F2 and HAN-L-R2 for nested PCR, amplifying a 300-bp product of the highly conserved L segment (Klempa et al. 2006). The first PCR reaction was performed with the QIAGEN OneStep RT-PCR Kit (Qiagen), with the following cycling conditions:  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "50^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", activation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "95^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "15\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and 40 cycles of PCR at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "94^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "53^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and final elongation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The nested PCR reaction was performed with the GoTaq® G2 Flexi DNA Polymerase Kit (Promega) with an initial incubation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "95^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 40 cycles at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "94^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "52^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "45\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and final elongation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". In each reaction, DOBV RNA extracted from infected rodents that were captured locally, in the Southern Transdanubian region of Hungary, was used as a positive control. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                218,
+                901,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For the screening of all samples for Leptospira DNA, a real-time PCR targeting a partial 242-bp long sequence of the  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "32\\mathrm{kDa}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " leptospiral major outer membrane lipoprotein LipL32 gene was performed using the primers LipL32-45F, LipL32-286R, and probe LipL32-189P as previously described (Stoddard et al. 2009, Woll et al. 2012, Obiegala et al. 2016). TaqMan PCR assay was performed with GoTaq G2 Flexi DNA Polymerase Kit (Promega) according to the manufacturer's protocol on LineGene 9660 platform (Bioer). The cycling conditions included an initial denaturation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "95^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", followed by 50 cycles of amplification (denaturation at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "94^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "15\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", primer annealing at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "51^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and extension at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Real-time PCR-positive samples were further examined by a conventional PCR targeting a 423-bp amplicon between positions 270 and 692 of the LipL32 coding region, using the primers LipL32-270F and LipL32-692R (Levett et al. 2005) performed with the same PCR Kit (GoTaq G2 Flexi DNA Polymerase PCR Kit; Promega). The reaction conditions consisted of an initial denaturation step at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "95^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", followed by 35 cycles of amplification  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(94^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "53^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "45\\mathrm{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") and terminated at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "72^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " for  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5\\mathrm{min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                467,
+                901,
+                782
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification of detected viral and bacterial strains "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                800,
+                839,
+                811
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Amplicons were visualized by agarose-gel electrophoresis in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " agarose gel in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1\\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": " Tris-borate-EDTA buffer, stained with ethidium bromide. The amplicons from representative positive samples were purified with Gel/PCR DNA Fragments Extraction Kit (Geneaid Biotech) and bidirectionally sequenced with BigDye Terminator v1.1 Cycle Sequencing Kit according to the manufacturers' protocol on ABI Prism 310 DNA Sequencer platform (Applied "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                821,
+                901,
+                930
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by Tufts University package NERL from online.liebertpub.com at 02/14/18. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                300,
+                53,
+                700
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                42,
+                109,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "KURUCZ ET AL. "
+                    }
+                ]
+            },
+            "bbox": [
+                785,
+                42,
+                901,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Biosystems). Nucleic acid sequences of the detected bacterial strains were identified by GenBank BLAST searches based on the greatest homology. "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                73,
+                486,
+                114
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                96,
+                136,
+                184,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The differences in number of individuals of different rodent species as well as in different months were analyzed using Pearson's chi-squared test performed with R software (R Development Core Team 2017). We analyzed the prevalence of hantavirus and Leptospira spp. using generalized linear models implemented in the \"nlme\" package (Pinheiro et al. 2015) for R software (R Development Core Team 2017) with binomial error distribution and logit link function. In our models, the binary-dependent variables were absence or presence of infections, the time-scale-related fixed effect was month (March, May, and August), and the host-related fixed effects were rodent genus (Apodemus spp./Microtus sp.) and gender (male/female). The best model was selected using the \"step\" function from the \"stats\" package of R software (R Development Core Team 2017), based on Akaike information criterion corrected to sample size. "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                156,
+                486,
+                376
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                96,
+                398,
+                148,
+                410
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Altogether, 338 small rodents representing five different species were captured in the urbanized area of Pécs, during March, May, and August 2016. The eudominant species were the striped field mouse (A. agrarius)  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(43.8\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", yellow-necked mouse (A. flavicollis)  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(15.7\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and common vole (M. arvalis)  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(31.7\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". We identified also wood mouse (A. sylvaticus)  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(8.6\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " as dominant species and captured one specimen of bank vole (Myodes glareolus)  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(0.3\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Because of the small sample size, we excluded M. glareolus from further statistical analyses. The number of captured individuals differed significantly between rodent species  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\chi^2 = 102.2, df = 3, p < 0.001)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " as well as between months: altogether, 130 small mammals were captured in March, 144 in May, and 64 in August  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(\\chi^2 = 32.4, df = 2, p < 0.001)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                417,
+                486,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The presence of hantavirus RNA was confirmed in 27 of 338 tested animals  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(8\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", with the lowest rate of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6.2\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in March  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 8/130)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", then  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8.3\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in May  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 12/144)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10.9\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in August  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 7/64)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Fig. 1). Out of the five investigated species, M. arvalis  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 16/107)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", M. glareolus  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 1/1)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and A. agrarius  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 10/148)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " were infected with the virus, while all the tested A. flavicollis and A. sylvaticus were negative (Table 1). Based on the sequencing data of RT-PCR products, derived from positive samples, we identified Dobrava-Belgrade orthohantavirus (DOBV) in A. agrarius, showing the best homology  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(95 - 99\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " with Central European Kurkino strains. Furthermore, Tula virus (TULV) was detected in M. arvalis and M. glareolus voles. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                73,
+                898,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A relatively high number (62/338,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "18.3\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of Leptospira spp. that infected small mammals were identified. Regarding the different months,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of the animals in March  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 13/130)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "21.5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in May  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 31/144)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "28.1\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " in August were positive  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 18/64)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (Fig. 1). All of the five investigated species were susceptible to the bacteria, with the highest rate M. arvalis  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(25.2\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and A. agrarius  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(19.6\\%)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and then A. flavicollis and A. sylvaticus with  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7.5\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3.4\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " infection rate, respectively. Moreover, the only one M. glareolus specimen was also positive for Leptospira spp. (Table 1). All the 62 PCR-positive samples could be further determined by conventional PCR of the partial LipL32 gene and amplicon sequencing. In this manner, we identified Leptospira kirschneri, L. borgpetersenii, and L. interrogans. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                238,
+                898,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Furthermore, nine animals,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.6\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of the investigated specimens  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 4M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " arvalis,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n = 4A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n = 1M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " glareolus) were simultaneously positive for hantavirus and Leptospira spp., captured in March  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 3)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", May  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 3)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and August  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(n = 3)"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", as well. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                431,
+                898,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Based on the statistical analysis of data, \"genus\" and \"month\" were significantly associated with hantavirus and Leptospira spp. infection, but patterns of variation in the prevalence of males and females were similar (Table 2). For both pathogens, significantly more voles (Microtus sp.) were infected than mice (Apodemus spp.), and significantly higher infection rates were observed in August compared with "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                501,
+                898,
+                598
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0cd4c849e09419e9fba374ada279f17920ade801d506dd824e36309e548cde2c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FIG. 1. Number of investigated rodent individuals (infected and noninfected) and prevalence of hantavirus- and Leptospira spp.-infected specimens during the three sampling period: March, May, and August 2016. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                148,
+                630,
+                841,
+                893
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by Tufts University package NERL from online.liebertpub.com at 02/14/18. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                299,
+                53,
+                700
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ZOONOSES IN URBAN ENVIRONMENT "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                42,
+                370,
+                53
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                42,
+                898,
+                53
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d37d85fba054e25de243b2ef9ee820a6a81a6eb12f91115b232d6f0f2a8f1bd2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 1. NUMBER (AND RATE) OF INFECTED INDIVIDUALS WITH HANTAVIRUS AND LEPTOSPIRA SPP. IN MARCH, MAY, AND AUGUST 2016, INVESTIGATED IN URBAN ENVIRONMENT (HUNGARY) "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Species</td><td>Months</td><td>No. of individuals</td><td>Hantavirus-infected individuals</td><td>Leptospira spp.-infected individuals</td></tr><tr><td rowspan=\"4\">Apodemus agrarius</td><td>March</td><td>48</td><td>1 (2.1%)</td><td>4 (8.3%)</td></tr><tr><td>May</td><td>66</td><td>5 (7.6%)</td><td>15 (22.7%)</td></tr><tr><td>Aug</td><td>34</td><td>4 (11.8%)</td><td>10 (29.4%)</td></tr><tr><td>Total</td><td>148</td><td>10 (6.8%)</td><td>29 (19.6%)</td></tr><tr><td rowspan=\"4\">Apodemus flavicollis</td><td>March</td><td>18</td><td>0 (0%)</td><td>3 (16.7%)</td></tr><tr><td>May</td><td>22</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>Aug</td><td>13</td><td>0 (0%)</td><td>1 (7.7%)</td></tr><tr><td>Total</td><td>53</td><td>0 (0%)</td><td>4 (7.5%)</td></tr><tr><td rowspan=\"4\">Apodemus sylvaticus</td><td>March</td><td>16</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>May</td><td>10</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>Aug</td><td>3</td><td>0 (0%)</td><td>1 (33.3%)</td></tr><tr><td>Total</td><td>29</td><td>0 (0%)</td><td>1 (3.4%)</td></tr><tr><td rowspan=\"4\">Microtus arvalis</td><td>March</td><td>48</td><td>7 (14.6%)</td><td>6 (12.5%)</td></tr><tr><td>May</td><td>45</td><td>6 (13.3%)</td><td>15 (33.3%)</td></tr><tr><td>Aug</td><td>14</td><td>3 (21.4%)</td><td>6 (42.9%)</td></tr><tr><td>Total</td><td>107</td><td>16 (15.0%)</td><td>27 (25.2%)</td></tr><tr><td rowspan=\"4\">Myodes glareolus</td><td>March</td><td>0</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>May</td><td>1</td><td>1 (100%)</td><td>1 (100%)</td></tr><tr><td>Aug</td><td>0</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>Total</td><td>1</td><td>1 (100%)</td><td>1 (100%)</td></tr><tr><td>Total</td><td></td><td>338</td><td>27 (7.99%)</td><td>62 (18.3%)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                96,
+                99,
+                906,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "March. Furthermore, in case of Leptospira spp., we detected higher prevalence also in May than in March (Fig. 1; Table 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                467,
+                491,
+                494
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                98,
+                515,
+                178,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In this study, we investigated species structure of small mammal communities inhabiting a midsize European city and demonstrated the presence of two widespread renal syndrome-causing zoonotic pathogens: Leptospira spp. and hantavirus in rodent species present in urbanized environment, Hungary. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                536,
+                490,
+                619
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Differences in landscape structure contributed to the explanation of the differences in the composition of the community of animal species. As a consequence of urbanization, the composition of small mammals tends to be simpler from rural to urban habitats (McKinney 2002). Synanthropic species, such as Rattus norvegicus, Mus musculus, or members of Apodemus genus, follow human movement, hereby procuring a closer coexistence between rodents and humans. "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                619,
+                490,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The native rodent communities of Pécs are composed of a few species that are commonly distributed species in Europe; however, no  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R."
+                    },
+                    {
+                        "type": "text",
+                        "content": " norvegicus or  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " musculus was detected in our study. Striped field mouse was captured with the highest abundance, a species that has begun its migration and synurbization quite recently, which occupies urbanized habitats (Lopucki et al. 2013, Gortat et al. 2014). The natural habitats of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius in Europe are meadows, agricultural areas, and ecotones, however, within urbanized areas, this species extends its habitat niche to wooded spaces (Lopucki et al. 2013). In a number of European cities, dominant species in parks and other green areas is  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " sylvaticus, but its dominance occurs only in absence of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius (Frynta et al. 1994, Klimant et al. 2015). In compliance with Lopucki et al. (2013), our study confirms that in towns within the distribution range of  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius, this species occupies the niche of the dominant urban dweller. The second numerous species, which presently colonizes the city's green spaces, is the common vole.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " arvalis is a typical inhabitant of cultivated "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                467,
+                901,
+                729
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/437c87a8a77b3ca7fd96557a7d8f0a22c5cf67368ea7664f7ef3771958701949.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "TABLE 2. GENERALIZED LINEAR MODEL RESULTS EXAMINING THE RELATIONSHIP BETWEEN THE PREVALENCE OF HANTAVIRUS AND LEPTOSPIRA SPP. INFECTION AND INDEPENDENT VARIABLES "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Parameter, estimates with SE, and levels of significance ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{*}p < 0.1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{**}p < 0.05"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{***}p < 0.01"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^{****}p < 0.001"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") are given. SE, standard error. "
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">Parameter</td><td colspan=\"3\">Hantavirus</td><td colspan=\"3\">Leptospira spp.</td></tr><tr><td>Estimate ± SE</td><td>z</td><td>p</td><td>Estimate ± SE</td><td>z</td><td>p</td></tr><tr><td>(Intercept)</td><td>-3.63±0.74</td><td>-4.87</td><td>&lt; 0.001****</td><td>-3.68±0.69</td><td>-5.32</td><td>&lt;0.001****</td></tr><tr><td>Genus (Microtus)</td><td>1.31±0.56</td><td>2.34</td><td>0.019**</td><td>0.83±0.42</td><td>1.98</td><td>0.046**</td></tr><tr><td>Gender (Female)</td><td>-0.25±0.54</td><td>-0.47</td><td>0.637</td><td>0.47±0.39</td><td>1.19</td><td>0.231</td></tr><tr><td>Month (May)</td><td>0.83±0.72</td><td>1.14</td><td>0.254</td><td>1.86±0.66</td><td>2.81</td><td>0.004***</td></tr><tr><td>Month (August)</td><td>1.30±0.77</td><td>1.69</td><td>0.090*</td><td>2.26±0.69</td><td>3.23</td><td>0.001***</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                96,
+                777,
+                906,
+                902
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by Tufts University package NERL from online.liebertpub.com at 02/14/18. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                299,
+                53,
+                700
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                42,
+                109,
+                53
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "KURUCZ ET AL. "
+                    }
+                ]
+            },
+            "bbox": [
+                785,
+                41,
+                901,
+                54
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "land and grassy areas without trees and shrubs. It occurs everywhere on the edges of agglomeration. The common vole usually penetrates from the outskirts of the agglomeration into the center along grassy strips, ditches, ruderal areas, along railway lines and roads (Klimant et al. 2015). M. glareolus is bound to the presence of trees and shrubs, it penetrates into built-up areas only exceptionally (Svitalkova et al. 2015), we observed also only single specimen of this species. "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                73,
+                486,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Generally, Leptospira spp. are the most frequently detected pathogens in European rodents, followed by hantaviruses, which also present as a notable frequent zoonotic agent (Avsic-Zupanc et al. 2000, Cvetko et al. 2006, Tadin et al. 2012, 2016, Svoboda et al. 2014, Maas et al. 2017). Our results were in accordance with this finding. A recent survey in Croatia revealed Leptospira infection in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": ">20\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": " of rodents, the majority of them were Apodemus spp. (Tadin et al. 2016). However, we detected relatively more infected  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " arvalis than Apodemus spp., and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L."
+                    },
+                    {
+                        "type": "text",
+                        "content": " interrogans,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L."
+                    },
+                    {
+                        "type": "text",
+                        "content": " kirschneri, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L."
+                    },
+                    {
+                        "type": "text",
+                        "content": " borgpetersenii were identified as the Leptospira spp., similar to previous reports from European rodents (Turk et al. 2003, Stritof et al. 2014, Tadin et al. 2016). Former epidemiological surveys indicated that  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " flavicollis,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " glareolus, and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " arvalis, which are common throughout Central Europe, were most frequently infected with hantaviruses (Avsic-Zupanc et al. 2000, Tadin et al. 2012, Maas et al. 2017). In our study, similar to Leptospira infection, hantavirus positivity was significantly more frequent in voles than in mice. We identified DOBV and TULV, which were previously known to coexist in Hungary (Jakab et al. 2007, 2008, Oldal et al. 2014). Hantaviruses are principally associated with distinct rodent host species (Jiang et al. 2017). Similar to previous reports, Kurkino strain of DOBV was identified in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A."
+                    },
+                    {
+                        "type": "text",
+                        "content": " agrarius and TULV in  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " arvalis, but in contrast,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M."
+                    },
+                    {
+                        "type": "text",
+                        "content": " glareolus was infected with TULV, most probably due to spillover infections (Reil et al. 2017). The fact that hantaviruses can circulate in host reservoirs in very extensive habitats, extends the risk of possible host coinfection by different hantaviruses, and therefore virus reassortment and host spillover (Ermonval et al. 2016). Moreover, we found relatively low percentage of hantavirus-positive rodents compared to previous studies on hantaviruses in the neighboring countries (e.g., Avsic-Zupanc et al. 2000, Tadin et al. 2012, Svoboda et al. 2014, Maas et al. 2017), although the sampling was performed in different years/seasons and different environment as well. "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                198,
+                486,
+                708
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We found dual infections with both pathogens in a low proportion of the investigated rodent specimens. Until 2006, there were no data on the prevalence of hantavirus/Leptospira spp. coinfections among European rodents (Cvetko et al. 2006). However, a few case-reports described coinfection in humans (e.g., Markotic et al. 2002, Clement et al. 2014, Sunil-Chandra et al. 2015), only a single human case was described in the study region (Nemes and Péterfi 2000), therefore, it is still unknown what would be the risk for humans to encounter both infections at the same time. Since these pathogens share the same reservoir host, this suggests that their geographic distribution provides opportunity for individuals to be infected with both pathogens (Cvetko et al. 2006, Tadin et al. 2012). We showed that dual infection with these two pathogens may occur in common voles, bank voles, and striped field mice as well. Therefore, determining the "
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                709,
+                486,
+                929
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "presence and spread of these etiologic agents of human illnesses by testing local rodent populations might predict the potential for disease emergence. Understanding the ecology of wildlife animals and their pathogens in urban environments will become increasingly important for managing disease risks to wildlife and to human as well (Bradley and Altizer 2007). "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                73,
+                897,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To the best of our knowledge, in Europe, we report the first evidence of Leptospira spp. and hantaviruses among wild rodents living in close proximity to humans, within the borders of a settlement. Although this study was not designed to demonstrate a linkage between the presence of these agents and human disease, the data presented in this study may provide insight into assessing the risk of rodent-borne zoonoses in the region. Since clinical symptoms in humans of leptospirosis are undistinguishable from HFRS, a prudent practice in infection clinics should consist of screening always for both the pathogens in each case admitted for leptospirosis or for a hantavirus infection. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                170,
+                897,
+                335
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                357,
+                635,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Research activity of F.J. was supported by TÁMOP (4.2.4.A/2-11-1-2012-0001)—National Excellence Program. K.K. was supported by the Szentágothai Talent Program (awarded by the Szentágothai Research Centre, University of Pécs). G.K. and F.J. were supported by the UNKP-17-3-III and UNKP-17-4-III—New Excellence Program of the Ministry of Human Capacities. The project has been supported by the European Union, cofinanced by the European Social Fund: Comprehensive Development for Implementing Smart Specialization Strategies at the University of Pécs (EFOP-3.6.1.-16-2016-00004) and by the University of Pécs in the frame of \"Viral Pathogenesis\" Talent Center program. The present scientific contribution is dedicated to the 650th anniversary of the foundation of the University of Pécs, Hungary. "
+                    }
+                ]
+            },
+            "bbox": [
+                506,
+                375,
+                897,
+                569
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Author Disclosure Statement "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                592,
+                710,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No competing financial interests exist. "
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                612,
+                771,
+                625
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                506,
+                646,
+                584,
+                657
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Aulagnier S, Mitchell-Jones AJ, Zima J, Haffner P, et al. Mammals of Europe, North Africa and the Middle East. London: A&C Black Ltd., 2008. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Avsic-Zupanc T, Nemirov K, Petrovec M, Trilar T, et al. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: Co-existence of two distinct genetic lineages within the same natural focus. J Gen Virol 2000; 81:1747-1755. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bradley C, Altizer S. Urbanization and the ecology of wildlife diseases. Trends Ecol Evol 2007; 22:95-102. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Clement J, Van Esbroeck M, Lagrou K, Verschueren J, et al. Letter to the Editor: Leptospirosis versus hantavirus infections in the Netherlands and in Belgium, 2000 to 2014. Euro Surveill 2014; 19:20912. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cvetko L, Turk N, Markotic A, et al. Short report: Dual infections with Puumala virus and Leptospira interrogans serovar lora in a bank vole (Clethrionomys glareolus). Am J Trop Med Hyg 2006; 74:612-614. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ermonval M, Baychelier F, Tordo N. What do we know about how hantaviruses interact with their different hosts? Viruses 2016; 8:223. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                504,
+                666,
+                898,
+                929
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by Tufts University package NERL from online.liebertpub.com at 02/14/18. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                300,
+                53,
+                700
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ZOONOSES IN URBAN ENVIRONMENT "
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                42,
+                370,
+                53
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                888,
+                42,
+                898,
+                53
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Frynta D, Vohralik V, Reznicek J. Small mammals (Insectivora, Rodentia) in the city of Prague: Distributional patterns. Acta Soc Zool Bohem 1994; 58:151-176. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gortat T, Barkowska M, Gryczynska-Siemiatkowska A, Pieniazek A, et al. The effects of urbanization—small mammal communities in a gradient of human pressure in Warsaw city, Poland. Pol J Ecol 2014; 62:163-172. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gowen BB, Hickerson BT. Hemorrhagic fever of bunyavirus etiology: Disease models and progress towards new therapies. J Microbiol 2017; 55:183-195. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "HCSO. Gazetteer of Hungary, 1st January 2015. Hungarian Central Statistical Office, Budapest: Xerox Magyarország Kft, 2015. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Herczeg R, Horvath Gy. Species composition and nestedness of small mammal assemblages in two disturbed marshlands. N W J Zool 2015; 11:183-193. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jakab F, Horvath Gy, Ferenczi E, Sebok J, et al. Detection of Dobrava hantaviruses in Apodemus agrarius mice in the Transdanubian region of Hungary. Virus Res 2007; 128:149-152. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jakab F, Horvath Gy, Ferenczi E, Sebok J, et al. First detection of Tula hantaviruses in Microtus arvalis voles in Hungary. Arch Virol 2008; 153:2093-2096. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jiang H, Zheng X, Wang L, Du H, et al. Hantavirus infection: A global zoonotic challenge. Virol Sin 2017; 32:32-43. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa P, Fichet-Calvet E, Lecompte E, Auste B, et al. Hantavirus in African Wood Mouse, Guinea. Emerging Infect Dis 2006; 12:838-840. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klimant P, Baláž I, Krumpálová Z. Communities of small mammals (Soricomorpha, Rodentia) in urbanized environment. Biologia 2015; 70:839-845. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Levett PN. Leptospirosis. Clin Microbiol Rev 2001; 14:296-326. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Levett PN, Morey RE, Galloway RL, Turner DE, et al. Detection of pathogenic leptospires by real-time quantitative PCR. J Med Microbiol 2005; 54:45-49. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lopucki R, Mróz I, Berlinski L, Burzych M. Effects of urbanization on small-mammal communities and the population structure of synurbic species: An example of a medium-sized city. Can J Zool 2013; 91:554-561. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Maas M, De Vries A, Van Roon A, Takumi K, et al. High prevalence of Tula hantavirus in common voles in The Netherlands. Vector Born Zoonotic Dis 2017; 17:200-205. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Markotic A, Kuzman I, Babic K, Gagro A, et al. Double trouble: Hemorrhagic fever with renal syndrome and leptospirosis. Scand J Infect Dis 2002; 34:221-224. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "McKinney M. Urbanization, biodiversity and conservation. Bioscience 2002; 52:883-890. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Nemes Zs, Péterfi Z. Simultaneous leptospirosis and hantavirus infection in the same patient [Article in Hungarian]. Orv Hetil 2000; 141:499-502. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Obiegala A, Woll D, Karnath C, Silaghi C, et al. Prevalence and genotype allocation of pathogenic Leptospira species in small mammals from various habitat types in Germany. PLoS Negl Trop Dis 2016; 10:e0004501. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Oldal M, Nemeth V, Madai M, Pinter R, et al. Serosurvey of pathogenic hantaviruses among forestry workers in Hungary. Int J Occup Med Environ Health 2014; 27:766-773. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                73,
+                491,
+                839
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pinheiro J, Bates D, DebRoy S, Sarkar D. nlme: Linear and Nonlinear Mixed Effects Models. R package version 3.1-122, 2015. Available at http://CRAN.R-project.org/package=nlme "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "R Development Core Team. R: A language and environment for statistical computing, R Foundation for Statistical Computing, Vienna, Austria, 2017. Available at www.R-project.org "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Reil D, Rosenfeld UM, Imholt C, Schmidt S, et al. Puumala hantavirus infections in bank vole populations: Host and virus dynamics in Central Europe. BMC Ecol 2017; 17:1-13. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stoddard RA, Gee JE, Wilkins PP, McCaustland K, et al. Detection of pathogenic Leptospira spp. through TaqMan polymerase chain reaction targeting the LipL32 gene. Diagn Microbiol Infect Dis 2009; 64:247-255. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Stritof Majetic Z, Galloway R, Ruzic Sabljic E, Milas Z, et al. Epizootiological survey of small mammals as Leptospira spp. reservoirs in eastern Croatia. Acta Trop 2014; 131:111-116. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sunil-Chandra NP, Clement J, Maes P, de Silva HJ, et al. Concomitant leptospirosis-hantavirus co-infection in acute patients hospitalized in Sri Lanka: Implications for a potentially worldwide underestimated problem. Epidemiol Inf 2015; 143:2081-2093. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Svitalkova Z, Harustiakova D, Mahrikova L, Berthova L, et al. Anaplasma phagocytophilum prevalence in ticks and rodents in an urban and natural habitat in South-Western Slovakia. Parasit Vectors 2015; 17:276. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Svoboda P, Dobler G, Markotic A, Kurolt IC, et al. Survey for hantaviruses, tick-borne encephalitis virus, and Rickettsia spp. in small rodents in Croatia. Vector Borne Zoonotic Dis 2014; 14:523-530. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tadin A, Tokarz R, Markotic A, Margaletić J, et al. Molecular survey of zoonotic agents in rodents and other small mammals in Croatia. Am J Trop Med Hyg 2016; 94:466-473. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tadin A, Turk N, Korva M, Margaletic J, et al. Multiple co-infections of rodents with hantaviruses, Leptospira, and Babesia in Croatia. Vector Borne Zoonotic Dis 2012; 12:388-392. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Turk N, Milas Z, Margaletic J, Staresina V, et al. Molecular characterization of Leptospira spp. strains isolated from small rodents in Croatia. Epidemiol Infect 2003; 130:159-166. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Vijayachari P, Sugunan AP, Shriram AN. Leptospirosis: An emerging global public health problem. J Biosci 2008; 33: 557-569. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Woll D, Karnath C, Pfeffer M. Genetic characterisation of Leptospira spp. from beavers found dead in south-west Germany. Vet Microbiol 2012; 158:232-234. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                73,
+                901,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Address correspondence to: "
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                715,
+                901,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ferenc Jakab "
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                729,
+                901,
+                743
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Virological Research Group "
+                    }
+                ]
+            },
+            "bbox": [
+                714,
+                743,
+                901,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Szentágothai Research Centre "
+                    }
+                ]
+            },
+            "bbox": [
+                702,
+                757,
+                901,
+                771
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "University of Pécs "
+                    }
+                ]
+            },
+            "bbox": [
+                779,
+                771,
+                901,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pecs H-7624 "
+                    }
+                ]
+            },
+            "bbox": [
+                815,
+                785,
+                901,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hungary "
+                    }
+                ]
+            },
+            "bbox": [
+                841,
+                800,
+                901,
+                813
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: jakabf@gamma.ttk.pte.hu "
+                    }
+                ]
+            },
+            "bbox": [
+                676,
+                825,
+                901,
+                839
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "Downloaded by Tufts University package NERL from online.liebertpub.com at 02/14/18. For personal use only. "
+                    }
+                ]
+            },
+            "bbox": [
+                37,
+                300,
+                53,
+                700
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 "
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                42,
+                109,
+                54
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "KURUCZ ET AL. "
+                    }
+                ]
+            },
+            "bbox": [
+                785,
+                41,
+                901,
+                54
+            ]
+        }
+    ]
+]

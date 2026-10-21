@@ -1,0 +1,4632 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        79,
+                        91,
+                        523,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                90,
+                                525,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        90,
+                                        525,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "Isolation of Dobrava Virus from Apodemus flavicollis in Greece",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        121,
+                        114,
+                        481,
+                        146
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                115,
+                                481,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        115,
+                                        481,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "ANNA PAPA,1 * KIRILL NEMIROV,2 HEIKKI HENTTONEN,3 JUKKA NIEMIMAA,3",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                145,
+                                125,
+                                458,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        145,
+                                        125,
+                                        458,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "ANTONIS ANTONIADIS,1 ANTTI VAHERI,2 ALEXANDER PLYUSNIN,2",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                247,
+                                136,
+                                355,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        136,
+                                        355,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "AND OLLI VAPALAHTI2",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        89,
+                        149,
+                        512,
+                        180
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                149,
+                                512,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        149,
+                                        512,
+                                        162
+                                    ],
+                                    "type": "text",
+                                    "content": "Department of Microbiology, School of Medicine, Aristotelian University of Thessaloniki, Thessaloniki, Greece,1",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                154,
+                                160,
+                                449,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        154,
+                                        160,
+                                        449,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "and Department of Virology, Haartman Institute, University of Helsinki,2 and",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                203,
+                                169,
+                                400,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        203,
+                                        169,
+                                        400,
+                                        182
+                                    ],
+                                    "type": "text",
+                                    "content": "Finnish Forest Research Institute, Vantaa,3 Finland",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        131,
+                        187,
+                        469,
+                        198
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                187,
+                                471,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        187,
+                                        471,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "Received 12 January 2001/Returned for modification 23 February 2001/Accepted 14 March 2001",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        85,
+                        209,
+                        515,
+                        249
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                209,
+                                516,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        209,
+                                        516,
+                                        221
+                                    ],
+                                    "type": "text",
+                                    "content": "Dobrava virus (DOBV) carried by Apodemus flavicollis is the causative agent of severe hemorrhagic fever with",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                87,
+                                220,
+                                516,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        220,
+                                        516,
+                                        231
+                                    ],
+                                    "type": "text",
+                                    "content": "renal syndrome (HFRS). DOBV was isolated from an A. flavicollis mouse trapped in northeastern Greece. This",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                228,
+                                516,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        228,
+                                        516,
+                                        241
+                                    ],
+                                    "type": "text",
+                                    "content": "is the third DOBV cell culture isolate in the world, clustering together with other Greek DOBV sequences from",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                238,
+                                200,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        238,
+                                        200,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "HFRS patients and rodents.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        49,
+                        267,
+                        294,
+                        366
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                266,
+                                293,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        266,
+                                        293,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "Hantaviruses belong to the genus Hantavirus in the Bunya-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                278,
+                                294,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        278,
+                                        294,
+                                        289
+                                    ],
+                                    "type": "text",
+                                    "content": "viridae family and are causative agents of hemorrhagic fever",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                289,
+                                294,
+                                301
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        289,
+                                        294,
+                                        301
+                                    ],
+                                    "type": "text",
+                                    "content": "with renal syndrome (HFRS) in Europe and Asia and hanta-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                301,
+                                294,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        301,
+                                        294,
+                                        312
+                                    ],
+                                    "type": "text",
+                                    "content": "virus pulmonary syndrome in the Americas. HFRS is caused by",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                312,
+                                294,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        312,
+                                        294,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "Hantaan virus, Seoul virus, Puumala virus, and Dobrava virus",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                322,
+                                294,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        322,
+                                        294,
+                                        334
+                                    ],
+                                    "type": "text",
+                                    "content": "(DOBV), while Sin Nombre and related viruses are the caus-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                333,
+                                294,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        333,
+                                        294,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "ative agents of hantavirus pulmonary syndrome. A number of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                344,
+                                294,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        344,
+                                        294,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "other hantaviruses, not associated at present with human dis-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                355,
+                                189,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        355,
+                                        189,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "ease, have also been identified (9).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        49,
+                        366,
+                        293,
+                        542
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                365,
+                                293,
+                                378
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        365,
+                                        293,
+                                        378
+                                    ],
+                                    "type": "text",
+                                    "content": "Hantaviruses are endemic in the Balkan Peninsula. Since the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                377,
+                                294,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        377,
+                                        294,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "first description of HFRS cases in Greece in 1984 (1), a num-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                294,
+                                399
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        294,
+                                        399
+                                    ],
+                                    "type": "text",
+                                    "content": "ber of 200 HFRS cases have been diagnosed. DOBV is the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                399,
+                                294,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        399,
+                                        294,
+                                        411
+                                    ],
+                                    "type": "text",
+                                    "content": "predominant hantavirus in Greece and is associated with se-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                410,
+                                294,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        410,
+                                        215,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "vere HFRS cases, with a mortality rate of",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        410,
+                                        230,
+                                        420
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9 \\%",
+                                    "score": 0.82
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        410,
+                                        294,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "(2, 6). The host",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                294,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        294,
+                                        433
+                                    ],
+                                    "type": "text",
+                                    "content": "of DOBV in Greece is the rodent Apodemus flavicollis (the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                431,
+                                294,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        431,
+                                        294,
+                                        444
+                                    ],
+                                    "type": "text",
+                                    "content": "yellow-necked mouse) (7). Recently it was found that Apode-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                444,
+                                295,
+                                455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        444,
+                                        295,
+                                        455
+                                    ],
+                                    "type": "text",
+                                    "content": "mus agrarius (the field mouse) also serves as a reservoir host of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                453,
+                                295,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        453,
+                                        295,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "DOBV in Europe (5). In countries where DOBV cases are",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                465,
+                                295,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        465,
+                                        295,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": "associated with A. agrarius, the severity of the disease appears",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                476,
+                                295,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        476,
+                                        295,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": "to be milder, with no mortality (Å. Lundkvist, N. Apekina, Y.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                487,
+                                294,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        487,
+                                        294,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "Myasnikov, O. Vapalahti, A. Vaheri, and A. Plyusnin, Letter,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                498,
+                                294,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        498,
+                                        294,
+                                        510
+                                    ],
+                                    "type": "text",
+                                    "content": "Lancet 350:781–782, 1997). In some countries, such as Slov-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                509,
+                                294,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        509,
+                                        294,
+                                        521
+                                    ],
+                                    "type": "text",
+                                    "content": "enia, both lineages of DOBV (one in A. flavicollis and one in A.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                519,
+                                294,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        519,
+                                        294,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "agrarius) have been found to cocirculate in the same locality",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                530,
+                                69,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        530,
+                                        69,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": "(3).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        49,
+                        542,
+                        293,
+                        598
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                542,
+                                294,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        542,
+                                        294,
+                                        554
+                                    ],
+                                    "type": "text",
+                                    "content": "Isolation of hantaviruses is a tedious process including sev-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                554,
+                                294,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        554,
+                                        294,
+                                        565
+                                    ],
+                                    "type": "text",
+                                    "content": "eral blind passages in cell culture during a period of 2 months,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                563,
+                                294,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        563,
+                                        294,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "and it is only rarely successful. So far, only two cell culture",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                575,
+                                294,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        575,
+                                        294,
+                                        586
+                                    ],
+                                    "type": "text",
+                                    "content": "isolates of DOBV exist, one from A. flavicollis from Slovenia",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                586,
+                                252,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        586,
+                                        252,
+                                        598
+                                    ],
+                                    "type": "text",
+                                    "content": "(4) and another from A. agrarius from Estonia (5).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        49,
+                        598,
+                        293,
+                        674
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                597,
+                                294,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        597,
+                                        294,
+                                        609
+                                    ],
+                                    "type": "text",
+                                    "content": "In this study, a hantavirus was isolated from the lungs of an",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                608,
+                                294,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        608,
+                                        294,
+                                        619
+                                    ],
+                                    "type": "text",
+                                    "content": "A. flavicollis mouse captured near the village of Ano Poroia, in",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                619,
+                                294,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        619,
+                                        294,
+                                        630
+                                    ],
+                                    "type": "text",
+                                    "content": "the northeastern part of Greece, a region where HFRS is",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                631,
+                                294,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        631,
+                                        294,
+                                        641
+                                    ],
+                                    "type": "text",
+                                    "content": "highly endemic. This strain was identified by sequencing of the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                640,
+                                294,
+                                653
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        640,
+                                        294,
+                                        653
+                                    ],
+                                    "type": "text",
+                                    "content": "S and M genome fragments as DOBV and is to date the only",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                652,
+                                294,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        652,
+                                        294,
+                                        663
+                                    ],
+                                    "type": "text",
+                                    "content": "hantavirus strain isolated from Greece and the second isolate",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                663,
+                                124,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        663,
+                                        124,
+                                        674
+                                    ],
+                                    "type": "text",
+                                    "content": "from A. flavicollis.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        307,
+                        267,
+                        552,
+                        432
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                267,
+                                552,
+                                278
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        267,
+                                        552,
+                                        278
+                                    ],
+                                    "type": "text",
+                                    "content": "Small mammals were collected with live traps at two sites in",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                278,
+                                552,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        278,
+                                        552,
+                                        289
+                                    ],
+                                    "type": "text",
+                                    "content": "northeastern Greece: the Ano Poroia and Siderokastro vil-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                290,
+                                552,
+                                301
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        290,
+                                        552,
+                                        301
+                                    ],
+                                    "type": "text",
+                                    "content": "lages, near the Greek-Bulgarian border, which is an area where",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                300,
+                                552,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        300,
+                                        552,
+                                        312
+                                    ],
+                                    "type": "text",
+                                    "content": "HFRS is endemic. Another site of collection was at Hortiatis",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                311,
+                                552,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        311,
+                                        552,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "Mountain, near Thessaloniki, north central Greece. Rodent",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                321,
+                                553,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        321,
+                                        553,
+                                        334
+                                    ],
+                                    "type": "text",
+                                    "content": "lung samples were tested for the presence of DOBV by using",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                333,
+                                552,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        333,
+                                        552,
+                                        345
+                                    ],
+                                    "type": "text",
+                                    "content": "immunoblotting with a rabbit antibody raised against recom-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                344,
+                                552,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        344,
+                                        552,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "binant DOB-N, as previously described (5). Two A. flavicollis",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                355,
+                                552,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        355,
+                                        552,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "rodents, no. 9 and 13, both of them trapped at the first site",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                366,
+                                553,
+                                378
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        366,
+                                        553,
+                                        378
+                                    ],
+                                    "type": "text",
+                                    "content": "(Ano Poroia village), were found to be antigen positive. Total",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                377,
+                                552,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        377,
+                                        552,
+                                        389
+                                    ],
+                                    "type": "text",
+                                    "content": "RNA was extracted from their lung tissues by the acidic gua-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                388,
+                                553,
+                                399
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        388,
+                                        553,
+                                        399
+                                    ],
+                                    "type": "text",
+                                    "content": "nidine thiocyanate-phenol-chloroform method. Parts of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                398,
+                                552,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        398,
+                                        552,
+                                        411
+                                    ],
+                                    "type": "text",
+                                    "content": "DOBV M RNA segments (nucleotides 1724 to 3644) were",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                410,
+                                552,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        410,
+                                        552,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "amplified by reverse transcription-PCR using primers de-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                422,
+                                397,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        422,
+                                        397,
+                                        433
+                                    ],
+                                    "type": "text",
+                                    "content": "scribed elsewhere (5).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        307,
+                        432,
+                        552,
+                        630
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                432,
+                                552,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        432,
+                                        552,
+                                        444
+                                    ],
+                                    "type": "text",
+                                    "content": "A small part of the lung tissue of the two antigen-positive",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                443,
+                                552,
+                                455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        443,
+                                        490,
+                                        455
+                                    ],
+                                    "type": "text",
+                                    "content": "rodents was homogenized, and suspensions",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        491,
+                                        444,
+                                        515,
+                                        455
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "( 1 0 \\% )",
+                                    "score": 0.84
+                                },
+                                {
+                                    "bbox": [
+                                        516,
+                                        443,
+                                        552,
+                                        455
+                                    ],
+                                    "type": "text",
+                                    "content": "of both",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                452,
+                                552,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        452,
+                                        415,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "were inoculated into three",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        416,
+                                        454,
+                                        444,
+                                        464
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "2 5 \\mathrm { - c m } ^ { 2 }",
+                                    "score": 0.82
+                                },
+                                {
+                                    "bbox": [
+                                        445,
+                                        452,
+                                        552,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "flasks containing confluent",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                465,
+                                552,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        465,
+                                        552,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": "Vero E6 cells as described previously (5). Trypsinization of the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                475,
+                                552,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        475,
+                                        552,
+                                        488
+                                    ],
+                                    "type": "text",
+                                    "content": "cells and passage with fresh uninfected Vero E6 cells (ratio,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                486,
+                                552,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        486,
+                                        552,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "2:1) were performed every 3 weeks. The cells were checked for",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                498,
+                                553,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        498,
+                                        553,
+                                        510
+                                    ],
+                                    "type": "text",
+                                    "content": "hantavirus antigen by immunofluorescence assay using rabbit",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                509,
+                                552,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        509,
+                                        552,
+                                        521
+                                    ],
+                                    "type": "text",
+                                    "content": "antisera raised against recombinant DOB-N and monoclonal",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                521,
+                                552,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        521,
+                                        552,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "antibodies 1C12 and 4C3, and at day 45 of passage positive",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                530,
+                                552,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        530,
+                                        552,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": "cells were detected in all three flasks containing cells originat-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                542,
+                                552,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        542,
+                                        552,
+                                        554
+                                    ],
+                                    "type": "text",
+                                    "content": "ing from A. flavicollis mouse 9 (but not in flasks containing cells",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                554,
+                                552,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        554,
+                                        552,
+                                        565
+                                    ],
+                                    "type": "text",
+                                    "content": "originating from mouse 13). The supernatant from the cells at",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                563,
+                                553,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        563,
+                                        339,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "day 47",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        340,
+                                        564,
+                                        359,
+                                        575
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9 0 \\%",
+                                    "score": 0.84
+                                },
+                                {
+                                    "bbox": [
+                                        359,
+                                        563,
+                                        553,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "hantavirus antigen) was used to infect fresh Vero",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                575,
+                                552,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        575,
+                                        552,
+                                        587
+                                    ],
+                                    "type": "text",
+                                    "content": "E6 cultures, and the virus was further passaged three times.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                585,
+                                552,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        585,
+                                        552,
+                                        598
+                                    ],
+                                    "type": "text",
+                                    "content": "The virus was designated DOBV/Ano-Poroia/Af9V/1999",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                597,
+                                553,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        597,
+                                        553,
+                                        609
+                                    ],
+                                    "type": "text",
+                                    "content": "(DOBV/AP). The nucleotide sequence of the third passage of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                608,
+                                552,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        608,
+                                        552,
+                                        619
+                                    ],
+                                    "type": "text",
+                                    "content": "the DOBV/AP strain was amplified and sequenced in parallel",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                619,
+                                552,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        619,
+                                        552,
+                                        631
+                                    ],
+                                    "type": "text",
+                                    "content": "to the amplification products obtained from the rodent tissue.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        307,
+                        630,
+                        552,
+                        707
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                630,
+                                552,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        630,
+                                        552,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "Both strands of the amplified DNA fragments from rodents",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                640,
+                                552,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        640,
+                                        552,
+                                        652
+                                    ],
+                                    "type": "text",
+                                    "content": "and the cell culture strain were sequenced with the ABI",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                652,
+                                552,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        652,
+                                        552,
+                                        664
+                                    ],
+                                    "type": "text",
+                                    "content": "PRISM Dye Terminator Cycle Sequencing kit (Perkin-Elmer).",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                662,
+                                552,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        662,
+                                        552,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": "Sequences were aligned with the PileUp program of the GCG",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                674,
+                                552,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        674,
+                                        552,
+                                        686
+                                    ],
+                                    "type": "text",
+                                    "content": "software package (Genetics Computer Group, Madison, Wis.).",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                684,
+                                552,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        684,
+                                        552,
+                                        697
+                                    ],
+                                    "type": "text",
+                                    "content": "PHYLIP software (version 3.5c, 1993; J. Felsenstein) was used",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                696,
+                                410,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        696,
+                                        410,
+                                        708
+                                    ],
+                                    "type": "text",
+                                    "content": "for phylogenetic analysis.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        307,
+                        707,
+                        552,
+                        728
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                707,
+                                552,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        707,
+                                        552,
+                                        719
+                                    ],
+                                    "type": "text",
+                                    "content": "The partial DOBV M sequence (nucleotides 2557 to 2794)",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                717,
+                                552,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        717,
+                                        552,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": "from the Vero E6 cell isolate was identical to that derived from",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        49,
+                        44,
+                        275,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                44,
+                                276,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        44,
+                                        276,
+                                        56
+                                    ],
+                                    "type": "text",
+                                    "content": "JOURNAL OF CLINICAL MICROBIOLOGY, June 2001, p. 2291–2293",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        51,
+                        54,
+                        278,
+                        62
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                52,
+                                278,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        52,
+                                        278,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "0095-1137/01/$04.0010 DOI: 10.1128/JCM.39.6.2291–2293.2001",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        51,
+                        63,
+                        318,
+                        73
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                62,
+                                319,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        62,
+                                        88,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        89,
+                                        64,
+                                        96,
+                                        71
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^ { © }",
+                                    "score": 0.65
+                                },
+                                {
+                                    "bbox": [
+                                        96,
+                                        62,
+                                        319,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "2001, American Society for Microbiology. All Rights Reserved.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        499,
+                        44,
+                        552,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                500,
+                                44,
+                                553,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        500,
+                                        44,
+                                        553,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "Vol. 39, No. 6",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        49,
+                        691,
+                        293,
+                        730
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "index": 17,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                690,
+                                295,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        690,
+                                        295,
+                                        704
+                                    ],
+                                    "type": "text",
+                                    "content": "* Corresponding author. Mailing address: Dept. of Microbiology,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                701,
+                                294,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        701,
+                                        294,
+                                        711
+                                    ],
+                                    "type": "text",
+                                    "content": "School of Medicine, Aristotelian University of Thessaloniki, 54006",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                710,
+                                294,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        710,
+                                        294,
+                                        719
+                                    ],
+                                    "type": "text",
+                                    "content": "Thessaloniki, Greece. Phone: 30 31 999159. Fax: 30 31 999149. E-mail:",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                718,
+                                126,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        718,
+                                        126,
+                                        730
+                                    ],
+                                    "type": "text",
+                                    "content": "annap@med.auth.gr.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        292,
+                        739,
+                        309,
+                        748
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 18,
+                    "lines": [
+                        {
+                            "bbox": [
+                                292,
+                                738,
+                                311,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        738,
+                                        311,
+                                        749
+                                    ],
+                                    "type": "text",
+                                    "content": "2291",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        561,
+                        150,
+                        577,
+                        633
+                    ],
+                    "type": "aside_text",
+                    "angle": 90,
+                    "lines": [
+                        {
+                            "bbox": [
+                                561,
+                                150,
+                                577,
+                                633
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        561,
+                                        150,
+                                        577,
+                                        633
+                                    ],
+                                    "type": "text",
+                                    "content": "Downloaded from http://jcm.asm.org/ on April 23, 2015 by North Carolina State University Libraries"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "page_size": [
+                586,
+                786
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        137,
+                        75,
+                        471,
+                        502
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                137,
+                                75,
+                                471,
+                                502
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        137,
+                                        75,
+                                        471,
+                                        502
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                137,
+                                                75,
+                                                471,
+                                                502
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8a955f47ae8adb0a219837533032cfb66f2636c2b3a5f1de07d6ed91d33f0186.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                507,
+                                552,
+                                635
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        507,
+                                        553,
+                                        521
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                58,
+                                                507,
+                                                553,
+                                                521
+                                            ],
+                                            "type": "text",
+                                            "content": "FIG. 1. Phylogenetic tree based on partial sequences of the M segment (nucleotides 2557 to 2794). The unrooted tree was constructed using",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        553,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                517,
+                                                485,
+                                                529
+                                            ],
+                                            "type": "text",
+                                            "content": "neighbor-joining algorithms. Five hundred bootstrap replicates were calculated. Only those bootstrap support values exceeding",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                485,
+                                                517,
+                                                502,
+                                                526
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "5 0 \\%",
+                                            "score": 0.86
+                                        },
+                                        {
+                                            "bbox": [
+                                                503,
+                                                517,
+                                                553,
+                                                529
+                                            ],
+                                            "type": "text",
+                                            "content": "are shown for",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        527,
+                                        553,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                527,
+                                                553,
+                                                538
+                                            ],
+                                            "type": "text",
+                                            "content": "Murinae-borne hantaviruses. For comparison, sequences of the following hantaviruses were obtained from the GenBank nucleotide sequence",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        535,
+                                        553,
+                                        547
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                535,
+                                                553,
+                                                547
+                                            ],
+                                            "type": "text",
+                                            "content": "database: Prospect Hill virus (PH) strain PH-1 (X55129); Tula virus (TUL) strains Moravia/5302v/95 (Z69993) and Moravia/5286Ma/94 (Z66538);",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        544,
+                                        552,
+                                        555
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                544,
+                                                552,
+                                                555
+                                            ],
+                                            "type": "text",
+                                            "content": "Black Creek Canal virus (BCC) (L39950); El Moro Canyon virus (ELMC) strain RM-97 (U26828); Lechiguanas virus (LEC) strain Of22819",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        552,
+                                        553,
+                                        565
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                552,
+                                                553,
+                                                565
+                                            ],
+                                            "type": "text",
+                                            "content": "(AF028022); HU39694 virus (AF028023); Oran virus (ORN) strain Ol22996 (AF028024); Pergamino virus (PRG) strain Aa14403 (AF028028);",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        561,
+                                        552,
+                                        573
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                561,
+                                                552,
+                                                573
+                                            ],
+                                            "type": "text",
+                                            "content": "Laguna Negra virus (LN) strain 510B (AF005728); Maciel virus (MAC) strain Bo13796 (AF028027); Andes virus (AND) strain Ol23133",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        570,
+                                        553,
+                                        583
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                570,
+                                                553,
+                                                583
+                                            ],
+                                            "type": "text",
+                                            "content": "(AF028026); Blue River virus (BR) strains Oklahoma (AF030552) and Indiana (AF030551); New York virus (NY) strains Rhode Island-1",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        580,
+                                        553,
+                                        591
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                580,
+                                                553,
+                                                591
+                                            ],
+                                            "type": "text",
+                                            "content": "(U36801), New York-1 (U36802), and New York-2 (U36803); Bayou virus (BAY) strain Louisiana (L36930); Sin Nombre virus (SN) strains",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        587,
+                                        553,
+                                        602
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                587,
+                                                553,
+                                                602
+                                            ],
+                                            "type": "text",
+                                            "content": "NM-H10 (L25783) and NM-R11 (L37903); DOBV strains Saaremaa/160Aa/96 (AJ009774), Pindos (AF060013), Nevrocopi-B (AF060011),",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        598,
+                                        552,
+                                        609
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                598,
+                                                552,
+                                                609
+                                            ],
+                                            "type": "text",
+                                            "content": "Nevrocopi-Af3 (AF060012), and Dobrava (L33685); Hantaan virus (HTN) strains HoJo (D00376), Lee (D00377), CUMC-B11 (U38117), and",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        606,
+                                        553,
+                                        620
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                606,
+                                                553,
+                                                620
+                                            ],
+                                            "type": "text",
+                                            "content": "76–118 (M14627); Thailand virus (THAI) strain 749 (L08756); Seoul virus (SEO) strains 80–39 (S47716), SR-11 (M34882), KI-88–15 (D17594),",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        614,
+                                        554,
+                                        629
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                614,
+                                                554,
+                                                629
+                                            ],
+                                            "type": "text",
+                                            "content": "and KI-83–262 (D17592); TOP virus strain Topografov/Ls136V (AJ011647); Puumala virus (PUU) strains CG-13891 (U22418), L-20 (U14136),",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        624,
+                                        465,
+                                        637
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                624,
+                                                465,
+                                                637
+                                            ],
+                                            "type": "text",
+                                            "content": "Sotkamo (X61034), CG-1820 (M29979), and Kazan (Z84205); and Khabarovsk virus (KBR) strain MF-43 (AJ011648).",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        52,
+                        662,
+                        293,
+                        729
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                662,
+                                294,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        662,
+                                        294,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": "the lung of the originating rodent (A. flavicollis mouse 9) and",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                673,
+                                294,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        674,
+                                        77,
+                                        684
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9 8 . 7 \\%",
+                                    "score": 0.86
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        673,
+                                        294,
+                                        686
+                                    ],
+                                    "type": "text",
+                                    "content": "identical to the respective DOBV sequence from A.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                684,
+                                294,
+                                696
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        684,
+                                        294,
+                                        696
+                                    ],
+                                    "type": "text",
+                                    "content": "flavicollis mouse 13. DOBV/AP clustered together with other",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                695,
+                                294,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        695,
+                                        294,
+                                        708
+                                    ],
+                                    "type": "text",
+                                    "content": "DOBV sequences from Greek HFRS patients (nucleotide",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                706,
+                                294,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        706,
+                                        86,
+                                        719
+                                    ],
+                                    "type": "text",
+                                    "content": "identity,",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        86,
+                                        707,
+                                        113,
+                                        717
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "9 7 . 9 \\%",
+                                    "score": 0.83
+                                },
+                                {
+                                    "bbox": [
+                                        113,
+                                        706,
+                                        294,
+                                        719
+                                    ],
+                                    "type": "text",
+                                    "content": ") and A. flavicollis but was more distantly re-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                717,
+                                294,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        717,
+                                        294,
+                                        730
+                                    ],
+                                    "type": "text",
+                                    "content": "lated to the lineage of DOBV sequences from A. agrarius",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        309,
+                        662,
+                        550,
+                        695
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                309,
+                                662,
+                                552,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        662,
+                                        389,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": "(nucleotide identity,",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        389,
+                                        663,
+                                        415,
+                                        674
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "8 0 . 3 \\%",
+                                    "score": 0.82
+                                },
+                                {
+                                    "bbox": [
+                                        415,
+                                        662,
+                                        552,
+                                        675
+                                    ],
+                                    "type": "text",
+                                    "content": ") (Fig. 1). This is in agreement with",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                674,
+                                552,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        674,
+                                        552,
+                                        686
+                                    ],
+                                    "type": "text",
+                                    "content": "the data of distinct lineages of DOBV found in the two carrier",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                685,
+                                368,
+                                696
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        685,
+                                        368,
+                                        696
+                                    ],
+                                    "type": "text",
+                                    "content": "rodents (3, 5).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        309,
+                        696,
+                        550,
+                        729
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                317,
+                                695,
+                                552,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        317,
+                                        695,
+                                        552,
+                                        708
+                                    ],
+                                    "type": "text",
+                                    "content": "It will be of interest to study further the putative pathogenic",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                309,
+                                706,
+                                552,
+                                718
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        706,
+                                        552,
+                                        718
+                                    ],
+                                    "type": "text",
+                                    "content": "differences of these two closely related DOBV lineages. To-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                308,
+                                717,
+                                552,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        717,
+                                        552,
+                                        730
+                                    ],
+                                    "type": "text",
+                                    "content": "wards this end and also for differentiating seroresponses in",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        51,
+                        45,
+                        70,
+                        53
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                44,
+                                70,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        44,
+                                        70,
+                                        56
+                                    ],
+                                    "type": "text",
+                                    "content": "2292",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        85,
+                        45,
+                        115,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                44,
+                                116,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        44,
+                                        116,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "NOTES",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        479,
+                        45,
+                        551,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                478,
+                                44,
+                                552,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        478,
+                                        44,
+                                        552,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "J. CLIN. MICROBIOL.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        563,
+                        152,
+                        575,
+                        632
+                    ],
+                    "type": "aside_text",
+                    "angle": 90,
+                    "lines": [
+                        {
+                            "bbox": [
+                                563,
+                                152,
+                                575,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        152,
+                                        575,
+                                        632
+                                    ],
+                                    "type": "text",
+                                    "content": "Downloaded from http://jcm.asm.org/ on April 23, 2015 by North Carolina State University Libraries"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                586,
+                786
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        52,
+                        69,
+                        293,
+                        145
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                69,
+                                295,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        69,
+                                        295,
+                                        80
+                                    ],
+                                    "type": "text",
+                                    "content": "neutralization assays, it is necessary to establish isolates of",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                79,
+                                294,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        79,
+                                        294,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "DOBV lineages, and of hantaviruses in general, in addition to",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                91,
+                                293,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        91,
+                                        293,
+                                        102
+                                    ],
+                                    "type": "text",
+                                    "content": "merely performing limited sequence analysis of reverse tran-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                102,
+                                294,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        102,
+                                        294,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "scription-PCR products. To date, the new strain, DOBV/AP, is",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                113,
+                                294,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        113,
+                                        294,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "the third established DOBV cell culture isolate, the second",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                124,
+                                294,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        124,
+                                        294,
+                                        135
+                                    ],
+                                    "type": "text",
+                                    "content": "obtained from an A. flavicollis rodent, and the only currently",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                135,
+                                209,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        135,
+                                        209,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "existing hantavirus isolate from Greece.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        146,
+                        293,
+                        190
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                146,
+                                295,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        146,
+                                        295,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "Nucleotide sequence accession numbers. Nucleotide se-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                157,
+                                295,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        157,
+                                        295,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "quences for DOBV/AP and DOBV/Ano-Poroia/Af13/1999",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                168,
+                                295,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        168,
+                                        295,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "were sent to GenBank and assigned accession numbers",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                177,
+                                203,
+                                191
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        177,
+                                        203,
+                                        191
+                                    ],
+                                    "type": "text",
+                                    "content": "AJ294722 and AJ294723, respectively.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        52,
+                        200,
+                        293,
+                        227
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                198,
+                                294,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        198,
+                                        294,
+                                        212
+                                    ],
+                                    "type": "text",
+                                    "content": "We thank Angelina Plyusnina for screening of rodent samples by",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                209,
+                                294,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        209,
+                                        294,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "immunoblotting and Tytti Manni for help with cell culture isolation",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                218,
+                                98,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        218,
+                                        98,
+                                        228
+                                    ],
+                                    "type": "text",
+                                    "content": "experiments.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        148,
+                        234,
+                        196,
+                        242
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                148,
+                                235,
+                                197,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        148,
+                                        235,
+                                        197,
+                                        243
+                                    ],
+                                    "type": "text",
+                                    "content": "REFERENCES",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        55,
+                        245,
+                        293,
+                        279
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                55,
+                                245,
+                                293,
+                                269
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        245,
+                                        293,
+                                        255
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                245,
+                                                293,
+                                                255
+                                            ],
+                                            "type": "text",
+                                            "content": "1. Antoniadis, A., M. Pyrpasopoulos, M. Sion, S. Daniel, and C. J. Peters. 1984.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        253,
+                                        294,
+                                        263
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                253,
+                                                294,
+                                                263
+                                            ],
+                                            "type": "text",
+                                            "content": "Two cases of hemorrhagic fever with renal syndrome in northern Greece.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        261,
+                                        154,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                261,
+                                                154,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "J. Infect. Dis. 149:1011–1013.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                269,
+                                293,
+                                279
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        268,
+                                        294,
+                                        280
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                268,
+                                                294,
+                                                280
+                                            ],
+                                            "type": "text",
+                                            "content": "2. Antoniadis, A., A. Stylianakis, A. Papa, S. Alexiou-Daniel, A. Lampropoulos,",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        313,
+                        69,
+                        552,
+                        278
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 17,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                321,
+                                69,
+                                551,
+                                95
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        69,
+                                        552,
+                                        80
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                69,
+                                                552,
+                                                80
+                                            ],
+                                            "type": "text",
+                                            "content": "S. T. Nichol, C. J. Peters, and C. F. Spiropoulou. 1996. Direct genetic",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        77,
+                                        552,
+                                        88
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                77,
+                                                552,
+                                                88
+                                            ],
+                                            "type": "text",
+                                            "content": "detection of Dobrava virus in Greek and Albanian patients with hemorrhagic",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        322,
+                                        87,
+                                        489,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                322,
+                                                87,
+                                                489,
+                                                95
+                                            ],
+                                            "type": "text",
+                                            "content": "fever with renal syndrome. J. Infect. Dis. 174:407–410.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                313,
+                                95,
+                                551,
+                                128
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        94,
+                                        552,
+                                        105
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                94,
+                                                552,
+                                                105
+                                            ],
+                                            "type": "text",
+                                            "content": "3. Avsic-Zupanc, T., K. Nemirov, M. Petrovec, T. Trilar, M. Poljak, A. Vaheri,",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        103,
+                                        552,
+                                        112
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                103,
+                                                552,
+                                                112
+                                            ],
+                                            "type": "text",
+                                            "content": "and A. Plyusnin. 2000. Genetic analysis of wild-type Dobrava hantavirus in",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        110,
+                                        552,
+                                        121
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                110,
+                                                552,
+                                                121
+                                            ],
+                                            "type": "text",
+                                            "content": "Slovenia: co-existence of two distinct genetic lineages within the same nat-",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        120,
+                                        444,
+                                        128
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                120,
+                                                444,
+                                                128
+                                            ],
+                                            "type": "text",
+                                            "content": "ural focus. J. Gen. Virol. 81:1747–1755.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                128,
+                                552,
+                                153
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        128,
+                                        552,
+                                        137
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                128,
+                                                552,
+                                                137
+                                            ],
+                                            "type": "text",
+                                            "content": "4. Avsic-Zupanc, T., A. Toney, K. Anderson, Y. K. Chu, and C. Schmaljohn.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        135,
+                                        552,
+                                        146
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                135,
+                                                552,
+                                                146
+                                            ],
+                                            "type": "text",
+                                            "content": "1995. Genetic and antigenic properties of Dobrava virus: a unique member",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        145,
+                                        549,
+                                        154
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                145,
+                                                549,
+                                                154
+                                            ],
+                                            "type": "text",
+                                            "content": "of the Hantavirus genus, family Bunyaviridae. J. Gen. Virol. 76:2801–2808.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                313,
+                                153,
+                                552,
+                                194
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        151,
+                                        552,
+                                        162
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                151,
+                                                552,
+                                                162
+                                            ],
+                                            "type": "text",
+                                            "content": "5. Nemirov, K., O. Vapalahti, Å. Lundkvist, V. Vasilenko, I. Golovljova, A.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        322,
+                                        161,
+                                        552,
+                                        169
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                322,
+                                                161,
+                                                552,
+                                                169
+                                            ],
+                                            "type": "text",
+                                            "content": "Plyusnina, J. Niemimaa, J. Laakkonen, H. Henttonen, A. Vaheri, and A.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        168,
+                                        552,
+                                        179
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                168,
+                                                552,
+                                                179
+                                            ],
+                                            "type": "text",
+                                            "content": "Plyusnin. 1999. Isolation and characterisation of Dobrava hantavirus carried",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        177,
+                                        552,
+                                        187
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                177,
+                                                552,
+                                                187
+                                            ],
+                                            "type": "text",
+                                            "content": "by the striped field mouse (Apodemus agrarius) in Estonia. J. Gen. Virol.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        186,
+                                        359,
+                                        194
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                186,
+                                                359,
+                                                194
+                                            ],
+                                            "type": "text",
+                                            "content": "80:371–379.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                194,
+                                552,
+                                227
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 13,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        194,
+                                        552,
+                                        204
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                194,
+                                                552,
+                                                204
+                                            ],
+                                            "type": "text",
+                                            "content": "6. Papa, A., A. M. Johnson, P. C. Stockton, M. D. Bowen, C. F. Spiropoulou,",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        202,
+                                        552,
+                                        212
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                202,
+                                                552,
+                                                212
+                                            ],
+                                            "type": "text",
+                                            "content": "T. G. Ksiazek, S. T. Nichol, and A. Antoniadis. 1998. Retrospective genetic",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        210,
+                                        552,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                210,
+                                                552,
+                                                219
+                                            ],
+                                            "type": "text",
+                                            "content": "study of the distribution of hantaviruses in Greece. J. Med. Virol. 55:321–",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        320,
+                                        218,
+                                        338,
+                                        228
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                320,
+                                                218,
+                                                338,
+                                                228
+                                            ],
+                                            "type": "text",
+                                            "content": "325.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                227,
+                                552,
+                                244
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 14,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        227,
+                                        552,
+                                        237
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                227,
+                                                552,
+                                                237
+                                            ],
+                                            "type": "text",
+                                            "content": "7. Papa, A., C. Spiropoulou, S. Nichol, and A. Antoniadis. 2000. Tracing Do-",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        236,
+                                        496,
+                                        244
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                236,
+                                                496,
+                                                244
+                                            ],
+                                            "type": "text",
+                                            "content": "brava hantavirus infection. J. Infect. Dis. 181:2116–2117.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                245,
+                                551,
+                                260
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 15,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        243,
+                                        552,
+                                        253
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                243,
+                                                552,
+                                                253
+                                            ],
+                                            "type": "text",
+                                            "content": "8. Papa, A., T. Pliakogiannis, Å. Lundkvist, and A. Antoniadis. 2000. First case",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        252,
+                                        489,
+                                        262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                252,
+                                                489,
+                                                262
+                                            ],
+                                            "type": "text",
+                                            "content": "of Puumala infection in Greece. Infection 28:334–335.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                261,
+                                551,
+                                278
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        260,
+                                        553,
+                                        271
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                312,
+                                                260,
+                                                553,
+                                                271
+                                            ],
+                                            "type": "text",
+                                            "content": "9. Plyusnin, A., O. Vapalahti, and A. Vaheri. 1996. Hantaviruses: genome",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        270,
+                                        520,
+                                        277
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                270,
+                                                520,
+                                                277
+                                            ],
+                                            "type": "text",
+                                            "content": "structure, expression and evolution. J. Gen. Virol. 77:2677–2687.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        51,
+                        44,
+                        100,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                44,
+                                103,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        44,
+                                        103,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "VOL. 39, 2001",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        491,
+                        44,
+                        551,
+                        54
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                491,
+                                44,
+                                552,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        44,
+                                        523,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "NOTES",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        530,
+                                        44,
+                                        552,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "2293",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        562,
+                        150,
+                        576,
+                        633
+                    ],
+                    "type": "aside_text",
+                    "angle": 90,
+                    "lines": [
+                        {
+                            "bbox": [
+                                562,
+                                150,
+                                576,
+                                633
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        562,
+                                        150,
+                                        576,
+                                        633
+                                    ],
+                                    "type": "text",
+                                    "content": "Downloaded from http://jcm.asm.org/ on April 23, 2015 by North Carolina State University Libraries"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_size": [
+                586,
+                786
+            ],
+            "page_idx": 2
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.6"
+}

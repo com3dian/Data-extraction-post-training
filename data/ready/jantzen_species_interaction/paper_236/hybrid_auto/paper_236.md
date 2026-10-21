@@ -1,0 +1,163 @@
+# Parallel Survey of Two Widespread Renal Syndrome-Causing Zoonoses: Leptospira spp. and Hantavirus in Urban Environment, Hungary
+
+Kornélia Kurucz, Monika Madai, Dominika Bali, David Hederics, Győző Horváth, Gábor Kemenesi, and Ferenc Jakab
+
+# Abstract
+
+Rodents are important reservoir hosts for several zoonotic pathogens that cause significant morbidity and mortality in humans. Among others, leptospirosis is one of the most widespread zoonotic diseases worldwide and has the similar clinical manifestation with hantavirus infection in humans. Despite the fact that both pathogens have great epidemiological significance in Europe, no epizootiological data exist for urbanized areas so far. Therefore, this study was conducted to investigate the occurrence and prevalence of Leptospira spp. and hantaviruses in small wild rodents living in close proximity to humans. Altogether, 338 small rodents representing five different species (Apodemus agrarius, A. flavicollis, A. sylvaticus, Microtus arvalis, and Myodes glareolus) were captured in the city of Pécs (Hungary) and screened for pathogens by different types of PCR methods (TaqMan-based real-time PCR/PCR, RT-PCR/PCR). A total of $18.3\%$ of the rodents were positive for Leptospira kirschneri, L. interrogans, and L. borgpetersenii. Nucleic acid of Tula hantavirus and human pathogen Dobrava-Belgrade orthohantavirus were detected in $8\%$ of tested specimens. Furthermore, dual infections with both Leptospira spp. and hantaviruses were shown in $2.6\%$ of animals, suggesting that the same rodent host can be infected with several pathogens at the same time, therefore, representing a serious threat to public health. Overall, this study provides important surveillance data on the prevalence of Leptospira spp. and hantaviruses from rodents in urbanized environment for the first time in Hungary and emphasizes the importance of further ecoepidemiological investigations.
+
+Keywords: ecology, coinfection, infection diseases, Myodes glareolus, urbanization
+
+# Introduction
+
+ABOUT $75\%$ OF THE NEW DISEASES that have affected humans over the past 10 years have been caused by pathogens originating from animals or from products of animal origin, which denotes the significant impact of zoonotic diseases worldwide (WHO, www.who.int). Many of these diseases have the potential to spread in different ways over long distances, therefore dispose the possibility to become global problems. There are several factors that drive the emergence and/or reemergence of zoonotic agents, however, one of the most important factors is the growing human population, which results increased urbanization, land use, and consequential deforestation. Urbanization is one of the most extreme forms of environmental alteration, posing a
+
+remarkable threat to biodiversity and altering fundamental ecosystem services, for example, inducing changes in both food processing as well as in the distribution of animal/vector populations. Furthermore, it procures a closer coexistence between animals and humans, therefore potentially induces changes in zoonotic disease transmission as well.
+
+Rodents are important reservoirs for a large number of zoonotic pathogens, which agents are usually transmitted to humans through direct or indirect contact. Among others, leptospirosis and hantaviral infections are considered the most widespread zoonotic diseases worldwide (Vijayachari et al. 2008, Gowen and Hickerson 2017), having the similar epidemiology and clinical symptoms. Ten pathogenic Leptospira spp. are grouped in 20 bacterial serogroups and 300 serovars are known so far (Levett 2001). In addition,
+
+more than 50 hantavirus strains have been identified, 24 of those strains have pathogenic relevance to humans (Jiang et al. 2017). Although a number of various hantavirus species, for example, Dobrava-Belgrade orthohantavirus (DOBV) and Tula hantavirus (TULV), are circulating in Europe, Puumala virus is by far the most prevalent pathogen and is responsible for nephropathia epidemiica, which is the milder form of the more severe diseases called hemorrhagic fever with renal syndrome (HFRS) (Jiang et al. 2017).
+
+Although both Leptospira spp. and hantaviruses are worldwide distributed zoonoses with great clinical and epidemiological significance in Europe, no epizootiological data exist for urbanized areas in Hungary so far. Identification of reservoir hosts of zoonotic agents is a prerequisite for an effective prevention of human infections. Therefore, this study was conducted to investigate the occurrence and prevalence of Leptospira spp. and hantaviruses in small wild rodents living in urban habitats. Furthermore, by molecular biological identification of detected pathogens to broaden our knowledge about human health risk related to rodents living in close proximity to humans.
+
+# Materials and Methods
+
+# Study area and habitat description
+
+This study focused on urban habitats in Pécs, which is the largest city of the South Transdanubian region (Baranya county) in Hungary. The town is bordered by Mecsek mountains from the north and a plain from the south $(46^{\circ}04'21.84''\mathrm{N}$ , $18^{\circ}13'56.16''\mathrm{E})$ . Sub-Mediterranean climate characterizes the town with a mean annual precipitation of $710\mathrm{mm}$ and a mean annual temperature of $10^{\circ}\mathrm{C}$ . Pécs is characterized by moderate density of human population with a total inhabitants of 145,985 and covering an area of $162.8\mathrm{km}^2$ (HCSO 2015). In accordance with most urban ecological studies, we defined urban habitats as highly urbanized environments within boundaries of the city, characterized by densely built-up areas, commonly with block houses, green patches, and backyards. According to this, we selected 30 sampling sites throughout the much-frequented and popular parts of the city and surrounding built-up areas. The study sites included residential areas, commercial centers and markets, tourist spots, and recreational parks.
+
+# Rodent trapping, species identification, and sample collection
+
+Small terrestrial mammal samplings were conducted in March, May, and August 2016. Plastic box-type live traps (Herczeg and Horvath 2015) were used at each site, placed in lines (10 catching points at $10\mathrm{m}$ distance) and baited with a mixture of corn and diced bacon. The traps were checked in 24-h intervals (every morning), exposed to five consecutive nights per every month (in total 4500 trap nights). The trapped specimens were determined by species according to their phenotypic characteristics such as fur color and morphological measurements such as body length, tail length, hind foot length, as well as by sex (Aulagnier et al. 2008). Animals belonging to protected species were subsequently released. All the other rodents (species with Least Concern IUCN conservation status) under the families Muridae and Cricetidae were euthanized using carbon dioxide. The animals
+
+were dissected, and then, lung and kidney tissues were used for hantavirus and Leptospira spp. detection, respectively.
+
+# Molecular detection of hantavirus and pathogenic Leptospira spp.
+
+A small piece of tissue $(\sim 50\mathrm{mg})$ was homogenized in $500~\mu \mathrm{L}1\times \mathrm{PBS}$ . After $5\mathrm{min}$ centrifugation at $6000\times g$ $200~\mu \mathrm{L}$ of the supernatant was used for nucleic acid extraction, performed with GeneJET Viral DNA/RNA Purification Kit (Thermo Scientific), following the manufacturer's instructions.
+
+All samples were screened for hantavirus RNA by nested reverse transcription-PCR (RT-PCR), using degenerated primers HAN-L-F1 and HAN-L-R1 for primary RT-PCR, then HAN-L-F2 and HAN-L-R2 for nested PCR, amplifying a 300-bp product of the highly conserved L segment (Klempa et al. 2006). The first PCR reaction was performed with the QIAGEN OneStep RT-PCR Kit (Qiagen), with the following cycling conditions: $50^{\circ}\mathrm{C}$ for $30\mathrm{min}$ , activation at $95^{\circ}\mathrm{C}$ for $15\mathrm{min}$ , and 40 cycles of PCR at $94^{\circ}\mathrm{C}$ for $1\mathrm{min}$ , $53^{\circ}\mathrm{C}$ for $30\mathrm{s}$ , and $72^{\circ}\mathrm{C}$ for $1\mathrm{min}$ , and final elongation at $72^{\circ}\mathrm{C}$ for $10\mathrm{min}$ . The nested PCR reaction was performed with the GoTaq® G2 Flexi DNA Polymerase Kit (Promega) with an initial incubation at $95^{\circ}\mathrm{C}$ for $5\mathrm{min}$ , 40 cycles at $94^{\circ}\mathrm{C}$ for $1\mathrm{min}$ , $52^{\circ}\mathrm{C}$ for $45\mathrm{s}$ , and $72^{\circ}\mathrm{C}$ for $1\mathrm{min}$ , and final elongation at $72^{\circ}\mathrm{C}$ for $10\mathrm{min}$ . In each reaction, DOBV RNA extracted from infected rodents that were captured locally, in the Southern Transdanubian region of Hungary, was used as a positive control.
+
+For the screening of all samples for Leptospira DNA, a real-time PCR targeting a partial 242-bp long sequence of the $32\mathrm{kDa}$ leptospiral major outer membrane lipoprotein LipL32 gene was performed using the primers LipL32-45F, LipL32-286R, and probe LipL32-189P as previously described (Stoddard et al. 2009, Woll et al. 2012, Obiegala et al. 2016). TaqMan PCR assay was performed with GoTaq G2 Flexi DNA Polymerase Kit (Promega) according to the manufacturer's protocol on LineGene 9660 platform (Bioer). The cycling conditions included an initial denaturation at $95^{\circ}\mathrm{C}$ for $2\mathrm{min}$ , followed by 50 cycles of amplification (denaturation at $94^{\circ}\mathrm{C}$ for $15\mathrm{s}$ , primer annealing at $51^{\circ}\mathrm{C}$ for $30\mathrm{s}$ , and extension at $72^{\circ}\mathrm{C}$ for $30\mathrm{s}$ ). Real-time PCR-positive samples were further examined by a conventional PCR targeting a 423-bp amplicon between positions 270 and 692 of the LipL32 coding region, using the primers LipL32-270F and LipL32-692R (Levett et al. 2005) performed with the same PCR Kit (GoTaq G2 Flexi DNA Polymerase PCR Kit; Promega). The reaction conditions consisted of an initial denaturation step at $95^{\circ}\mathrm{C}$ for $2\mathrm{min}$ , followed by 35 cycles of amplification $(94^{\circ}\mathrm{C}$ for $30\mathrm{s}$ , $53^{\circ}\mathrm{C}$ for $45\mathrm{s}$ , and $72^{\circ}\mathrm{C}$ for $1\mathrm{min}$ ) and terminated at $72^{\circ}\mathrm{C}$ for $5\mathrm{min}$ .
+
+# Identification of detected viral and bacterial strains
+
+Amplicons were visualized by agarose-gel electrophoresis in $1.5\%$ agarose gel in $1\times$ Tris-borate-EDTA buffer, stained with ethidium bromide. The amplicons from representative positive samples were purified with Gel/PCR DNA Fragments Extraction Kit (Geneaid Biotech) and bidirectionally sequenced with BigDye Terminator v1.1 Cycle Sequencing Kit according to the manufacturers' protocol on ABI Prism 310 DNA Sequencer platform (Applied
+
+Biosystems). Nucleic acid sequences of the detected bacterial strains were identified by GenBank BLAST searches based on the greatest homology.
+
+# Data analysis
+
+The differences in number of individuals of different rodent species as well as in different months were analyzed using Pearson's chi-squared test performed with R software (R Development Core Team 2017). We analyzed the prevalence of hantavirus and Leptospira spp. using generalized linear models implemented in the "nlme" package (Pinheiro et al. 2015) for R software (R Development Core Team 2017) with binomial error distribution and logit link function. In our models, the binary-dependent variables were absence or presence of infections, the time-scale-related fixed effect was month (March, May, and August), and the host-related fixed effects were rodent genus (Apodemus spp./Microtus sp.) and gender (male/female). The best model was selected using the "step" function from the "stats" package of R software (R Development Core Team 2017), based on Akaike information criterion corrected to sample size.
+
+# Results
+
+Altogether, 338 small rodents representing five different species were captured in the urbanized area of Pécs, during March, May, and August 2016. The eudominant species were the striped field mouse (A. agrarius) $(43.8\%)$ , yellow-necked mouse (A. flavicollis) $(15.7\%)$ , and common vole (M. arvalis) $(31.7\%)$ . We identified also wood mouse (A. sylvaticus) $(8.6\%)$ as dominant species and captured one specimen of bank vole (Myodes glareolus) $(0.3\%)$ . Because of the small sample size, we excluded M. glareolus from further statistical analyses. The number of captured individuals differed significantly between rodent species $(\chi^2 = 102.2, df = 3, p < 0.001)$ as well as between months: altogether, 130 small mammals were captured in March, 144 in May, and 64 in August $(\chi^2 = 32.4, df = 2, p < 0.001)$ .
+
+The presence of hantavirus RNA was confirmed in 27 of 338 tested animals $(8\%)$ , with the lowest rate of $6.2\%$ in March $(n = 8/130)$ , then $8.3\%$ in May $(n = 12/144)$ , and $10.9\%$ in August $(n = 7/64)$ (Fig. 1). Out of the five investigated species, M. arvalis $(n = 16/107)$ , M. glareolus $(n = 1/1)$ , and A. agrarius $(n = 10/148)$ were infected with the virus, while all the tested A. flavicollis and A. sylvaticus were negative (Table 1). Based on the sequencing data of RT-PCR products, derived from positive samples, we identified Dobrava-Belgrade orthohantavirus (DOBV) in A. agrarius, showing the best homology $(95 - 99\%)$ with Central European Kurkino strains. Furthermore, Tula virus (TULV) was detected in M. arvalis and M. glareolus voles.
+
+A relatively high number (62/338, $18.3\%$ of Leptospira spp. that infected small mammals were identified. Regarding the different months, $10\%$ of the animals in March $(n = 13/130)$ , $21.5\%$ in May $(n = 31/144)$ , and $28.1\%$ in August were positive $(n = 18/64)$ (Fig. 1). All of the five investigated species were susceptible to the bacteria, with the highest rate M. arvalis $(25.2\%)$ and A. agrarius $(19.6\%)$ and then A. flavicollis and A. sylvaticus with $7.5\%$ and $3.4\%$ infection rate, respectively. Moreover, the only one M. glareolus specimen was also positive for Leptospira spp. (Table 1). All the 62 PCR-positive samples could be further determined by conventional PCR of the partial LipL32 gene and amplicon sequencing. In this manner, we identified Leptospira kirschneri, L. borgpetersenii, and L. interrogans.
+
+Furthermore, nine animals, $2.6\%$ of the investigated specimens $(n = 4M.$ arvalis, $n = 4A.$ agrarius, and $n = 1M.$ glareolus) were simultaneously positive for hantavirus and Leptospira spp., captured in March $(n = 3)$ , May $(n = 3)$ , and August $(n = 3)$ , as well.
+
+Based on the statistical analysis of data, "genus" and "month" were significantly associated with hantavirus and Leptospira spp. infection, but patterns of variation in the prevalence of males and females were similar (Table 2). For both pathogens, significantly more voles (Microtus sp.) were infected than mice (Apodemus spp.), and significantly higher infection rates were observed in August compared with
+
+![](images/0cd4c849e09419e9fba374ada279f17920ade801d506dd824e36309e548cde2c.jpg)  
+FIG. 1. Number of investigated rodent individuals (infected and noninfected) and prevalence of hantavirus- and Leptospira spp.-infected specimens during the three sampling period: March, May, and August 2016.
+
+TABLE 1. NUMBER (AND RATE) OF INFECTED INDIVIDUALS WITH HANTAVIRUS AND LEPTOSPIRA SPP. IN MARCH, MAY, AND AUGUST 2016, INVESTIGATED IN URBAN ENVIRONMENT (HUNGARY)   
+
+<table><tr><td>Species</td><td>Months</td><td>No. of individuals</td><td>Hantavirus-infected individuals</td><td>Leptospira spp.-infected individuals</td></tr><tr><td rowspan="4">Apodemus agrarius</td><td>March</td><td>48</td><td>1 (2.1%)</td><td>4 (8.3%)</td></tr><tr><td>May</td><td>66</td><td>5 (7.6%)</td><td>15 (22.7%)</td></tr><tr><td>Aug</td><td>34</td><td>4 (11.8%)</td><td>10 (29.4%)</td></tr><tr><td>Total</td><td>148</td><td>10 (6.8%)</td><td>29 (19.6%)</td></tr><tr><td rowspan="4">Apodemus flavicollis</td><td>March</td><td>18</td><td>0 (0%)</td><td>3 (16.7%)</td></tr><tr><td>May</td><td>22</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>Aug</td><td>13</td><td>0 (0%)</td><td>1 (7.7%)</td></tr><tr><td>Total</td><td>53</td><td>0 (0%)</td><td>4 (7.5%)</td></tr><tr><td rowspan="4">Apodemus sylvaticus</td><td>March</td><td>16</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>May</td><td>10</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>Aug</td><td>3</td><td>0 (0%)</td><td>1 (33.3%)</td></tr><tr><td>Total</td><td>29</td><td>0 (0%)</td><td>1 (3.4%)</td></tr><tr><td rowspan="4">Microtus arvalis</td><td>March</td><td>48</td><td>7 (14.6%)</td><td>6 (12.5%)</td></tr><tr><td>May</td><td>45</td><td>6 (13.3%)</td><td>15 (33.3%)</td></tr><tr><td>Aug</td><td>14</td><td>3 (21.4%)</td><td>6 (42.9%)</td></tr><tr><td>Total</td><td>107</td><td>16 (15.0%)</td><td>27 (25.2%)</td></tr><tr><td rowspan="4">Myodes glareolus</td><td>March</td><td>0</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>May</td><td>1</td><td>1 (100%)</td><td>1 (100%)</td></tr><tr><td>Aug</td><td>0</td><td>0 (0%)</td><td>0 (0%)</td></tr><tr><td>Total</td><td>1</td><td>1 (100%)</td><td>1 (100%)</td></tr><tr><td>Total</td><td></td><td>338</td><td>27 (7.99%)</td><td>62 (18.3%)</td></tr></table>
+
+March. Furthermore, in case of Leptospira spp., we detected higher prevalence also in May than in March (Fig. 1; Table 2).
+
+# Discussion
+
+In this study, we investigated species structure of small mammal communities inhabiting a midsize European city and demonstrated the presence of two widespread renal syndrome-causing zoonotic pathogens: Leptospira spp. and hantavirus in rodent species present in urbanized environment, Hungary.
+
+Differences in landscape structure contributed to the explanation of the differences in the composition of the community of animal species. As a consequence of urbanization, the composition of small mammals tends to be simpler from rural to urban habitats (McKinney 2002). Synanthropic species, such as Rattus norvegicus, Mus musculus, or members of Apodemus genus, follow human movement, hereby procuring a closer coexistence between rodents and humans.
+
+The native rodent communities of Pécs are composed of a few species that are commonly distributed species in Europe; however, no $R.$ norvegicus or $M.$ musculus was detected in our study. Striped field mouse was captured with the highest abundance, a species that has begun its migration and synurbization quite recently, which occupies urbanized habitats (Lopucki et al. 2013, Gortat et al. 2014). The natural habitats of $A.$ agrarius in Europe are meadows, agricultural areas, and ecotones, however, within urbanized areas, this species extends its habitat niche to wooded spaces (Lopucki et al. 2013). In a number of European cities, dominant species in parks and other green areas is $A.$ sylvaticus, but its dominance occurs only in absence of $A.$ agrarius (Frynta et al. 1994, Klimant et al. 2015). In compliance with Lopucki et al. (2013), our study confirms that in towns within the distribution range of $A.$ agrarius, this species occupies the niche of the dominant urban dweller. The second numerous species, which presently colonizes the city's green spaces, is the common vole. $M.$ arvalis is a typical inhabitant of cultivated
+
+TABLE 2. GENERALIZED LINEAR MODEL RESULTS EXAMINING THE RELATIONSHIP BETWEEN THE PREVALENCE OF HANTAVIRUS AND LEPTOSPIRA SPP. INFECTION AND INDEPENDENT VARIABLES   
+
+<table><tr><td rowspan="2">Parameter</td><td colspan="3">Hantavirus</td><td colspan="3">Leptospira spp.</td></tr><tr><td>Estimate ± SE</td><td>z</td><td>p</td><td>Estimate ± SE</td><td>z</td><td>p</td></tr><tr><td>(Intercept)</td><td>-3.63±0.74</td><td>-4.87</td><td>&lt; 0.001****</td><td>-3.68±0.69</td><td>-5.32</td><td>&lt;0.001****</td></tr><tr><td>Genus (Microtus)</td><td>1.31±0.56</td><td>2.34</td><td>0.019**</td><td>0.83±0.42</td><td>1.98</td><td>0.046**</td></tr><tr><td>Gender (Female)</td><td>-0.25±0.54</td><td>-0.47</td><td>0.637</td><td>0.47±0.39</td><td>1.19</td><td>0.231</td></tr><tr><td>Month (May)</td><td>0.83±0.72</td><td>1.14</td><td>0.254</td><td>1.86±0.66</td><td>2.81</td><td>0.004***</td></tr><tr><td>Month (August)</td><td>1.30±0.77</td><td>1.69</td><td>0.090*</td><td>2.26±0.69</td><td>3.23</td><td>0.001***</td></tr></table>
+
+Parameter, estimates with SE, and levels of significance ( $^{*}p < 0.1$ , $^{**}p < 0.05$ , $^{***}p < 0.01$ , $^{****}p < 0.001$ ) are given. SE, standard error.
+
+land and grassy areas without trees and shrubs. It occurs everywhere on the edges of agglomeration. The common vole usually penetrates from the outskirts of the agglomeration into the center along grassy strips, ditches, ruderal areas, along railway lines and roads (Klimant et al. 2015). M. glareolus is bound to the presence of trees and shrubs, it penetrates into built-up areas only exceptionally (Svitalkova et al. 2015), we observed also only single specimen of this species.
+
+Generally, Leptospira spp. are the most frequently detected pathogens in European rodents, followed by hantaviruses, which also present as a notable frequent zoonotic agent (Avsic-Zupanc et al. 2000, Cvetko et al. 2006, Tadin et al. 2012, 2016, Svoboda et al. 2014, Maas et al. 2017). Our results were in accordance with this finding. A recent survey in Croatia revealed Leptospira infection in $>20\%$ of rodents, the majority of them were Apodemus spp. (Tadin et al. 2016). However, we detected relatively more infected $M.$ arvalis than Apodemus spp., and $L.$ interrogans, $L.$ kirschneri, and $L.$ borgpetersenii were identified as the Leptospira spp., similar to previous reports from European rodents (Turk et al. 2003, Stritof et al. 2014, Tadin et al. 2016). Former epidemiological surveys indicated that $A.$ flavicollis, $M.$ glareolus, and $M.$ arvalis, which are common throughout Central Europe, were most frequently infected with hantaviruses (Avsic-Zupanc et al. 2000, Tadin et al. 2012, Maas et al. 2017). In our study, similar to Leptospira infection, hantavirus positivity was significantly more frequent in voles than in mice. We identified DOBV and TULV, which were previously known to coexist in Hungary (Jakab et al. 2007, 2008, Oldal et al. 2014). Hantaviruses are principally associated with distinct rodent host species (Jiang et al. 2017). Similar to previous reports, Kurkino strain of DOBV was identified in $A.$ agrarius and TULV in $M.$ arvalis, but in contrast, $M.$ glareolus was infected with TULV, most probably due to spillover infections (Reil et al. 2017). The fact that hantaviruses can circulate in host reservoirs in very extensive habitats, extends the risk of possible host coinfection by different hantaviruses, and therefore virus reassortment and host spillover (Ermonval et al. 2016). Moreover, we found relatively low percentage of hantavirus-positive rodents compared to previous studies on hantaviruses in the neighboring countries (e.g., Avsic-Zupanc et al. 2000, Tadin et al. 2012, Svoboda et al. 2014, Maas et al. 2017), although the sampling was performed in different years/seasons and different environment as well.
+
+We found dual infections with both pathogens in a low proportion of the investigated rodent specimens. Until 2006, there were no data on the prevalence of hantavirus/Leptospira spp. coinfections among European rodents (Cvetko et al. 2006). However, a few case-reports described coinfection in humans (e.g., Markotic et al. 2002, Clement et al. 2014, Sunil-Chandra et al. 2015), only a single human case was described in the study region (Nemes and Péterfi 2000), therefore, it is still unknown what would be the risk for humans to encounter both infections at the same time. Since these pathogens share the same reservoir host, this suggests that their geographic distribution provides opportunity for individuals to be infected with both pathogens (Cvetko et al. 2006, Tadin et al. 2012). We showed that dual infection with these two pathogens may occur in common voles, bank voles, and striped field mice as well. Therefore, determining the
+
+presence and spread of these etiologic agents of human illnesses by testing local rodent populations might predict the potential for disease emergence. Understanding the ecology of wildlife animals and their pathogens in urban environments will become increasingly important for managing disease risks to wildlife and to human as well (Bradley and Altizer 2007).
+
+To the best of our knowledge, in Europe, we report the first evidence of Leptospira spp. and hantaviruses among wild rodents living in close proximity to humans, within the borders of a settlement. Although this study was not designed to demonstrate a linkage between the presence of these agents and human disease, the data presented in this study may provide insight into assessing the risk of rodent-borne zoonoses in the region. Since clinical symptoms in humans of leptospirosis are undistinguishable from HFRS, a prudent practice in infection clinics should consist of screening always for both the pathogens in each case admitted for leptospirosis or for a hantavirus infection.
+
+# Acknowledgments
+
+Research activity of F.J. was supported by TÁMOP (4.2.4.A/2-11-1-2012-0001)—National Excellence Program. K.K. was supported by the Szentágothai Talent Program (awarded by the Szentágothai Research Centre, University of Pécs). G.K. and F.J. were supported by the UNKP-17-3-III and UNKP-17-4-III—New Excellence Program of the Ministry of Human Capacities. The project has been supported by the European Union, cofinanced by the European Social Fund: Comprehensive Development for Implementing Smart Specialization Strategies at the University of Pécs (EFOP-3.6.1.-16-2016-00004) and by the University of Pécs in the frame of "Viral Pathogenesis" Talent Center program. The present scientific contribution is dedicated to the 650th anniversary of the foundation of the University of Pécs, Hungary.
+
+# Author Disclosure Statement
+
+No competing financial interests exist.
+
+# References
+
+Aulagnier S, Mitchell-Jones AJ, Zima J, Haffner P, et al. Mammals of Europe, North Africa and the Middle East. London: A&C Black Ltd., 2008.   
+Avsic-Zupanc T, Nemirov K, Petrovec M, Trilar T, et al. Genetic analysis of wild-type Dobrava hantavirus in Slovenia: Co-existence of two distinct genetic lineages within the same natural focus. J Gen Virol 2000; 81:1747-1755.   
+Bradley C, Altizer S. Urbanization and the ecology of wildlife diseases. Trends Ecol Evol 2007; 22:95-102.   
+Clement J, Van Esbroeck M, Lagrou K, Verschueren J, et al. Letter to the Editor: Leptospirosis versus hantavirus infections in the Netherlands and in Belgium, 2000 to 2014. Euro Surveill 2014; 19:20912.   
+Cvetko L, Turk N, Markotic A, et al. Short report: Dual infections with Puumala virus and Leptospira interrogans serovar lora in a bank vole (Clethrionomys glareolus). Am J Trop Med Hyg 2006; 74:612-614.   
+Ermonval M, Baychelier F, Tordo N. What do we know about how hantaviruses interact with their different hosts? Viruses 2016; 8:223.
+
+Frynta D, Vohralik V, Reznicek J. Small mammals (Insectivora, Rodentia) in the city of Prague: Distributional patterns. Acta Soc Zool Bohem 1994; 58:151-176.   
+Gortat T, Barkowska M, Gryczynska-Siemiatkowska A, Pieniazek A, et al. The effects of urbanization—small mammal communities in a gradient of human pressure in Warsaw city, Poland. Pol J Ecol 2014; 62:163-172.   
+Gowen BB, Hickerson BT. Hemorrhagic fever of bunyavirus etiology: Disease models and progress towards new therapies. J Microbiol 2017; 55:183-195.   
+HCSO. Gazetteer of Hungary, 1st January 2015. Hungarian Central Statistical Office, Budapest: Xerox Magyarország Kft, 2015.   
+Herczeg R, Horvath Gy. Species composition and nestedness of small mammal assemblages in two disturbed marshlands. N W J Zool 2015; 11:183-193.   
+Jakab F, Horvath Gy, Ferenczi E, Sebok J, et al. Detection of Dobrava hantaviruses in Apodemus agrarius mice in the Transdanubian region of Hungary. Virus Res 2007; 128:149-152.   
+Jakab F, Horvath Gy, Ferenczi E, Sebok J, et al. First detection of Tula hantaviruses in Microtus arvalis voles in Hungary. Arch Virol 2008; 153:2093-2096.   
+Jiang H, Zheng X, Wang L, Du H, et al. Hantavirus infection: A global zoonotic challenge. Virol Sin 2017; 32:32-43.   
+Klempa P, Fichet-Calvet E, Lecompte E, Auste B, et al. Hantavirus in African Wood Mouse, Guinea. Emerging Infect Dis 2006; 12:838-840.   
+Klimant P, Baláž I, Krumpálová Z. Communities of small mammals (Soricomorpha, Rodentia) in urbanized environment. Biologia 2015; 70:839-845.   
+Levett PN. Leptospirosis. Clin Microbiol Rev 2001; 14:296-326.   
+Levett PN, Morey RE, Galloway RL, Turner DE, et al. Detection of pathogenic leptospires by real-time quantitative PCR. J Med Microbiol 2005; 54:45-49.   
+Lopucki R, Mróz I, Berlinski L, Burzych M. Effects of urbanization on small-mammal communities and the population structure of synurbic species: An example of a medium-sized city. Can J Zool 2013; 91:554-561.   
+Maas M, De Vries A, Van Roon A, Takumi K, et al. High prevalence of Tula hantavirus in common voles in The Netherlands. Vector Born Zoonotic Dis 2017; 17:200-205.   
+Markotic A, Kuzman I, Babic K, Gagro A, et al. Double trouble: Hemorrhagic fever with renal syndrome and leptospirosis. Scand J Infect Dis 2002; 34:221-224.   
+McKinney M. Urbanization, biodiversity and conservation. Bioscience 2002; 52:883-890.   
+Nemes Zs, Péterfi Z. Simultaneous leptospirosis and hantavirus infection in the same patient [Article in Hungarian]. Orv Hetil 2000; 141:499-502.   
+Obiegala A, Woll D, Karnath C, Silaghi C, et al. Prevalence and genotype allocation of pathogenic Leptospira species in small mammals from various habitat types in Germany. PLoS Negl Trop Dis 2016; 10:e0004501.   
+Oldal M, Nemeth V, Madai M, Pinter R, et al. Serosurvey of pathogenic hantaviruses among forestry workers in Hungary. Int J Occup Med Environ Health 2014; 27:766-773.
+
+Pinheiro J, Bates D, DebRoy S, Sarkar D. nlme: Linear and Nonlinear Mixed Effects Models. R package version 3.1-122, 2015. Available at http://CRAN.R-project.org/package=nlme   
+R Development Core Team. R: A language and environment for statistical computing, R Foundation for Statistical Computing, Vienna, Austria, 2017. Available at www.R-project.org   
+Reil D, Rosenfeld UM, Imholt C, Schmidt S, et al. Puumala hantavirus infections in bank vole populations: Host and virus dynamics in Central Europe. BMC Ecol 2017; 17:1-13.   
+Stoddard RA, Gee JE, Wilkins PP, McCaustland K, et al. Detection of pathogenic Leptospira spp. through TaqMan polymerase chain reaction targeting the LipL32 gene. Diagn Microbiol Infect Dis 2009; 64:247-255.   
+Stritof Majetic Z, Galloway R, Ruzic Sabljic E, Milas Z, et al. Epizootiological survey of small mammals as Leptospira spp. reservoirs in eastern Croatia. Acta Trop 2014; 131:111-116.   
+Sunil-Chandra NP, Clement J, Maes P, de Silva HJ, et al. Concomitant leptospirosis-hantavirus co-infection in acute patients hospitalized in Sri Lanka: Implications for a potentially worldwide underestimated problem. Epidemiol Inf 2015; 143:2081-2093.   
+Svitalkova Z, Harustiakova D, Mahrikova L, Berthova L, et al. Anaplasma phagocytophilum prevalence in ticks and rodents in an urban and natural habitat in South-Western Slovakia. Parasit Vectors 2015; 17:276.   
+Svoboda P, Dobler G, Markotic A, Kurolt IC, et al. Survey for hantaviruses, tick-borne encephalitis virus, and Rickettsia spp. in small rodents in Croatia. Vector Borne Zoonotic Dis 2014; 14:523-530.   
+Tadin A, Tokarz R, Markotic A, Margaletić J, et al. Molecular survey of zoonotic agents in rodents and other small mammals in Croatia. Am J Trop Med Hyg 2016; 94:466-473.   
+Tadin A, Turk N, Korva M, Margaletic J, et al. Multiple co-infections of rodents with hantaviruses, Leptospira, and Babesia in Croatia. Vector Borne Zoonotic Dis 2012; 12:388-392.   
+Turk N, Milas Z, Margaletic J, Staresina V, et al. Molecular characterization of Leptospira spp. strains isolated from small rodents in Croatia. Epidemiol Infect 2003; 130:159-166.   
+Vijayachari P, Sugunan AP, Shriram AN. Leptospirosis: An emerging global public health problem. J Biosci 2008; 33: 557-569.   
+Woll D, Karnath C, Pfeffer M. Genetic characterisation of Leptospira spp. from beavers found dead in south-west Germany. Vet Microbiol 2012; 158:232-234.
+
+Address correspondence to:
+
+Ferenc Jakab
+
+Virological Research Group
+
+Szentágothai Research Centre
+
+University of Pécs
+
+Pecs H-7624
+
+Hungary
+
+E-mail: jakabf@gamma.ttk.pte.hu

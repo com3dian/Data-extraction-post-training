@@ -1,0 +1,3984 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ORIGINAL ARTICLE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                86,
+                268,
+                101
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity and Geographic Distribution of Hantaviruses in Russia "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                111,
+                737,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina1 , A. E. Platonov1 , V. I. Zhuravlev1 , A. N. Murashkina2 , V. V. Yakimenko3 , A. G. Korneev4 and G. A. Shipulin1 "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                161,
+                774,
+                195
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 Central Research Institute of Epidemiology, Moscow, Russia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 Office of Federal Service ‘‘Rospotrebnadzor’’, Lipetsk, Russia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 Institute of Feral Nidal Infections, Omsk, Russia "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 State Medical Academy, Orenburg, Russia "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                202,
+                426,
+                255
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Impacts "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                95,
+                274,
+                157,
+                289
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• The study concerns the most prevalent zoonotic disease in Russia and some other countries with temperate climate. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• The study starts systematic genotyping of hantaviruses in different geographic and ecological zones rather than sequencing of just few reference strains. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• Knowledge on prevalent hantavirus species and genotypes at a specific territory is critical for the development and use of adequate diagnostic tools, HFRS treatment, prognosis and control. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                297,
+                600,
+                419
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                432,
+                154,
+                443
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantaviruses; haemorrhagic fever with renal syndrome; polymerase chain reaction; genotyping; Russia; detection methodologies "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                446,
+                332,
+                485
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Correspondence: "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                500,
+                189,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Alexander E. Platonov. Central Research Institute of Epidemiology, Novogireevskaya Str, 3a, Moscow 111123, Russia. "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                512,
+                319,
+                552
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tel.: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(495) 974 9648;"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                553,
+                223,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fax: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "+ 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(495) 305 5423; "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                566,
+                221,
+                578
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "E-mail: platonov@pcr.ru "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                580,
+                218,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received for publication April 29, 2008 "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                604,
+                302,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "doi: 10.1111/j.1863-2378.2008.01210.x "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                632,
+                309,
+                645
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Summary "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                357,
+                432,
+                433,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Haemorrhagic fever with renal syndrome (HFRS) is the most prevalent zoonotic disease in Russia. It is caused by several hantavirus species hosted by small rodents. We describe spatial and temporal patterns of HFRS incidence in the Russian Federation, and the geographic distribution of prevalent hantavirus species: Puumala (PUUV) and Dobrava (DOBV). Partial sequencing of nucleocapsid and glycoprotein genes of 117 PUUV strains and 78 DOBV strains revealed several distinct genetic subgroups. The RNA of Volga PUUV subgroup was detected in patients with HFRS and bank voles Myodes glareolus in the Volga Federal District, where the highest HFRS incidence rate has been registered yearly. The RNA of Siberian PUUV subgroup was found in M. glareolus in the trans-Ural Tyumen and Omsk Provinces, where human HFRS cases have been rare. During an HFRS outbreak in 2007 in the Central Federal District, when more than 1000 patients were affected, specific subgroups of DOBV were discovered in patients and rodents, mainly in the striped field mouse Apodemus agrarius. DOBV strains might have "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 { - } 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of nucleotide difference although they were collected at places separated by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { k m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The RNA of a unique DOBV subgroup was discovered in the southern semi-desert Astrakhan Province, mainly in A. agrarius and tamarisk jird Meriones tamariscinus. No human HFRS cases were diagnosed in this province. Russian PUUV and DOBV strains have no close homologues among European strains. Our DOBV strains might be genetically grouped together with Central European DOBV strains isolated from A. agrarius, but not from Apodemus flavicollis. The Volga PUUV subgroup is to some extent similar to Baltic PUUV strain, and Finnish PUUV strains resemble the strains from the Siberian PUUV subgroup. Thus, PCRbased monitoring and typing provided the opportunity to delineate and expand the area of hantaviruses in Russia and to identify their new genetic variants. "
+                    }
+                ]
+            },
+            "bbox": [
+                354,
+                455,
+                885,
+                852
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Zoonoses and Public Health "
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                49,
+                885,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                911,
+                186,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                921,
+                554,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "297 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                884,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                110,
+                94,
+                211,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantaviruses (family Bunyaviridae) are widespread in Russia, especially in the zone of deciduous woods and forest-steppe. They are causative agents of severe human zoonoses called haemorrhagic fever with renal syndrome (HFRS) (Vapalahti et al., 2003; Khaiboullina et al., 2005). Recently, HFRS has become the most prevalent zoonotic disease in Russia, around 5000–20 000 HFRS clinical cases are diagnosed yearly. The mean case-fatality rate is about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and 25–50 lethal HFRS cases are registered every year. Ecological and climatic conditions vary greatly throughout the country; at least seven species of hantaviruses were found in small rodents in Russia, namely: Puumala, Dobrava, Hantaan, Seoul, Tula, Topografov and Khabarovsk (Vapalahti et al., 2003; Klein and Calisher, 2007). The first four are pathogenic to humans; the pathogenic potential of the rest is negligible or unclear (Schultze et al., 2002; Zeier et al., 2005). Most HFRS cases occur in the Volga Federal District (VOFD) (Fig. 1) and are presumably caused by Puumala virus (PUUV). This is similar to other Federal Districts except for the Far East Federal District. However, as virological and genetic typing of hantaviral clinical strains is not routine, this opinion is based on scanty fundamental research (Dekonenko and Tkachenko, 2004; Garanina et al., 2007). In southern Russia and most Siberian regions, human HFRS cases are "
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                118,
+                502,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "rarely diagnosed and animal hantaviral infection is rarely found. Therefore, the area of the hantavirus spread is breaking up in eastern Siberia, and HFRS cases in the Far East Federal District are caused by Hantaan virus and its genovariant Amur, or by Seoul virus (Yashina et al., 2000; Jiang et al., 2007). Several HFRS outbreaks in the Central Federal District were related to Dobrava virus (DOBV) (Klempa et al., 2008). PUUV is predominantly associated with the bank vole (Myodes glareolus/Clethrionomys glareolus), whereas the main host of DOBV in Russia is the striped field mouse (Apodemus agrarius) (Asikainen et al., 2000; Avsic-Zupanc et al., 2000; Klempa et al., 2008). "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                86,
+                912,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The objective of this study consisted of PCR-based detection and genetic characterization of hantavirus strains from widely spread and different Russian regions with diverse epidemiological patterns of HFRS. "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                286,
+                912,
+                347
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                522,
+                370,
+                705,
+                384
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Geographic and administrative terms and epidemiological data "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                521,
+                393,
+                806,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Russian Federation is divided geographically into seven Federal Districts Central (CEFD), North-Western (NWFD), Southern (SOFD), Volga (VOFD), Ural (URFD), Siberian (SIFD), Far East (FEFD), and administratively into 85 units. However, due to historical and "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                424,
+                912,
+                501
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/01d910d3b4d15b410116c3184ed07554e47c5eb703b84b0f9a1716b19b51b3c3.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1. The map of Russian Provinces showing the HFRS incidence rate and study sites. The boundaries between seven Federal Districts are shown by thick lines; the boundaries between provinces are shown by thin lines. Federal Districts are numbered in squares by Roman numerals in accordance with Table 2: I – Central (CEFD), II – North-Western (NWFD), III – Southern (SOFD), IV – Volga (VOFD), V – Ural (URFD), VI – Siberian (SIFD), VII – Far East (FEFD). Study sites are numbered in circles in accordance with Table 2: 1 – Kursk, 2 – Lipetsk, 3 – Tula, 4 – Voronezh, 5 – Astrakhan, 6 – Krasnodar, 7 – Bashkortostan, 8 – Tatarstan, 9 – Udmurtia, 10 – Orenburg, 11 – Samara, 12 – Tyumen, 13 – Omsk. The annual HFRS incidence rate, in cases per 100 000 of population, for each specific Province is coded by the intensity of shading and corresponds to the mean value for 1997–2007. The data on incidence rate of HFRS in Russian Provinces are based on the reports of Regional Centers for Sanitary and Epidemic Control summarized by the Federal Center of Hygiene and Epidemiology. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                243,
+                533,
+                766,
+                778
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                49,
+                366,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                796,
+                49,
+                910,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                911,
+                910,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "298 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                139,
+                933
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                921,
+                910,
+                934
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "political reasons, the original Russian names for these units may be different: for example, Bashkortostan Republic, Astrakhan Oblast and Krasnodar Krai. This difference has no epidemiological significance, so we use the generic term ‘Province’ for all these 85 units. A Province is additionally divided into several subregions (Rayons). There are usually 10–30 such subregions in each Province. This minor division will be important when we discuss the outbreak in Lipetsk Province. Data on the incidence rate of HFRS in Russian Provinces and Districts are based on the reports of Regional Centers for Sanitary and Epidemic Control summarized by the Federal Center of Hygiene and Epidemiology (http://www.fcgsen.ru). "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                88,
+                470,
+                283
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Patient samples "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                87,
+                310,
+                193,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We have studied blood plasma samples taken from 174 patients with clinically suspected HFRS. One-hundred and thirty-nine patients contracted the disease in the VOFD in 2003–2006, and 35 patients in the CEFD in 2007–2008. The samples from 112 patients "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 4 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "were positive in hantavirus-specific PCR. All these 112 HFRS cases were also confirmed by an indirect immunofluorescence assay. The samples from the remaining 62 patients were negative in hantavirus-specific indirect immunofluorescence assay, so other diagnoses were assigned based on clinical and/or laboratory evidence. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                332,
+                470,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodent samples "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                87,
+                524,
+                193,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodent samples were collected in 2003–2008 in seven Russian Provinces, which differed geographically and ecologically. Rodents were trapped by officially appointed regional zoologists using either life traps or dead fall traps. The taxonomic species of the trapped rodents were determined by inspection using standard keys in accordance with the Reference Manual (Pavlinov et al., 2002). Animals were dissected in sterile conditions using disposable vessels and tools. All specimens were individually packed, labelled and stored at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "- 2 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "until testing. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                546,
+                470,
+                696
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lung samples of 190 small mammals were collected in Samara Province in spring and autumn, 2003 from A. agrarius (39 samples), M. glareolus (32), common vole Microtus arvalis (75), yellow-necked mouse Apodemus flavicollis (13), common shrew Sorex araneus (11), Eurasian pygmy shrew Sorex minutus (7), harvest mouse Micromys minutus (3), least weasel Mustela nivalis (2), European water vole Arvicola terrestris (2), lesser shrew Crocidura suaveolens (2), wood mouse Apodemus sylvaticus (1), house mouse Mus musculus (1), European mole Talpa europaea (1) and steppe lemming Lagurus lagurus (1). In 2006, samples were obtained in Orenburg Province from M. glareolus (14) and wood mouse A. sylvaticus (7). "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                699,
+                470,
+                896
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eighteen voles M. glareolus were trapped in Tyumen Province in 2006. Six voles M. glareolus and four mice A. agrarius were trapped in Omsk Province in 2005. The samples from these 28 rodents were pre-selected from a larger collection because they were positive in hantavirus antigen specific ELISA. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                88,
+                882,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A collection of 390 rodent tissue samples from Astrakhan Province was gathered in spring and autumn, 2004– 2005. It included samples of A. agrarius (180), tamarisk jird Meriones tamariscinus (136), social vole Microtus socialis (33), M. arvalis (23), M. musculus (10), S. araneus (4), piebald shrew Diplomesodon pulchellum (2), mid-day jird Meriones meridianus (1) and grey dwarf hamster Cricetulus migratorius (1). "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                180,
+                882,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lung samples of 146 small mammals were collected in Lipetsk Province in the beginning of 2007, when the human HFRS outbreak occurred. There were samples from A. agrarius (61 samples), M. glareolus (26), M. arvalis (4), A. sylvaticus (33), S. araneus (12) and C. suaveolens (10). In the neighbouring Kursk Province, 24 samples from A. agrarius and two samples from M. glareolus were collected in 2007–2008. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                301,
+                882,
+                421
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "RNA isolation, reverse transcription polymerase chain reaction and sequencing "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                448,
+                818,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rodent lung samples were homogenized manually in phosphate-buffered saline, using sterile DNA/RNA-free mortars and tools. One-hundred and fifty micro litres of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "homogenate was mixed with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of chaotropic guanidinium isothiocyanate solution "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { \\circ } \\mathrm { D } ^ { \\prime }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and subjected to phenol–chloroform extraction (Chomczynski and Sacchi, 1987). In the same manner, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of human whole blood was mixed with solution "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": " { \\mathrm { ^ { c } } } _ { \\mathrm { D } ^ { \\prime } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and used for extraction. Three-hundred microlitres of the upper water phase, containing RNA, was transferred to a clean tube, mixed with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 5 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "guanidinium isothiocyanate solution and subjected to silica absorbent-based extraction (Boom et al., 1990). The processing of human plasma samples "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 1 0 0 ~ \\mu \\mathrm { l } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was started directly from absorbent-based extraction. The absorbent was dried, mixed with "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of eluant solution (diethyl pyrocarbonate-treated "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ \\mathrm { H _ { 2 } O }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of supernatant was withdrawn, added to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 ~ \\mu \\mathrm { l }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of reverse transcription (RT) mixture and incubated for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 \\ \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 7 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". All above-mentioned reagents are available in commercial kits ‘RIBO-sorb’, ‘RIBO-sol-A’ and ‘REVERTA-M’ manufactured by the Central Institute of Epidemiology, Moscow, Russia, http://interlabservice.ru/ catalog/price.php. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                485,
+                882,
+                835
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ten microlitres of cDNA solution was used in a polymerase chain reaction (PCR). The screening PCR assays were designed to detect the main viruses of the HFRS complex (Puumala, Hantaan, Seoul, Dobrava and Tula). "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                837,
+                882,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                51,
+                198,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                631,
+                51,
+                882,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                911,
+                188,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                923,
+                552,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "299 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                882,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e2eb3651d8b991144a4a3d2895585e5ff606994a91c2b064fad4f767484b608a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Oligonucleotide primers applied for amplification of the partial coding sequence of nucleocapsid N gene and glycoprotein G2 gene of Puumala, Dobrava and Tula virus strains "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "*All primers were designed and tested by our group. "
+                    }
+                ],
+                "html": "<table><tr><td>Name*</td><td>Nucleotide sequence (5′-3′)</td><td>Sensitivity, genome copies/ml</td><td>nt positions</td><td>Reference strain and segment</td></tr><tr><td>Hant S/F-kom</td><td>TT(C/T)AA(G/A)GATGACA(C/G)CTCATTTGAGGAT</td><td>104/ml</td><td>475–501</td><td>PUUV CG17/Baskiria-2001 AF442613, S-segment</td></tr><tr><td>Hant S/R</td><td>C(T/A)GGTGC(A/C)CA(A/G)GCAAA(T/G)ACCCA</td><td></td><td>949–928</td><td></td></tr><tr><td>Hant M/F-ino</td><td>ATC(T/A)ATAGAIGGTGCATGGIGTTCTG</td><td>5 × 103/ml</td><td>2971–2996</td><td>DOBV SK/Aa AY961616, M-segment</td></tr><tr><td>Hant M/R-ino</td><td>CCACATTIAGGTGCICCATCATC</td><td></td><td>3297–3275</td><td></td></tr><tr><td>Puum_S/F</td><td>TACAAGAGAAGAATGGCAGATGCTG</td><td>103/ml</td><td>181–205</td><td>PUUV CG17/Baskiria-2001 AF442613, S-segment</td></tr><tr><td>Tul_S/F</td><td>AAGTACACTACAGAGCAGACGGGC</td><td></td><td>123–146</td><td>Tula virus MG23/Omsk AF442621, S-segment</td></tr><tr><td>Puum/Tul-S/R</td><td>TCAATGGCATTCACATCAAGGAC</td><td></td><td>323–301</td><td>PUUV CG17/Baskiria-2001 AF442613, S-segment</td></tr><tr><td>inPUUV_S/F</td><td>CCCAGTCCACCATGAAAGCTGAAG</td><td>102/ml</td><td>551–574</td><td>PUUV CG17/Baskiria-2001 AF442613, S-segment</td></tr><tr><td>inPUUV_S/R</td><td>CTGTGCTGGTGTCCCTGGTTTAAC</td><td></td><td>774–751</td><td></td></tr><tr><td>DOBV_S/F</td><td>AAGCTACTATCCGAGCCATCTCCAAC</td><td>103/ml</td><td>768–793</td><td>DOBV Kurkino/53Aa/98 AJ131673, S-segment</td></tr><tr><td>DOBV_S/R</td><td>GCAAAGACCCCAGATTGATGATGGTGA</td><td></td><td>961–936</td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                110,
+                116,
+                912,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The first screening PCR assay used the forward primer Hant S/F-kom and the reverse primer Hant S/R, which are complementary to the nucleocapside (N) gene sequence. The second screening PCR assay used the forward primer Hant M/F-ino and the reverse primer Hant M/R-ino, which are complementary to the envelope glycoprotein G2 gene sequence (Table 1). The thermal cycler was programmed for one cycle at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 ~ \\mathrm { m i n }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", two cycles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ s _ { ; }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", two cycles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ s ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", followed by 40 cycles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ s , \\ 5 8 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\ \\mathrm { s } , \\ 7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\ s ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and completed with one cycle at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 3 min. The amplicons were detected electrophoretically. Usually, our N gene-specific PCR assay was less sensitive against Russian DOBV strains, and our G2 gene-specific PCR assay was less sensitive against Russian PUUV strains. As better sensitivity or PCR-based species identification was necessary, the samples were additionally studied by species-specific PCRs with primers Puum_S/F, Tul_S/F, Puum/Tul-S/R in one reaction, and primers DOBV_S/F and DOBV_S/R in another reaction (Table 1). Amplification conditions were the same as above. The first screening PCR assay could have been supplemented by the next stage with PUUV-specific nested primers inPUUV_S/F and inPUUV_S/R (Table 1). In this case, both the first and the second stages of amplification used the same shorter schedule: one cycle at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 5 min, two cycles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 3 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ s ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", two cycles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ s ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "followed by 31 cycles of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 10 s, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\ s ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and completed with one cycle at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 2 ^ { \\circ } \\mathrm { C }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for 3 min. All "
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                423,
+                499,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "above-mentioned primers and procedures were designed and tested by our group. "
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                424,
+                909,
+                453
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Amplified products were sequenced using the same primers, BigDye\u0003 Terminator v1.1 Cycle Sequencing Kit, and ABI Prism DNA Sequencer 3100 (Applied Biosystems, Foster City, CA, USA). Sequences were aligned and analysed with mega 4.0 (Tamura et al., 2007). "
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                455,
+                910,
+                529
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                524,
+                553,
+                581,
+                567
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Since the large HFRS outbreak in 1997, the annual HFRS incidence rate in Russia has varied within the range of three to seven cases per 100 000 of population (Table 2). The regional difference was considerable (Fig. 1); the incidence rate in the VOFD (Table 2, row IV) was usually at least 10 times higher than in the other Federal Districts, and the number of cases in the VOFD averaged to nearly "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of all HFRS cases in Russia. In 1997–2006, the mean annual HFRS incidence rate in the FEFD (row VII), URFD (row V) and CEFD (row I), was about 1.9, 1.5 and 1.2 cases per 100 000 of population, respectively, but a noticeable HFRS outbreak occurred in 2007 in the CEFD (row I). Among the Provinces of the SOFD (row III), human HFRS cases were only registered in the Krasnodar Province (row 6), and Volgograd Province, the latter shares a border with the VOFD. Only isolated HFRS cases were diagnosed in the SIFD (row VI). The mean HFRS case-fatality rate is the lowest in the VOFD (row IV) and the highest in the FEFD (row VII); this can be explained by the prevalence of PUUV in the former District and Hantaan virus in the latter one. "
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                576,
+                910,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                51,
+                364,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                798,
+                51,
+                909,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "300 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                137,
+                932
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                911,
+                909,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                923,
+                909,
+                934
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/82834dedff17ac74d8e6f9c7603890e1457a82d51bd7fa842c9586522f54b2c4.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2. The incidence rate of haemorrhagic fever with renal syndrome in the Russian Federation, its seven Federal Districts, and 13 representative Provinces "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "*Annual number of HFRS cases per 100 000 of population. The data on incidence rate of HFRS in Russian regions are based on the reports of Regional Centers for Sanitary and Epidemic Control summarized by the Federal Center of Hygiene and Epidemiology. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "- Several provinces are described below some main Federal Districts. These are not all provinces constituting a District, but only those where human and rodent samples were collected for our and other studies of hantaviruses. "
+                    }
+                ],
+                "html": "<table><tr><td></td><td>Year</td><td>1997</td><td>1998</td><td>1999</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>Mean incidence rate in 1997-2007</td><td>Mean case-fatality rate (%)</td></tr><tr><td></td><td>Russian Federation</td><td>14.3*</td><td>3.4</td><td>6.93</td><td>5.05</td><td>5.74</td><td>3.19</td><td>4.35</td><td>7.08</td><td>5.11</td><td>5.04</td><td>3.61</td><td>5.80</td><td>0.5</td></tr><tr><td>I</td><td>Central Federal District†</td><td></td><td></td><td>1.09</td><td>0.96</td><td>1.35</td><td>1.2</td><td>1.33</td><td>2.16</td><td>0.65</td><td>1.02</td><td>3.39</td><td>1.46</td><td>1.0</td></tr><tr><td>1</td><td>Kursk Province</td><td>0</td><td>0.1</td><td>0.08</td><td>0.3</td><td>0.23</td><td>0.15</td><td>0</td><td>0.41</td><td>0.5</td><td>0.76</td><td>1.1</td><td>0.33</td><td></td></tr><tr><td>2</td><td>Lipetsk Province</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5.28</td><td>0.16</td><td>0.66</td><td>0.84</td><td>0.59</td><td>21.23</td><td>2.61</td><td></td></tr><tr><td>3</td><td>Tula Province</td><td>11.2</td><td>3.3</td><td>6.1</td><td>5.94</td><td>10.3</td><td>5.87</td><td>10.1</td><td>10.0</td><td>1.41</td><td>4.35</td><td>4.65</td><td>6.66</td><td></td></tr><tr><td>4</td><td>Voronezh Province</td><td>0.4</td><td>0</td><td>0.12</td><td>0.37</td><td>1.19</td><td>2.8</td><td>0.08</td><td>0.34</td><td>1.11</td><td>2.24</td><td>6.68</td><td>1.39</td><td></td></tr><tr><td>II</td><td>North-Western Federal District</td><td></td><td></td><td>0.76</td><td>0.36</td><td>0.45</td><td>0.55</td><td>0.32</td><td>0.7</td><td>0.62</td><td>0.5</td><td>0.54</td><td>0.53</td><td>0.9</td></tr><tr><td>III</td><td>Southern Federal District</td><td></td><td></td><td>0.08</td><td>0.11</td><td>0.06</td><td>0.1</td><td>0.04</td><td>0.21</td><td>0.09</td><td>0.07</td><td>0.05</td><td>0.09</td><td>2.1</td></tr><tr><td>5</td><td>Astrakhan Province</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.00</td><td></td></tr><tr><td>6</td><td>Krasnodar Province</td><td>0</td><td>0.1</td><td>0.04</td><td>0</td><td>0.2</td><td>0.18</td><td>0.1</td><td>0.41</td><td>0.25</td><td>0.16</td><td>0.02</td><td>0.13</td><td></td></tr><tr><td>IV</td><td>Volga Federal District</td><td></td><td></td><td>28.6</td><td>20.9</td><td>23.4</td><td>12.2</td><td>17.5</td><td>28.2</td><td>21.6</td><td>21.0</td><td>11.8</td><td>20.58</td><td>0.4</td></tr><tr><td>7</td><td>Bashkortostan Province</td><td>229.3</td><td>28.8</td><td>83.7</td><td>53.9</td><td>59.4</td><td>30.0</td><td>38.9</td><td>64.4</td><td>56.6</td><td>71.5</td><td>28.1</td><td>67.69</td><td></td></tr><tr><td>8</td><td>Tatarstan Province</td><td>64.4</td><td>17.0</td><td>38.5</td><td>30.2</td><td>16.9</td><td>10.3</td><td>16.7</td><td>15.7</td><td>22.5</td><td>20.4</td><td>6.6</td><td>23.57</td><td></td></tr><tr><td>9</td><td>Udmurtia Province</td><td>110.3</td><td>36.7</td><td>52.3</td><td>28.8</td><td>113.3</td><td>26.5</td><td>18.6</td><td>127.3</td><td>28.3</td><td>37.2</td><td>24.8</td><td>54.92</td><td></td></tr><tr><td>10</td><td>Orenburg Province</td><td>49.7</td><td>5.1</td><td>21.3</td><td>19.1</td><td>16.4</td><td>11.6</td><td>35.7</td><td>17.7</td><td>59.7</td><td>23.2</td><td>10.6</td><td>24.55</td><td></td></tr><tr><td>11</td><td>Samara Province</td><td>60.0</td><td>9.7</td><td>19.6</td><td>19.5</td><td>11.2</td><td>10.2</td><td>15.4</td><td>11.2</td><td>9.6</td><td>11.5</td><td>5.8</td><td>16.70</td><td></td></tr><tr><td>V</td><td>Ural Federal District</td><td></td><td></td><td>2.2</td><td>0.86</td><td>1.25</td><td>0.6</td><td>0.76</td><td>3.32</td><td>1.23</td><td>1.9</td><td>0.66</td><td>1.42</td><td>0.2</td></tr><tr><td>12</td><td>Tyumen Province</td><td>0.1</td><td>0.1</td><td>0</td><td>0</td><td>0.07</td><td>0</td><td>0</td><td>0</td><td>0.08</td><td>0</td><td>0.08</td><td>0.04</td><td></td></tr><tr><td>VI</td><td>Siberian Federal District</td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.01</td><td>0.01</td><td>0</td><td>0</td><td>0.00</td><td>0.0</td></tr><tr><td>13</td><td>Omsk Province</td><td>0</td><td>0.1</td><td>0</td><td>0</td><td>0.05</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.01</td><td></td></tr><tr><td>VII</td><td>Far East Federal District</td><td></td><td></td><td>2.69</td><td>1.68</td><td>1.78</td><td>1.64</td><td>1.54</td><td>1.65</td><td>2.95</td><td>1.42</td><td>1.75</td><td>1.90</td><td>5.1</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                116,
+                885,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The annual HFRS incidence rate in 13 representative Provinces is also given in Table 2; these are the Provinces where human and rodent samples were collected for our and other studies of hantaviruses. The HFRS incidence varied greatly even within Provinces belonging to the same Federal District. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                636,
+                473,
+                727
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In December 2006–March 2007, an HFRS outbreak took place in the part of the CEFD. Lipetsk Province was the centre of the outbreak, HFRS incidence in 2007 being 28 times higher than the historical mean for 1997–2006 (Table 2, row 2). In neighbouring Voronezh, Kursk, Belgorod, Orel, Bryansk, Tula, Ryazan and Tambov Provinces, the incidence rate increased 7.7, 4.4, 5.2, 2.6, 25, 0.7, 2.5 and 130 times, respectively. As the result, the total annual number of HFRS cases in the abovementioned Provinces reached 742 cases in comparison with 190 cases in 2006 and 112 cases in 2005. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                728,
+                473,
+                895
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic identification of hantavirus strains "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                495,
+                645,
+                786,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The VOFD is a classical endemic area of Nephropatia epidemica, a mild variant of HFRS in Europe. Only PUUV RNA was found in human samples and in bank vole M. glareolus from year to year and from Province to Province (Table 3, Fig. 1). The infection rate of M. glareolus in Samara Province was about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Table 3, row 27). Hantaviral RNA was not found in tissue samples of other small mammal species with the exception of 22 common voles M. arvalis from Samara Province. Four of these strains were partially sequenced and identified as Tula virus (GenBank accession numbers DQ061255– DQ061258). "
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                667,
+                885,
+                850
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Tyumen Province, located "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 0 0 ~ \\mathrm { k m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "eastwards in the URFD, human HFRS cases are practically absent, but PUUV RNA can still be found in M. glareolus. Omsk "
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                851,
+                885,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                49,
+                200,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                631,
+                49,
+                885,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                910,
+                188,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                921,
+                554,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "301 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                882,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3f0da04281bfe4f4f41d052232b5922368592b9b8f54c61b55072ccf0c7c35cb.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 3. The hantavirus strains characterized by sequencing of S and/or M segments "
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "S, the fragment of segment S; M, the fragment of segment M. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "*Only a representative part of PCR-positive products has been sequenced in order to remain within a budget. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "- The samples from these rodents had been pre-selected from a larger collection because they were positive in hantavirus antigen specific ELISA. "
+                    }
+                ],
+                "html": "<table><tr><td></td><td>Region</td><td>Year</td><td>Vertebrate host</td><td>Virus species</td><td>No. investigated individual samples</td><td>No. samples positive in species-specific PCR</td><td>No. samples characterized by sequencing</td><td>GenBank accession numbers</td></tr><tr><td>1</td><td>Lipetsk</td><td>2007</td><td>Apodemus agrarius</td><td>DOBV</td><td>61</td><td>46</td><td>25*</td><td>EU562917 (M), EU562919-EU562926 (M), EU562928-EU562936 (M), EU562938-EU562942 (M), EU562944-EU562945 (M)</td></tr><tr><td>2</td><td>Lipetsk</td><td>2007</td><td>Apodemus sylvaticus</td><td>DOBV</td><td>33</td><td>14</td><td>2</td><td>EU562937 (M), EU562943 (M)</td></tr><tr><td>3</td><td>Lipetsk</td><td>2007</td><td>Myodes glareolus</td><td>PUUV</td><td>26</td><td>10</td><td>1</td><td>EU652421 (M)</td></tr><tr><td>4</td><td>Lipetsk</td><td>2007</td><td>Microtus arvalis</td><td>DOBV</td><td>4</td><td>1</td><td>1</td><td>EU562927 (M)</td></tr><tr><td>5</td><td>Lipetsk</td><td>2007</td><td>Sorex araneus</td><td>DOBV</td><td>12</td><td>1</td><td>1</td><td>EU562918 (M); EU562996 (S)</td></tr><tr><td>6</td><td>Lipetsk</td><td>2007</td><td>Homo sapiens</td><td>DOBV</td><td>12</td><td>10</td><td>8</td><td>EU562909-EU562916 (M)</td></tr><tr><td>7</td><td>Voronezh</td><td>2007</td><td>Homo sapiens</td><td>DOBV</td><td>21</td><td>19</td><td>2</td><td>EU562946-EU562947 (M)</td></tr><tr><td>8</td><td>Kursk</td><td>2007</td><td>Apodemus agrarius</td><td>DOBV</td><td>14</td><td>7</td><td>5</td><td>EU562892-EU562896 (M)</td></tr><tr><td>9</td><td>Kursk</td><td>2008</td><td>Apodemus agrarius</td><td>DOBV</td><td>10</td><td>8</td><td>8</td><td>EU562901-EU562908 (M); EU652420 (S)</td></tr><tr><td>10</td><td>Kursk</td><td>2008</td><td>Myodes glareolus</td><td>DOBV</td><td>2</td><td>2</td><td>2</td><td>EU562897-EU562898 (M)</td></tr><tr><td>11</td><td>Kursk</td><td>2008</td><td>Homo sapiens</td><td>DOBV</td><td>2</td><td>2</td><td>2</td><td>EU562899-EU562900 (M)</td></tr><tr><td>12</td><td>Astrakhan</td><td>2004</td><td>Apodemus agrarius</td><td>DOBV</td><td>87</td><td>20</td><td>11</td><td>DQ061267-DQ061268 (M), EU562958-EU562966 (M); DQ061265 (S), EU562994-EU562995 (S)</td></tr><tr><td>13</td><td>Astrakhan</td><td>2005</td><td>Apodemus agrarius</td><td>DOBV</td><td>93</td><td>2</td><td>2</td><td>EU562953 (M), EU562955 (M)</td></tr><tr><td>14</td><td>Astrakhan</td><td>2004</td><td>Meriones tamariscinus</td><td>DOBV</td><td>54</td><td>5</td><td>0</td><td></td></tr><tr><td>15</td><td>Astrakhan</td><td>2005</td><td>Meriones tamariscinus</td><td>DOBV</td><td>82</td><td>2</td><td>1</td><td>EU562954 (M)</td></tr><tr><td>16</td><td>Astrakhan</td><td>2004</td><td>Mus musculus</td><td>DOBV</td><td>5</td><td>1</td><td>1</td><td>DQ061269 (M); DQ061266 (S)</td></tr><tr><td>17</td><td>Astrakhan</td><td>2004</td><td>Microtus arvalis</td><td>DOBV</td><td>13</td><td>3</td><td>2</td><td>EU562956-EU562957 (M); EU562993 (S)</td></tr><tr><td>18</td><td>Astrakhan</td><td>2005</td><td>Microtus arvalis</td><td>DOBV</td><td>10</td><td>1</td><td>1</td><td>EU562952 (M)</td></tr><tr><td>19</td><td>Bashkortostan</td><td>2005</td><td>Homo sapiens</td><td>PUUV</td><td>5</td><td>5</td><td>5</td><td>EU549811-EU549815 (S)</td></tr><tr><td>20</td><td>Tatarstan</td><td>2004</td><td>Homo sapiens</td><td>PUUV</td><td>1</td><td>1</td><td>1</td><td>EU652422 (S)</td></tr><tr><td>21</td><td>Udmurtia</td><td>2003</td><td>Homo sapiens</td><td>PUUV</td><td>13</td><td>7</td><td>2</td><td>DQ064688-DQ064689 (S)</td></tr><tr><td>22</td><td>Udmurtia</td><td>2004</td><td>Homo sapiens</td><td>PUUV</td><td>46</td><td>44</td><td>44</td><td>DQ064647-DQ064687 (S); DQ061270-DQ061272 (M)</td></tr><tr><td>23</td><td>Udmurtia</td><td>2005</td><td>Homo sapiens</td><td>PUUV</td><td>18</td><td>9</td><td>9</td><td>EU549802-EU549810 (S)</td></tr><tr><td>24</td><td>Orenburg†</td><td>2006</td><td>Myodes glareolus</td><td>PUUV</td><td>14</td><td>14</td><td>13</td><td>EU563004-EU563016 (S)</td></tr><tr><td>25</td><td>Orenburg</td><td>2006</td><td>Homo sapiens</td><td>PUUV</td><td>32</td><td>9</td><td>7</td><td>EU562997-EU563003 (S)</td></tr><tr><td>26</td><td>Orenburg</td><td>2007</td><td>Homo sapiens</td><td>PUUV</td><td>24</td><td>6</td><td>4</td><td>EU652423-EU652426 (S)</td></tr><tr><td>27</td><td>Samara</td><td>2003</td><td>Myodes glareolus</td><td>PUUV</td><td>32</td><td>11</td><td>5</td><td>DQ061260-DQ061264 (S)</td></tr><tr><td>28</td><td>Tyumen†</td><td>2006</td><td>Myodes glareolus</td><td>PUUV</td><td>20</td><td>20</td><td>20</td><td>EU562967-EU562982 (M); EU652427-EU652442 (S)</td></tr><tr><td>29</td><td>Omsk†</td><td>2005</td><td>Apodemus agrarius</td><td>DOBV</td><td>4</td><td>4</td><td>4</td><td>EU562948-EU562951(M); EU562989-EU562992 (S)</td></tr><tr><td>30</td><td>Omsk†</td><td>2005</td><td>Myodes glareolus</td><td>PUUV</td><td>6</td><td>6</td><td>6</td><td>EU562983-EU562988 (M); EU563017-EU563018 (S), EU652443 (S)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                109,
+                102,
+                914,
+                768
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Province is located on the south-west of the SIFD. In this Province, only three HFRS cases were officially registered in 1997–2007 in a population of 2.2 million. However, some voles M. glareolus are carriers of PUUV, "
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                836,
+                499,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "and some mice A. agrarius are carriers of DOBV (Table 3). "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                837,
+                910,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Potential presence of hantaviruses in Southern Astrakhan Province, where the zone of deserts and semi-deserts "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                867,
+                910,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                51,
+                364,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                796,
+                51,
+                909,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                911,
+                910,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "302 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                137,
+                932
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                921,
+                910,
+                934
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "covers "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the territory, has never been investigated. We have studied samples from 390 rodents of nine species collected in Astrakhan Province in 2004–2005. Thirty-four PCR-positive samples were found among four species of rodents: A. agrarius (22 samples), M. musculus (1), common vole M. arvalis (4) and tamarisk jird Meriones tamariscinus (7). According to species-specific PCR, all strains belonged to Dobrava species (Table 3), which was confirmed by sequencing of 18 strains. The infection rate was higher in 2004 than in 2005 and varied from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for A. agrarius. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                86,
+                473,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Simultaneously with the human HFRS outbreak in 2007, the high hantavirus infection rate was found in A. agrarius, A. sylvaticus and M. glareolus trapped in Lipetsk Province (Table 3). DOBV RNA was found in mice, and PUUV RNA in voles. A similar situation was observed on rodents collected after the outbreak in Kursk Province. DOBV RNA was detected even in such atypical hosts as Sorex, Microtus and Myodes. All human HFRS cases in the Central Federal District diagnosed in this study were caused by DOBV. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                255,
+                473,
+                407
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic characterization of hantavirus strains "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                430,
+                391,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Russian PUUV strains were characterized by sequencing of the N gene fragment, 426 bp. One-hundred and five strains of our study (Table 3) clustered in distinct geographic subgroups: Bashkortostan, Udmurtia, Orenburg, Samara, Tyumen and Omsk (Fig. 2). Although some subgroups included strains of different years from both humans and voles, within group average nucleotide (nt) p-distances were minimal, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 8 5 \\pm 0 . 0 0 2 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 3 0 0 \\pm"
+                    },
+                    {
+                        "type": "text",
+                        "content": "0.0048, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 8 5 \\pm 0 . 0 0 1 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 1 4 \\pm 0 . 0 0 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 7 7 \\pm 0 . 0 0 2 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 1 6 \\pm 0 . 0 0 1 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively. Standard error computation was made by bootstraping (1000 replicates) in mega 4. Nevertheless, large sets of strains contained some outliers: one Orenburg strain (EU563003 Orenburg/ 33_Human/2006) and several Udmurtia strains (DQ064654 Izh/508-Hs/2004, DQ064684 Izh/542-Hs/2004, EU549810 Izhevsk/66_Human/2005) joined with the Bashkortostan subgroup; one Udmurtia strain "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { ( D Q 0 6 4 6 8 8 ~ I z h / }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1351-Hs/2003) joined with the Samara subgroup. Excluding such outliers, within group average p-distances became even smaller, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 1 3 5 \\pm 0 . 0 0 2 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 3 8 \\pm 0 . 0 0 1 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Udmurtia and Orenburg, respectively. Between group average p-distance was at least twice as large. PUUV strains from the Provinces of the VOFD differed from each other by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathrm { - } 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and from Tyumen and Omsk strains by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 7 { - } 1 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Latter strains were similar. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                453,
+                473,
+                833
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PUUV strains, isolated and characterized in previous studies (Dekonenko et al., 2003), mostly fit our geographic genetic subgroups; for example, the strains Z21497_Udmurtia/894Cg/91, AF442613_Baskiria-2001, "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                836,
+                473,
+                897
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dffb8cba2ab1c73560b134314964ee783d3c752e4428be9037b6bcb32daa4f97.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2. Neighbour-joining genetic tree of PUUV strains calculated from the partial sequence of the S segment (nt 502–927, AF442613) using the Maximum Composite Likelihood model. Numbers show the bootstrap support values higher than 70 calculated for 3000 replicates. For the sake of simplicity, the tree is partly condensed in nodes representing Russian genetic subgroups characterized in this study. Names of these Russian subgroups are marked with boldface and light shading. Accession numbers and additional information are given in Table 3, rows 19 (Bashkortostan), 27 (Samara), 28 (Tyumen), 30 (Omsk), 24–26 (Orenburg), and 21–23 (Udmurtia). The outliers are marked as Orenburg* (EU563003) and Udmurtia* (DQ064654, DQ064684, EU549810). Accession numbers and names of strains characterized in other studies and obtained from GenBank are indicated. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                497,
+                88,
+                885,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AF411446_F-s808_Samara and AF367071_Omsk were included in our subgroups Udmurtia, Bashkortostan, Samara and Omsk, respectively. "
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                774,
+                884,
+                820
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Using amino acid (aa) sequences, Udmurtia, Bashkortostan, Samara and Orenburg strains might be joined in one Volga subgroup, whereas Tyumen and Omsk strains formed a Siberian subgroup. Within group average p-distances were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 1 2 8 \\pm 0 . 0 0 5 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 5 8 \\pm 0 . 0 0 3 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for "
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                820,
+                884,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                49,
+                200,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                631,
+                49,
+                885,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                910,
+                188,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                921,
+                554,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "303 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                884,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c039d6fe796966beb1944fdd69aaaf658bf6e772b382447d4b81f9bbbf49a058.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3. Neighbour-joining genetic tree of PUUV strains calculated from the partial sequence of the M segment (nt 3002–3276, AF442614) using the Maximum Composite Likelihood model. Numbers show the bootstrap support values higher than 70 calculated for 3000 replicates. For the sake of simplicity, the tree is partly condensed in nodes representing Tyumen and Omsk subgroups characterized in this study. Names of these Russian subgroups are marked with boldface and light shading. Accession numbers and additional information are given in Table 3, rows 28 (Tyumen), and 30 (Omsk). Three strains from Udmurtia (Table 3, row 22) and one strain from Lipetsk (Table 3, row 3) are presented individually. Accession numbers and names of strains characterized in other studies and obtained from GenBank are indicated. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                250,
+                89,
+                776,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Volga and Siberian subgroup, respectively. Between group, average p-distance was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 6 0 \\pm 0 . 0 1 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                515,
+                499,
+                544
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The hypervariable region in the deduced aa sequence of N gene with aa positions from 258 to 274 is QEVEFLKRNRVYFMTRQ in most Volga PUUV strains, except those from Udmurtia, QEIEFLKRNRVYFMTRQ in most Udmurtia strains, QEVEMLKKNKIYFMHRQ in Tyumen strains and QEIEMLKKNKIYFMHRQ in Omsk strains. The sequence from 299 to 307 aa positions is SPDDIESPN in all our Volga strains, but SPDNIDSPN in all our Tyumen/Omsk strains. The fragment EFMEKECPF, aa positions 237–246, is usually conservative in PUUV, but Orenburg strains have EFMERECPF in these positions and Udmurtia strains have DFMEKECPF. "
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                546,
+                499,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Twenty-six Russian PUUV strains were characterized by sequencing of the G2 gene fragment, 275 bp (Fig. 3). This kind of typing supported the separation of Tyumen and Omsk subgroups from the Volga subgroup and the European PUUV strains. "
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                728,
+                499,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Russian DOBV strains were characterized mainly by sequencing of the G2 gene fragment, 275 bp. In our study (Table 3), 78 strains once again clustered in geographic subgroups (Fig. 4). Significantly different DOBV strains were found not only in distant Astrakhan and Omsk Provinces, but even in two subregions of Lipetsk Prov-"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                805,
+                499,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ince, Dobrinka and Usman, located as close as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 ~ \\mathrm { k m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "apart. Despite the fact that the subgroups included the strains of different years from both humans and various rodents, within group average nt p-distances were small, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 1 6 \\pm 0 . 0 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 1 4 \\pm 0 . 0 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 1 1 \\pm 0 . 0 0 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 1 1 \\pm"
+                    },
+                    {
+                        "type": "text",
+                        "content": "0.003, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 9 \\pm 0 . 0 0 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for Astrakhan, Omsk, Kursk, Lipetsk–Dobrinka and Lipetsk–Usman subgroups, respectively. Two Voronezh strains joined with the Lipetsk– Usman subgroup. Between group average nt p-distance was at least six times more and varied from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Between group average aa p-distance varied from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "t o "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 . 3 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". This short fragment of the G2 protein is conserved, so the bootstrapping supported only three groups: Russian and European DOBV strains isolated mainly from A. agrarius, Dobrava–Saaremaa strains and Dobrava–Belgrade strains isolated from A. flavicollis. However, in the deduced aa sequence of glycoprotein precursor the marker substitution V was found in aa position 356 (accession number AAY27875) in Kursk subgroup as opposed to I in other DOBV strains, and AEQESTQ in aa position 421–427 in Astrakhan subgroup as opposed to VEQESTQ in other DOBV strains and VEQDSEK in a typical Dobrava–Belgrade virus. "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                515,
+                912,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Eleven Russian DOBV strains were characterized by sequencing of the N gene fragment, 414 bp. This gave an "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                865,
+                912,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                49,
+                366,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                796,
+                49,
+                910,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "304 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                139,
+                933
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                911,
+                910,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                921,
+                910,
+                934
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3fe9abb4558ac634ee4e63c3598bc7cf7e97a499d7ae44c9db9ccf1a01d87f33.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4. Neighbour-joining genetic tree of DOBV strains calculated from the partial sequence of the M segment (nt 2999–3273, AY168578) using the Maximum Composite Likelihood model. Numbers show the bootstrap support values higher than 70 calculated for 3000 replicates. For the sake of simplicity, the tree is partly condensed in nodes representing Russian genetic subgroups characterized in this study. Names of these Russian subgroups are marked with boldface and light shading. Accession numbers and additional information are given in Table 3, rows 8–11 (Kursk), 29 (Omsk), 12–13 and 15–18 (Astrakhan), 7 (Voronezh), 1–2 and 4–6 (Lipetsk). Accession numbers and names of strains characterized in other studies and obtained from GenBank are indicated. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                238,
+                89,
+                732,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "additional possibility for comparison with European Dobrava strains. Our DOBV strains grouped with European DOBV strains isolated from A. agrarius (Fig. 5). Omsk, Astrakhan and Kursk strains still formed separate genetic branches, at the same time our Kursk strain was the most similar to Kurkino strains, isolated previously in the neighbouring Tula Province. The marker aa substitution A was found in aa position 271 of nucleocapsid protein (accession number CAA10481) in all Russian DOBV strains as opposed to G in European DOBV strains and strains from Russian Krasnodar Province (AF442622, AF442623). Only Astrakhan strains had F in position 242 and A in position 260 as opposed to L and S in all other DOBV strains. N protein sequence of Kursk and Kurkino strains had T in position 294, whereas all other strains had N. "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                530,
+                475,
+                774
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                85,
+                797,
+                169,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After China, the Russian Federation is probably the country most affected by hantavirus infection. At least 5000– 7000 HFRS cases are registered every year, about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of them occurring in the European part of Russia, in comparison with nearly 2000 annual HFRS cases in the rest of "
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                820,
+                475,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Europe (Vapalahti et al., 2003; Heyman et al., 2008). Thus, the need for HFRS investigation and control is obvious. Knowledge on prevalent hantavirus species and genotypes at specific territories is essential for the development of adequate diagnostic tools, as well as HFRS treatment and prognosis of outbreaks (Klein and Calisher, 2007). The geographic distribution of hantaviruses in Russia still needs to be further studied and described. We found only PUUV and DOBV in trans-Ural Siberian Provinces. PUUV clearly dominates in the VOFD where a HFRS incidence from 10 to 100 cases per 100 000 of population has been registered yearly. In the CEFD and NWFD of Russia, the areas of PUUV and DOBV are presumably overlapped at wide-ranging view but are most likely connected with certain landscapes and ecosystems at the local level. This connection requires additional investigation and careful monitoring. In the SOFD, hantaviruses were only found in Astrakhan Province by us (Zhuravlev et al., 2008) and in Krasnodar Province by Tkachenko’s team (Klempa et al., 2008). These findings revealed two new genetic lineages of DOBV, which have unclear epidemic potential and area of circulation. The investigation in Russian Far East and eastern Siberia explored repeatedly new genovariants and probably new "
+                    }
+                ]
+            },
+            "bbox": [
+                495,
+                530,
+                885,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                49,
+                200,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                630,
+                49,
+                885,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                910,
+                188,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                921,
+                554,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "305 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                885,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/154b87de6df3d1fe97545ac353b368f1fc8b09914c47e5ed350a93104dfde47c.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 5. Neighbour-joining genetic trees of DOBV strains calculated from the partial sequence of the S segment (nt 537–950, AJ131672) using the Maximum Composite Likelihood model. Numbers show the bootstrap support values higher than 70 calculated for 3000 replicates. Names and accession numbers of strains are indicated. The strains characterized in this study are marked with boldface and may be identified using Table 3, rows 5, 12, 16, 17 and 29. Astrakhan and Omsk genetic subgroups are marked as A and O , correspondingly. "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                287,
+                92,
+                729,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "species of hantavirus (Yashina et al., 2000; Plyusnina et al., 2008). "
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                590,
+                499,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For all investigated regions, the dominant rodent host for PUUV and DOBV was M. glareolus and A. agrarius, respectively. The uncommon detection of DOBV RNA in M. glareolus, M. arvalis, M. musculus and S. araneus confirmed the possibility of interspecies infection due to close living in the same habitat (Klingstrom et al., 2002). DOBV spill-over from A. agrarius to other species might be promoted by high-rodent population densities in the CEFD, where A. agrarius and M. glareolus numbers were at least five times higher in winter 2006–2007 than in the same period in 2005–2006. It is not yet clear whether A. sylvaticus might act as a source of human DOBV infection. At least, the DOBV infection rate of these wood mice was rather high "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 4 2 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "during the outbreak in the Central Russia in 2007 (Table 3, rows 2, 4). For the first time, the hantavirus infection of jird Meriones genus in the wildlife was revealed that expanded the potential area of hantaviruses to semi-desert zones. "
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                622,
+                500,
+                896
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "It was stated that PUUV is the most variable of hantaviruses (Plyusnin, 2002; Vapalahti et al., 2003). Indeed, a lot of genetic subgroups were found in both Europe and Russia (Heiske et al., 1999; Asikainen et al., 2000; Sironen et al., 2001; Dekonenko and Tkachenko, 2004; Essbauer et al., 2006; Hofmann et al., 2008; Johansson et al., 2008). It is noteworthy that in our study all partial sequences of the M and S segment were recovered by RT-PCR directly from human and rodent tissues, so they were not affected by the adaptation to the cell culture. In the highly endemic VOFD, the Volga PUUV subgroup prevailed, which seemed homogenous at the aa level but might be subdivided into more subgroups (Bashkortostan, Udmurtia, Orenburg and Samara) based on nucleotide sequence diversity of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\mathrm { - } 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "between Bashkortostan, Udmurtia, Orenburg and Samara subgroups. This implies that these geographic subgroups are the result of spatial disconnection but not physiological adaptation. In agreement with the similarity of N and G2 protein fragments of PUUV strains, the clinical and epidemiological characteristics of "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                590,
+                912,
+                897
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                49,
+                366,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                796,
+                49,
+                910,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                911,
+                910,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "306 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                139,
+                933
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                921,
+                910,
+                934
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "hantavirus infection in the provinces of the VOFD are similar to each other. We confirmed the presence of specific PUUV genovariant in the trans-Ural Omsk Province (Dekonenko et al., 2003) and found similar strains in the neighbouring Tyumen Province. These strains carried unique aa signatures "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { H } _ { 2 7 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N } _ { 3 0 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in a hypervariable portion of nucleocapsid protein (Hughes and Friedman, 2000) instead of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { 2 7 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { D } _ { 3 0 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", which were supposed to be characteristic for Russian (Volga) PUUV strains (Sironen et al., 2001). Thus, this subgroup might be called (western) Siberian. Human HFRS cases were very rare in these provinces. The question remains whether or not this rarity is caused by the lesser virulence of Siberian PUUV subgroup. Finnish PUUV strains resemble the strains from the Siberian PUUV subgroup but are clearly pathogenic. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                88,
+                470,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The more DOBV strains are studied, the more DOBV genetic subgroups are discovered; most likely the DOBV population is as diverse as the PUUV population. We found that in Russia at least five geographic DOBV subgroups differ from each other at the nucleotide level. The possible phylogeny of Russian DOBV and PUUV subgroups looked ‘star-like’ [all lineages radiated from the single spot (Sironen et al., 2001)], therefore, no common ancestor could be identified. Russian DOBV strains had no close homologues among European strains, but might be genetically related to Central European DOBV strains isolated from A. agrarius (Klempa et al., 2005). At the aa level, there was no significant difference within strains hosted by A. agrarius, because only small genome fragments were investigated, but these strains were clearly different from strains isolated from A. flavicollis and A. ponticus (Avsic-Zupanc et al., 2000; Klempa et al., 2008). Initially Avsic-Zupanc hypothezied that A. flavicollis could have acted as the ‘donor’ and A. agrarius as the ‘recipient’ for a host-switching hantavirus. Now we see that A. agrarius-related DOBV subgroups are very diverse and widely spread in Eurasia, so their origin is less clear. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                332,
+                470,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Interestingly, during an HFRS outbreak in 2007 in the CEFD, DOBV strains might have "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "8 { - } 9 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of nucleotide difference in segment M sequence (Fig. 4), although they were collected at places (Usman and Dobrinka subregions) located as far apart as "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 0 ~ \\mathrm { k m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Recently, the same phenomenon was observed studying PUUV (Johansson et al., 2008). In this study, the PUUV viral sequence appeared stable across the 80-km-wide study region, with the exception of one sampling site, which differed from its nearest neighbour by "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", despite a geographical separation of only "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 ~ \\mathrm { k m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Presumably, the Old World hantaviruses evolve slowly at a rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "< 2 \\times { { 1 0 } ^ { - 6 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "nt substitutions per site per year (Hughes and Friedman, 2000; Sironen et al., 2001; Ramsden et al., 2008). If so, DOBV subgroups found in the Lipetsk Province diverged at least "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                668,
+                470,
+                896
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "50 000 years ago, as well as PUUV strains found in the Swedish study. Even coexistence of such subgroups at the same place would be a new finding, but it seems that due to unknown reasons they are geographically separated at a small-scale level: Lipetsk–Usman strains have not yet been found in the Lipetsk–Dobrinka subregion and vice versa (Fig. 4). "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                88,
+                882,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our findings confirmed the necessity to discriminate the clinical HFRS disease caused by classical Dobrava– Belgrade strains and Dobrava strains hosted by A. agrarius (Vapalahti et al., 2003; Golovljova et al., 2007). During the HFRS outbreak in the CEFD in the winter of 2006– 2007, all available clinical strains were genotyped as a Dobrava-Aa genovariant (Table 3, Fig. 4). The disease was generally mild or moderate, the case-fatality rate was about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". The same was true for the HFRS outbreak in the Lipetsk Province in the winter of 2001–2002 (Klempa et al., 2008). "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                195,
+                882,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The reliability of diagnostics by PCR depends on genetic variability for the detection of viral nucleic acids in unknown samples. The results of this study have already been implemented in the development of RT-PCR assays manufactured by the Central Institute of Epidemiology, Moscow, and used for hantavirus RNA detection in Russia. Using this RT-PCR assay and human plasma samples taken at the first 4 days of disease, we were able to diagnose "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of HFRS cases confirmed serologically (Garanina et al., 2007). The analysis of genetic diversity and geographic distribution of hantaviruses in Eurasia may in the future contribute to better diagnostics and treatment, as well as to a more complete understanding of the factors that determine hantavirus pathogenesis and ability to cause human epidemics. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                363,
+                882,
+                604
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                630,
+                648,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This research was partially supported by grant BTEP #8 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 2 0 8 7 \\mathrm { p } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from the Biotechnology Engagement Program, Department of Health and Human Service, Washington, DC and grant N00012.00046 from the Nuclear Threat Initiative. We thank all colleagues in Russian provinces for providing animal and human specimens for testing. "
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                654,
+                882,
+                758
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                500,
+                783,
+                581,
+                796
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Asikainen, K., T. Hanninen, H. Henttonen, J. Niemimaa, J. Laakkonen, H. K. Andersen, N. Bille, H. Leirs, A. Vaheri, and A. Plyusnin, 2000: Molecular evolution of Puumala hantavirus in Fennoscandia: phylogenetic analysis of strains from two recolonization routes, Karelia and Denmark. J. Genet. Virol. 81, 2833–2841. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                806,
+                873,
+                891
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                51,
+                198,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                631,
+                51,
+                882,
+                62
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                911,
+                186,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                924,
+                549,
+                933
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "307 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                882,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Avsic-Zupanc, T., K. Nemirov, M. Petrovec, T. Trilar, M. Poljak, A. Vaheri, and A. Plyusnin, 2000: Genetic analysis of wild-type Dobrava hantavirus in Slovenia: co-existence of two distinct genetic lineages within the same natural focus. J. Genet. Virol. 81, 1747–1755. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Boom, R., C. J. Sol, M. M. Salimans, C. L. Jansen, P. M. Wertheim-van Dillen, and J. Van der Noordaa, 1990: Rapid and simple method for purification of nucleic acids. J. Clin. Microbiol. 28, 495–503. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chomczynski, P., and N. Sacchi, 1987: Single-step method of RNA isolation by acid guanidinium thiocyanate–phenol– chloroform extraction. Anal. Biochem. 162, 156–159. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Dekonenko, A. E., and E. A. Tkachenko, 2004: Hantaviruses and hantavirus infections. Vopr. Virusol. 49, 40–44. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Dekonenko, A., V. Yakimenko, A. Ivanov, V. Morozov, P. Nikitin, S. Khasanova, T. Dzagurova, E. Tkachenko, and C. Schmaljohn, 2003: Genetic similarity of Puumala viruses found in Finland and western Siberia and of the mitochondrial DNA of their rodent hosts suggests a common evolutionary origin. Infect. Genet. Evol. 3, 245–257. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Essbauer, S., J. Schmidt, F. J. Conraths, R. Friedrich, J. Koch, W. Hautmann, M. Pfeffer, R. Wolfel, J. Finke, G. Dobler, and R. Ulrich, 2006: A new Puumala hantavirus subtype in rodents associated with an outbreak of Nephropathia epidemica in south-east Germany in 2004. Epidemiol. Infect. 134, 1333–1344. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Garanina, S. B., G. A. Shipulin, V. I. Zhuravlev, and A. E. Platonov, 2007: [The evaluation of viral load in patients with hemorrhagic fever with renal syndrome (HFRS) by real-time polymerase chain reaction]. Zh. Mikrobiol. Epidemiol. Immunobiol. No. 3, 66–69. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Golovljova, I., V. Vasilenko, V. Mittzenkov, T. Prukk, E. Seppet, S. Vene, B. Settergren, A. Plyusnin, and A. Lundkvist, 2007: Characterization of hemorrhagic fever with renal syndrome caused by hantaviruses, Estonia. Emerg. Infect. Dis. 13, 1773–1776. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heiske, A., B. Anheier, J. Pilaski, V. E. Volchkov, and H. Feldmann, 1999: A new Clethrionomys-derived hantavirus from Germany: evidence for distinct genetic sublineages of Puumala viruses in western Europe. Virus Res. 61, 101– 112. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Heyman, P., A. Vaheri, and ENIVD Members, 2008: Situation of hantavirus infections and haemorrhagic fever with renal syndrome in European countries as of December 2006. Euro Surveill. 13, 1–7. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hofmann, J., H. Meisel, B. Klempa, S. M. Vesenbeckh, R. Beck, D. Michel, J. Schmidt-Chanasit, R. G. Ulrich, S. Grund, G. Enders, and D. H. Kruger, 2008: Hantavirus outbreak, Germany, 2007. Emerg. Infect. Dis. 14, 850– 852. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hughes, A. L., and R. Friedman, 2000: Evolutionary diversification of protein-coding genes of hantaviruses. Mol. Biol. Evol. 17, 1558–1568. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jiang, J. F., W. Y. Zhang, X. M. Wu, P. H. Zhang, and W. C. Cao, 2007: Soochong virus and Amur virus might "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                86,
+                497,
+                893
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "be the same entities of hantavirus. J. Med. Virol. 79, 1792–1795. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Johansson, P., G. E. Olsson, H. T. Low, G. Bucht, C. Ahlm, P. Juto, and F. Elgh, 2008: Puumala hantavirus genetic variability in an endemic region (northern Sweden). Infect. Genet. Evol. 8, 286–296. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Khaiboullina, S. F., S. P. Morzunov, and S. C. St Jeor, 2005: Hantaviruses: molecular biology, evolution and pathogenesis. Curr. Mol. Med. 5, 773–790. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klein, S. L., and C. H. Calisher, 2007: Emergence and persistence of hantaviruses. Curr. Top. Microbiol. Immunol. 315, 217–252. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa, B., M. Stanko, M. Labuda, R. Ulrich, H. Meisel, and D. H. Kruger, 2005: Central European Dobrava hantavirus isolate from a striped field mouse (Apodemus agrarius). J. Clin. Microbiol. 43, 2756–2763. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klempa, B., E. A. Tkachenko, T. K. Dzagurova, Y. V. Yunicheva, V. G. Morozov, N. M. Okulova, G. P. Slyusareva, A. Smirnov, and D. H. Kruger, 2008: Hemorrhagic fever with renal syndrome caused by 2 lineages of Dobrava hantavirus, Russia. Emerg. Infect. Dis. 14, 617–625. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Klingstrom, J., P. Heyman, S. Escutenaire, K. B. Sjolander, F. De Jaegere, H. Henttonen, and A. Lundkvist, 2002: Rodent host specificity of European hantaviruses: evidence of Puumala virus interspecific spillover. J. Med. Virol. 68, 581–588. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pavlinov, I. Y., S. V. Krupskop, A. A. Varshavskii, and A. V. Borisenko, 2002: Land Animals of Russia. Reference Manual. MKM, Moscow. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Plyusnin, A., 2002: Genetics of hantaviruses: implications to taxonomy. Arch. Virol. 147, 665–682. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Plyusnina, A., J. Laakkonen, J. Niemimaa, K. Nemirov, G. Muruyeva, B. Pohodiev, A. Lundkvist, A. Vaheri, H. Henttonen, O. Vapalahti, and A. Plyusnin, 2008: Genetic analysis of hantaviruses carried by Myodes and Microtus rodents in Buryatia. Virol. J. 5, 4. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ramsden, C., F. L. Melo, L. M. Figueiredo, E. C. Holmes, and P. M. Zanotto, 2008: High rates of molecular evolution in hantaviruses. Mol. Biol. Evol. 25, 1488–1492. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schultze, D., A. Lundkvist, U. Blauenstein, and P. Heyman, 2002: Tula virus infection associated with fever and exanthema after a wild rodent bite. Eur. J. Clin. Microbiol. Infect. Dis. 21, 304–306. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sironen, T., A. Vaheri, and A. Plyusnin, 2001: Molecular evolution of Puumala hantavirus. J. Virol. 75, 11803– 11810. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Tamura, K., J. Dudley, M. Nei, and S. Kumar, 2007: MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0. Mol. Biol. Evol. 24, 1596–1599. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Vapalahti, O., J. Mustonen, A. Lundkvist, H. Henttonen, A. Plyusnin, and A. Vaheri, 2003: Hantavirus infections in Europe. Lancet Infect. Dis. 3, 653–661. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Yashina, L. N., N. A. Patrushev, L. I. Ivanov, R. A. Slonova, V. P. Mishin, G. G. Kompanez, N. I. Zdanovskaya, I. I. Kuzina, P. F. Safronov, V. E. Chizhikov, C. Schmaljohn, and S. V. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                86,
+                909,
+                892
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                49,
+                366,
+                63
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                796,
+                49,
+                910,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "308 "
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                921,
+                137,
+                932
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                921,
+                910,
+                934
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Netesov, 2000: Genetic diversity of hantaviruses associated with hemorrhagic fever with renal syndrome in the far east of Russia. Virus Res. 70, 31–44. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zeier, M., M. Handermann, U. Bahr, B. Rensch, S. Muller, R. Kehm, W. Muranyi, and G. Darai, 2005: New ecological aspects of hantavirus infection: a change of a paradigm and "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                86,
+                463,
+                176
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a challenge of prevention – a review. Virus Genes 30, 157– 180. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zhuravlev, V. I., S. B. Garanina, V. Kabin, G. A. Shipulin, and A. E. Platonov, 2008: The revealing of new natural focus of Dobrava hantavirus in Astrakhan Province. Vopr. Virusol. 54, 37–40. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                86,
+                880,
+                173
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S. B. Garanina et al. "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                51,
+                200,
+                61
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Genetic Diversity of Hantaviruses in Russia "
+                    }
+                ]
+            },
+            "bbox": [
+                631,
+                51,
+                884,
+                63
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 The Authors "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                911,
+                188,
+                921
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Journal compilation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\circledcirc"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2009 Blackwell Verlag GmbH • Zoonoses Public Health. 56 (2009) 297–309 "
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                921,
+                554,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "309 "
+                    }
+                ]
+            },
+            "bbox": [
+                858,
+                921,
+                884,
+                933
+            ]
+        }
+    ]
+]

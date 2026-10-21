@@ -1,0 +1,3320 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "B. A. Walther "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "A. G. Gosler "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                77,
+                147,
+                294,
+                161
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "The effects of food availability and distance to protective cover on the winter foraging behaviour of tits (Aves: Parus) "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                77,
+                170,
+                821,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 4 October 2000 / Accepted: 4 April 2001 / Published online: 18 May 2001 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ ©"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Springer-Verlag 2001 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                267,
+                600,
+                292
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract To maximize fitness, many animals must trade off their need to forage efficiently against their need to avoid predators. We studied such a trade-off in four species of tits (Paridae) in a forest near Oxford, UK. During winter, tits form flocks which increase feeding efficiency and reduce predation risk. These flocks feed extensively on beech (Fagus sylvatica) seeds, the abundance of which may be critical for winter survival. Because these seeds drop to the ground, where birds are exposed to sparrowhawk (Accipiter nisus) attack, tits need to trade off their need to find seeds against the proximity to protective cover, provided by dense clusters of hawthorn (Crataegus spp.). The quality of the beech crop differs markedly between trees and years. During a year of abundant beechmast, most tits searched for seeds close to protective cover. This ‘safety-first’ strategy precluded visits to superabundant food patches if they were too far from protective cover. Among beech trees near to cover, tits tended to prefer those with high seed density. Tits benefited from foraging under trees with high seed density because this correlated significantly with seed mass per square metre and because mean search times decreased with increasing seed density. Finally, we show experimentally that great tits, Parus major, can discriminate between edible (viable) and inedible (empty) seeds. "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                319,
+                489,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords Optimal foraging "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Anti-predator behaviour · Winter flocks "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Discrimination experiment "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                695,
+                484,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.A. Walther "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\boxtimes )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Zoologisk Museum, Kobenhavns Universitet, Universitetsparken 15, 2100 Kobenhavn Ø, Denmark e-mail: bawalther@zmuc.ku.dk Tel.: +45-3532-1051, Fax: +45-3532-1010 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                757,
+                406,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.A. Walther "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cdot"
+                    },
+                    {
+                        "type": "text",
+                        "content": "A.G. Gosler Edward Grey Institute of Field Ornithology, Department of Zoology, University of Oxford, South Parks Road, OX1 3PS, UK "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                822,
+                364,
+                870
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.A. Walther Konrad Lorenz-Institut für Vergleichende Verhaltensforschung, Savoyenstr. 1a, 1160 Wien, Austria "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                877,
+                467,
+                913
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                507,
+                324,
+                603,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Many animals need to trade off their need to optimize foraging against that of predator avoidance to maximize fitness. Experimental and observational studies have focused on this trade-off in a wide variety of species (Lima and Dill 1990; Endler 1991; McNamara and Houston 1992; Sih 1992; Houston et al. 1993; Lima 1998). Among birds, many studies have focused on tits (Paridae) (de Laet 1985; Lima 1985; Ydenberg and Houston 1986; Todd and Cowie 1990; Koivula et al. 1995). At least for tits of northern latitudes, the main factors responsible for winter mortality appear to be energy stress related to lack of food, low temperatures and predation (Perrins 1966, 1979; Van Balen 1980; Jansson et al. 1981; Källander 1981; Desrochers et al. 1988; Hogstad 1988a). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                350,
+                917,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To increase feeding efficiency and reduce predation risk, tits form flocks outside the breeding season (Perrins 1979; Ekman 1989; Gosler 1993). Flocking presumably improves the detection of predators and dilutes the risk of capture (Bednekoff and Lima 1998). Flocks prefer feeding sites close to protective cover because the risk from predators such as sparrowhawks, Accipiter nisus, is greatest in the open (Toland 1987; Watts 1990; Hinsley et al. 1995; Kullberg 1995). If a predator is detected, birds fly rapidly into dense bushes or trees and freeze (Cade 1962; Ficken and Witkin 1977; Barnard 1979). Individual birds switch to more exposed sites only when safer sites become unprofitable because of food depletion or competitive interactions (Grubb and Greenwald 1982; Ekman 1987; Hogstad 1988b, 1988c; Todd and Cowie 1990; Lazarus and Symonds 1992; Suhonen 1993a, 1993b; Koivula et al. 1994; Hinsley et al. 1995; Krams 1996). Therefore, one should expect a negative relationship between distance to protective cover and bird abundance. However, the relationship might be positive for the distance to obstructive cover (Lazarus and Symonds 1992). Similarly, the relationship between distance to cover and vigilance that has been the subject of many studies (e.g. Caraco et al. 1980; Elgar 1989) may also be positive. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                554,
+                917,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Oecologia (2001) 129:312–320 DOI 10.1007/s004420100713 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                39,
+                273,
+                62
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To study the relationship between distance to protective cover and bird abundance, we observed flocks of four seed-foraging Parus species in Wytham Woods, Oxford. Because invertebrate foods are depleted during winter, tit species depend highly on seeds, especially those of beech trees, Fagus sylvatica (Perrins 1966, 1979; Van Balen 1980; Källander 1981). In October and November, beeches drop fully formed seeds (beechmast) to the ground. A mast year occurs every few years, when seed numbers exceed those during normal years by several hundredfold, and seed densities can reach several thousands per square metre (Gosler 1993; this study). Such variations can lead to mass migrations of seeddependent bird species (Perrins 1966, 1979; Van Balen 1980; Jenni 1987). To document temporal and spatial variation of beech seed availability, we sampled the seed density of over 100 beech trees in 3 consecutive years. In addition, we collected and weighed seeds to determine the food quantity they provided. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                62,
+                489,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When tits forage for beech seeds, they fly from a perch to the ground below and flip leaves to the side to uncover seeds hidden beneath. At this time, tits are vulnerable to sparrowhawk attacks because (1) foraging with the head down decreases vigilance (Lima 1994) and (2) there is almost no protective cover growing under beeches. Therefore, tits almost invariably fly to protective cover upon finding a seed (but see Lima et al. 1985 for reasons to stay in the open). In Wytham Woods, dense clusters of hawthorn (Crataegus monogyna) commonly serve as refuges (see also Hinsley et al. 1995). "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                336,
+                489,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We predicted that if overall food availability was high, seed-foraging birds should concentrate their foraging under beeches with high seed densities near protective cover. If food availability was low, birds should choose trees with high seed densities even if they were far from protective cover. The same should happen once trees of high seed density near protective cover have become seed depleted (Schneider 1984). Once all resources have been depleted, birds should abandon the site and migrate elsewhere (Perrins 1966, 1979; Van Balen 1980; Gosler 1987). To test these predictions, we censused bird abundance at individual beech trees during a winter of high food availability. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                495,
+                489,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We also recorded the length of searches of individual birds under beech trees. If all individuals have equal seed-finding abilities, the time taken to find a seed would depend only on the seed density on the ground. We therefore predicted a negative relationship between seed density and the length of time to find a seed. Beech trees often produce high numbers of empty, inviable and inedible seeds (e.g. this study). Although these presumably result from inadequate pollination, they might also have the effect of frustrating seed predators trying to find a viable seed. We predicted that viable seed density and not total seed density (including viable and empty seeds) should be related to search time. This prediction requires that tits can distinguish the two types of seeds on sight, an assumption we tested experimentally on captive great tits. "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                682,
+                489,
+                910
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Materials and methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                509,
+                66,
+                689,
+                80
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The study area "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                95,
+                600,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This study was carried out in Wytham Woods near Oxford, UK (see Gosler 1990). Wytham Woods consists of a mixture of forest habitats (semi-natural and planted deciduous and coniferous woodlands) and grasslands. Our study area (Fig. 1) was located near the centre of Wytham Woods where more than 100 large mature beech (F. sylvatica) trees grow in two large plots connected by a row of beech trees growing along a road. Several clusters of dense hawthorns grow in the immediate vicinity of these trees. The climate is seasonal, with winter temperatures sometimes below zero, although snow fell only once during the present study period. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                115,
+                919,
+                245
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beech trees "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                270,
+                579,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We sampled the mast crops beneath 114 mature beeches in Wytham Woods on 23–25 October 1994 and 11–12 November 1995 (Fig. 1). Seventy-two of these trees were also sampled on 27 March and 5 April 1996. To sample trees, we collected all the seeds found within a single (see below) wire circle of area "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 5 \\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1994) or "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 6 2 5 ~ \\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1995–1996) placed at random on the ground beneath the tree. We later counted the number of viable (full and edible) and inviable (empty) seeds to calculate three seed measures: total seed density [(viable+empty seeds) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "/ \\mathrm { m } ^ { 2 } ]"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", viable-seed density (viable seeds "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "/ \\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), and viable-seed percentage [(viable seed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { \\times } 1 0 0 \\dot { }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")/(viable+empty seeds)]. Among the viable seeds, we also counted the number that had been eaten by birds or mammals (which can be determined by the shape of the hole in the coat) to calculate the percentage eaten by birds or mammals [(eaten seed "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathord { \\mathrm { : } } \\times 1 0 0 \\mathrm { : }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")/[viable+empty seeds)]. For simplicity, we refer to seed measures of autumn 1995 unless we explicitly state that we refer to the other two sampling dates. "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                291,
+                919,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A single sample was taken from each tree for two reasons. First, because earlier unpublished studies (described below) had shown that variance between trees was significantly greater than that within trees. Second, following from this, although withintree variance would introduce some noise (and therefore perhaps a tendency towards type II error) into our analyses, it should not markedly affect the between-tree variance in seed numbers, which was the focus of this study. The study of within- and between-tree variance was conducted as follows. Six "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 2 5 – \\mathrm { m } ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "circular wire ‘quadrats’ (located by a steel pin in the ground) beneath 15 beech trees (8 in Blenheim Beeches, 7 in Brogden’s Belt: see Fig. 1), making 90 in all, were sampled for total seed at monthly intervals between October 1984 and March 1985. The effects of tree, month and their interaction on seed totals were analysed using a two-way ANOVA. These were all significant at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { < } 0 . 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(month: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F _ { 5 , 4 5 0 } { = }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "36.83; tree: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F _ { 1 4 , 4 5 0 } { = } 1 3 . 9 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; month×tree: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "F _ { 7 0 , 4 5 0 } { = } 3 . 8 7 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                492,
+                919,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In May 1996, we measured the following distances between each beech tree and protective vegetation cover using a "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 – \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "tape measure with an accuracy of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . { \\bar { 5 } } { \\mathrm { m } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": the distance to the nearest bush (any species "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\ge 2 \\ m"
+                    },
+                    {
+                        "type": "text",
+                        "content": "high), hawthorn "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\geq 2 \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "high), and hawthorn cluster "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\geq 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "bushes of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\ge 2 \\textrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "height growing within "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\textrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of each other; in practice, all clusters contained 30–500 bushes). "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                680,
+                919,
+                749
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beech seed mass "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                774,
+                611,
+                784
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To determine the dry mass of viable seeds and their testae, we dried seeds to constant mass in an oven at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 5 \\mathrm { { ^ \\circ C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Dried seeds were weighed on a Sartorius AC 120S balance with a precision of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 0 1 \\mathrm { ~ g ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". To determine the mean seed mass of the seeds of each beech tree, we weighed batches of ten viable seeds chosen randomly from the pool of collected seeds. In a small number of cases (six trees), fewer than ten seeds were available. Multiplying mean seed mass by viable seed density thus yielded seed mass per square metre. In addition, 148 seeds of 24 trees were individually weighed, and 78 of these seeds were then weighed with their coats "
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                796,
+                919,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                894,
+                40,
+                919,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0bd6b104d9332827eec7fde01814206ddc92a897ba7f5b5cf2bbe4f5da531292.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 1 Map of the 114 mature beech (Fagus sylvatica) trees in Wytham Woods which were sampled for seeds between autumn 1994 and spring 1996. Shaded areas indicate clusters of hawthorn bushes that were used as refuges by various species of songbird against attacks by sparrowhawks "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                297,
+                59,
+                922,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "removed to determine the testa mass. Finally, we measured the length of 66 seeds to the nearest 1 mm. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                443,
+                490,
+                468
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Observational protocol "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                490,
+                223,
+                504
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Observations were made on 5, 3 and 3 days in February, March and April 1996, respectively. Birds hardly fed on beech seeds before February 1996 because berries were also abundant that winter. The observation protocol had two goals: to census the birds feeding at each beech tree, and to observe birds searching for seeds. Since simultaneous observation of all trees was impossible, one of us (B.A.W.) followed a circular census route during which 96 of the 114 trees were observed. The direction of the route was changed between days, and each tree was observed twice for 15–30 min during each observation day. If flocks of birds had gathered at a tree, the census interval was doubled to gather enough data on search times (16 out of 90 15-min intervals were second intervals at the same location). Therefore, census duration varied (mean±1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { \\mathrm { S E } = 2 . 0 \\pm 0 . 3 \\ 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "h). The total observation time of the 11 censuses was "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 2 . 5 \\mathrm { h }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                513,
+                490,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For each 15-min census interval, the number of birds present under and in the immediate vicinity "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\leq 1 0 \\ \\mathrm { m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of each tree was recorded (lumping individuals of five seed-eating species; see below). We calculated three measures of bird abundance for each tree. We defined the total number of birds at each tree as the sum of all birds observed at that tree during all census intervals. The number of intervals was the number of census intervals during which at least one bird was observed at the focal tree. The mean number of birds per interval was the total number of birds divided by the number of intervals. While the total number of birds and the number of birds per interval may be biased by one large flock visiting by chance, the number of intervals may be less biased as it indicates the visit frequency for each tree. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                691,
+                490,
+                845
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mean search times "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                866,
+                196,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Search times of focal birds were recorded as follows. The focal bird was the first bird observed to fly from a perch down to the "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                889,
+                490,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ground and to start searching for seeds. We assume that birds were usually unable to spot seeds from the perch, so that search times began once the bird reached the ground. This assumption was validated by observation since birds very rarely found seeds immediately, and because we found that seeds were usually covered by leaves. We recorded the search time as the time that the focal bird spent on the ground until leaving with or without a seed. Date, time of day and tree of each search time were recorded. The following information was also recorded: "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                443,
+                919,
+                551
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Species: five bird species were regularly observed to take seeds – coal tit (Parus ater), blue tit (P. caeruleus), great tit (P. major), marsh tit (P. palustris) and chaffinch (Fringilla coelebs) – although no search times could be recorded for chaffinches. Other species that were occasionally observed taking seeds were magpie (Pica pica), woodpigeon (Columba palumbus), and grey squirrel (Sciurus carolinensis). No records were taken for these species. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "● Sex: if the focal bird was a great tit, its sex was recorded. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Flock size: the number of birds in the immediate vicinity of the focal bird "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "( \\leq 1 0 ~ \\mathrm { m } )"
+                            },
+                            {
+                                "type": "text",
+                                "content": ") was recorded. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Foraging success: the focal bird either found or did not find a beech seed (successful or interrupted search, respectively). If neither case could be determined visually, the record was discarded. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                552,
+                919,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After all information had been recorded, we observed additional focal birds at the same tree until 30 min had passed (in most cases, flocks had long moved on before this time). We then moved on to the next tree. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                732,
+                919,
+                779
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To avoid pseudoreplication caused by multiple observation of the same bird, we calculated the mean search time for each tree across all successful and interrupted searches recorded and across all dates (i.e. the sum of all searches divided by the number of seeds found during all searches). Therefore, trees with no successful searches were excluded from the analysis of search times. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                779,
+                919,
+                850
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discrimination experiment "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                870,
+                675,
+                882
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fourteen great tits (seven of each sex) were trapped under licence while feeding on beechmast in February 1985 (see also Gosler "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                890,
+                919,
+                915
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "314 "
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                40,
+                104,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1987). The birds were kept in individual "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 { - } \\mathrm { m } ^ { 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "cages in a laboratory at the Wytham Field Station (Oxford University) and subjected to natural daylight and ambient temperature. They were fed daily on beech and sunflower seeds, peanuts and mealworms. Experiments were carried out within 5 days of capture, after which they were released back into the wild. Each bird was presented with a small dish "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 6 \\ \\mathrm { c m } { \\times } 3 \\ \\mathrm { c m } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") containing five viable and five empty seeds of equal size. On the following day, the number of seeds removed was recorded. All seeds removed from the dish were also opened by the birds, while unopened seeds were always left in the dish, indicating that they had not been touched, thus strongly implying visual discrimination. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                61,
+                492,
+                205
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Statistical analysis "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                225,
+                196,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We tested for correlations between variables using model I multiple regression. Regression models were generated by subjecting an initial regression to a backward elimination procedure that omitted non-significant variables "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\mathit { P } { > } 0 . 0 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; Sokal and Rohlf 1995). All variables were subjected to Box-Cox transformation prior to analysis because this linearises such data (Krebs 1989; Sokal and Rohlf 1995). The Box-Cox transformations were similar to reciprocal transformations in the case of the three measures of bird abundance (cf. Fig. 3) and, consequently, results (unpublished) were similar for Box-Cox and reciprocal transformations. We therefore used Box-Cox transformations throughout. We assessed normality with the Shapiro-Wilk test (Zar 1996). All variables showed normal distributions after Box-Cox transformation. To test for differences between repeated measures of categorical variables, we used Friedman’s test for overall differences and Wilcoxon’s signed-ranks test for paired comparisons (Sokal and Rohlf 1995). To test for differences between unrelated samples of categorical variables, we used the Mann-Whitney "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "U"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-test (Sokal and Rohlf 1995). All "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values are two-tailed except when we tested for a correlation between seed density and search time. We hypothesize that an increase in seed density can only lead to a decrease in search time; an increase in search time would constitute a rejection of the hypothesis. We used sequential Bonferroni corrections (Rice 1989) whenever we address a common null hypothesis with several individual tests or when several independent variables are tested for correlation with a dependent variable (Chandler 1995). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                249,
+                495,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Non-linear relationships were fitted using the program MacCurve Fit, version 1.3 (Kevin Raner Software, Mt. Waverley, Australia). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                61,
+                922,
+                87
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                121,
+                569,
+                136
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Temporal and spatial variation in seed density "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                152,
+                838,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beech seed density varied in time and space. All seed measures and the percentage of seeds eaten by mammals varied significantly between the three sampling dates (Friedman’s tests in Table 1). Only the percentage of seeds eaten by birds did not vary significantly. 1994 was considered an ‘average’ year in terms of beech seed numbers while 1995 was a ‘mast’ year. Consequently, all seed measures increased significantly from 1994 to 1995 (Wilcoxon’s signed-ranks tests in Table 1). Furthermore, while 9 trees produced no seeds and 37 trees produced no viable seeds in 1994, all 114 trees produced at least some viable seeds in 1995. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                180,
+                922,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "We found no indication that trees with high seed numbers in 1994 also had high seed numbers in 1995, i.e. there was no correlation between the seed measures of 1994 and 1995 (total seed density: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 1 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 2 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; viable-seed density: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 1 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 0 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 3 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "; viable-seed percentage: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 1 0 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle P = 0 . 7 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                354,
+                922,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed density declined significantly through the winter of 1995–1996 (Wilcoxon’s signed-ranks tests in Table 1). On average, only "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 9 \\pm 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(mean±1 SE) of all seeds, and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 9 { \\pm } 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the viable seeds, present in autumn, remained until the spring. The percentage of seeds eaten by mammals and birds increased over the winter. However, after Bonferroni correction, this increase was only significant for the seeds eaten by mammals (Table 1). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                440,
+                922,
+                557
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d7265f72be12de493291a1bb68e0d6703a32ce86722a29b9b17820b11605fba3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1 Mean±SE (range in parentheses) of seed densities and percentages of viable seeds and seeds eaten by birds or mammals in 3 consecutive years. The number of trees sampled is given in parentheses under the sampling date. Wilcoxon’s signed-ranks tests were used to test for differences between consecutive years "
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1994–1995 and 1995–1996), while Friedman’s tests were used to test for overall differences between the three years (1994–1996). After Bonferroni corrections (experimentwise error rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { - 0 . 0 5 / 1 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "different tests), one test became non-significant (indicated with an asterisk) "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Seed measure</td><td rowspan=\"2\">Autumn 1994 (n=114)</td><td colspan=\"3\">Wilcoxon&#x27;s signed-ranks test (1994-1995)</td><td rowspan=\"2\">Autumn 1995 (n=114)</td><td colspan=\"3\">Wilcoxon&#x27;s signed-ranks test (1995-1996)</td><td rowspan=\"2\">Spring 1996 (n=72)</td><td colspan=\"3\">Friedman&#x27;s test (1994-1996)</td></tr><tr><td>n</td><td>Z</td><td>P-value</td><td>n</td><td>Z</td><td>P-value</td><td>n</td><td>χ2</td><td>P-value</td></tr><tr><td>Total seed density</td><td>71.1±10.1 (0-720)</td><td>114</td><td>-9.2</td><td>&lt;0.0001</td><td>1,275.6±61.3 (80-4,080)</td><td>72</td><td>-6.9</td><td>&lt;0.0001</td><td>552.0±48.9 (128-2,720)</td><td>72</td><td>123.4</td><td>&lt;0.0001</td></tr><tr><td>Viable seed density</td><td>11.4±1.6 (0-108)</td><td>114</td><td>-9.3</td><td>&lt;0.0001</td><td>899.8±51.5 (32-3,440)</td><td>72</td><td>-7.3</td><td>&lt;0.0001</td><td>119.6±16.8 (0-640)</td><td>72</td><td>119.2</td><td>&lt;0.0001</td></tr><tr><td>Viable seed percentage</td><td>18.3±1.7 (0-100)</td><td>106</td><td>-8.8</td><td>&lt;0.0001</td><td>69.2±1.5 (14.3-95.5)</td><td>72</td><td>-7.3</td><td>&lt;0.0001</td><td>23.0±2.6 (0-85.7)</td><td>68</td><td>86.4</td><td>&lt;0.0001</td></tr><tr><td>Percentage eaten by birds</td><td>3.3±0.7 (0-50.0)</td><td>106</td><td>-3.3</td><td>0.001</td><td>0.6±0.1 (0-8.0)</td><td>72</td><td>-2.5</td><td>0.01*</td><td>1.6±0.3 (0-13.3)</td><td>68</td><td>3.2</td><td>0.20</td></tr><tr><td>Percentage eaten by mammals</td><td>9.3±1.3 (0-100)</td><td>72</td><td>-6.7</td><td>&lt;0.0001</td><td>1.0±0.3 (0-18.8)</td><td>72</td><td>-6.7</td><td>&lt;0.0001</td><td>12.1±1.3 (0-48.6)</td><td>68</td><td>43.0</td><td>&lt;0.0001</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                75,
+                656,
+                924,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "315 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                39,
+                919,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ffbc3d90616940b8930287c4abf3dc0a061c991190796ff5122a8f7102b1e624.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 2 Spatial variation of total and viable-seed density and viable-seed percentage between tree groupings. The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-axis represents sequential groupings of ten trees each (cf. tree numbers in Fig. 1). The "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "y"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-axis represents the mean total and viable seed density (in seeds "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "/ \\mathbf { m } ^ { 2 } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": ") of each tree grouping as well as the mean of the viableseed percentage of each grouping (percentage was multiplied by 10 for graphical reasons) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                61,
+                482,
+                333
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed density also varied in space. Fig. 2 shows that the mean densities of all seeds, and of viable seeds, varied by more than twofold between different tree groups, whereas the mean (among trees) percentage of viable seed varied much less. Seed density varied so much that pairs of nearest-neighbour trees showed no correlation for total seed density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 5 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "tree pairs, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 1 0 \\rangle"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), viable-seed density ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") or viable-seed percentage "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Because trees were independent spatially, they were treated as independent sampling units. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                450,
+                490,
+                608
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The spatial variation of seed densities was also unrelated to the distribution of protective cover. No significant correlations were found among the nine possible combinations between distance to bush, hawthorn or cluster and the three seed measures "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\overbrace { n = 9 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values=0.0001–0.03, range of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values=0.07–0.89). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                610,
+                492,
+                698
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Beech seed mass "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                75,
+                726,
+                203,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Testa mass "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( n = 7 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", mean±1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { S E { = } 0 . 1 3 { \\pm } 0 . 0 0 5 } \\enspace \\mathrm { ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "g, range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 4 \\substack { - 0 . 2 1 \\mathrm { ~ g ~ } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") constituted about "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the total seed mass "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle n = 1 4 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", mean "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 1"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { S E { = } 0 . 2 0 { \\pm } 0 . 0 0 4 \\textrm { g } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", range 0.08– "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 3 3 \\mathrm { ~ \\^ ~ g ~ } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and correlated significantly with it "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( n = 7 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 9 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { < } 0 . 0 0 0 1 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "). As seed length "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 6 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", mean "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\pm 1 \\ \\mathrm { S E } { = } 1 5 . 8 { \\pm } 0 . 2 \\ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 0 { - } 1 9 . 0 ~ \\mathrm { m m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") also correlated significantly with seed mass "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 6 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 5 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { < } 0 . 0 0 0 { \\dot { 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), birds might use seed length as a reliable indicator of seed quality. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                754,
+                490,
+                885
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The mean seed mass of a tree was not related to its viable-seed density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle n = 1 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "trees, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). There-"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                885,
+                490,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "fore, the seed mass per square metre "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle n = 1 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "trees, mean±1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { S E { = } 1 7 6 . 2 { \\pm } 8 . 7 \\mathrm { \\Omega g } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", range "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 . 8 \\mathrm { - } 4 7 4 . 4 ~ \\mathrm { g } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "was uncorrelated with mean seed mass "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\overbrace { n = 1 1 4 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "trees, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 0 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 3 4 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), but highly correlated with viable-seed density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\ n = 1 1 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "trees, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 9 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { < } 0 . 0 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Thus, viable-seed density was a good predictor of food availability at a tree while mean seed mass was not. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                61,
+                922,
+                163
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Variation in bird abundance between trees "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                191,
+                811,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bird abundance varied greatly between trees. Using multiple-regression techniques (see Materials and methods), we found that the distance to the nearest hawthorn cluster was by far the best predictor of which trees would be preferred by birds for seed foraging. Untransformed data plots showed a non-linear relationship between distance to cluster and the three measures of bird abundance (Fig. 3). Using non-linear curve-fitting methods we found that a reciprocal relationship (constant/distance to cluster) fitted the data very well for all measures of bird abundance, explaining "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 6 { \\ - } 4 4 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the variation (Table 2). "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                219,
+                922,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Consequently, distance to cluster was negatively correlated with bird abundance measures in all regression analyses (Table 2). In addition, distance to the nearest hawthorn was negatively correlated with the number of birds per interval and the total number of birds observed at each tree. The number of intervals, on the other hand, was negatively correlated with the distance to the nearest bush, but positively correlated with viable-seed density. However, only the negative correlation with distance to cluster was significant after Bonferroni correction. Thus, most birds were observed at trees that were close to cover. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                394,
+                922,
+                566
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To test how bird abundance varied between trees close to cover, we restricted the analysis to trees within "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 5 \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of a hawthorn cluster. A completely different picture emerged. The number of intervals and the number of birds were positively correlated only with viable-seed density "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle n = 3 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 2 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 0 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 1 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively). However, neither correlation was significant after Bonferroni correction (cf. Table 2). The number of birds per interval was uncorrelated with any of the six independent variables. Thus, among trees close to protective cover, we observed a trend for birds to prefer trees with high viable-seed densities. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                566,
+                922,
+                741
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Mean search times "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                504,
+                769,
+                643,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "One hundred and fifty successful and 123 interrupted search times were recorded. We found no significant differences between individual successful or interrupted search times for any of the six possible species comparisons nor for the male versus female great tit comparison (Mann-Whitney "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "U"
+                    },
+                    {
+                        "type": "text",
+                        "content": ": all "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { > } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). Therefore, we pooled all search time records. The observed search times allowed the calculation of mean search times for 37 individual "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                797,
+                922,
+                915
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                78,
+                40,
+                104,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b8b834975852558d9fa644ea69d65522033cb52a50d43a3ad6ace3638b739661.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                59,
+                482,
+                261
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7635790a720cea5431901199e889f35b3a37833792b9357fb957f49153b9a958.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                291,
+                482,
+                494
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3d4cd668ef2674fafdeaf87de7eeec1415a2584d0a0db10a17403f1ac3f72064.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3 Plots of distance of beech trees to the nearest hawthorn cluster (in metres) versus the number of birds per interval (a), the number of intervals (b), and the total number of birds observed at each tree (c). For purposes of plotting, data were not transformed. Fitted lines were calculated by non-linear curve-fitting methods (see Materials and methods). A reciprocal relationship (constant/distance to cluster) was fitted to each plot (constant: a 218.7; b 70.8; c 910.6) "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                85,
+                519,
+                482,
+                742
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/70475130aa97bb8e9c574954cf299e3c54098274f4bdc79ad4354c880084a9f4.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2 Multiple regression of three measures of bird abundance at 96 beech trees against six independent variables (distance to bush, hawthorn and cluster; total and viable-seed density and viable-seed percentage). Only significantly correlating independent variables are shown "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( P { < } 0 . { \\dot { 0 } } 5 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Partial "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\dot { P }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values that were significant after Bonferroni corrections (experimentwise error rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= 0 . 0 5 / 1 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "combinations of variables) are italicized. Degrees of freedom "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( d f )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", standard partial regression coefficients (std. coeff.) and partial "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values are given for each independent variable. Percent variation "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "var.) is the amount by which overall "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "increases when the respective variable is included in the regression model. Overall "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "-values for all multiple regressions were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { \\bar { \\Pi } } _ { < 0 . 0 0 0 1 }"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td>df</td><td>% var.</td><td>std. coeff.</td><td>Partial P-values</td></tr><tr><td>Number of birds per interval vs distance to cluster</td><td>2,93</td><td>41</td><td>-0.57</td><td>&lt;0.0001</td></tr><tr><td>distance to hawthorn</td><td></td><td>3</td><td>-0.20</td><td>0.02</td></tr><tr><td>Number of intervals vs distance to cluster</td><td>3,92</td><td>36</td><td>-0.55</td><td>&lt;0.0001</td></tr><tr><td>distance to bush</td><td></td><td>4</td><td>-0.22</td><td>0.007</td></tr><tr><td>viable seed density</td><td></td><td>4</td><td>0.19</td><td>0.02</td></tr><tr><td>Total number of birds vs distance to cluster</td><td>2,93</td><td>44</td><td>-0.60</td><td>&lt;0.0001</td></tr><tr><td>distance of hawthorn</td><td></td><td>4</td><td>-0.20</td><td>0.01</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                504,
+                207,
+                921,
+                389
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c5dfe7b309d410c48fafbdfd7a97903903988beb674c6a250052d5d6c7d4ca70.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 4 Plot of viable-seed density (in seeds/m2) versus mean search time (in seconds) for 17 beech trees with at least five search times recorded. For purposes of plotting, data were not transformed. The two outliers are denoted by open circles "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                507,
+                415,
+                915,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "trees. We excluded a priori 20 trees with fewer than five search times. The remaining 17 mean search times correlated with neither the total seed density nor the viableseed percentage "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n { = } 1 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 1 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 2 \\bar { 6 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively). However, as predicted, viableseed density was negatively correlated with mean search time "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( n = 1 7"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 2 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 3 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "), but this relationship was not significant after Bonferroni corrections (experimentwise error rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { = 0 . 0 5 / 3 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "different tests of same hypothesis). The plot of this relationship shows two outliers (Fig. 4). We could not find any obvious reason why these data were so different. However, since these two data points do not drive the general relationship, but destroy "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                724,
+                922,
+                915
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "317 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                39,
+                919,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "it, we also performed an analysis excluding these outliers. In this analysis, viable-seed percentage did not correlate with mean search time "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "_ { ( n = 1 5 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 1 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 1 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). However, total seed density and viable-seed density correlated negatively with mean search time "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle ( n = 1 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 4 6"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 0 2 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 6 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 0 0 3"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively). After Bonferroni corrections (experimentwise error rate "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "="
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 . 0 5 / 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "different tests of same hypothesis), these two correlations remained significant. In summary, 15 out of the 17 trees for which we have sufficient data reveal a clear pattern with mean search times decreasing as viable-seed densities increase. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                61,
+                489,
+                233
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discrimination experiment "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                78,
+                264,
+                270,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The discrimination experiment indicated that great tits were able to distinguish between viable and empty seeds without opening them. When presented with five viable and five empty seeds, 1 bird removed three viable and two empty seeds, while the remaining 13 birds only removed viable seeds (2×three seeds, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "four seeds and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "five seeds). Thus in all cases, birds removed more (and in most cases, many more) viable than empty seeds (one-sample sign test, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 0 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                292,
+                489,
+                422
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Discussion "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                78,
+                450,
+                164,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Beech seed availability increased dramatically during a mast year. Total seed density increased on average by 60-fold, viable-seed density by 97-fold and viable-seed percentage by 4-fold from 1994 (average year) to 1995 (mast year). Even in spring 1996, seed availability was much higher than in autumn 1994. Thus, the entire winter of 1995–1996 was a period of high food availability for seed-dependent species. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                480,
+                489,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The results supported our prediction of bird behaviour during years of high food availability. Seed-foraging birds avoided beech trees of high food availability when they were far from protective cover, but chose them when they were close to cover. Even late in the spring, birds did not move out to trees far from cover, suggesting that food resources near cover had not been sufficiently depleted. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                596,
+                489,
+                710
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To illustrate this result, we focus on trees with high viable-seed density. The six trees with the highest viableseed densities were "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 0 { - } 6 6 \\mathrm { ~ m ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from a hawthorn cluster, and total of only 70 birds (range 0–33) were observed at these trees. None of these trees was among the 15 most visited trees. Tree 113 at "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 4 ~ \\mathrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "from a cluster had no bird visits despite having the second-highest viable-seed density, while trees 46 and 47, with the seventh- and eighthhighest viable-seed densities, were closest to a cluster (11 m) and were among the 10 most-visited trees, with a combined total of 262 birds observed. "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                710,
+                489,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Seed densities were uncorrelated with the distance to cover. Thus, the relationship between bird abundance and cover distance appears to be real. Our data suggest "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                870,
+                489,
+                914
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "that the observed foraging-site preferences were a defence against sparrowhawk attacks. During the censuses, four such attacks were observed. Every time, all birds (up to 50) flew rapidly into the hawthorn clusters, and on many more occasions, when alarm calls were given, foraging birds almost invariably flew towards these clusters. Finally, whenever flocks of seed-foraging birds moved between food patches, they preferred to move within hawthorn clusters and seemed to avoid more open places whenever possible. Other studies have also shown that birds use dense vegetation as a refuge (Barnard 1979; Newton 1986; Hinsley et al. 1995). Thus, we conclude that seed-foraging birds use hawthorn clusters as refuges against sparrowhawk attacks. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                61,
+                917,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An alternative explanation could be that foraging birds use thick clusters of bushes as thermoregulatory refuges to protect them against strong winds (Grubb and Greenwald 1982; Lens 1996; Wachob 1996). However, successful or interrupted search times did not differ between birds feeding at trees 63–114 which are situated along a wind-exposed edge of the forest and birds feeding at trees 16–42 and 46–62 which are much more wind protected (Mann-Whitney U: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { > } 0 . 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for both). The three measures of bird abundance also did not differ for these two tree groups (Mann-Whitney U: "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { > } 0 . 0 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for all). Therefore, neither bird behaviour nor abundance differed obviously for wind-exposed trees. Another explanation might be that the human observer caused foraging birds to stay close to cover. However, birds often fed seemingly undisturbed within "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 \\textrm { m }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of the observer, often for several minutes and without giving alarm calls, but immediately flew up when alarm calls suggested the approach of a sparrowhawk. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                264,
+                917,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The relationship between distance to cover and measures of bird abundance was non-linear. Theoretically, one might expect a step function. This is because, assuming constant flight speeds of prey and predator and constant distance of predator detection by the prey, there should be a fixed distance that allows prey to escape, whereas any additional distance would mean capture (cf. Bednekoff and Lima 1998). Therefore, all birds should stay within this threshold distance to protective cover. In reality, however, some birds can fly faster than others, some may risk more because of starvation, and some areas may allow earlier predator detection. Therefore, one might expect a reciprocal or an exponentially decreasing relationship, as indicated in Fig. 3. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                538,
+                917,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Not surprisingly, viable-seed density decreased much more than total seed density during the winter. Although the five bird species considered in this study consumed beech seeds close to hawthorn clusters, other seed predators (mammals or larger bird species, e.g. magpies and woodpigeons) probably also consumed the seeds at other trees. This supposition is supported by the large and significant increase in the percentage of seeds eaten by mammals during the winter. Furthermore, no significant relationship existed between distance to cluster and percentage of total or viable seeds left in spring 1996 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle n = 7 2"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 0 0 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 9 9"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "r ^ { 2 } { = } 0 . 0 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P { = } 0 . 3 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively). "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                740,
+                917,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                78,
+                40,
+                104,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As birds fed mainly near clusters, other seed predators probably ate the seeds at trees farther from cover. "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                61,
+                490,
+                90
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At trees near cover, birds chose those with higher viable-seed densities. This result is not significant after Bonferroni corrections, but this conclusion may result in a type II error. First, great tits can distinguish viable from empty seeds. Second, high viable-seed density decreases search time (see below). Third, viable-seed density is clearly a good predictor of food availability while mean seed mass is not. Thus, tits should be able to determine trees of high food availability just by recording how long they search on average for viable seeds. Assuming they can do this, they should then choose to forage under trees of high food availability. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                91,
+                492,
+                264
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Higher viable-seed densities led to lower mean search times (Fig. 4), but this relationship was only marginally significant. Again, there is the risk of a type II error. Moreover, for 15 out of the 17 trees "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( 8 8 \\% )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", a very clear pattern emerges. Thus, if during nine out of ten times, a bird needs less time to find a seed, birds would clearly benefit from foraging at trees with high seed densities. As expected, because viable seeds are the birds’ target, the relationship of mean search time was stronger for viable-seed than for total seed density. "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                264,
+                492,
+                408
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As seed mass and length are correlated, tits may use seed length (or volume) to gauge seed quality. Additional choice experiments should be able to determine whether tits can also distinguish between different viable seeds. "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                408,
+                492,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Our results are relevant to theories involving optimal foraging and predator avoidance strategies. They indicate that, at least in years of high food availability, seedforaging birds prefer to stay close to protective cover while searching for seeds on the ground, where they are most at risk from predator attack. This ‘safety-first’ strategy precludes visits to more attractive food patches if they are too far from protective cover. Seed-foraging birds appear to use clusters of hawthorns both as refuges against sparrowhawk attacks and as ‘highways’ between food patches, again minimizing attack risk. Thus predation pressure and vegetation cover shape the structure of this bird community. We also found support for the hypothesis that spatial variation in seed densities influenced the time a bird needed to find an edible seed. In the spring, spatial variation in seed densities was unrelated to the distance to protective cover, suggesting that other species than those considered in this study consumed beech seeds far away from cover. We hope that future studies in years of low food availability will be able to test our hypotheses under different conditions. We predict that birds should be more willing to visit high-risk patches earlier during the winter and that this might be especially true for subdominant individuals, which are known to be more risk prone (e.g. de Laet 1985). "
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                467,
+                494,
+                843
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgements We thank Daniel Bean, Catherine Clarebrough, Federico Giller, Ian Hill and Charles Palmer for help with fieldwork. Special thanks to Catherine Clarebrough for diligently counting seeds. We thank Eberhard Curio, Donald Blomqvist, Herbert Hoi and the seminar discussion group of the Edward Grey "
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                854,
+                492,
+                917
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Institute at Oxford University and two anonymous referees for comments and suggestions. Great tits were kept in captivity under licence from the Nature Conservancy Council. "
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                61,
+                921,
+                99
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                505,
+                132,
+                596,
+                147
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Barnard CJ (1979) Interactions between house sparrows and sparrowhawks. Br Birds 72:569–573 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Bednekoff PA, Lima SL (1998) Re-examining safety in numbers: interactions between risk dilution and collective detection depend upon predator targeting behaviour. Proc R Soc Lond B 265:2021–2026 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Cade TJ (1962) Wing movements, hunting, and displays of the northern shrike. Wilson Bull 74:386–408 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Caraco T, Martindale S, Pulliam HR (1980) Avian time budgets and distance to cover. Auk 97:872–875 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chandler CR (1995) Practical considerations in the use of simultaneous inference for multiple tests. Anim Behav 49:524–527 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Desrochers A, Hannon SJ, Nordin KE (1988) Winter survival and territory acquisition in a northern population of black-capped chickadees. Auk 105:727–736 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ekman J (1987) Exposure and time use in willow tit flocks: the cost of subordination. Anim Behav 35:445–452 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ekman J (1989) Ecology of non-breeding social systems of Parus. Wilson Bull 101:263–288 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Elgar MA (1989) Predator vigilance and group size in mammals and birds: a critical review of the empirical evidence. Biol Rev 64:13–33 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Endler JA (1991) Interactions between predators and prey. In: Krebs JR, Davies NB (eds) Behavioural ecology: an evolutionary approach. Blackwell, Oxford, pp 169–196 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ficken MS, Witkin SR (1977) Responses of black-capped chickadee flocks to predators. Auk 94:156–157 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gosler AG (1987) Pattern and process in the bill morphology of the Great Tit Parus major. Ibis 129:451–476 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gosler AG (1990) The birds of Wytham – an historical review. Fritillary 1:29–74 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Gosler A (1993) The great tit. Hamlyn, London "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Grubb TC, Greenwald L (1982) Sparrows and a brushpile: foraging responses to different combinations of predation risk and energy cost. Anim Behav 30:637–640 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hinsley SA, Bellamy PE, Moss D (1995) Sparrowhawk Accipiter nisus predation and feeding site selection by tits. Ibis 137: 418–420 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hogstad O (1988a) The influence of energy stress on social organization and behaviour of willow tits Parus montanus. Cinclus 11:89–94 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hogstad O (1988b) Rank-related resource access in winter flocks of willow tit Parus montanus. Ornis Scand 19:169–174 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hogstad O (1988c) Social rank and antipredator behaviour of willow tits Parus montanus in winter flocks. Ibis 130:45–56 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Houston AI, McNamara JM, Hutchinson JMC (1993) General results concerning the trade-off between gaining energy and avoiding predators. Phil Trans R Soc Lond B 341:375–397 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jansson C, Ekman J, Brömssen A von (1981) Winter mortality and food supply in tits Parus spp. Oikos 37:313–322 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Jenni L (1987) Mass concentrations of bramblings Fringilla montifringilla in Europe 1900–1983: their dependence upon beechmast and the effect of snow cover. Ornis Scand 18:84–94 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Källander H (1981) The effects of provision of food in winter on a population of the great tit Parus major and the blue tit P. caeruleus. Ornis Scand 12:244–248 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Koivula K, Lahti K, Rytkönen S, Orell M (1994) Do subordinates expose themselves to predation? Field experiments on feeding site selection by willow tits. J Avian Biol 25:178–183 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Koivula K, Rytkönen S, Orell M (1995) Hunger-dependency of hiding behaviour after a predator attack in dominant and subordinate willow tits. Ardea 83:397–404 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Krams IA (1996) Predation risk and shifts of foraging sites in mixed willow and crested tit flocks. J Avian Biol 27:153–156 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                160,
+                921,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "319 "
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                40,
+                919,
+                50
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Krebs CJ (1989) Ecological methodology. Harper & Row, New York "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Kullberg C (1995) Strategy of the pygmy owl while hunting avian and mammalian prey. Ornis Fenn 72:72–78 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Laet JF de (1985) Dominance and anti-predator behaviour of great tits Parus major: a field study. Ibis 127:372–377 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lazarus J, Symonds M (1992) Contrasting effects of protective and obstructive cover on avian vigilance. Anim Behav 43: 519–521 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lens L (1996) Wind stress affects foraging site competition between crested tits and willow tits. J Avian Biol 27:41–46 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lima SL (1985) Maximizing feeding efficiency and minimizing the time exposed to predators: a trade-off in the black-capped chickadee. Oecologia 66:60–67 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lima SL (1994) On the personal benefits of anti-predatory vigilance. Anim Behav 48:734–736 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lima SL (1998) Stress and decision making under the risk of predation: recent developments from behavioral, reproductive and ecological perspectives. Adv Study Behav 27:215–290 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lima SL, Dill LM (1990) Behavioral decisions made under the risk of predation: a review and prospectus. Can J Zool 68: 619–640 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Lima SL, Valone TJ, Caraco T (1985) Foraging-efficiency-predation-risk trade-off in the grey squirrel. Anim Behav 33: 155–165 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "McNamara JM, Houston AI (1992) Risk sensitive foraging: a review of the theory. Bull Math Biol 54:355–378 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Newton I (1986) The sparrowhawk. T&AD Poyser, Carlton "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Perrins CM (1966) The effect of beech crops on great tit populations and movements. Br Birds 59:419–432 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Perrins CM (1979) British tits. Collins, London "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                61,
+                489,
+                426
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Rice WR (1989) Analyzing tables of statistical tests. Evolution 43:223–225 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Schneider KJ (1984) Dominance, predation, and optimal foraging in white-throated sparrow flocks. Ecology 65:1820–1827 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sih A (1992) Prey uncertainty and the balancing of antipredator and feeding needs. Am Nat 139:1052–1069 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Sokal RR, Rohlf FJ (1995) Biometry: the principles and practice of statistics in biological research. Freeman, San Francisco "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Suhonen J (1993a) Predation risk influences the use of foraging sites by tits. Ecology 74:1197–1203 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Suhonen J (1993b) Risk of predation and foraging sites of individuals in mixed-species tit flocks. Anim Behav 45:1193–1198 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Todd IA, Cowie RJ (1990) Measuring the risk of predation in an energy current: field experiments with foraging blue tits, Parus caeruleus. Anim Behav 40:112–117 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Toland BR (1987) The effect of vegetative cover on foraging strategies, hunting success, and nesting distribution of American kestrels in central Missouri. J Raptor Res 21:14–20 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Van Balen JH (1980) Population fluctuations of the great tit and feeding conditions in winter. Ardea 68:143–164 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Wachob DG (1996) The effect of thermal microclimate on foraging site selection by wintering mountain chickadees. Condor 98:114–122 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Watts BD (1990) Cover use and predator-related mortality in song and savannah sparrows. Auk 107:775–778 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Ydenberg RC, Houston AI (1986) Optimal trade-offs between competing behavioural demands in the great tit. Anim Behav 34:1041–1050 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Zar JH (1996) Biostatistical analysis. Prentice Hall, Upper Sadle River, NJ "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                61,
+                919,
+                414
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "320 "
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                40,
+                104,
+                52
+            ]
+        }
+    ]
+]

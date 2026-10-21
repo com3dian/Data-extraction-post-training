@@ -1,0 +1,217 @@
+# Rickettsia spp. in rodent-attached ticks in Estonia and fi rst evidence of spotted fever group Rickettsia species Candidatus Rickettsia uralica in Europe.
+
+Maria Vikentjeva (  mariav@tai.ee )
+
+Tervise Arengu Instituut
+
+Julia Geller
+
+Tervise Arengu Instituut
+
+Jaanus Remm
+
+Tartu Ulikool
+
+Irina Golovljova
+
+Tervise Arengu Instituut
+
+Research
+
+Keywords: Ticks, Rickettsia spp., Candidatus Rickettsia uralica, voles, mice
+
+Posted Date: January 7th, 2021
+
+DOI: https://doi.org/10.21203/rs.2.23992/v4
+
+License: $\textcircled{6}$ This work is licensed under a Creative Commons Attribution 4.0 International License. Read Full License
+
+Version of Record: A version of this preprint was published on January 20th, 2021. See the published version at https://doi.org/10.1186/s13071-020-04564-7.
+
+# Abstract
+
+BACKGROUND: Rickettsia spp. are human pathogens that cause a number of diseases and are transmitted by arthropods, such as ixodid ticks. Estonia is one of few regions where the distribution area of two medically important tick species, Ixodes persulcatus and I. ricinus, overlaps. The presence of the nidicolous rodent-associated I. trianguliceps has also recently been shown in Estonia. Although there is no data available in Estonia on human disease caused by tickborne Rickettsia spp., the presence of three Rickettsia species in non-nidicolous ticks was also previously reported. The aim of this study was to detect, identify and partially characterize Rickettsia species in nidicolous and non-nidicolous ticks attached to rodents.
+
+RESULTS: Larvae and nymphs of I. ricinus $\cdot n = 1 0 0 4 )$ ), I. persulcatus $m = 7 5 )$ ) and I. trianguliceps $( n = 1 1 7 )$ ) removed from rodents and shrews caught in different parts of Estonia were studied for the presence of Rickettsia spp. by nested PCR. Ticks were collected from 314 small animals of 5 species (Myodes glareolus (bank voles), Apodemus flavicollis (yellow necked mice), A. agrarius (striped fi eld mice), Microtus subterranius (pine voles) and Sorex araneus (common shrews Rickettsial DNA was detectedin $8 . 7 \%$ (103/1186) of the studied ticks. In addition to R. helvetica previously found in questing ticks, this study reports the fi rst identifi cation of the recently described I. trianguliceps-associated Candidatus R. uralica west of the Ural Mountains.
+
+# Background
+
+group (SFG), the typhus group, the ancestral group and the transitional group [1]. Some SFG rickettsiae are transmitted by ticks of the family Ixodidae [2], and transmission may occur transovarially as well as transstadially [3, 4]. Several agents of tick-borne rickettsioses are known to circulate in Europe, including numerous Ixodidae ticks, including Ixodes ricinus, I. persulcatus, I. trianguliceps, and Dermacentor reticulatus [2, 6, 7]. Although R. helvetica is not believed to be highly pathogenic to humans, there had been several reports from Sweden [8, 9], Netherlands [10], France and Italy [11] which describe rash, mild fever, febrile illness, meningitis and other clinical symptoms associated with this agent in patients. In Estonia, the wide distribution of R. helvetica, as well as the presence of R. monacensis and Candidatus R. tarasevichiae in questing ticks, was shown previously by Katargina et al., but no human cases due to R. helvetica infection nor to the other two species had been reported at that time [12].
+
+Research on the circulation of Rickettsia spp. is still ongoing as in vectors, which are mainly fl eas and ticks, as in their main hosts (small mammals, wild and domestic animals). As this is fairly wide research area, new species are constantly being discovered, e.g. I. trianguliceps associated Candidatus R. uralica found in Ural in Russia [7]. Also, the wide distribution of some types of vectors increases probability of the prevalence of vector associated pathogens, such as Candidatus R. tarasevichae that has been found in China and Europe [12, 13, 14].
+
+Nowadays there are different methods for disease surveillance, including studying sentinel populations for the presence of pathogens in nature. Dogs [15] and cats [16] can be used as sentinels for rickettsiae. However, vectors can also serve as epidemiological sentinels [17].
+
+Recent studies show that Ixodes spp. ticks could serve not only as vectors, but also as reservoir host of R. helvetica. At the moment there is no clear understanding on whether any mammal species is the host of the R. helvetica, while on the other hand rickettsial DNA was found in the blood of wild animals such as rodents, roe deer, wild boar [18] and domestic animals, such as dogs and cats [19]. Moreover, Burri et al. [20] reported negative results on R. helvetica xenodiagnostic and furthermore low percentage of gaining Rickettsia spp. from the positive host had been described by Tommassone et al. [21]. It can only be assumed that mammals can be potential hosts, and that they may affect the natural transmission and distribution of rickettsiae.
+
+In the present study, the aim was to investigate the presence of Rickettsia spp. in ticks collected from small mammals.
+
+# Methods
+
+# Sample collection, species identifi cation and DNA extraction.
+
+The study was performed retrospectively on 1186 ticks, which were removed from small mammals. The samples were collected at fi ve sampling sites in Estonia, located in four mainland counties - Järvamaa, Lääne-Virumaa, Tartumaa (collecting in 2013 and 2014), Pärnumaa (collecting was performed only in 2012) – and one island county – Saaremaa (Figure 1). Live-trappings of mice, voles and shrews were carried out once a month during April-November 2012- 2014 in natural habitats using Sherman LFA perforated live-traps (Ethical Committee Permission No. 124 by Estonian Ministry of Agriculture). 10 permanent stations (5 traps each within 2 m radius) were placed $1 0 0 ~ \mathsf { m }$ apart along a linear transect that randomly intersected different habitats (forest and semi-open). The trappings were performed during the nighttime. The traps were set at 8 p.m. and in the morning at around 8 a.m. traps were checked for animals. Bread was used as main bait method and vegetables served as water replenishment. The trapped animals’ species were identifi ed and then executed by cervical dislocation by a specially trained person with accordance to FELASA curriculum. Each animal was individually examined for the presence of ectoparasites, which were then removed, fi xed in ethanol and stored at ${ } ^ { - 2 0 ^ { \circ } \mathsf { C } }$ in separate tubes until further use. Any endangered species caught were immediately released in the habitat. Protective gloves and face masks were worn at all times while handling wild animals for safety purposes.
+
+DNA extraction from ticks was performed with ammonium hydroxide solution according to Moran-Cadenas et al. [22]. Tick species were identifi ed by ITS2 gene-based multiplex PCR assay as previously described by Värv et al. [23]. Only ticks identifi ed at the species level by the ITS2 multiplex PCR were included in this study, and ticks that remained undetermined were omitted.
+
+# Rickettsia spp. screening and genospecies detection
+
+All ticks identifi ed at the species level were screened individually by a nested PCR targeting a 667 bp fragment of Rickettsia spp. citrate synthase A (gltA) gene using primers glt1 – 4 as described by Igolkina et al. [7] with subsequent sequencing of all positive samples. For samples identifi ed as Ca. R. uralica and randomly selected samples identifi ed as R. helvetica by initial screening, additional PCR amplifi cation of ${ \sim } 7 7 0$ bp fragment of the outer membrane protein B (ompB) gene was performed with primers 120-2788F and 120-3599R under conditions described previously [24]. Additionally, a subset of the latter samples was amplifi ed by nested PCR of 834 bp fragment of cell surface antigen 4 (sca4) gene with primers sc4-1 and Rj2837r for the primary reaction, and sc4-3 and sc4-4 for the nested reaction, as described by Igolkina et al. [7]. PCR products of all positive samples were sent for direct sequencing to the core laboratory of the Estonian Biocentre (Tartu, Estonia), followed by nucleotide sequence alignment using BioEdit v7.2.5 (Ibis Biosciences, USA) and genospecies identifi cation with BLASTN® tools (http://www.ncbi.nlm.nih.gov/BLAST.cgi).
+
+# Results
+
+# Rickettsia screening and Rickettsia species
+
+In this study 1186 ticks were collected from 314 small animals of 5 species: Myodes glareolus, Apodemus flavicollis, A. agrarius, Microtus subterranius and larvae and 24 nymphs; from My. glareolus and A. flavicollis), and 76 I. persulcatus (64 larvae and 12 nymphs; from My. glareolus, A. flavicollis and M. subterranius) were studied for presence of Rickettsia spp. (Table 2).
+
+Rickettsial DNA was detected in $8 . 7 \%$ (103/1186) of the studied ticks, with rates between tick species rates varying from $3 . 4 \%$ (4/117) of I. trianguliceps to $1 0 . 0 \%$ (99/993) of I. ricinus and none in I. persulcatus (Table 2). As animal samples were not analyzed for Rickettsia spp. presence, it is unknown whether ticks acquired the pathogen via transstadial or transovarial transmission, co-feeding or with blood meal.
+
+Rickettsial DNA was detected in ticks from all study sites, with the lowest positivity rates in Tartumaa and Saaremaa $2 . 6 \%$ and $4 . 8 \%$ , respectively) and the highest rate at $1 9 . 4 \%$ in Pärnumaa.
+
+Rickettsia spp. DNA was detected in ticks collected from 56 out of 34 animals of 3 species - My.glareolus $( 2 1 . 8 \%$ ; 36/165), A. flavicollis $7 3 . 5 \%$ ; 19/141) and S. araneus (33.3%; 1/3) (Supplementary table 1). The number of ticks analyzed from a single animal varied from 1 to 32, while the rates of Rickettsiapositive ticks varied from $4 . 8 \% - 1 0 0 \%$ . The highest positivity rate of rickettsial DNA was observed within ticks from My. glareolus caught in Pärnumaa county $( 2 3 . 8 \% )$ (Table 1).
+
+According to the partial gltaA gene sequencing results there were two Rickettsia species detected: R. helvetica and Ca. R. uralica. Rickettsia helvetica DNA was detected in the majority of Rickettsia positive tick samples $- 9 7 . 1 \%$ (100/103). It was detected in $9 . 9 7 \%$ (99/993) of I. ricinus and in one out of 117 negative I. ricinus (Table 1). Rickettsia helvetica DNA was detected in ticks removed from yellow-necked mice, bank voles and common shrews at all studied locations (Table 1).
+
+Another Rickettsia species was identifi ed as Ca. R. uralica. It was detected in three I. trianguliceps ticks removed from two bank voles collected in Pärnumaa and Järvamaa, respectively. The total positivity rate of Ca. R. uralica in I. trianguliceps amounted to $2 . 9 \%$ (3/117). Ca. R uralica was not detected in I. ricinus (Table 1, 2).
+
+In order to confi rm the species and to reveal possible nucleotide sequence variability within the detected Rickettsia species, the partial ompB genes of 20 samples (all 3 samples with Ca. R. uralica and 17 samples with R. helvetica) and the partial sca4 genes of 9 samples (all 3 samples with Ca. R. uralica and 6 samples with R. helvetica) were sequenced. All sequenced R. helvetica partial gene fragments were identical to each other as well as to those previously detected in questing ticks from Estonia [12]. Sequences of gltA, ompB and sca4 gene fragments amplifi ed from all Ca. R. uralica positive samples were $100 \%$ identical to each other; the gltA and sca4 gene fragments were also $100 \%$ identical to initial sequences reported from Siberia (Genbank accession numbers KR150785 and KP747665). OmpB gene fragment differed in one nucleotide base, giving $9 9 . 9 \%$ similarity to the Siberian Ca. R. uralica partial ompB sequence (Genbank accession number KR150780) [7].
+
+# Discussion
+
+In this study, ticks of the generalist species I. ricinus and I. persulcatus, as well as nidicolous I. trianguliceps, attached to small mammals, were analyzed for the presence of vector-borne Rickettsia spp. including a species not previously reported in Europe.
+
+Currently there are many studies regarding circulating Rickettsia species as in their vectors, tick and fl eas, as well as in vector associated mammals, and possible Rickettsia-reservoir presence [18, 20, 25, 26, 27]. In the course of screenings of vector arthropods and their hosts, more and more new "Candidatus" studies show negative results for R. helvetica [20]. Furthermore, percentage of gaining Rickettsia spp. from the positive host is low, as described by Tomassone et al. [21]. Additional studies are required to determine the relationship between rodents and rickettsiae, the bacteremia duration, the distribution and natural cycle of Rickettsia spp. and their association with different arthropod vectors. To add more, further researches are necessary to fi nd potential reservoir hosts and how Rickettsia maintains in nature.
+
+To our knowledge, this study is the fi rst report on the detection of a newly described species, Ca. R. uralica, in Europe. In this study the genospecies was detected only in I. trianguliceps ticks removed from voles, which is in agreement with the initial Ca. R. uralica report from Siberia designating the specifi city of C
+
+and S. araneus, which are also present in Estonia. Together with I. trianguliceps ticks these small mammals might play a role in the circulation of this Rc Ca. R. uralica for domestic and wild mammals, pets or humans remains to be studied.
+
+Although spotted fever rickettsioses are known to be emerging diseases spreading across the globe, human case reports due to R. helvetica infections are scarce. Serological or molecular tools have been used to detect R. helvetica infection in samples from patients with suspected Lyme neuroborreliosis in the Netherlands [10], with unexplained fever following a tick bite in France and Italy [11] and with rash, febrile illness and meningitis in Sweden [8, 9]. species in some of the regions, e.g. in Germany [30], Slovakia [31] and Sakhalin Island in Russia [29]. Estonia belongs to one of the predominant region as well as over $9 5 \%$ of all Rickettsia species detected in questing [12] and rodent-attached ticks in the present study were R. helvetica. While there are no clinical reports of illness caused by R. helvetica in Estonia to date, the detection of this tick-borne pathogens (TBP) at positivity rates within ticks population similar to rates of $2 3 . 3 \%$ for Borrelia burgdorferi s. l. (I. Golovljova and J. Geller, personal communications), suggests that R. helvetica should be considered during surveillance for tick-borne diseases in Lyme borreliosis-endemic regions.
+
+Rickettsial DNA was detected in $8 . 7 \%$ of all investigated attached ticks, and in $1 0 { , } 0 \%$ of I. ricinus, compared to $3 , 4 \%$ in I. trianguliceps. High rates of detection of rickettsial DNA in rodent-attached I. ricinus were also recently reported from Lithuania [26] where $2 2 . 6 \%$ of individually tested larvae (maximum likelihood estimation, M $\mathsf { L E } = 2 6 . 5 \%$ ) were positive for Rickettsia spp.
+
+There have been reports of the detection of several TBP, such as Anaplasma phagocytophilum [32], Neoehrlichia mikurensis and Babesia microti [33], Faciseo was found in $4 1 . 2 \%$ (14/34) of analyzed I. trianguliceps ticks feeding on voles in Western Siberia, which is signifi cantly higher than the results of the current study ( $3 . 4 \% ,$ 4/117). Nevertheless, the role of I. trianguliceps in the circulation and maintenance of TBPs is still largely unknown as is its importance and participation in the transmission of pathogens between ticks and rodent hosts.
+
+The absence of rickettsial DNA in rodent-attached I. persulcatus larvae (0/64) and nymphs (0/12) could be explained by the relatively small number of $0 . 2 \%$ )and R. helvetica (8/530, $1 . 5 \%$ were previously reported in unfed questing I. persulcatus ticks in Estonia [12].
+
+We found rickettsial DNA in ticks removed mainly from My. glareolus and A. flavicollis, but also from several S. araneus. Although there are reports on the detection of R. helvetica in various small- to large-sized wild mammal samples from Lithuania [35], the Netherlands and Germany [18, 30, 36] and also in maintenance cycle of Rickettsia is still debatable [20]. The Rickettsia spp. infection rates in ticks, removed from the same animal, varied from $4 . 8 \%$ to $100 \% ,$ most likely indicating that the ectoparasites might acquire these pathogens not only during blood meals on these animals, but also through previous infected by transstadial, transovarial or horizontal transmission [38]. However, as there were no animal samples tested for the presence of rickettsial DNA in the current study, there is no strict evidence of whether ticks of this study could have acquired the detected Rickettsia through feeding.
+
+Surprisingly, $4 2 . 7 \%$ (44/103) of all Rickettsia-positive ticks were removed from rodents caught in Pärnumaa county. Although this region was not covered in the previous study on Rickettsia spp. in questing ticks in Estonia [12], a high rate $( 2 8 \% )$ of Rickettsia DNA was also detected in questing ticks in Pärnumaa (M. Vikentjeva, J. Geller, I. Golovljova, unpublished observations). Interestingly, this region has previously not shown such high infection rates with any TBP [39, 40, 41]. However, our longitudinal observations on ticks indicate that the local environment and climate of western coastal Estonia may provide favorable conditions for tick population maintenance and survival, as ticks have always been abundant in these areas (I. Golovljova, unpublished observations).
+
+# Conclusion
+
+The results of our study show a higher rate of positivity of Rickettsia spp. in ticks from small mammals compared to ones obtained previously in questing ticks. High Rickettsia positivity rate in larvae might indicate on a transovarial transmition of R. helvetica and possibility of successful co-feeding transmission while feeding on the same host Rickettsia helvetica was the most prevalent species, and was most frequently detected in I. ricinus ticks, which are considered to be its main vector and the natural reservoir host. This study also provides the fi rst report on the presence of the novel Rickettsia species, Ca. R. uralica initially reported from Siberian regions of Russia, in Estonian populations of I. trianguliceps.
+
+# Abbreviations
+
+DNA: deoxyribonucleic acid; ITS2: internal transcribed spacer 2; PCR: polymerase chain reaction; SFG: Spotted fever group; TBP: tick-borne pathogens; qPCR: quantitative polymerase chain reaction.
+
+# Declarations
+
+# Acknowledgements
+
+The authors would like to thank Kertu Jaik (University of Tartu, Estonia) and Larissa Starkova (National Institute for Health Development, Estonia), for their invaluable assistance in the animal and laboratory experiments. The authors also thank Sirkka Vene for helpful advices and suggestions.
+
+# Funding
+
+The current study was fi nancially supported by the program TerVe, project ZoonRisk 3.2.1002.11-0002 (European Regional Development Fund, Estonian Research Council), and the project IUT-42-1 (Ministry of Education and Research, Estonia).
+
+# Availability of data and materials
+
+All additional data associated with this study can be obtained from the corresponding author on reasonable request. Unique sequences of Candidatus Rickettsia uralica obtained during this study were submitted to GenBank database (https://www.ncbi.nlm.nih.gov/genbank/) under accession numbers MT063090-MT063092.
+
+# Authors’ contributions
+
+JR and IG study initiation and experimental studies planning; JR sample collection and small mammal species identifi cation; MV and JG DNA extraction, PCRs performing and bioinformatical analysis; MV writing the initial draft of the manuscript. All authors read and approved the fi nal version of the manuscript.
+
+# Ethics approval and consent to participate
+
+Animal experiments were approved by Estonian Ministry of Agriculture permission no. 124 (J. Remm).
+
+# Consent for publication
+
+Not applicable
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# References
+
+1. Merhej V, Raoult D. Rickettsial evolution in the light of comparative genomics. Biol Rev Camb Philos Soc. 2011;86 2:379-405; doi: 10.1111/j.1469- 185X.2010.00151.x. https://www.ncbi.nlm.nih.gov/pubmed/20716256.   
+2. Parola P, Paddock CD, Socolovschi C, Labruna MB, Mediannikov O, Kernif T, et al. Update on tick-borne rickettsioses around the world: a geographic approach. Clin Microbiol Rev. 2013;26 4:657-702; doi: 10.1128/CMR.00032-13. https://www.ncbi.nlm.nih.gov/pubmed/24092850.   
+3. Raoult D, Roux V. Rickettsioses as paradigms of new or emerging infectious diseases. Clin Microbiol Rev. 1997;10 4:694-719. https://www.ncbi.nlm.nih.gov/pubmed/9336669.   
+4. Azad AF, Beard CB. Rickettsial pathogens and their arthropod vectors. Emerg Infect Dis. 1998;4 2:179-86; doi: 10.3201/eid0402.980205. https://www.ncbi.nlm.nih.gov/pubmed/9621188.   
+5. Eremeeva ME, Dasch GA. Challenges posed by tick-borne rickettsiae: eco-epidemiology and public health implications. Front Public Health. 2015;3:55; doi: 10.3389/fpubh.2015.00055. https://www.ncbi.nlm.nih.gov/pubmed/25954738.   
+6. Dobec M, Golubic D, Punda-Polic V, Kaeppeli F, Sievers M. Rickettsia helvetica in Dermacentor reticulatus ticks. Emerg Infect Dis. 2009;15 1:98-100; doi: 10.3201/eid1501.080815. https://www.ncbi.nlm.nih.gov/pubmed/19116063.   
+7. Igolkina YP, Rar VA, Yakimenko VV, Malkova MG, Tancev AK, Tikunov AY, et al. Genetic variability of Rickettsia spp. in Ixodes persulcatus/Ixodes 10.1016/j.meegid.2015.07.015. https://www.ncbi.nlm.nih.gov/pubmed/26190452.   
+8. Nilsson K. Septicaemia with Rickettsia helvetica in a patient with acute febrile illness, rash and myasthenia. J Infect. 2009;58 1:79-82; doi: 10.1016/j.jinf.2008.06.005. https://www.ncbi.nlm.nih.gov/pubmed/18649945.   
+9. Nilsson K, Elfving K, Pahlson C. Rickettsia helvetica in patient with meningitis, Sweden, 2006. Emerg Infect Dis. 2010;16 3:490-2; doi: 10.3201/eid1603.090184. https://www.ncbi.nlm.nih.gov/pubmed/20202426.   
+10. Koetsveld J, Tijsse-Klasen E, Herremans T, Hovius JW, Sprong H. Serological and molecular evidence for spotted fever group Rickettsia and Borrelia at/s. https://www.ncbi.nlm.nih.gov/pubmed/26739030.   
+11. Fournier PE, Allombert C, Supputamongkol Y, Caruso G, Brouqui P, Raoult D. Aneruptive fever associated with antibodies to Rickettsia helvetica in Europe and Thailand. J Clin Microbiol. 2004;42 2:816-8. https://www.ncbi.nlm.nih.gov/pubmed/14766859.   
+12. Katargina O, Geller J, Ivanova A, Varv K, Tefanova V, Vene S, et al. Detection and identifi cation of Rickettsia species in Ixodes tick populations from Estonia. Ticks Tick Borne Dis. 2015;6 6:689-94; doi: 10.1016/j.ttbdis.2015.06.001. https://www.ncbi.nlm.nih.gov/pubmed/26096853.   
+13. Shpynov S, Fournier PE, Rudakov N, Raoult D. "Candidatus Rickettsia tarasevichiae" in Ixodes persulcatus ticks collected in Russia. Ann N Y Acad Sci. 2003;990:162-72; doi: 10.1111/j.1749-6632.2003.tb07358.x. https://www.ncbi.nlm.nih.gov/pubmed/12860621.   
+14. Yuan TT, Ma L, Jiang BG, Fu WM, Sun Y, Jia N, et al. First Confi rmed Infection of Candidatus Rickettsia Tarasevichiae in Rodents Collected from Northeastern China. Vector Borne Zoonotic Dis. 2020;20 2:88-92; doi: 10.1089/vbz.2019.2443.   
+15. Wachter M, Wolfel S, Pfeffer M, Dobler G, Kohn B, Moritz A, et al. Serological differentiation of antibodies against Rickettsia helvetica, R. raoultii, R.
+
+10.1186/s13071-015-0745-1. https://www.ncbi.nlm.nih.gov/pubmed/25889200.   
+16. Segura F, Pons I, Miret J, Pla J, Ortuno A, Nogueras MM. The role of cats in the eco-epidemiology of spotted fever group diseases. Parasit Vectors. 2014;7:353; doi: 10.1186/1756-3305-7-353. https://www.ncbi.nlm.nih.gov/pubmed/25084969.   
+17. Walter KS, Carpi G, Evans BR, Caccone A, Diuk-Wasser MA. Vectors as Epidemiological Sentinels: Patterns of Within-Tick Borrelia burgdorferi Diversity. PLoS Pathog. 2016;12 7:e1005759; doi: 10.1371/journal.ppat.1005759. https://www.ncbi.nlm.nih.gov/pubmed/27414806.   
+18. Sprong H, Wielinga PR, Fonville M, Reusken C, Brandenburg AH, Borgsteede F, et al. Ixodes ricinus ticks are reservoir hosts for Rickettsia helvetica and potentially carry fl ea-borne Rickettsia species. Parasit Vectors. 2009;2 1:41; doi: 10.1186/1756-3305-2-41. https://www.ncbi.nlm.nih.gov/pubmed/19732416.   
+19. Scheid P, Speck S, Schwarzenberger R, Litzinger M, Balczun C, Dobler G. Detection of Rickettsia helvetica in Ixodes ricinus infesting wild and domestic animals and in a botfl y larva (Cephenemyia stimulator) infesting roe deer in Germany. Ticks Tick Borne Dis. 2016;7 6:1268-73; doi: 10.1016/j.ttbdis.2016.07.002. https://www.ncbi.nlm.nih.gov/pubmed/27430966.   
+20. Burri C, Schumann O, Schumann C, Gern L. Are Apodemus spp. mice and Myodes glareolus reservoirs for Borrelia miyamotoi, Candidatus Neoehrlichia mikurensis, Rickettsia helvetica, R. monacensis and Anaplasma phagocytophilum? Ticks Tick Borne Dis. 2014;5 3:245-51; doi: 10.1016/j.ttbdis.2013.11.007. https://www.ncbi.nlm.nih.gov/pubmed/24582511.   
+21. Tomassone L, Portillo A, Novakova M, de Sousa R, Oteo JA. Neglected aspects of tick-borne rickettsioses. Parasit Vectors. 2018;11 1:263; doi: 10.1186/s13071-018-2856-y. https://www.ncbi.nlm.nih.gov/pubmed/29690900.   
+22. Moran-Cadenas F, Schneider H, Lommano E, Burri C, Moret J, Gern L. A comparison of two DNA extraction approaches in the detection of Borrelia 10.1089/vbz.2006.0596. https://www.ncbi.nlm.nih.gov/pubmed/17979538.   
+23. Varv K, Ivanova A, Geller J, Remm J, Jaik K, Tikunova N, et al. Identifi cation of I. ricinus, I. persulcatus and I. trianguliceps species by multiplex PCR. Ticks Tick Borne Dis. 2017;8 2:235-40; doi: 10.1016/j.ttbdis.2016.11.004.   
+24. Roux V, Raoult D. Phylogenetic analysis of members of the genus Rickettsia using the gene encoding the outer-membrane protein rOmpB (ompB). Int J Syst Evol Microbiol. 2000;50 Pt 4:1449-55; doi: 10.1099/00207713-50-4-1449. https://www.ncbi.nlm.nih.gov/pubmed/10939649.   
+25. Minichova L, Hamsikova Z, Mahrikova L, Slovak M, Kocianova E, Kazimirova M, et al. Molecular evidence of Rickettsia spp. in ixodid ticks and rodents in suburban, natural and rural habitats in Slovakia. Parasit Vectors. 2017;10 1:158; doi: 10.1186/s13071-017-2094-8. https://www.ncbi.nlm.nih.gov/pubmed/28340608.   
+26. Radzijevskaja J, Kaminskiene E, Lipatova I, Mardosaite-Busaitiene D, Balciauskas L, Stanko M, et al. Prevalence and diversity of Rickettsia species in ectoparasites collected from small rodents in Lithuania. Parasit Vectors. 2018;11 1:375; doi: 10.1186/s13071-018-2947-9. https://www.ncbi.nlm.nih.gov/pubmed/29954410.   
+27. Schex S, Dobler G, Riehm J, Muller J, Essbauer S. Rickettsia spp. in wild small mammals in Lower Bavaria, South-Eastern Germany. Vector Borne Zoonotic Dis. 2011;11 5:493-502; doi: 10.1089/vbz.2010.0060. https://www.ncbi.nlm.nih.gov/pubmed/20925521.   
+28. Kartashov MY, Glushkova LI, Mikryukova TP, Korabelnikov IV, Egorova YI, Tupota NL, et al. Detection of Rickettsia helvetica and Candidatus R. tarasevichiae DNA in Ixodes persulcatus ticks collected in Northeastern European Russia (Komi Republic). Ticks Tick Borne Dis. 2017;8 4:588-92; doi: 10.1016/j.ttbdis.2017.04.001. https://www.ncbi.nlm.nih.gov/pubmed/28433730.   
+29. Igolkina Y, Bondarenko E, Rar V, Epikhina T, Vysochina N, Pukhovskaya N, et al. Genetic variability of Rickettsia spp. in Ixodes persulcatus ticks from continental and island areas of the Russian Far East. Ticks Tick Borne Dis. 2016;7 6:1284-9; doi: 10.1016/j.ttbdis.2016.06.005. https://www.ncbi.nlm.nih.gov/pubmed/27424272.   
+30. Fischer S, Spierling NG, Heuser E, Kling C, Schmidt S, Rosenfeld UM, et al. High prevalence of Rickettsia helvetica in wild small mammal populations in Germany. Ticks Tick Borne Dis. 2018;9 3:500-5; doi: 10.1016/j.ttbdis.2018.01.009. https://www.ncbi.nlm.nih.gov/pubmed/29398604.   
+31. Svehlova A, Berthova L, Sallay B, Boldis V, Sparagano OA, Spitalska E. Sympatric occurrence of Ixodes ricinus, Dermacentor reticulatus and s. https://www.ncbi.nlm.nih.gov/pubmed/24973275.   
+32. Rar VA, Epikhina TI, Yakimenko VV, Malkova MG, Tancev AK, Bondarenko EI, et al. Genetic variability of Anaplasma phagocytophilum in ticks and voles from Ixodes persulcatus/Ixodes trianguliceps sympatric areas from Western Siberia, Russia. Ticks Tick Borne Dis. 2014;5 6:854-63; doi: 10.1016/j.ttbdis.2014.07.008. https://www.ncbi.nlm.nih.gov/pubmed/25113979.   
+33. Blanarova L, Stanko M, Miklisova D, Vichova B, Mosansky L, Kraljik J, et al. Presence of Candidatus Neoehrlichia mikurensis and Babesia microti in rodents and two tick species (Ixodes ricinus and Ixodes trianguliceps) in Slovakia. Ticks Tick Borne Dis. 2016;7 2:319-26; doi: 10.1016/j.ttbdis.2015.11.008. https://www.ncbi.nlm.nih.gov/pubmed/26700195.   
+34. Kormilitsyna MI, Korenberg EI, Kovalevskii YV, Meshcherakova IS. First Molecular Identifi cation of the Tularemia Agent in the Ticks Ixodes Trianguliceps Bir. In Russia. Mol Gen Mikrobiol Virusol. 2016;34 2:67-70. https://www.ncbi.nlm.nih.gov/pubmed/30380209.   
+35. Mardosaite-Busaitiene D, Radzijevskaja J, Balciauskas L, Paulauskas A. First detection of Rickettsia helvetica in small mammals in Lithuania. New Microbes New Infect. 2018;22:19-23; doi: 10.1016/j.nmni.2017.12.012. https://www.ncbi.nlm.nih.gov/pubmed/29556404.   
+36. Obiegala A, Oltersdorf C, Silaghi C, Kiefer D, Kiefer M, Woll D, et al. Rickettsia spp. in small mammals and their parasitizing ectoparasites from Saxony, Germany. Vet Parasitol Reg Stud Reports. 2016;5:19-24; doi: 10.1016/j.vprsr.2016.08.008. https://www.ncbi.nlm.nih.gov/pubmed/31014532.   
+37. Hornok S, Kovats D, Csorgo T, Meli ML, Gonczi E, Hadnagy Z, et al. Birds as potential reservoirs of tick-borne pathogens: fi rst evidence of bacteraemia with RcelveVec530io/u/
+
+38. Socolovschi C, Mediannikov O, Raoult D, Parola P. The relationship between spotted fever group Rickettsiae and ixodid ticks. Vet Res. 2009;40 2:34; doi: 10.1051/vetres/2009017. https://www.ncbi.nlm.nih.gov/pubmed/19358804.   
+39. Geller J, Nazarova L, Katargina O, Golovljova I. Borrelia burgdorferi sensu lato prevalence in tick populations in Estonia. Parasit Vectors. 2013;6:202; doi: 10.1186/1756-3305-6-202. https://www.ncbi.nlm.nih.gov/pubmed/23837798.   
+40. Katargina O, Geller J, Alekseev A, Dubinina H, Efremova G, Mishaeva N, et al. Identifi cation of Anaplasma phagocytophilum in tick populations in Estonia, the European part of Russia and Belarus. Clin Microbiol Infect. 2012;18 1:40-6; doi: 10.1111/j.1469-0691.2010.03457.x. https://www.ncbi.nlm.nih.gov/pubmed/21199155.   
+41. Katargina O, Russakova S, Geller J, Kondrusik M, Zajkowska J, Zygutiene M, et al. Detection and characterization of tick-borne encephalitis virus in Baltic countries and eastern Poland. PLoS One. 2013;8 5:e61374; doi: 10.1371/journal.pone.0061374. https://www.ncbi.nlm.nih.gov/pubmed/23650497.
+
+# Tables
+
+Table 1. Presence of Rickettsia spp. in different tick species attached to mice, voles and shrews in Estonian island and mainland counties.
+
+Table 2. Rickettsia spp. detection in ticks collected from small mammals.   
+
+<table><tr><td rowspan="4">Small mammal collecting county</td><td colspan="16">Tick species attached to small mammals</td><td></td></tr><tr><td colspan="16">N° of Rickettsia positive ticks/ N° of collected ticks (%) {rickettsia species}</td><td></td></tr><tr><td colspan="3">My. glareolus</td><td colspan="4">A. flavicollis</td><td colspan="4">S. araneus</td><td colspan="4">A. agrarius</td><td>M.</td><td></td></tr><tr><td>IR</td><td>IT</td><td>IP</td><td>tot</td><td>IR</td><td>IT</td><td>IP</td><td>tot</td><td>IR</td><td>IT</td><td>IP</td><td>tot</td><td>IR</td><td>IT</td><td>IP</td><td>tot</td><td>IR</td></tr><tr><td rowspan="2">Järvamaa</td><td>21/217</td><td>2/16</td><td>0/1</td><td>23/234</td><td>2/75</td><td>0/6</td><td>-</td><td>2/81</td><td>0/10</td><td>-</td><td>-</td><td>0/10</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>{Rh}</td><td>{CaRu#}</td><td></td><td>(9,8%)</td><td>{Rh}</td><td></td><td></td><td>(2,5%)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">Läëne-Virumaa</td><td>7/80</td><td>1/22</td><td>-</td><td>8/102</td><td>9/83</td><td>0/23</td><td>0/1</td><td>9/107</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>{Rh}</td><td>{Rh*}</td><td></td><td>(7,8%)</td><td>{Rh}</td><td></td><td></td><td>(8,4%)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">Tartumaa</td><td>1/23</td><td>0/18</td><td>0/59</td><td>1/100</td><td>3/32</td><td>0/5</td><td>0/13</td><td>3/50</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/1</td><td></td></tr><tr><td>{Rh}</td><td></td><td></td><td>(1%)</td><td>{Rh}</td><td></td><td></td><td>(6%)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">Päumaa</td><td>28/108</td><td>1/13</td><td>0/1</td><td>29/122</td><td>8/72</td><td>0/12</td><td>-</td><td>8/84</td><td>7/21</td><td>-</td><td>-</td><td>7/21</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>{Rh}</td><td>{CaRu#}</td><td></td><td>(23,8%)</td><td>{Rh}</td><td></td><td></td><td>(9,5%)</td><td>{Rh**}</td><td></td><td></td><td>(33,3%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">Saaremaa</td><td>8/111</td><td>0/1</td><td>-</td><td>8/112</td><td>5/140</td><td>0/1</td><td>-</td><td>5/141</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0/20</td><td>-</td><td>-</td><td>0/20</td><td>-</td></tr><tr><td>{Rh}</td><td></td><td></td><td>(7,1%)</td><td>{Rh}</td><td></td><td></td><td>(3,5%)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">Total</td><td>65/539</td><td>4/70</td><td>0/61</td><td>69/670</td><td>27/402</td><td>0/47</td><td>0/14</td><td>27/463</td><td>7/31</td><td>-</td><td>-</td><td>7/31</td><td>0/20</td><td>-</td><td>-</td><td>0/20</td><td>0/1</td></tr><tr><td>(12,1%)</td><td>(5,7%)</td><td></td><td>(10,3%)</td><td>(6,7%)</td><td></td><td></td><td>(5,8%)</td><td>(22,6%)</td><td></td><td></td><td>(22,6%)</td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+* 1 Rh positive IT from animal with 1 positive and 1 negative IR   
+** All positive from the same animal   
+# None of the IR from the same animal tested positive
+
+helvetica; CaRu - Candidatus Rickettsia uralica
+
+Figures   
+
+<table><tr><td rowspan="3">Small mammal collecting county</td><td colspan="10">Number of ticks infected/tested (%)</td><td colspan="2">Rickettsia spp. genospecies (positivity rate comparatively to all positive samples, %) {positivity rate comparatively to all studied samples, %}</td></tr><tr><td colspan="3">I. ricinus</td><td colspan="3">I. persulcatus</td><td colspan="3">I. trianguliceps</td><td rowspan="2">Total</td><td rowspan="2">CaRu</td><td rowspan="2">Rh</td></tr><tr><td>Larvae</td><td>Nymphs</td><td>Total</td><td>Larvae</td><td>Nymphs</td><td>Total</td><td>Larvae</td><td>Nymphs</td><td>Total</td></tr><tr><td rowspan="2">Järvamaa</td><td rowspan="2">21/288(7,2%)</td><td rowspan="2">2/14(14,3%)</td><td rowspan="2">23/302(7,6%)</td><td rowspan="2">0/1</td><td rowspan="2">-</td><td rowspan="2">0/1</td><td rowspan="2">2/19(10,5%)</td><td rowspan="2">0/3</td><td rowspan="2">2/22(9,1%)</td><td rowspan="2">25/325(7,7%)</td><td>2/25(8%)</td><td>23/25 (92%)</td></tr><tr><td>2/325{0,6%}</td><td>23/325 (7,1%)</td></tr><tr><td>Lääne-Virumaa</td><td>15/151(9,9%)</td><td>1/12(8,3%)</td><td>16/163(10,4%)</td><td>0/1</td><td>-</td><td>0/1</td><td>1/38(2,6%)</td><td>0/7</td><td>1/45(2,2%)</td><td>17/209(8,1%)</td><td>-</td><td>17/17 (1005)</td></tr><tr><td>Tartumaa</td><td>4/52(7,7%)</td><td>0/4</td><td>4/56(7,1%)</td><td>0/62</td><td>0/11</td><td>0/73</td><td>-</td><td>0/6</td><td>0/6</td><td>4/152(2,6%)</td><td>-</td><td>4/4 (100%)</td></tr><tr><td rowspan="2">Pärumaa</td><td rowspan="2">39/186(21,0%)</td><td rowspan="2">4/15(26,7%)</td><td rowspan="2">43/201(21,4%)</td><td rowspan="2">-</td><td rowspan="2">0/1</td><td rowspan="2">0/1</td><td rowspan="2">0/17</td><td rowspan="2">1/8(12,5%)</td><td rowspan="2">1/25(4%)</td><td rowspan="2">44/227(19,4%)</td><td>1/44(2,3%)</td><td>43/44 (97,7%)</td></tr><tr><td>1/227{0,4%}</td><td>43/227{18,9%}</td></tr><tr><td>Saaremaa</td><td>13/247(5,2%)</td><td>0/24</td><td>13/271(4,8%)</td><td>-</td><td>-</td><td>-</td><td>0/2</td><td>-</td><td>0/2</td><td>13/273(4,8%)</td><td>-</td><td>13/13 (100%)</td></tr><tr><td rowspan="4">TOTAL</td><td rowspan="2">92/924(10,0%)</td><td rowspan="2">7/69(10,1%)</td><td rowspan="2">99/993(10,0%)</td><td rowspan="2">0/64</td><td rowspan="2">0/12</td><td rowspan="2">0/76</td><td rowspan="2">3/93(3,2%)</td><td rowspan="2">1/24(4.2%)</td><td rowspan="2">4/117(3,4%)</td><td rowspan="2">103/1186(8,7%)</td><td>3/103(2,9%)</td><td>100/103(97,1%)</td></tr><tr><td>3/1186{0,3%}</td><td>100/1186{8,4%}</td></tr><tr><td colspan="9">Larvae, all tick species total</td><td colspan="3">95/1081(9,44%)</td></tr><tr><td colspan="9">Nymphs, all tick species total</td><td colspan="3">8/105(7,62%)</td></tr></table>
+
+I - Ixodes, Rh - Rickettsia helvetica; CaRu - Candidatus Rickettsia uralica
+
+Figure 1   
+![](images/7ae25b1ea8e32d253733a4498ce55c417816aafddcd2b3e849dd70e0e3126e4f.jpg)  
+© Vemaps.com
+
+Small mammals trapping sites 2012-2014 in Estonia. Trapping site marks are colored according to study years: blue - trapping in 2013 and 2014, red – trapping in 2012, purple – trapping site from 2012-2014. Precise coordinates of the trapping sites are as follows: Järvamaa (58.7365°; 25.6682°), Lääne-Virumaa (59.2260°; 26.1335°), Tartumaa (58.2493°; 27.3023°), Pärnumaa (58.0687°; 24.8433°) and Saaremaa (58.5075°; 22.4107°).
+
+# Supplementary Files
+
+This is a list of supplementary fi les associated with this preprint. Click to download.
+
+Graphicalabstract.tif   
+SupplementaryTable1RickettsiaMV.docx

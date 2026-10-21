@@ -1,0 +1,1441 @@
+[
+    {
+        "type": "text",
+        "text": "Competitive ability, body size and geographical range size in small mammals ",
+        "text_level": 1,
+        "bbox": [
+            297,
+            106,
+            880,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Douglas S. Glazier1* and Sara E. Eckert2 1Department of Biology, Juniata College, Huntingdon, PA, USA, 2 United States Department of Interior, United States Geological Survey, Las Vegas Field Station, South Paradise Road, Las Vegas, NV, USA ",
+        "bbox": [
+            295,
+            162,
+            904,
+            209
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            295,
+            251,
+            386,
+            268
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aim Why are some species widespread and abundant while others are restricted and rare? Darwin (1859) and others have claimed that some species have become widespread because they are competitively dominant over related, geographically restricted species. An alternative hypothesis is that wide-ranging species are ecological generalists that have been able to opportunistically colonize many kinds of new, disturbed and/or marginal habitats, whereas related narrow-ranging species are ecological specialists that competitively dominate speci®c kinds of relatively stable habitats/resources. We tested these opposing hypotheses using small mammals, for which considerable data on competitive interactions and geographical range sizes are available. ",
+        "bbox": [
+            295,
+            274,
+            907,
+            407
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Location North America, Europe, Asia, Africa and Australia. ",
+        "bbox": [
+            295,
+            414,
+            734,
+            429
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods We analysed data for forty-three competitive interactions between congeneric species in twenty genera, seven families, and four orders of small mammals. Competitive dominance was identi®ed from both ®eld and laboratory experiments, which were lumped because they showed similar results. ",
+        "bbox": [
+            295,
+            436,
+            907,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results We found that (1) when all studies were analysed as individual data points, species with smaller geographical ranges tended to be dominant over congeneric species with larger geographical ranges, (2) lumping of interaction pairs sharing one or more of the same species yielded a similar result, (3) lumping all interactions involving the same genus also showed the same result, although it was not statistically signi®cant, probably because of the small sample size resulting from this attempt to remove phylogenetic effects. Examination of the taxonomic relationships of the studied genera revealed no obvious phylogenetic effects on the relationship of competitive dominance with geographical range size. Furthermore, although body-size differences appeared to have played a role in the results observed, they cannot completely explain them. ",
+        "bbox": [
+            295,
+            502,
+            907,
+            650
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Main conclusions We tentatively conclude that Darwin's hypothesis is falsi®ed for small mammals, while the alternative hypothesis that geographically restricted species are competitively dominant over related widespread species receives some support. ",
+        "bbox": [
+            295,
+            656,
+            907,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ",
+        "text_level": 1,
+        "bbox": [
+            295,
+            714,
+            376,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "behavioural dominance, competition, congeneric species, geographical range size, mammals, meta-analysis. ",
+        "bbox": [
+            295,
+            730,
+            904,
+            759
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            75,
+            40,
+            285,
+            54
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            75,
+            79,
+            164,
+            124
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "*Correspondence: Department of Biology, Brumbaugh Science Center, 1700 Moore Street, Juniata College, Huntingdon, PA 16652-2119, USA. E-mail: glazier@juniata.edu ",
+        "bbox": [
+            73,
+            867,
+            820,
+            891
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "$©$ 2002 Blackwell Science Ltd ",
+        "bbox": [
+            75,
+            909,
+            245,
+            921
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            86,
+            243,
+            99
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nearly 150 years ago, Darwin (1859) lamented in his book On the Origin of Species: `Who can explain why one species ranges widely and is very numerous, and why another species has a narrow range and is rare? Yet these relations are of the highest importance, for they determine the present welfare, and, as I believe, the future success and modi®cation of every inhabitant of this world' (p. 6). Despite this inspirational call for further research in one of the most famous scienti®c books of all time, we are still a long way from answering Darwin's fundamental question. ",
+        "bbox": [
+            94,
+            107,
+            485,
+            246
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One approach to this problem, which has received increasing attention during the last two decades, is to search for biological correlates of geographical range size (see reviews of Kunin & Gaston, 1993; Gaston, 1994; Kunin & Gaston, 1997). Some factors that have been identi®ed as being at least potentially important within speci®c taxa include dispersal/colonization ability (e.g. Glazier, 1980; Reaka, 1980; Oakwood et al., 1993; Kelly & Woodward, 1996; GutieÂrrez & MeneÂndez, 1997; Dennis et al., 2000), niche breadth (e.g. Glazier, 1980; Brown, 1984, 1995; NovotnyÂ, 1991; Pagel et al., 1991; Kitahara & Fujii, 1994; Hecnar, 1999; Pyron, 1999; Dennis et al., 2000; KruÈ ger & McGavin, 2000), trophic level/feeding habits (e.g. Brown, 1981; Rapoport, 1982; Pagel et al., 1991; Arita et al., 1997), body size (e.g. Glazier, 1980; Reaka, 1980; Brown, 1981, 1995; Aizen & Patterson, 1990; Arita et al., 1997; GutieÂrrez & MeneÂndez, 1997; Hecnar, 1999; Pyron, 1999; KruÈ ger & McGavin, 2000), life form (e.g. Oakwood et al., 1993; Kelly & Woodward, 1996), genetic variation (e.g. Karron, 1997), and life-history traits (e.g. Glazier, 1980, 1986; Aizen & Patterson, 1990; Oakwood et al., 1993; Dennis et al., 2000). ",
+        "bbox": [
+            94,
+            248,
+            485,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, we are unaware of any comparative studies designed to test whether geographical range size is related to competitive ability. This is surprising because two prominent contrasting views on the competitive ability of widely vs. narrowly distributed species are present in the ecological and biogeographical literature. On one hand, Darwin (1859), and many others after him (e.g. Brown, 1957; Darlington, 1957; Hanski, 1982; Brown, 1984, 1995; Bowers, 1988), have argued that widespread species and higher taxa have superior `®tness', and thus have attained their large ranges by out-competing restricted, `less ®t' taxa for geographical territory. The common ®nding that widespread species are usually more abundant than related restricted species in local habitats has been offered in support of this view (Brown, 1984, 1995). ",
+        "bbox": [
+            94,
+            542,
+            485,
+            750
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, some biologists have suggested that broadly distributed species may be competitively inferior to related, more narrowly distributed species. According to this view, the greater ecological specialization of restricted species has given them enhanced competitive ability. Wideranging species are thought to be opportunistic colonists of new, disturbed and/or marginal habitats scattered over wide areas, and as such are replaced by more ecologically specialized, restricted species in relatively stable habitats (e.g. Wilson, 1961; Ricklefs & Cox, 1972, 1978; Glazier, ",
+        "bbox": [
+            94,
+            751,
+            485,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1980, 1986, 1987; NovotnyÂ, 1991; Thomas, 1991; Dennis et al., 2000; references therein). This view is supported by two well-known models: the r- vs. K-selection model (MacArthur & Wilson, 1967) and the included niche model (Miller, 1967; Morse, 1974, 1980; Henttonen & Hansson, 1984). According to the r- vs. K-selection model, species that use relatively unstable habitats or resources are selected for high colonizing ability and rapid population growth, whereas species that use relatively stable habitats or resources are selected for high competitive ability and ef®cient use of resources. The included niche model predicts that ecologically specialized species should out-compete coexisting generalized species, which are consequently forced to occupy marginal niche space. Both of these models can explain why geographically restricted species may be competitively dominant over related widespread species. ",
+        "bbox": [
+            526,
+            79,
+            917,
+            303
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Of course, a third possibility is that geographical range size is unrelated to competitive ability. This may be because other biological, historical, or environmental factors are more important, or because relative competitive ability is so habitat- or taxon-speci®c that no consistent regional differences between wide- vs. narrow-ranging species can be discerned. ",
+        "bbox": [
+            526,
+            304,
+            917,
+            400
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These alternative hypotheses were tested by comparing the relative competitive abilities of congeneric species of small mammals with different geographical range sizes. Small mammals were chosen for this study because their geographical range sizes are well known, and considerable data on interspeci®c competitive interactions are available. Only pairs of congeneric species were studied to maximize the likelihood of observing competitive effects and to minimize extraneous phylogenetic effects. ",
+        "bbox": [
+            526,
+            402,
+            917,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            549,
+            618,
+            562
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We analysed data for forty-three competitive interactions between congeneric species in twenty genera, seven families and four orders of small mammals (Appendix 1). Three kinds of studies were included and initially analysed separately: laboratory studies, ®eld studies, and studies that combined laboratory and ®eld experiments. ",
+        "bbox": [
+            526,
+            570,
+            917,
+            652
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Different investigators had different speci®c de®nitions of competitive dominance, but in all studies a dominant species was regarded as having a greater adverse effect on a subordinate species, than the reverse. The laboratory studies typically examined the relative frequency of agonistic and submissive behaviours in staged dyadic encounters, the more aggressive species being considered dominant (e.g. Sheppard, 1971; Blaustein & Risser, 1976; Montgomery, 1978; Dempster & Perrin, 1990; Livoreil et al., 1993). This approach was a reliable way to measure aggressiveness (i.e. interference competition), because it is robust to variation in testing protocols (Harper & Batzli, 1997). Most of the ®eld studies either made direct observations of relative behavioural dominance in natural areas (e.g. Chappell, 1978) baited areas (e.g. Congdon, 1974), or outdoor pens or cages (e.g. Hoffmeyer, 1973; Wolff et al., 1983; Fitzgerald & Keith, 1990), or inferred competitive dominance from ",
+        "bbox": [
+            526,
+            654,
+            917,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "82 ",
+        "bbox": [
+            94,
+            43,
+            109,
+            53
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "D. S. Glazier and S. E. Eckert ",
+        "bbox": [
+            117,
+            42,
+            282,
+            53
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "$^ { © }$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            564,
+            910,
+            919,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "estimates of relative abundance, relative survival, homerange size, foraging success, reproductive output, activity patterns, and/or microhabitat distribution in study plots ranging in size from 0.00027 to $3 ~ \\mathrm { k m } ^ { 2 }$ . The latter ®eld studies involved spatial or temporal comparisons of relative abundance or other indices of competitive success in unmanipulated plots (e.g. Tast, 1968; Hallett, 1982; Viitala, 1984; Norrdahl & KorpimaÈki, 1993) or plots or enclosures where competing species had been introduced (e.g. Vaughan & Hansen, 1964; Ziv et al., 1993), removed (e.g. Chappell, 1978; Holbrook, 1979; Gliwicz, 1981), or both (Dickman, 1986). Two ®eld studies inferred competitive dominance from regional analyses of apparent competitive exclusion among species (Kennerly, 1959; Miller, 1964). Results were lumped for multiple studies examining competitive interactions between the same two species. If the results were con¯icting they were resolved, as explained in Appendix 2. ",
+        "bbox": [
+            73,
+            79,
+            473,
+            318
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Relative geographical range sizes (larger vs. smaller) were determined using Hall (1981) and Nowak (1999). Four interaction pairs (Rattus rattus L./R. norvegicus Berkenhout, Tamias dorsalis Baird/T. umbrinus J.A. Allen, Clethrionomys gapperi Vigors/C. rutilus Pallas and Ctenomys talarum Thomas/C. australis Rusconi) were excluded from the analyses because the geographical range sizes of the species in each pair were virtually the same (Barnett & Spencer, 1951; Brown, 1971; McPhee, 1984; Comparatore et al., 1992; Vassallo, 1993). Four other interaction pairs (Microtus pennsylvanicus Ord/M. ochrogaster Wagner, M. pennsylvanicus/M. montanus Peale, Peromyscus maniculatus Wagner/P. truei Shufeldt and Sylvilagus ¯oridanus J.A. Allen/S. transitionalis Bangs) were also omitted because no dominance hierarchy could be demonstrated (Getz, 1962; Koplin & Hoffman, 1968; Miller, 1969; Murie, 1971; Grant, 1972; Stoecker, 1972; Krebs, 1977; Llewellyn, 1980; Probert & Litvaitis, 1996). ",
+        "bbox": [
+            73,
+            318,
+            473,
+            569
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Body size was examined because it can contribute to competitive dominance (Miller, 1967; Grant, 1972; Morse, 1974; Viitala, 1977; Henttonen & Hansson, 1984; Persson, 1985). Relative body masses (larger vs. smaller) were determined using data in Silva & Downing (1995). ",
+        "bbox": [
+            73,
+            569,
+            473,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "G-tests of independence (using Williams's correction, following Sokal & Rohlf, 1995) were used to test for relationships between competitive dominance and geographical range size, between competitive dominance and body mass, and between geographical range size and body mass. ",
+        "bbox": [
+            73,
+            640,
+            473,
+            710
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tests were made in three ways. First, each interaction pair was treated as a separate data point. Secondly, interaction pairs involving the same species were lumped and counted as a single data point. Thirdly, interaction pairs involving the same genus were lumped and counted as a single data point. In this lumping process, when studies did not agree the prevailing trend was used. If there was no prevailing trend, the data were omitted. This rarely occurred: once when examining competitive dominance in relation to geographical range size, once when examining competitive dominance in relation to body mass, and thrice when examining geographical range size in relation to body mass. ",
+        "bbox": [
+            505,
+            79,
+            905,
+            246
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The last two methods were employed to minimize phylogenetic bias (Harvey & Pagel, 1991). An exploration of possible phylogenetic effects was also made by comparing results in different taxa using the taxonomic scheme of Nowak (1999). ",
+        "bbox": [
+            505,
+            246,
+            905,
+            318
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            338,
+            591,
+            351
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The forty-three interaction pairs used in this study, and their taxonomic af®nities, are summarized in Appendix 1. Results of ®eld and laboratory studies were similar: relatively restricted species were more often competitively dominant over congeneric widespread species than vice versa (Table 1). These results were signi®cant for ®eld studies and for all studies combined, and marginally signi®cant for laboratory studies. As the ®eld and laboratory studies revealed similar results they were analysed together in the rest of this section. The results were also not affected by the fact that in some interaction pairs the species with a smaller distribution was still quite wide-ranging (e.g. Sorex araneus L., Lepus europaeus Pallas and P. leucopus Ra®nesque). ",
+        "bbox": [
+            505,
+            358,
+            905,
+            542
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Competitive dominance and geographical range size were signi®cantly inversely associated for all interaction pairs, including when interaction pairs sharing the same species were lumped (Table 2). A similar result was observed when all interaction pairs in the same genus were lumped, although it was not signi®cant, probably because of the small sample size resulting from this lumping process (Table 2). Examination of the taxonomic relationships of the studied genera revealed no obvious phylogenetic effects on the relationship of competitive dominance with geographical range size, although this conclusion should be re-examined when more data on non-rodent competitive ",
+        "bbox": [
+            505,
+            542,
+            907,
+            710
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b06a59c85a09174090dec0201f96580735748ab9c06d5c0815729c5358d7b1e.jpg",
+        "table_caption": [
+            "Table 1 Comparison of study types, counting all interaction pairs of congeneric species of small mammals as individual data points "
+        ],
+        "table_footnote": [
+            "Chi-square values $( \\chi ^ { 2 } )$ for associations between competitive dominance and relative geographical range size are shown with signi®cance levels $( \\ ^ { * } P < 0 . 1 0$ ; $^ { * * } P < 0 . 0 5$ ; $^ { * } \\ddot { } ^ { * } \\ddot { } P < 0 . 0 1$ ; $^ { * } \\ast \\ast \\ast { } P _ { \\mathrm { ~ } } < 0 . 0 0 5$ ; $^ { * } \\ast \\ast \\ast \\ast \\ast P < 0 . 0 0 1$ ). "
+        ],
+        "table_body": "<table><tr><td>Study type</td><td>Dominant has larger geographical range</td><td>Dominant has smaller geographical range</td><td>x²</td></tr><tr><td>Laboratory studies</td><td>4</td><td>11</td><td>3.29*</td></tr><tr><td>Field studies</td><td>4</td><td>13</td><td>4.76**</td></tr><tr><td>Both field &amp; laboratory studies for each interaction pair</td><td>4</td><td>7</td><td>0.08</td></tr><tr><td>All studies combined</td><td>12</td><td>31</td><td>8.59****</td></tr></table>",
+        "bbox": [
+            356,
+            734,
+            905,
+            847
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Small mammals ",
+        "bbox": [
+            786,
+            42,
+            873,
+            53
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "83 ",
+        "bbox": [
+            887,
+            42,
+            904,
+            52
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "$©$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            75,
+            909,
+            435,
+            923
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/68aa7a69b0022ac22989fa9e2e4652e782a20585fc16e3626074c1ed98d8db15.jpg",
+        "table_caption": [
+            "Table 2 Effects of different data treatments on associations between competitive dominance and relative geographical range size among congeneric species pairs of small mammals "
+        ],
+        "table_footnote": [
+            "Chi-square values $( \\chi ^ { 2 } )$ with signi®cance levels are shown $^ { \\ast } P < 0 . 1 0$ ; $^ { * } \\ddot { } ^ { * } P < 0 . 0 5$ ; $^ { * } \\ddot { } \\ddot { } \\dot { } \\dot { } P _ { } < 0 . 0 1$ ; $^ { * * * * } { } ^ { * * } { } ^ { P } < 0 . 0 0 5$ ; $^ { * } \\ast \\ast \\ast \\ast P < 0 . 0 0 1$ ). "
+        ],
+        "table_body": "<table><tr><td>Study type</td><td>Dominant has larger geographical range</td><td>Dominant has smaller geographical range</td><td>x2</td></tr><tr><td>All pairs as individual data points</td><td>12</td><td>31</td><td>8.59****</td></tr><tr><td>Lumping of pairs involving same species</td><td>8</td><td>22</td><td>6.68***</td></tr><tr><td>Lumping of pairs in same genus</td><td>6</td><td>13</td><td>2.57</td></tr></table>",
+        "bbox": [
+            90,
+            81,
+            640,
+            195
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "interactions become available (see Appendix 1). Most (36) of the interactions observed in this study were between rodents. Nevertheless, for both rodent and non-rodent interactions, species with the smaller geographical ranges were more often competitively dominant than species with larger ranges (27 vs. nine, and four vs. three, respectively). ",
+        "bbox": [
+            89,
+            249,
+            489,
+            333
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Competitive dominance was highly signi®cantly associated with larger body mass, as shown by all three methods of comparison (Table 3). Geographical range size also tended to be inversely related to body mass (Table 4). However, the latter tendency was only marginally signi®cant when all interaction pairs were treated as individual data points, and it lost signi®cance when interaction pairs with the same species were lumped, or when interaction pairs in the same genus were lumped. ",
+        "bbox": [
+            89,
+            333,
+            489,
+            462
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            480,
+            211,
+            494
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This study tested whether geographical range size is related to the relative competitive ability of congeneric species of small mammals. There are three possibilities: (1) widespread ",
+        "bbox": [
+            89,
+            501,
+            489,
+            546
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "species are competitively dominant over relatively restricted species, (2) restricted species are dominant over relatively widespread species, or (3) there is no association between geographical range size and competitive ability. The present analysis suggests that the second alternative is the most important one. Using three methods of data analysis, competitive dominance was found to be more prevalent among geographically restricted species than among related widespread species (Tables 1 and 2). ",
+        "bbox": [
+            519,
+            249,
+            922,
+            375
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to Glazier (1987), restricted species have tended to evolve in relatively stable habitats where K-selection for high competitive ability is favoured. This hypothesis is supported by the ®nding that restricted species of rodents and moths tend to have more stable populations than related widespread species (Glazier, 1986). It is further supported by an extensive comparative analysis of the lifehistory traits and habitat distribution of Peromyscus species (Glazier, 1980). Widely distributed species in this genus tend to occur more frequently in new, disturbed and/or marginal habitats than narrowly distributed species. Moreover, the habitat distribution of the widespread species tends to ",
+        "bbox": [
+            519,
+            375,
+            922,
+            544
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/de4bbaa4c03226ce9d84cbd9f983c6baf515bd938f7722519b77eb871385b4aa.jpg",
+        "table_caption": [
+            "Table 3 Effects of different data treatments on associations between competitive dominance and relative body mass among congeneric species pairs of small mammals "
+        ],
+        "table_footnote": [
+            "Chi-square values $( \\chi ^ { 2 } )$ with signi®cance levels are shown $\\ddot { \\bar { \\kappa } } P < 0 . 1 0$ ; $^ { * } \\ddot { } \\stackrel { * } { } P < 0 . 0 5$ ; $\\because P < 0 . 0 1$ ; $^ { * } { } ^ { * } { } ^ { * } { } ^ { * } { } ^ { * } { } P < 0 . 0 0 5$ ; *****P < 0.001). "
+        ],
+        "table_body": "<table><tr><td>Study type</td><td>Dominant has larger body mass</td><td>Dominant has smaller body mass</td><td>x²</td></tr><tr><td>All pairs as individual data points</td><td>30</td><td>5</td><td>19.53****</td></tr><tr><td>Lumping of pairs involving same species</td><td>23</td><td>2</td><td>14.88****</td></tr><tr><td>Lumping of pairs in same genus</td><td>15</td><td>2</td><td>10.93****</td></tr></table>",
+        "bbox": [
+            90,
+            599,
+            921,
+            687
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcef86e83ed47d4d61abf7f8323578cf65d9a23697ad247061581c85bfdce98b.jpg",
+        "table_caption": [
+            "Table 4 Effects of different data treatments on associations between relative body mass and relative geographical range size among congeneric species pairs of small mammals "
+        ],
+        "table_footnote": [
+            "Chi-square values $( \\chi ^ { 2 } )$ with signi®cance levels are shown $^ { \\ast } P < 0 . 1 0$ ; $^ { * * } P < 0 . 0 5$ ; $^ { * } \\ddot { } \\dot { } \\dot { } P _ { } < 0 . 0 1$ ; $^ { * } \\ast \\ast \\ast { } P _ { \\mathrm { ~ < ~ } } 0 . 0 0 5$ ; $^ { * } \\ast \\ast \\ast \\ast \\ast P < 0 . 0 0 1$ ). "
+        ],
+        "table_body": "<table><tr><td>Study type</td><td>Larger body mass with larger geographical range</td><td>Smaller body mass with larger geographical range</td><td>x2</td></tr><tr><td>All pairs as individual data points</td><td>12</td><td>23</td><td>3.47*</td></tr><tr><td>Lumping of pairs involving same species</td><td>8</td><td>16</td><td>2.66</td></tr><tr><td>Lumping of pairs in same genus</td><td>5</td><td>10</td><td>1.65</td></tr></table>",
+        "bbox": [
+            90,
+            732,
+            638,
+            861
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "84 ",
+        "bbox": [
+            92,
+            42,
+            110,
+            53
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "D. S. Glazier and S. E. Eckert ",
+        "bbox": [
+            117,
+            40,
+            282,
+            53
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            561,
+            909,
+            921,
+            923
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "shrink at localities with coexisting restricted species, as would be expected if the restricted species were competitively dominant. In addition, the restricted species have signi®cantly lower reproductive potentials, as predicted from K-selection operating in relatively stable populations. ",
+        "bbox": [
+            78,
+            79,
+            470,
+            149
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "What gives many restricted small mammal species a competitive advantage over their more wide-ranging relatives? Ecological specialization, a common trait of narrowly distributed species (e.g. Glazier, 1980), is probably involved. Greater ecological specialization may permit a more ef®cient use of resources (i.e. greater exploitative competition), or may favour the evolution of greater aggressiveness (i.e. interference competition) as a way of protecting specialized niches from invasion by generalized species (Miller, 1967; Colwell & Fuentes, 1975). Many studies have shown that specialized species tend to have higher competitive ability than related generalized species (e.g. Miller, 1967; Morse, 1974; Holbrook, 1978; Hallett, 1982). Further research is needed to identify the precise mechanisms involved and their relative importance. ",
+        "bbox": [
+            78,
+            150,
+            470,
+            358
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results of this study are consistent with two additional general observations. First, most taxa include far more restricted species than widespread species (e.g. Rapoport, 1982; Gaston, 1994; Brown, 1995). If widespread species were competitively superior, they should have over-run the habitats of most restricted species, causing their extinction. That they have not attests to the ability of restricted species to hold their own against widespread species (either through superior competitive ability in speci®c habitats, or by occupation of refugia protected by barriers). ",
+        "bbox": [
+            78,
+            360,
+            470,
+            500
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Secondly, in most taxa, species with small ranges are usually more numerous in the tropics than at higher latitudes (e.g. Rapoport, 1982; Glazier, 1987; Stevens, 1989; Brown, 1995; Dynesius & Jansson, 2000; Gaston & Blackburn, 2000). If one assumes that interspeci®c competition is generally more severe in the species-rich tropics, then the survival there of legions of narrow-ranging species argues against the idea that they are inferior competitors. ",
+        "bbox": [
+            78,
+            500,
+            470,
+            611
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The included niche model of Miller (1967) is consistent with the present results, as well. Miller (1967) and Morse (1974, 1980) have reviewed many avian and mammalian examples of specialized species having smaller niche spaces enclosed within the larger niche spaces of more generalized related species. In most of these cases, it is the specialized species that are competitively dominant. They also note that many of these specialized species have larger body sizes. Larger animals are almost always better at interference competition than smaller animals (Persson, 1985). This is also true for the small mammals included in this study. Large species are more often competitively dominant over related smaller species than vice versa (Table 3). ",
+        "bbox": [
+            78,
+            612,
+            470,
+            792
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One may argue that the association between competitive dominance and geographical range size observed in this study is merely a secondary result of both being correlated with body size. However, although competitive dominance is signi®cantly related to body size, geographical range size is only weakly related to body size (Table 4). Thus, although body-size differences appear to have contributed to the ",
+        "bbox": [
+            78,
+            795,
+            470,
+            891
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "association between competitive dominance and geographical range size, they do not completely explain this pattern. Larger body size may very well be one of the several traits that restricted species have evolved to make themselves more effective competitors with relatively generalized, widespread species that are constantly threatening to invade their niche spaces. ",
+        "bbox": [
+            510,
+            79,
+            902,
+            177
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The present results contradict the view of Darwin (1859), Brown (1984) and others that widespread generalized species are competitively dominant over restricted specialized species. Although Brown presented no data on relative competitive ability, he inferred that widespread species are competitively dominant over restricted species because usually they are more abundant in local habitats. According to Brown (1984, 1995), a trade-off between being specialized vs. generalized (jack of all trades, but master of none) may not exist because, if it operated, specialized restricted species should be more abundant locally than generalized widespread species, which is generally not true. ",
+        "bbox": [
+            510,
+            177,
+            902,
+            345
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, a positive association between local abundance and geographical range does not necessarily mean that widespread species are competitively dominant over related restricted species. Plausible counter-arguments can be made for both exploitative and interference competition. For example, specialized restricted species could be more ef®cient resource exploiters than generalized widespread species, and still have smaller local populations because they use rarer or lower quality resources. In addition, species selection among restricted, locally rare species may have put a high premium on effective interference competition because it ensures that the limited resources on which these species have specialized will not be usurped by relatively generalized species. Restricted species are on the edge of extinction, and thus those that have evolved behavioural dominance are more likely to have survived than those that did not. ",
+        "bbox": [
+            510,
+            346,
+            902,
+            567
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus, unlike Brown (1984, 1995), we suggest that tradeoffs between being specialized vs. generalized have been important in determining the different geographical range sizes of related species. Other trade-offs, such as those between competitive ability (enhanced in restricted species) and dispersal/colonization pro®ciency (enhanced in widespread species), may also be important. Such trade-offs have been assumed in many species-coexistence models (e.g. Levins & Culver, 1971; Horn & MacArthur, 1972; Hastings, 1980; Tilman et al., 1997; Holmes & Wilson, 1998; Kinzig et al., 1999), and have been invoked to explain several ecological and biogeographical patterns, including succession (Tilman, 1990, 1994), species packing in communities (Kinzig et al., 1999), the taxon cycle (Wilson, 1961; Ricklefs & Cox, 1972; Glazier, 1980), effects of habitat destruction on species loss (Tilman, 1994; Tilman et al., 1997), and the tendency of many widespread species to inhabit new, disturbed and/or marginal, species-poor habitats in contrast to related restricted species that preferentially occupy relatively stable, species-rich habitats (e.g. Glazier, 1980, 1986; NovotnyÂ, 1991; references therein). Considerable empirical evidence for colonization-competition trade-offs exists, as well (see Holmes & Wilson, 1998). ",
+        "bbox": [
+            510,
+            570,
+            902,
+            891
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "Small mammals ",
+        "bbox": [
+            788,
+            43,
+            873,
+            53
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "",
+        "bbox": [
+            887,
+            43,
+            904,
+            52
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "$©$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            78,
+            910,
+            433,
+            921
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The generalist vs. specialist and colonization vs. competition trade-offs may act in concert with other trade-offs resulting from r- vs. K-selection to in¯uence patterns of geographical range sizes among related species (see Glazier, 1980, 1986). In support, Bowers & Harris (1994) have developed a metapopulation model showing that changing environments favour generalists with good dispersal ability, whereas constant environments favour specialists with high ef®ciency of resource utilization. The model of Pulliam (2000) also shows how dispersal ability and niche breadth may be linked to determine species-distribution patterns. Kitahara & Fujii (1994) have further argued that a synthesis of the generalist vs. specialist and r- vs. K-selection dichotomies are needed to better understand the biodiversity and structure of natural communities. Thus, the above trade-offs may represent interrelated aspects of a syndrome of factors that cause some species to be more widespread than other species. Further exploration of how these trade-offs interact to affect the geographical spread of a species may take us a long way toward answering Darwin's fundamental question quoted at the beginning of this paper. However, if the present results are generally applicable, the answer may be quite different from what Darwin anticipated. ",
+        "bbox": [
+            90,
+            79,
+            492,
+            402
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            423,
+            297,
+            434
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D.S. Glazier thanks A. Basset, N. J. Gotelli, E. R. Pianka, and other participants at the Seventh International Congress of Ecology (19±25 July 1998 in Florence, Italy) for comments and encouragement regarding an oral version of this paper. The authors also thank two anonymous reviewers for helpful comments on an earlier version of this paper. ",
+        "bbox": [
+            90,
+            443,
+            489,
+            529
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            549,
+            213,
+            562
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Aizen, M.A. & Patterson, W.A. (1990) Acorn size and geographical range in the North American oaks (Quercus L.). Journal of Biogeography, 17, 327±332. ",
+            "Arita, H.T., Figueroa, F., Frisch, A., Rodriguez, P. & Santos-Del-Prado, K. (1997) Geographical range size and the conservation of Mexican mammals. Conservation Biology, 11, 92±100. ",
+            "Baker, A.E.M. (1974) Interspeci®c aggressive behavior of pocket gophers Thomomys bottae and T. talpoides (Geomyidae: Rodentia). Ecology, 55, 671±673. ",
+            "Barnett, S.A. & Spencer, M.M. (1951) Feeding, social behaviour and interspeci®c competition in wild rats. Behaviour, 3, 227± 242. ",
+            "Blaustein, A.R. & Risser, A.C. Jr (1976) Interspeci®c interactions between three sympatric species of kangaroo rats (Dipodomys). Animal Behavior, 24, 381±385. ",
+            "Bowers, M.A. (1988) Relationships between local distribution and geographic range of desert heteromyid rodents. Oikos, 53, 303±308. ",
+            "Bowers, M.A. & Harris, L.C. (1994) A large-scale metapopulation model of interspeci®c competition and environmental change. Ecological Modelling, 72, 251±273. ",
+            "Brown, J.H. (1971) Mechanisms of competitive exclusion between two species of chipmunks. Ecology, 52, 305±311. "
+        ],
+        "bbox": [
+            90,
+            569,
+            489,
+            892
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Brown, J.H. (1981) Two decades of homage to Santa Rosalia: toward a general theory of diversity. American Zoologist, 21, 877±888. ",
+            "Brown, J.H. (1984) On the relationship between abundance and distribution of species. American Naturalist, 124, 255± 279. ",
+            "Brown, J.H. (1995) Macroecology. University of Chicago Press, Chicago, IL. ",
+            "Brown, L.N. (1964) Ecology of three species of Peromyscus from Southern Missouri. Journal of Mammalogy, 45, 189± 202. ",
+            "Brown, W.L. (1957) Centrifugal speciation. Quarterly Review of Biology, 32, 247±277. ",
+            "Cameron, G.N. (1971) Niche overlap and competition in woodrats. Journal of Mammalogy, 52, 288±296. ",
+            "Chapman, J.A. & Verts, B.J. (1969) Interspeci®c aggressive behavior in rabbits. Oregon Agricultural Experiment Station Technical Papers, 2425, 17±18. ",
+            "Chappell, M.A. (1978) Behavioral factors in the altitudinal zonation of chipmunks (Eutamias). Ecology, 59, 565±579. ",
+            "Christopher, E.A. (1973) Sympatric relationships of the kangaroo rats, Dipodomys merriami and Dipodomys agilis. Journal of Mammalogy, 54, 317±326. ",
+            "CihaÂkovaÂ, J. & Frynta, D. (1996) Intraspeci®c and interspeci®c behavioural interactions in the wood mouse (Apodemus sylvaticus) and the yellow-necked mouse (Apodemus ¯avicollis) in a neutral cage. Folia Zoologica, 45, 105±113. ",
+            "Colwell, R.K. & Fuentes, E.R. (1975) Experimental studies of the niche. Annual Review of Ecology and Systematics, 9, 281±310. ",
+            "Comparatore, V.M., Agnusdei, M. & Busch, C. (1992) Habitat relations in sympatric populations of Ctenomys australis and Ctenomys talarum (Rodentia, Octodontidae) in a natural grassland. Zeitschrift fuÈr SaÈugetierkunde, 51, 47±55. ",
+            "Congdon, J. (1974) Effect of habitat quality on distributions of three sympatric species of desert rodents. Journal of Mammalogy, 55, 659±662. ",
+            "Cranford, J.A. & Derting, T.L. (1983) Intra and interspeci®c behavior of Microtus pennsylvanicus and Microtus pinetorum. Behavioral Ecology and Sociobiology, 13, 7±11. ",
+            "Dalquest, W.W. (1941) Ecological relationships of four small mammals in western Washington. Journal of Mammalogy, 22, 170±173. ",
+            "Darlington, P.J. (1957) Zoogeography: the geographical distribution of animals. Wiley, New York. ",
+            "Darwin, C. (1859) On the origin of species. Murray, London. ",
+            "Dempster, E.R. & Perrin, M.R. (1990) Interspeci®c aggression in sympatric Gerbillurus species. Zeitschrift fuÈr SaÈugetierkunde, 55, 392±398. ",
+            "Dennis, R.L.H., Donato, B., Sparks, T.H. & Pollard, E. (2000) Ecological correlates of island incidence and geographical range among British butter¯ies. Biodiversity and Conservation, 9, 343±359. ",
+            "Dial, K.P. (1988) Three sympatric species of Neotoma: dietary specialization and coexistence. Oecologia, 76, 531±537. ",
+            "Dickman, C.R. (1986) An experimental study of competition between two species of dasyurid marsupials. Ecological Monographs, 56, 221±241. ",
+            "Dickman, C.R. (1991) Mechanisms of competition among insectivorous mammals. Oecologia, 85, 464±471. "
+        ],
+        "bbox": [
+            524,
+            79,
+            921,
+            882
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "86 ",
+        "bbox": [
+            92,
+            42,
+            110,
+            53
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "D. S. Glazier and S. E. Eckert ",
+        "bbox": [
+            117,
+            40,
+            282,
+            53
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "$^ { © }$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            561,
+            909,
+            921,
+            923
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Dynesius, M. & Jansson, R. (2000) Evolutionary consequences of changes in species' geographical distributions driven by Milankovitch climate oscillations. Proceedings of the National Academy of Sciences of the USA, 97, 9115±9120. ",
+            "Ellenbroek, F.J.M. (1980) Interspeci®c competition in the shrews Sorex araneus and Sorex minutus (Soricidae, Insectivora): a population study of the Irish pygmy shrew. Journal of Zoology, 192, 119±136. ",
+            "Fitch, J.H. (1963) A comparative behavioral study of Peromyscus leucopus and Peromyscus maniculatus. Transactions of the Kansas Academy of Science, 66, 160±164. ",
+            "Fitzgerald, S.M. & Keith, L.B. (1990) Intra- and inter-speci®c dominance relationships among arctic and snowshoe hares. Canadian Journal of Zoology, 68, 457±464. ",
+            "Gaston, K.J. (1994) Rarity. Chapman & Hall, London. ",
+            "Gaston, K.J. & Blackburn, T.M. (2000) Pattern and process in macroecology. Blackwell Science, Oxford. ",
+            "Getz, L.L. (1962) Aggressive behavior of the meadow and prairie voles. Journal of Mammalogy, 43, 351±358. ",
+            "Glazier, D.S. (1980) Ecological shifts and the evolution of geographically restricted species of North American Peromyscus (mice). Journal of Biogeography, 7, 63±83. ",
+            "Glazier, D.S. (1986) Temporal variability of abundance and the distribution of species. Oikos, 47, 309±314. ",
+            "Glazier, D.S. (1987) Toward a predictive theory of speciation: the ecology of isolate selection. Journal of Theoretical Biology, 126, 323±333. ",
+            "Gliwicz, J. (1981) Competitive interactions within a forest rodent community in central Poland. Oikos, 37, 353±362. ",
+            "Gliwicz, J. (1984) Competition among forest rodents: effects of Apodemus ¯avicollis and Clethrionomys glareolus on A. agrarius. Acta Zoologica Fennica, 172, 57±60. ",
+            "Grant, P.R. (1972) Interspeci®c competition among rodents. Annual Review of Ecology and Systematics, 3, 79±106. ",
+            "GutieÂrrez, D. & MeneÂndez, R. (1997) Patterns in the distribution, abundance and body size of carabid beetles (Coleoptera: Caraboidea) in relation to dispersal ability. Journal of Biogeography, 24, 903±914. ",
+            "Haim, A. & Fluxman, S. (1996) Daily rhythms of metabolic rates: role of chemical signals in coexistence of spiny mice of the genus Acomys. Journal of Chemical Ecology, 22, 223±229. ",
+            "Hall, E.R. (1981) The mammals of North America. Wiley, New York. ",
+            "Hallett, J.G. (1982) Habitat selection and the community matrix of a desert small-mammal fauna. Ecology, 63, 1400±1410. ",
+            "Hanski, I. (1982) Dynamics of regional distribution: the core and satellite hypothesis. Oikos, 38, 210±221. ",
+            "Harper, S.J. & Batzli, G.O. (1997) Are staged dyadic encounters useful for studying aggressive behaviour of arvicoline rodents? Canadian Journal of Zoology, 75, 1051±1058. ",
+            "Harvey, P.H. & Pagel, M.D. (1991) The comparative method in evolutionary biology. Oxford University Press, New York. ",
+            "Hastings, A. (1980) Disturbance, coexistence, history, and competition for space. Theoretical Population Biology, 18, 363±373. ",
+            "Hecnar, S.J. (1999) Patterns of turtle species' geographic range size and a test of Rapoport's rule. Ecography, 22, 435±445. "
+        ],
+        "bbox": [
+            75,
+            79,
+            473,
+            879
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Heller, H.G. (1971) Altitudinal zonation of chipmunks (Eutamias): interspeci®c aggression. Ecology, 52, 312±319. ",
+            "Henttonen, H. & Hansson, L. (1984) Interspeci®c relations between small rodents in European boreal and subarctic environments. Acta Zoologica Fennica, 172, 61±65. ",
+            "Henttonen, H., Kaikusalo, A., Tast, J. & Viitala, J. (1977) Interspeci®c competition between small rodents in subarctic and boreal ecosystems. Oikos, 29, 581±590. ",
+            "Hoffmeyer, I. (1973) Interaction and habitat selection in the mice Apodemus ¯avicollis and A. sylvaticus. Oikos, 24, 108± 116. ",
+            "Holbrook, S.J. (1978) Habitat relationships and coexistence of four sympatric species of Peromyscus in northwestern New Mexico. Journal of Mammalogy, 59, 18±26. ",
+            "Holbrook, S.J. (1979) Habitat utilization, competitive interactions and coexistence of three species of cricetine rodents in East-Central Arizona. Ecology, 60, 758±769. ",
+            "Holmes, E.E. & Wilson, H.B. (1998) Running from trouble: long-distance dispersal and the competitive coexistence of inferior species. American Naturalist, 151, 578±586. ",
+            "Hoover, K.D., Whitford, W.G. & Flavill, P. (1977) Factors in¯uencing the distributions of two species of Perognathus. Ecology, 58, 877±884. ",
+            "Horn, H.S. & MacArthur, R.H. (1972) Competition among fugitive species in a harlequin environment. Ecology, 53, 749±752. ",
+            "Kantak, G.E. (1983) Behavioral, seed preference and habitat selection experiments with two sympatric Peromyscus species. American Midland Naturalist, 109, 246±252. ",
+            "Kantak, G.E. (1996) Microhabitats of two Peromyscus (deer and white-footed mice) species in old ®elds and prairies of Wisconsin. Canadian Field Naturalist, 110, 322±325. ",
+            "Karron, J.D. (1997) Genetic consequences of different patterns of distribution and abundance. The biology of rarity: causes and consequences of rare-common differences (eds W. E. Kunin and K. J. Gaston), pp. 174±189. Chapman & Hall, London. ",
+            "Kelly, C.K. & Woodward, F.I. (1996) Ecological correlates of plant range size: taxonomies and phylogenies in the study of plant commonness and rarity in Great Britain. Philosophical Transactions of the Royal Society of London B, 351, 1261± 1269. ",
+            "Kennerly, T.E. Jr (1959) Contact between the ranges of two allopatric species of pocket gophers. Evolution, 13, 247±263. ",
+            "Kinzig, A.P., Levin, S.A., Dushoff, J. & Pacala, S. (1999) Limiting similarity, species packing, and system stability for hierarchical competition-colonization models. American Naturalist, 153, 371±383. ",
+            "Kitahara, M. & Fujii, K. (1994) Biodiversity and community structure of temperate butter¯y species within a gradient of human disturbance: an analysis based on the concept of generalist vs. specialist strategies. Researches on Population Ecology, 36, 187±199. ",
+            "Koplin, J.R. & Hoffman, R.S. (1968) Habitat overlap and competitive exclusion in voles (Microtus). American Midland Naturalist, 80, 494±507. ",
+            "Krebs, C.J. (1977) Competition between Microtus pennsylvanicus and Microtus ochrogaster. American Midland Naturalist, 97, 42±49. "
+        ],
+        "bbox": [
+            509,
+            79,
+            904,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Small mammals ",
+        "bbox": [
+            786,
+            42,
+            873,
+            53
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "87 ",
+        "bbox": [
+            887,
+            42,
+            904,
+            52
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "$©$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            75,
+            909,
+            433,
+            923
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "KruÈ ger, O. & McGavin, G.C. (2000) Macroecology of local insect communities. Acta Oecologica, 21, 21±28. ",
+            "Krushinska, N.L., Rychlik, L. & Pucek, Z. (1994) Agonistic interactions between resident and immigrant sympatric water shrews: Neomys fodiens and N. anomalus. Acta Theriologica, 39, 227±247. ",
+            "Kunin, W.E. & Gaston, K.J. (1993) The biology of rarity: patterns, causes, and consequences. Trends in Ecology and Evolution, 8, 298±301. ",
+            "Kunin, W.E. & Gaston, K.J. (1997) The biology of rarity: causes and consequences of rare-common differences. Chapman & Hall, London. ",
+            "Levins, R. & Culver, D. (1971) Regional coexistence of species and competition between rare species. Proceedings of the National Academy of Sciences of the USA, 68, 1246±1248. ",
+            "Livoreil, B., Gouat, P. & Baudoin, C. (1993) A comparative study of social behaviour of two sympatric ground squirrels (Spermophilus spilosoma, S. mexicanus). Ethology, 93, 236± 246. ",
+            "Llewellyn, J.B. (1980) Seasonal change in the aggressive behavior of Peromyscus maniculatus inhabiting a pinyonjuniper woodland in western Nevada. Journal of Mammalogy, 61, 337±341. ",
+            "Long, C.A. (1996) Ecological replacement of the deer mouse, Peromyscus maniculatus, by the white-footed mouse, P. leucopus, in the Great Lakes Region. Canadian Field Naturalist, 110, 271±277. ",
+            "MacArthur, R.H. & Wilson, E.O. (1967) The theory of island biogeography. Princeton University Press, Princeton, NJ. ",
+            "MacMillen, R.E. (1964) Population ecology, water relations, and social behavior of a southern California semidesert rodent fauna. University of California Publications in Zoology, 71, 1±66. ",
+            "McCarley, H. (1963) Distributional relationships of sympatric populations of Peromyscus leucopus and P. gossypinus. Ecology, 44, 784±788. ",
+            "McPhee, E.C. (1984) Ethological aspects of mutual exclusion in the parapatric species of Clethrionomys, C. gapperi and C. rutilus. Acta Zoologica Fennica, 172, 71±73. ",
+            "Miller, R.S. (1964) Ecology and distribution of pocket gophers (Geomyidae) in Colorado. Ecology, 45, 256±272. ",
+            "Miller, R.S. (1967) Pattern and processes in competition. Advances in Ecological Research, 4, 1±74. ",
+            "Miller, W.C. (1969) Ecological and ethological isolating mechanisms between Microtus pennsylvanicus and Microtus ochrogaster at Terre Haute, Indiana. American Midland Naturalist, 82, 140±148. ",
+            "Montgomery, W.I. (1978) Intra- and interspeci®c interactions of Apodemus sylvaticus (L.) and A. ¯avicollis (Melchoir) under laboratory conditions. Animal Behavior, 26, 1247±1254. ",
+            "Morse, D.H. (1974) Niche breadth as a function of social dominance. American Naturalist, 108, 818±830. ",
+            "Morse, D.H. (1980) Behavioral mechanisms in ecology. Harvard University Press, Cambridge. ",
+            "Murie, J.O. (1971) Behavioral relationships between two sympatric voles (Microtus): relevance to habitat segregation. Journal of Mammalogy, 52, 181±186. ",
+            "MyllymaÈki, A. (1977) Interactions between the ®eld vole Microtus agrestis and its microtine competitors in Central-Scandinavian populations. Oikos, 29, 570±580. "
+        ],
+        "bbox": [
+            92,
+            79,
+            487,
+            882
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Norrdahl, K. & KorpimaÈki, E. (1993) Predation and interspeci®c competition in two Microtus voles. Oikos, 67, 149±158. ",
+            "Novak, M.A. & Getz, L.L. (1969) Aggressive behavior of meadow voles and pine voles. Journal of Mammalogy, 50, 637±639. ",
+            "NovotnyÂ , V. (1991) Effect of habitat persistence on the relationship between geographic distribution and local abundance. Oikos, 61, 431±433. ",
+            "Nowak, R.M. (1999) Walker's mammals of the world, 6th edn. Johns Hopkins University Press, Baltimore. ",
+            "Oakwood, M., Jurado, E., Leishman, M. & Westoby, M. (1993) Geographic ranges of plant species in relation to dispersal morphology, growth form and diaspore weight. Journal of Biogeography, 20, 563±572. ",
+            "Pagel, M.P., May, R.M. & Collie, A.R. (1991) Ecological aspects of the geographic distribution and diversity of mammal species. American Naturalist, 137, 791±815. ",
+            "Persson, L. (1985) Asymmetrical competition: are larger animals competitively superior? American Naturalist, 126, 261±266. ",
+            "Petersen, M.K. (1973) Interactions between the cotton rats, Sigmodon fulviventer and S. hispidus. American Midland Naturalist, 90, 319±333. ",
+            "Petersen, M.K. & Helland, M.J. (1978) Behavioral interactions in Sigmodon fulviventer and S. hispidus. Journal of Mammalogy, 59, 118±124. ",
+            "Price, M.V., Longland, W.S. & Goldingay, R.L. (1991) Niche relationships of Dipodomys agilis and D. stephensi: two sympatric kangaroo rats of similar size. American Midland Naturalist, 126, 172±186. ",
+            "Probert, B.L. & Litvaitis, J.A. (1996) Behavioral interactions between invading and endemic lagomorphs: implications for conserving a declining species. Biological Conservation, 76, 289±295. ",
+            "Pulliam, H.R. (2000) On the relationship between niche and distribution. Ecology Letters, 3, 349±361. ",
+            "Pyron, M. (1999) Relationships between geographical range size, body size, local abundance, and habitat breadth in North American suckers and sun®shes. Journal of Biogeography, 26, 549±558. ",
+            "Rapoport, E.H. (1982) Areography: geographical strategies of species. Pergamon, Oxford. ",
+            "Reaka, M.L. (1980) Geographic range, life history patterns, and body size in a guild of coral-dwelling mantis shrimps. Evolution, 34, 1019±1030. ",
+            "Ricklefs, R.E. & Cox, G.W. (1972) Taxon cycles in the West Indian avifauna. American Naturalist, 106, 195±219. ",
+            "Ricklefs, R.E. & Cox, G.W. (1978) Stage of taxon cycle, habitat distribution, and population density in the avifauna of the West Indies. American Naturalist, 112, 875±895. ",
+            "Schroder, G.D. & Rosenzweig, M.L. (1975) Perturbation analysis of competition and overlap in habitat utilization between Dipodomys ordii and Dipodomys merriami. Oecologia, 19, 9±28. ",
+            "Sheppard, D.H. (1971) Competition between two chipmunk species (Eutamias). Ecology, 52, 320±329. ",
+            "Sheppe, W. (1967) Habitat restriction by competitive exclusion in the mice Peromyscus and Mus. Canadian Field Naturalist, 81, 81±98. ",
+            "Silva, M. & Downing, J.A. (1995) CRC handbook of mammalian body mass. CRC Press, Boca Raton, FL. "
+        ],
+        "bbox": [
+            524,
+            79,
+            919,
+            882
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "88 ",
+        "bbox": [
+            92,
+            42,
+            110,
+            53
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "D. S. Glazier and S. E. Eckert ",
+        "bbox": [
+            117,
+            40,
+            282,
+            53
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "$^ { © }$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            563,
+            909,
+            919,
+            923
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Sokal, R.R. & Rohlf, F.J. (1995) Biometry: the principles and practice of statistics in biological research, 3rd edn. Freeman, New York. ",
+            "Stevens, G.C. (1989) The latitudinal gradient in geographical range: how so many species coexist in the tropics. American Naturalist, 133, 240±256. ",
+            "Stoecker, R.E. (1972) Competitive relations between sympatric populations of voles (Microtus montanus and M. pennsylvanicus). Journal of Animal Ecology, 41, 311±329. ",
+            "Tast, J. (1968) In¯uence of the root vole, Microtus oeconomus (Pallas), upon the habitat selection of the ®eld vole, Microtus agrestis (L.), in northern Finland. Annales Academiae Scientiarum Fennicae Series A, IV. Biologica, 136, 2±23. ",
+            "Thomas, C.D. (1991) Habitat use and geographic ranges of butter¯ies from the wet lowlands of Costa Rica. Biological Conservation, 55, 269±281. ",
+            "Tilman, D. (1990) Constraints and trade-offs: toward a predictive theory of competition and succession. Oikos, 58, 3±15. ",
+            "Tilman, D. (1994) Competition and biodiversity in spatially structured habitats. Ecology, 75, 2±16. ",
+            "Tilman, D., Lehman, C.L. & Yin, C. (1997) Habitat destruction, dispersal, and deterministic extinction in competitive communities. American Naturalist, 149, 407±435. ",
+            "Vassallo, A.I. (1993) Habitat shift after experimental removal of the bigger species in sympatric Ctenomys talarum and Ctenomys australis (Rodentia: Octodentiadae). Behaviour, 127, 247±263. ",
+            "Vaughan, T.A. & Hansen, R.M. (1964) Experiments on interspeci®c competition between two species of pocket gophers. American Midland Naturalist, 72, 444±452. ",
+            "Viitala, J. (1977) Social organization in cyclic subarctic populations of the voles Clethrionomys rufocanus (Sund.) and Microtus agrestis (L.). Annales Zoologici Fennici, 14, 53±93. "
+        ],
+        "bbox": [
+            75,
+            79,
+            473,
+            533
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "Viitala, J. (1984) The red vole, Clethrionomys rutilus (Pall.), as a subordinate member of the rodent community at Kilpisjarvi, Finnish Lapland. Acta Zoologica Fennica, 172, 67±70. ",
+            "Wilson, E.O. (1961) The nature of the taxon cycle in the Melanesian ant fauna. American Naturalist, 95, 169±193. ",
+            "Wolfe, A.J., Whelan, J. & Hayden, T.S. (1996) The diet of the mountain hare (Lepus timidus hibernicus) on coastal grassland. Journal of Zoology, 240, 804±810. ",
+            "Wolff, J.O., Freeberg, M.H. & Dueser, R.D. (1983) Interspeci®c territoriality in two sympatric species of Peromyscus (Rodentia: Cricetidae). Behavioral Ecology and Sociobiology, 12, 237±242. ",
+            "Ziv, Y., Abramsky, Z., Kotler, B.P. & Subach, A. (1993) Interference competition and temporal and habitat partitioning in two gerbil species. Oikos, 66, 237±246. "
+        ],
+        "bbox": [
+            509,
+            79,
+            904,
+            280
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BIOSKETCHES ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            314,
+            657,
+            327
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Douglas S. Glazier has a PhD in ecology from Cornell University. His research interests are in the ®elds of physiological ecology, evolutionary ecology and biogeography, with particular emphasis on energetic approaches, life-history patterns, the biology of springs and biological correlates of geographical ranges and taxonomic diversity. ",
+        "bbox": [
+            527,
+            352,
+            878,
+            448
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sara E. Eckert has a B.S. from Juniata College. Her current research activities are in the ®eld of desert-®re ecology with emphasis on vegetation and seed-bank changes in the Mojave and Sonoran Deserts. ",
+        "bbox": [
+            527,
+            460,
+            868,
+            515
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Small mammals ",
+        "bbox": [
+            786,
+            42,
+            873,
+            53
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "89 ",
+        "bbox": [
+            887,
+            42,
+            904,
+            52
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "$©$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            77,
+            909,
+            433,
+            923
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd27a506ed546b049a6ff2eba79b5a77b72aed923aca9caec81ca6a2d4621524.jpg",
+        "table_caption": [
+            "Appendix 1 Summary of interaction pairs $\\mathbf { D = }$ dominant, SU $=$ subordinate, $\\mathrm { { L } = }$ larger, $\\mathsf { S } =$ smaller) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Interaction pairs</td><td>Competitive dominance</td><td>Geographical range</td><td>Body mass</td><td>Source</td></tr><tr><td>Infraclass: Metatheria</td><td></td><td></td><td></td><td></td></tr><tr><td>Superorder: Marsupialia</td><td></td><td></td><td></td><td></td></tr><tr><td>Order: Dasyuromorpha</td><td></td><td></td><td></td><td></td></tr><tr><td>Family Dasyuridae</td><td></td><td></td><td></td><td></td></tr><tr><td>Antechinus swainsonii</td><td>D</td><td>S</td><td>L</td><td>Dickman (1986, 1991)</td></tr><tr><td>A. stuartii</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Infraclass: Eutheria</td><td></td><td></td><td></td><td></td></tr><tr><td>Order: Insectivora</td><td></td><td></td><td></td><td></td></tr><tr><td>Family Soricidae</td><td></td><td></td><td></td><td></td></tr><tr><td>Neomys fodiens</td><td>D</td><td>L</td><td>L</td><td>Krushinska et al. (1994)</td></tr><tr><td>N. anomalus</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>S. araneus</td><td>D</td><td>S</td><td>L</td><td>Dickman (1991)</td></tr><tr><td>S. minutus</td><td>SU</td><td>L</td><td>S</td><td>Disagrees: Ellenbroek (1980)</td></tr><tr><td>S. vagrans</td><td>D</td><td>L</td><td>L</td><td>Dalquest (1941)</td></tr><tr><td>S. trowbridgii</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>Order: Lagomorpha</td><td></td><td></td><td></td><td></td></tr><tr><td>Family: Leporidae</td><td></td><td></td><td></td><td></td></tr><tr><td>Lepus arcticus</td><td>D</td><td>S</td><td>L</td><td>Fitzgerald &amp; Keith (1990)</td></tr><tr><td>L. americanus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>L. europaeus</td><td>D</td><td>S</td><td>L</td><td>Wolfe et al. (1996)</td></tr><tr><td>L. timidus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Sylvilagus florianus</td><td>D</td><td>L</td><td>L</td><td>Chapman &amp; Verts (1969)</td></tr><tr><td>S. bachmani</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>Order: Rodentia</td><td></td><td></td><td></td><td></td></tr><tr><td>Suborder: Sciuromorpha</td><td></td><td></td><td></td><td></td></tr><tr><td>Family: Sciuridae</td><td></td><td></td><td></td><td></td></tr><tr><td>Spermophilus mexicanus</td><td>D</td><td>S</td><td>L</td><td>Livoreil et al. (1993)</td></tr><tr><td>S. spilosoma</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Tamias amoenus*</td><td>D</td><td>S</td><td>L</td><td>Heller (1971), Sheppard (1971),</td></tr><tr><td>T. minimus*</td><td>SU</td><td>L</td><td>S</td><td>Chappell (1978)</td></tr><tr><td>T. speciosus*</td><td>D</td><td>S</td><td></td><td>Chappell (1978)</td></tr><tr><td>T. amoenus*</td><td>SU</td><td>L</td><td></td><td>Disagrees: Heller (1971)</td></tr><tr><td>T. speciosus*</td><td>D</td><td>S</td><td></td><td>Chappell (1978)</td></tr><tr><td>T. minimus*</td><td>SU</td><td>L</td><td></td><td></td></tr><tr><td>T. alpinus*</td><td>D</td><td>S</td><td></td><td>Heller (1971)</td></tr><tr><td>T. speciosus*</td><td>SU</td><td>L</td><td></td><td></td></tr><tr><td>Suborder: Myomorpha</td><td></td><td></td><td></td><td></td></tr><tr><td>Family: Geomyidae</td><td></td><td></td><td></td><td></td></tr><tr><td>Geomys personatus</td><td>D</td><td>S</td><td></td><td>Kennerly (1959)</td></tr><tr><td>G. bursarius</td><td>SU</td><td>L</td><td></td><td></td></tr><tr><td>Thomomyts bottae</td><td>D</td><td>S</td><td>S</td><td>Miller (1964), Vaughan &amp; Hansen (1964)</td></tr><tr><td>T. talpoides</td><td>SU</td><td>L</td><td>L</td><td>Disagrees: Baker (1974)</td></tr><tr><td>Family: Heteromyidae</td><td></td><td></td><td></td><td></td></tr><tr><td>Chaetodipus penicillatus†</td><td>D</td><td>L</td><td></td><td>Hoover et al. (1977), Hallett (1982)</td></tr><tr><td>Chaetodipus intermedius†</td><td>SU</td><td>S</td><td></td><td></td></tr><tr><td>Dipodomys ordii</td><td>D</td><td>L</td><td>L</td><td>Schroder &amp; Rosenzweig (1975),</td></tr><tr><td>D. merriami</td><td>SU</td><td>S</td><td>S</td><td>Blaustein &amp; Risser (1976)</td></tr><tr><td>D. panamintinus</td><td>D</td><td>S</td><td>L</td><td>Blaustein &amp; Risser (1976)</td></tr><tr><td>D. merriami</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>D. panamintinus</td><td>D</td><td>S</td><td>L</td><td>Blaustein &amp; Risser (1976)</td></tr><tr><td>D. ordii</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>D. agilis</td><td>D</td><td>S</td><td>L</td><td>Christopher (1973)</td></tr><tr><td>D. merriami</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>D. stephensi</td><td>D</td><td>S</td><td>L</td><td>Price et al. (1991)</td></tr><tr><td>D. agilis</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>D. deserti</td><td>D</td><td>S</td><td>L</td><td>Congdon (1974)</td></tr></table>",
+        "bbox": [
+            89,
+            95,
+            919,
+            890
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "90 ",
+        "bbox": [
+            92,
+            42,
+            110,
+            53
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "D. S. Glazier and S. E. Eckert ",
+        "bbox": [
+            117,
+            40,
+            282,
+            53
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "Ó Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            563,
+            909,
+            921,
+            923
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3d56935669de9cba483f8c5f197459a35d0f63602ea5a99e7d87a6763bb5c99.jpg",
+        "table_caption": [
+            "Appendix 1 continued "
+        ],
+        "table_footnote": [
+            "* Eutamias in original source. ",
+            "Perognathus in original source. ",
+            "à Misidenti®ed as M. arvalis in MyllymaÈ ki (1977) (see Norrdahl & KorpimaÈ ki, 1993). "
+        ],
+        "table_body": "<table><tr><td>Interaction pairs</td><td>Competitive dominance</td><td>Geographical range</td><td>Body mass</td><td>Source</td></tr><tr><td>D. merriami</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Family: Muridae</td><td></td><td></td><td></td><td></td></tr><tr><td>Subfamily: Arvicolinae</td><td></td><td></td><td></td><td></td></tr><tr><td>Clethrionomys rufocanus</td><td>D</td><td>S</td><td>L</td><td>Viitala (1984)</td></tr><tr><td>C. rutilus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Microtus pinetorum</td><td>D</td><td>S</td><td>S</td><td rowspan=\"2\">Novak &amp; Getz (1969), Cranford &amp; Derting (1983)</td></tr><tr><td>M. pennsylvanicus</td><td>SU</td><td>L</td><td>L</td></tr><tr><td>M. oeconomus</td><td>D</td><td>L</td><td>L</td><td>Tast (1968), Henttonen et al. (1977)</td></tr><tr><td>M. agrestis</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>M. epiroticus‡</td><td>D</td><td>S</td><td>S</td><td rowspan=\"2\">Myllymäki (1977), Norrdahl &amp; Korpimäki (1993)</td></tr><tr><td>M. agrestis</td><td>SU</td><td>L</td><td>L</td></tr><tr><td>Subfamily: Gerbillinae</td><td></td><td></td><td></td><td></td></tr><tr><td>Gerbillurus tytonis</td><td>D</td><td>S</td><td>L</td><td>Dempster &amp; Perrin (1990)</td></tr><tr><td>G. paeba</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>G. vallinus</td><td>D</td><td>S</td><td>L</td><td>Dempster &amp; Perrin (1990)</td></tr><tr><td>Gerbillus paeba</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Gerbillus pyramidum</td><td>D</td><td>L</td><td>L</td><td>Ziv et al. (1993)</td></tr><tr><td>G. allenbyi</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>Subfamily: Murinae</td><td></td><td></td><td></td><td></td></tr><tr><td>Acomys cabirinus</td><td>D</td><td>L</td><td>S</td><td>Haim &amp; Fluxman (1996)</td></tr><tr><td>A. russatus</td><td>SU</td><td>S</td><td>L</td><td></td></tr><tr><td>Apodemus flavicollis</td><td>D</td><td>S</td><td>L</td><td>Hoffmeyer (1973), Montgomery (1978), Ciháková &amp; Frynta (1996)</td></tr><tr><td>A. sylvaticus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>A. flavicollis</td><td>D</td><td>S</td><td>L</td><td>Gliwicz (1981, 1984)</td></tr><tr><td>A. agrarius</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Subfamily: Sigmoidontinae</td><td></td><td></td><td></td><td></td></tr><tr><td>Neotoma albigula</td><td>D</td><td>L</td><td>L</td><td>Dial (1988)</td></tr><tr><td>N. stephensi</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>N. albigula</td><td>D</td><td>L</td><td></td><td>Dial (1988)</td></tr><tr><td>N. devia</td><td>SU</td><td>S</td><td></td><td></td></tr><tr><td>N. stephensi</td><td>D</td><td>L</td><td></td><td>Dial (1988)</td></tr><tr><td>N. devia</td><td>SU</td><td>S</td><td></td><td></td></tr><tr><td>N. fuscipes</td><td>D</td><td>S</td><td>L</td><td>Cameron (1971)</td></tr><tr><td>N. lepida</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Peromyscus leucopus</td><td>D</td><td>S</td><td>L</td><td>Fitch (1963), Kantak (1983, 1996), Long (1996); Disagrees: Brown (1964), Wolff et al. (1983)</td></tr><tr><td>P. maniculatus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>P. leucopus</td><td>D</td><td>L</td><td>L</td><td>Brown (1964)</td></tr><tr><td>P. boylii</td><td>SU</td><td>S</td><td>S</td><td></td></tr><tr><td>P. gossypinus</td><td>D</td><td>S</td><td>L</td><td>McCarley (1963)</td></tr><tr><td>P. leucopus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>P. oreas</td><td>D</td><td>S</td><td>S</td><td>Sheppe (1967)</td></tr><tr><td>P. maniculatus</td><td>SU</td><td>L</td><td>L</td><td></td></tr><tr><td>P. boylii</td><td>D</td><td>S</td><td>L</td><td>Holbrook (1979)</td></tr><tr><td>P. maniculatus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>P. californicus</td><td>D</td><td>S</td><td>L</td><td>MacMillen (1964)</td></tr><tr><td>P. eremicus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>P. californicus</td><td>D</td><td>S</td><td>L</td><td>MacMillen (1964)</td></tr><tr><td>P. maniculatus</td><td>SU</td><td>L</td><td>S</td><td></td></tr><tr><td>Sigmodon fulviventer</td><td>D</td><td>S</td><td></td><td>Petersen (1973), Petersen &amp; Helland (1978)</td></tr><tr><td>S. hispidus</td><td>SU</td><td>L</td><td></td><td></td></tr></table>",
+        "bbox": [
+            73,
+            95,
+            905,
+            822
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Small mammals ",
+        "bbox": [
+            786,
+            42,
+            873,
+            53
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "91 ",
+        "bbox": [
+            887,
+            42,
+            902,
+            53
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "$©$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            75,
+            909,
+            433,
+            923
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix 2 Explanations of decisions made when studies disagreed ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            79,
+            497,
+            93
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Peromyscus leucopus vs. P. maniculatus. ",
+        "bbox": [
+            92,
+            104,
+            332,
+            118
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Laboratory experiments and ®eld observations of Fitch (1963), Kantak (1983, 1996) and Long (1996) suggest that P. leucopus is dominant over P. maniculatus. These studies were given priority because other studies have found no advantage of one species over the other (e.g. Brown, 1964; Wolff et al., 1983). ",
+        "bbox": [
+            92,
+            118,
+            922,
+            157
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sorex araneus vs. S. minutus. ",
+        "bbox": [
+            92,
+            163,
+            268,
+            175
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The study of Dickman (1991) was given priority because he gave experimental evidence for currently acting competition, whereas Ellenbroek (1980) claimed that competition between these species had only occurred in the past. ",
+        "bbox": [
+            92,
+            176,
+            919,
+            202
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Tamias amoenus vs. T. speciosus. ",
+        "bbox": [
+            92,
+            209,
+            292,
+            221
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The ®eld experiment of Chappell (1978) was given priority over the laboratory experiment of Heller (1971). ",
+        "bbox": [
+            92,
+            221,
+            731,
+            235
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Thomomys bottae vs. T. talpoides. ",
+        "bbox": [
+            92,
+            241,
+            299,
+            254
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The ®eld data of Miller (1964) and Vaughan & Hansen (1964) were given greater weight than the laboratory data of Baker (1974). ",
+        "bbox": [
+            92,
+            254,
+            870,
+            267
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "92 ",
+        "bbox": [
+            92,
+            42,
+            110,
+            53
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "D. S. Glazier and S. E. Eckert ",
+        "bbox": [
+            117,
+            40,
+            282,
+            53
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "$\\circledcirc$ Blackwell Science Ltd 2002, Journal of Biogeography, 29, 81±92 ",
+        "bbox": [
+            563,
+            909,
+            921,
+            923
+        ],
+        "page_idx": 11
+    }
+]

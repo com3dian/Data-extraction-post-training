@@ -1,0 +1,186 @@
+# Leptospira spp. in Small Mammals from Areas with Low and High Human Hantavirus Incidences in South-West Germany
+
+Anna Obiegala, $^{1}$ Christoph Albrecht, $^{1}$ Maysaa Dafalla, $^{2}$ Stephan Drewes, $^{2}$ Carolin Oltersdorf, $^{1}$ Hendrik Turni $^{3}$ , Christian Imholt, $^{4}$ Jens Jacob, $^{4}$ Christiane Wagner-Wiening, $^{5}$ Rainer G. Ulrich, $^{2}$ and Martin Pfeffer $^{1}$
+
+# Abstract
+
+Introduction: Leptospirosis is caused by Leptospira spp. and is considered the most widespread zoonotic disease worldwide. It mimics nephropathia epidemiica in humans, a disease mainly caused by Puumala hantavirus (PUUV). Small mammals are reservoirs for Leptospira spp. and PUUV. Seewis virus (SWSV) is a shrew-borne hantavirus with unknown pathogenicity. The objective of this study was to estimate the prevalence for Leptospira spp. and the frequency of Leptospira-hantavirus co-infections in small mammals collected at locations with high and low incidences in humans.
+
+Materials and Methods: In 2012 and 2013, 736 small mammals belonging to seven species (Apodemus flavicollis, Microtus agrestis, Microtus arvalis, Myodes glareolus, Sorex araneus, S. coronatus, and S. minutus) were collected at four high incidence sites (H1-H4) and four low (L1-L4) incidence sites for PUUV infection in humans. Kidney-derived DNA samples were tested for Leptospira spp. by real-time PCR targeting the lipl 32 gene and further analyzed by duplex PCR targeting the flaB and the secY genes. For the detection of Seewis virus, lung-derived DNA was tested via RT-PCR targeting the nucleocapsid gene.
+
+Results: Altogether, 42 of the 736 small mammals including 27 of 660 bank voles and 11 of 66 shrews, were positive for Leptospira spp., while Sorex spp. (14.7%) showed significantly higher prevalences compared to bank voles (4.1%). Detected Leptospira spp. were pathogenic species other than L. kirschneri. Significantly more Leptospira-positive bank voles were found at H sites than at L sites. Altogether 22.2% of positive bank voles were infected with PUUV. Double infection of PUUV and Leptospira spp. occurrence in bank voles is 1.86 times (OR = 1.86; 95% CI: 0.72–4.73) more likely than infections with each pathogen separately.
+
+Discussion: Leptospira- positive bank voles are focally positively associated with PUUV infection in bank voles and with human hantavirus cases. It should be considered that shrews may serve as Leptospira spp. reservoirs.
+
+Keywords: Leptospirosis, Pumala, rodent-borne
+
+# Introduction
+
+LEPTOSPIRA SPP. ARE helical-shaped bacteria, which are causative agents for leptospirosis, a zoonotic disease. As 10 pathogenic Leptospira species are grouped in 20 serogroups and 300 serovars are known, identical serovars may belong to different Leptospira species (Levett 2001). Lep
+
+tospirosis is considered the most widespread zoonotic disease worldwide (Vijayachari et al. 2008). Earlier, it was described to be a disease of occupational risk for veterinarians, farmers, and rodent control workers in Europe (Levett 2001, Bharti et al. 2003). Today, leptospirosis is linked with increasing recreational outdoor activities, such as water sports (Jansen et al. 2005, Mayer-Scholl et al. 2014) and is therefore of
+
+emerging concern for humans in temperate regions. Though leptospirosis is known to cause a broad variety of clinical symptoms, its clinical picture has also been described to mimic hemorrhagic fever with renal syndrome (HFRS), which is caused by a group of Old World hantaviruses including the bank vole (Myodes glareolus)-associated Puumala virus (PUUV) (Lundkvist et al. 1997, Goris et al. 2013, Clement et al. 2014, Mayer-Scholl et al. 2014). PUUV is causing the majority of human hantavirus disease cases in Germany and is endemic in south-western Germany (Ettinger et al. 2012). In addition, Tula virus (TULV), another vole-borne hantavirus, and Seewis virus (SWSV), a shrew-borne hantavirus, have been detected in south-western Germany (Schlegel et al. 2012, Schmidt et al. 2016). PUUV and Leptospira spp. can cause fever, headache, anuria, conjunctivitis, and myalgia and almost identical kidney value abnormalities in humans (Sion et al. 2002). However, most infections caused by Leptospira spp. and PUUV are mis- or underdiagnosed because most symptoms are nonspecific and because of the lacking awareness especially in Europe (Goris et al. 2013, Klempa et al. 2013, Clement et al. 2014, Mayer-Scholl et al. 2014). The incidence of notified leptospirosis cases per year is 0.115/100,000 averaged for the years 2012 and 2013 in Germany. It is 0.105/100,000 also averaged for 2012 and 2013 for the federal state of Baden-Wuerttemberg, south-western Germany (Hoffmeister et al. 2010, Robert Koch Institute: SurvStat@RKI 2.0, https://survstat.rki.de, accessed: June17, 2016), which was examined in the present study. Hantavirus incidences in humans vary greatly spatially and temporally. The average notified incidence for the years 2012/2013 was 1.94/100,000 for Germany and in particular 8.63/100,000 for Baden-Wuerttemberg where the most notified human cases $(n = 5321$ cases in the years between 2001 and 2015) were reported in comparison to other German states (Robert Koch Institute: SurvStat@RKI 2.0, https://survstat.rki.de, accessed: June 17, 2016). Both, Leptospira spp. and PUUV are transmitted through direct or indirect contact (excretions of infected small mammals and contaminated water or soil) (Dournon et al. 1984, Yanagihara et al. 1985, Tsai et al. 1987, Kallio et al. 2006, Reis et al. 2008). Small mammals are the most important reservoirs for both PUUV and several pathogenic Leptospira spp. (Faine et al. 1999, Levett 2001, Meerburg et al. 2009, Hughes et al. 2014, Mayer-Scholl et al. 2014). As clinical and epidemiological similarities are known for leptospirosis and PUUV-infection, we conducted this study to determine the prevalence of pathogenic Leptospira spp. in small mammals, which have been analyzed for the presence of PUUV before and co-infections of the two pathogens.
+
+The objectives of this study:
+
+(i) Detection and comparison of prevalences of pathogenic Leptospira spp. in small mammal species from sites with high and low hantavirus incidences in humans,   
+(ii) Quantification of hantavirus (PUUV and SwSV)-Leptospira spp. co-infections in small mammals.
+
+# Materials and Methods
+
+# Small mammal samples
+
+In 2012 (between June and November) and 2013 (between March and November), small mammals were collected at four sites with high incidence of notified human hantavirus
+
+cases (sites H1-H4) and four sites with low notified incidence (sites L1-L4) in Baden-Wuerttemberg, Germany (Drewes et al. in press; Fig. 1a and Table 1). In total 736 small mammals of seven species were available for the present study (Myodes glareolus $(n = 660)$ , Sorex coronatus $(n = 44)$ , Sorex araneus $(n = 22)$ , Apodemus flavicollis $(n = 4)$ , Microtus agrestis $(n = 3)$ , Sorex minutus $(n = 2)$ , and Microtus arvalis $(n = 1)$ ). In 2012, 526 small mammals (499 Myodes glareolus, 13 S. coronatus, 7 S. araneus, 3 Microtus agrestis, 3 A. flavicollis, and 1 Microtus arvalis) were trapped with a range of 38-122 animals per site. In 2013, 210 small mammals (161 Myodes glareolus, 31 S. coronatus, 15 S. araneus, 2 S. minutus, and 1 A. flavicollis) were captured. Further information on trapping methods were published before (Drewes et al. in press).
+
+# DNA and RNA extraction
+
+For DNA extraction, $600 - 800\mu \mathrm{L}$ phosphate-buffered saline (PBS, pH: 7.2) was added to $0.01 - 0.02\mathrm{g}$ of each small mammals' kidney tissue, depending on the initial kidney sample weight. Subsequently, $0.6\mathrm{g}$ of sterile ceramic beads (PeqLab Biotechnologie GmbH, Erlangen, Germany) (diameter sized $1.4\mathrm{mm}$ ) were added to each sample. Samples were homogenized for $3\times 15\mathrm{s}$ at $100\mathrm{Hz}$ by the Precellys® 24 Tissue Homogenizer (Bertin Technologies, Montigny-le-Bretonneux, France). Afterward, DNA was extracted with the QIAamp DNA Mini Kit (Qiagen, Hilden, Germany) as recommended by the manufacturer. Quantity and quality of the extracted DNA samples were determined with a spectrophotometer (Peqlab Biotechnologie GmbH, NanoDrop 2000c).
+
+For RT-PCR detection of SWSV in shrews, RNA was isolated from lung tissue by QIAzol® Lysis Reagent (Qiagen) treatment as described by Schmidt et al. (2016).
+
+Samples were tested for PUUV by PCR and ELISA in a previous study (Drewes et al. in press).
+
+Altogether, 90of 660 M. glareolus (13.64%; 95% CI: 11.2-16.5) were previously detected positive for PUUV. In 2012, 85 of 499 M. glareolus (17.0%; 95% CI: 14.0-20.6) were positive for PUUV and in 2013, five out of 161 M. glareolus (3.1%; 95% CI: 1.1-7.3) were tested positive (Drewes et al. in press).
+
+# PCR methods for the detection of Leptospira spp.
+
+A real-time PCR targeting the partial lipl 32 gene for pathogenic Leptospira spp. was performed with the primers LipL32-45F (5'-AAG CAT TACCGC TTG TGG TG-3') and LipL32-286R (5'-GAA CTC CCA TTT CAG CGA TT-3') following a modified protocol using the Mx3000P QPCR System (Agilent Technologies, Santa Clara, CA) (Stoddard et al. 2009, Woll et al. 2012). We modified the PCR as previously described by Woll et al. (2012) by using a different probe (Univ 18 s-p: $5^{\prime}$ YAK-CGCGGTTCTATTTTGTTG GT BBQ-3'). This PCR method detects following pathogenic Leptospira spp.: L. interrogans, L. kirschneri, L. weilii, L. noguchii, L. borgpetersenii, L. santarosai, L. alstoni, and L. alexanderi. Its limit of detection was 20 genomic equivalents/ reaction with a $95\%$ cutoff value. To distinguish L. kirschneri from other pathogenic Leptospira spp., samples were further investigated by duplex PCR using primers G1 ( $5^{\prime}$ -CTG AAT CGC TGT ATA AAA GT-3'), G2 ( $5^{\prime}$ -GGA AAA CAA ATG GTC GGA AG-3'), B64 I ( $5^{\prime}$ -ACT AAC TGA GAA ACT TCT AC-3'), and B64 II ( $5^{\prime}$ -TCC TTA AGT CGA ACC TAT GA-3')
+
+![](images/655cef4ace5791027336e23006c62e6285a1afac93ff5619bc14b2a764cf9186.jpg)  
+FIG. 1. (a) Percentage prevalences of Leptospira spp. in small mammals collected at districts with high incidences (H) and low incidences (L) for human hantavirus infection from Baden-Wuerttemberg, south-west Germany (taken from Drewes et al. submitted, modified) Legend: H1 = Stuttgart; H2 = Tübingen; H3 = Göppingen; H4 = Heidenheim; L1 = Schwäbisch Hall; L2 = Emmendingen; L3 = Freiburg im Breisgau; L4 = Waldshut (b) Human leptospirosis incidences per district in Baden-Wuerttemberg, Germany, accessed for the years 2012 and 2013 (according to Robert Koch Institute: SurvStat@RKI 2.0, https://survstat.rki.de, accessed: June 27, 2016 for the years 2012 and 2013) Legend:H1 = Stuttgart; H2 = Tübingen; H3 = Göppingen; H4 = Heidenheim; L1 = Schwäbisch Hall; L2 = Emmendingen; L3 = Freiburg im Breisgau; L4 = Waldshut.   
+©Map of Baden-Wuerttemberg: Landesgesundheitsamt BW; map of Germany: Federal Agency for Cartography and Geodesy.
+
+©Map of Baden-Wuerttemberg: Landesgesundheitsamt BW; map of Germany: Federal Agency for Cartography and Geodesy.   
+![](images/c172ba312c80dd0faba2bbf8e671f1aa24189605e32ae336f77433391e4b3470.jpg)  
+0 (30)   
+>0.2 only in 2012 (5)   
+>0.2 only in 2013 (4)   
+>0.2 in 2012 and 2013 (6)
+
+(Gravekamp et al. 1993). The duplex PCR is targeting the partial flagellin-encoding flaB gene (563 base pairs, bp), which exclusively amplifies in $L$ kirschneri and the preprotein translocase-encoding secY gene (285 bp), which amplifies in several different pathogenic Leptospira spp. such as $L$ interrogans, $L$ weilii, $L$ noguchii, $L$ borgpetersenii, $L$ santarosai, and $L$ meyeri (Gravekamp et al. 1993). We used this PCR method to distinguish $L$ kirschneri from other pathogenic Leptospira species. Due to low amounts of Leptospira DNA detected by real-time PCR, only 18 of 42 samples yielded a result by duplex PCR.
+
+# RT-PCR method for the detection of SWSV
+
+Serological and RT-PCR analyses for PUUV and TULV in bank voles and in other rodents have been described previously (Drewes et al. in press). RT-PCR detection of SWSV in shrews and sequencing of amplification products followed a previously described standard protocol with slight modifications (Schlegel et al. 2012) using SuperScript III One-Step RT-PCR kit with Platinum Taq (Invitrogen, Carlsbad, CA) and the BigDye Terminator version 1.1 Cycle Sequencing-Kit (Applied Biosystems, Darmstadt, Germany).
+
+TABLE 1. DETECTION OF LEPTOSPIRA SPP. DNA IN SMALL MAMMALS COLLECTED AT THE EIGHT TRAPPING SITES WITH HIGH (H1-H4) AND LOW (L1-L4) HUMAN HANTAVIRUS INCIDENCES DURING 2012 AND 2013 FROM BADEN-WUERTTEMBERG, GERMANY   
+
+<table><tr><td rowspan="2"></td><td colspan="16">Number of positive small mammals/total number of small mammals per study site and year (percentage of small mammals positive for Leptospira spp.)</td><td></td></tr><tr><td colspan="2">H1</td><td colspan="2">H2</td><td colspan="2">H3</td><td colspan="2">H4</td><td colspan="2">L1</td><td colspan="2">L2</td><td colspan="2">L3</td><td colspan="2">L4</td><td>Total</td></tr><tr><td>Small mammal species</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td>2012</td><td>2013</td><td></td></tr><tr><td>Bank vole (Myodes glareolus)</td><td>10/87 (12)</td><td>1/12 (8)</td><td>4/80 (5)</td><td>2/15 (13)</td><td>2/80 (2.5)</td><td>0/9 (0)</td><td>1/68 (1.5)</td><td>0/15 (0)</td><td>5/55 (9)</td><td>1/44 (2)</td><td>0/32 (0)</td><td>0/6 (0)</td><td>2/40 (5)</td><td>0/46 (0)</td><td>0/57 (0)</td><td>0/14 (0)</td><td>27/660 (4.1)</td></tr><tr><td>Common shrew (Sorex araneus)</td><td>1/2 (50)</td><td>0/5 (0)</td><td>—</td><td>0/1 (0)</td><td>0/1 (0)</td><td>0/2 (0)</td><td></td><td>0/1 (0)</td><td>0/1 (0)</td><td>1/4 (25)</td><td>—</td><td>—</td><td>0/1 (0)</td><td>—</td><td>0/1 (0)</td><td>0/2 (0)</td><td>3/22 (14)</td></tr><tr><td>Crowned shrew (Sorex coronatus)</td><td>1/4 (25)</td><td>2/10 (20)</td><td>1/2 (50)</td><td>3/9 (33)</td><td>0/5 (0)</td><td>1/7 (14)</td><td>0/1 (0)</td><td>1/3 (33)</td><td>0/2 (0)</td><td>0/1 (0)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0/1 (0)</td><td>8/44 (18)</td></tr><tr><td>Pygmy shrew (Sorex minutus)</td><td>—</td><td>—</td><td>—</td><td>0/1 (0)</td><td>—</td><td>—</td><td>—</td><td>0/1 (0)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0/2 (0)</td></tr><tr><td>Voles (Microtusspp.a)</td><td>\( 1^b/11 \) (100)</td><td>—</td><td>—</td><td>—</td><td>\( 0/1 (0)^b \)</td><td>—</td><td>\( 1^b/1 \) (100)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0/1 (0)</td><td>—</td><td>2/4 (50)</td></tr><tr><td>Yellow-necked mouse (Apodemus flavicollis)</td><td>0/1 (0)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2/2 (100)</td><td>0/1 (0)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2/4 (50)</td></tr><tr><td>Total</td><td colspan="2">16/122 (13.1)</td><td colspan="2">10/108 (9.3)</td><td colspan="2">3/105 (2.9)</td><td colspan="2">3/90 (3.3)</td><td colspan="2">9/110 (8.2)</td><td colspan="2">0/38 (0)</td><td colspan="2">2/87 (2.3)</td><td colspan="2">0/76 (0)</td><td>42/736 (5.7)</td></tr></table>
+
+aMicrotus arvalis $(n = 1)$ and Microtus agrestis $(n = 3)$ b
+
+For RT-PCR novel S segment-specific primers SWSV_S_400_fw $5^{\prime}$ -ATC TTG CTY AAR GGA CTC TAC ATG CT and SWSV_S_890 rev $5^{\prime}$ -TCA GGY ACW GAC TGG ACA GCA GG were used and the annealing temperature was adjusted to $56^{\circ}\mathrm{C}$ . The obtained SWSV sequence was deposited in GenBank under Acc. No. KX447717.
+
+# Statistical analysis
+
+Confidence intervals (95% CI) for prevalences of Leptospira and hantavirus in small mammals were determined by the Clopper and Pearson method using the Graph Pad Software (Graph Pad Software, Inc., San Diego, CA). Fisher's exact test was used with a type I error $\alpha$ of 0.05 to test the independence of compared prevalences for Leptospira spp. (Graph Pad Software, Inc.). The odds ratio (OR) with $95\%$ CI were computed to measure the association between Leptospira spp. infection and PUUV infection in bank voles.
+
+# Results
+
+# PCR analysis for pathogenic Leptospira spp.
+
+In total 42 of 736 small mammal DNA samples were tested positive for Leptospira by real-time PCR (5.7%; 95% CI: 4.2-7.6; Table 1). Leptospira spp. was found in all small mammal species, except S. minutus and Microtus agrestis. The average prevalences in 2012 (5.7%; 95% CI: 4.0-8.0) and 2013 (5.7%; 95% CI: 3.2-9.8) were identical $(p = 0.13)$ . Out of 660 bank voles, 27 were positive for Leptospira spp. (4.1%; 95% CI: 2.8-5.9). The prevalence in shrews (14.7% 95% CI: 9.4-27.6) was significantly higher than in voles (Myodes glareolus and Microtus spp.) $(p = 0.001)$ . The prevalence in the 44 crowned shrews was (18.2%; 95% CI: 9.3-32.2) and in the 22 common shrews it was 13.6% (95% CI: 3.9-34.2). The two pygmy shrews were Leptospira negative (0%; 95% CI: 0-71.0). Moreover, two out of four yellow-necked mice and likewise two out of four individuals belonging to the genus Microtus spp. were positive for Leptospira spp.(50%; 95% CI: 15-85). Altogether 18 of 42 samples were further tested by duplex PCR and identified to be pathogenic Leptospira spp. other than L. kirschneri.
+
+Positive small mammal DNA samples were found at six (sites H1-4 and sites L1, L3) of the examined eight study sites (Fig. 1a, b). The average prevalence was significantly lower at the L sites $(2.7\%; 95\%$ CI: 1.3-5.4); than at the H sites $(6.7\%; 95\%$ CI: 4.3-10.3) $(p = 0.03)$ . The prevalences of H and L sites did not differ significantly between the years 2012 and 2013 $(p = 0.13)$ . Prevalences per site and small mammal species are shown in Table 1.
+
+# Analysis of Leptospira-hantavirus co-infections
+
+Double infections of PUUV and Leptospira spp. $(22.2\%)$ $95\%$ CI:10.3-41.1) occurred in six out of 27 Leptospira positive bank voles. Double infection of PUUV and Leptospira spp. occurrence is 1.86 times $\mathrm{OR} = 1.86$ . $95\%$ CI: 0.73-4.7) more likely than separate infections either with Leptospira spp. or PUUV in bank voles. All co-infected bank voles originated from H sites in 2012. Altogether, $50\%$ of Leptospira-positive bank voles from site H1 were co-infected with PUUV $95\%$ CI:23.7-76.3).Leptospira co-infections were detected in PUUV-ELISA-positive and in PUUVRT-PCR-positive bank vole samples. Hantavirus-specific
+
+maternal antibodies did not impact on results as all coinfected bank voles were adults according to their body weight (Drewes et al. in press).
+
+In the present study, one out of 22 S. araneus (4.6%; 95% CI: 0–23.5) was detected to be SWSV-RT-PCR positive, whereas the two pygmy shrews (S. minutus) (95% CI: 0–71.0) and the 44 crowned shrews (S. coronatus) (95% CI: 0–9.6) were negative. The SWSV-infected common shrew was not co-infected with Leptospira spp.
+
+# Discussion and Conclusions
+
+This study demonstrated an average Leptospira prevalence of $5.7\%$ for 736 small mammals, with positive bank voles $(4.1\%)$ , shrews $(14.7\%)$ , Microtus spp. $(50\%)$ , and yellow-necked mice $(50\%)$ . The average prevalence observed here $(0 - 50\%)$ is in a range of prevalences previously obtained from small mammals in Germany (Mayer-Scholl et al. 2014, Heuser et al. 2016, Obiegala et al. 2016). Leptospira spp. were previously also detected in a similar wide prevalence range $(2.9 - 71.4\%)$ in small mammal species including Apodemus spp., Microtus arvalis, Myodes glareolus, Mus musculus, Rattus norvegicus, and Sorex spp. from other European countries such as Switzerland, The Netherlands, Croatia, Denmark, and Austria (Hartskeerl et al. 1996, Adler et al. 2002, Turk et al. 2003, Schmidt et al. 2014, Heuser et al. 2016). Varying prevalences were also detected in Rattus norvegicus, which were collected in The Netherlands, Austria, Hungary, and Germany where human cases were reported (Roczek et al. 2008, Goris et al. 2013, Heuser et al. 2016). In a previous study from Germany, moderate Leptospira spp. prevalences of $12 - 14\%$ were detected in Microtus arvalis and Apodemus agrarius (Mayer-Scholl et al. 2014). While a previous study from Germany reported the absence of Leptospira spp. in shrews belonging to the family Soricidae (Crocidura russula $n = 4$ ; S. araneus $n = 7$ ; S. coronatus $n = 1$ ) (Obiegala et al. 2016), the prevalence in Sorex spp. obtained in the present study was $14.71\%$ . Other studies from Germany and Switzerland reported similar prevalences $(11 - 20\%)$ in shrews of the family Soricidae (Adler et al. 2002, Mayer-Scholl et al. 2014). Though voles (family Cricetidae), mice and rats (family Muridae) are known to be main reservoirs for pathogenic Leptospira spp., it should be taken into account that shrews (family Soricidae) may likewise serve as reservoirs.
+
+A former study showed that beech mast promotes population growth of bank voles (Myodes glareolus) in the subsequent year and that the resulting high bank vole abundance is positively associated to the number of reported human PUUV cases (Reil et al. 2015). The in-transformed proportional cover of beech and oak forest per district and the categorical variable of beech mast in the previous year (yes/no) were determined by our study group in a former study on hantavirus infection in the same small mammal samples (Drewes et al. in press). This former study demonstrated that the PUUV incidences in humans and the PUUV prevalence in bank voles, which were also investigated in the present study, is positively correlated with a combination of beech mast from the previous year and the proportion of forest cover in the respective district in Baden-Wuerttemberg, Germany (Drewes et al. 2016).
+
+Beech mast in 2011 was the likely cause for high bank vole population densities and associated high PUUV prevalences in 2012 in contrast to the year 2013, when bank vole populations collapsed (no beech mast in 2012) (Drewes et al. 2016).
+
+The prevalences of Leptospira spp. detected in all small mammals were nearly the same in 2012 and 2013, which suggests that neither bank vole abundance nor beech mast have influence on the spreading and maintenance of Leptospira spp. Beech mast is promoting population growth not only in bank vole populations but also in populations of yellow-necked mice, wood mice, and field voles (Imholt et al. 2016). However, it should be that Leptospira spp. are pathogens with a variety of reservoir host species that are not affected by beech mast whereas PUUV is exclusively harbored and transmitted by bank voles. This can explain the multi-annual dynamics of PUUV outbreaks in contrast to the more constant Leptospira prevalence in small mammals in forest environments.
+
+In a previous study the PUUV prevalence in bank voles was significantly higher at sites with high hantavirus incidences in humans (Drewes et al. in press). In the present study the prevalences for Leptospira spp. in bank voles were also significantly higher at H sites with high human hantavirus incidences compared to L sites with low human hantavirus incidences. The notified incidences for leptospirosis in humans differed between 0.5 and 19 among districts and years (Fig. 1b and Table 2). The incidences for leptospirosis in 2012/2013 were slightly, but not significantly higher in the H districts compared to the L districts (Robert Koch Institute:
+
+TABLE 2. NOTIFIED HUMAN LEPTOSPIROSIS AND PUUMALA VIRUS INCIDENCES PER 100,000 CITIZENS AND PER DISTRICT AND YEAR   
+
+<table><tr><td></td><td colspan="2">Leptospirosis incidences per district</td><td colspan="2">PUUV incidences per district</td></tr><tr><td>District (site)</td><td>Year 2012</td><td>Year 2013</td><td>Year 2012</td><td>Year 2013</td></tr><tr><td>Stuttgart (H1)</td><td>1.0</td><td>6.0</td><td>19.7</td><td>0.0</td></tr><tr><td>Tübingen (H2)</td><td>8.8</td><td>19.0</td><td>40.0</td><td>0.0</td></tr><tr><td>Göppingen (H3)</td><td>1.2</td><td>2.0</td><td>56.1</td><td>0.4</td></tr><tr><td>Heidenheim (H4)</td><td>1.6</td><td>6.0</td><td>58.8</td><td>1.6</td></tr><tr><td>Schwäbisch Hall (L1)</td><td>0.5</td><td>1.0</td><td>7.5</td><td>1.1</td></tr><tr><td>Emmendingen (L2)</td><td>1.9</td><td>3.0</td><td>0.6</td><td>0.0</td></tr><tr><td>Freiburg (L3)</td><td>3.7</td><td>8.0</td><td>0.5</td><td>0.0</td></tr><tr><td>Waldshut (L4)</td><td>1.2</td><td>2.0</td><td>0.0</td><td>0.0</td></tr></table>
+
+According to: Robert Koch Institute: SurvStat@RKI 2.0, https://survstat.rki.de, Accessed: June 26, 2016 for the years 2012 and 2013.
+
+SurvStat@RKI 2.0, https://survstat.rki.de, accessed: June26, 2016 for the years 2012 and 2013). Overall, $22.2\%$ of all Leptospira-positive bank voles were co-infected with PUUV in the present study. However, the distribution of co-infected bank voles appears heterogeneous as all co-infected bank voles were found at H sites. A much lower prevalence of co-infection was reported in bank voles $(3.03\%)$ from an area in Croatia where Leptospira- and PUUV infections occur sympathratically (Cvetko et al. 2006).
+
+In earlier studies, the prevalences ranged between $7\%$ and $54.4\%$ for SWSV in Sorex spp. from Germany, Slovakia, Hungary, Finland, and the Czech Republic (Kang et al. 2009, Schlegel et al. 2012). The prevalence obtained from Sorex spp. in the present study is much lower $(1.5\%)$ . The SWSV nucleotide sequence from the common shrew showed the highest similarity of $84\%$ to a SWSV sequence originating from a common shrew in Ceske Budejovice, Czech Republic (Schlegel et al. 2012). Moreover, the prevalence was not positively linked to areas with high hantavirus incidences in humans, in line with the assumption that SWSV is not pathogenic to humans.
+
+In conclusion, this study confirms bank voles, yellow-necked mice, and field voles as reservoirs of Leptospira spp. in south-western Germany. Moreover, this study points out that shrews may likewise serve as Leptospira spp. reservoir hosts. Results from this study suggest that the prevalence of pathogenic Leptospira spp. is positively linked to PUUV-infection in bank voles and to related high incidence areas of PUUV-infection in humans. As the prevalences were high and restricted to co-infections with PUUV at the H sites and as leptospirosis is causing a variety of nonspecific clinical symptoms, patients with an appropriate case history, such as previous exposure to contaminated water, should be regarded infected with either Leptospira spp. and/or PUUV.
+
+# Acknowledgments
+
+Special thanks to Dana Rüster, Rayan Ababneh, Dörte Kaufmann, and Stefan Fischer for their excellent technical assistance and support. The provision of novel SWSV primer sequences by Mathias Schlegel, Hanan Sheikh Ali, and Julia Schneider is kindly acknowledged. Maysaa Dafalla would like to thank the German Academic Exchange Service (DAAD) for their support. The work of AO and MP was done under the frame of EurNegVec COST Action TD1303.
+
+# Author Disclosure Statement
+
+No competing financial interests exist.
+
+# References
+
+Adler H, Vonstein S, Deplazes P, Stieger C, et al. Prevalence of Leptospira spp. in various species of small mammals caught in an inner-city area in Switzerland. Epidemiol Infect 2002; 128:107-109.   
+Bharti AR, Nally JE, Ricaldi JN, Matthias MA, et al. Leptospirosis: A zoonotic disease of global importance. Lancet Infect Dis 2003; 3:757-771.   
+Clement J, Van Esbroeck M, Lagrou K, Verschueren J, et al. Letter to the editor: Leptospirosis versus hantavirus infections in the Netherlands and in Belgium, 2000 to 2014. Eurosurveillance 2014; 19:19-20.
+
+Cvetko L, Turk N, Markotic A, et al. Dual infections with Puumala virus and Leptospira interrogans serovar Lora in a bank vole (Clethrionomys glareolus). Am J Trop Med Hyg 2006; 74:612-614.   
+Dournon E, Moriniere B, Matheron S, Girard PM, et al. HFRS after a wild rodent bite in the Haute-Savoie and risk of exposure to Hantaan-like virus in a Paris laboratory. Lancet 1984; 1:676-677.   
+Drewes S, Turni H, Rosenfeld UM, Obiegala A, et al. Reservoir-driven heterogeneous distribution of recorded human Puumala virus cases in South-West Germany. Zoonoses Public Health 2016 [Epub ahead of print]; DOI: 10.1111/zph.12319   
+Ettinger J, Hofmann J, Enders M, Tewald F, et al. Multiple synchronous outbreaks of Puumala virus, Germany, 2010. Emerg Infect Dis 2012; 18:1461-1464.   
+Faine S, Adler B, Bolin C, Perolat P. Leptospira and Leptospirosis. 2nd edition. Melbourne, Australia, MediSci., 1999: 83-86.   
+Goris MG, Boer KR, Duarte TA, Kliffen SJ, et al. Human leptospirosis trends, the Netherlands, 1925-2008. Emerg Infect Dis 2013; 19:371-378.   
+Gravekamp C, van de Kemp H, Franzen M, Carrington D, et al. Detection of seven species of pathogenic leptospires by PCR using two sets of primers. J Gen Microbiol 1993; 139: 1691-1700.   
+Hartskeerl PA, Terpstra WJ. Leptospirosis in wild animals. Vet Q 1996; 18:149-150.   
+Heuser E, Fischer S, Ryll R, Mayer-Scholl A, et al. Survey for zoonotic pathogens in Norway rat populations from Europe. Pest Manag Sci 2017; 73:341-348.   
+Hoffmeister B, Peyerl-Hoffmann G, Pischke S, Zollner-Schwetz I, et al. Differences in clinical manifestations of imported versus autochthonous leptospirosis in Austria and Germany. Am J Trop Med Hyg 2010; 83:326-335.   
+Hughes NK, Helsen S, Tersago K, Leirs H. Puumala hantavirus infection alters the odour attractiveness of its reservoir host. Oecologia 2014; 176:955-963.   
+Imholt C, Reil D, Plasil P, Rödiger K, et al. Long-term population patterns of rodents and associated damage in German forestry. Pest Manag Sci 2016; 73:332-340.   
+Jansen A, Schöneberg I, Frank C, Alpers K, et al. Leptospirosis in Germany 1962-2003. Emerg Infect Dis 2005; 11:1048-1054.   
+Kallio ER, Klingström J, Gustafsson E, Manni T, et al. Prolonged survival of Puumala hantavirus outside the host: Evidence for indirect transmission via the environment. J Gen Virol 2006; 87:2127-2134.   
+Kang HJ, Arai S, Hope AG, Song JW, et al. Genetic diversity and phylogeography of Seewis virus in the Eurasian common shrew in Finland and Hungary. Virol J 2009; 6:1.   
+Klempa B, Radosa L, Kruger DH. The broad spectrum of hantaviruses and their hosts in Central Europe. Acta Virol 2013; 57:130-137.   
+Levett PN. Leptospirosis. Clin Microbiol Rev 2001; 14:296-326.   
+Lundkvist A, Hukic M, Horling J, Gilljam M, et al. Puumala and Dobrava viruses cause hemorrhagic fever with renal syndrome in Bosnia-Herzegovina: Evidence of highly cross-neutralizing antibody responses in early patient sera. J Med Virol 1997; 53:51-59.   
+Mayer-Scholl A, Hammerl JA, Schmidt S, Ulrich RG, et al. Leptospira spp. in rodents and shrews in Germany. Int J Environ Res Public Health 2014; 11:7562-7574.   
+Meerburg BG, Singleton GR, Kijlstra A. Rodent-borne diseases and their risks for public health. Crit Rev Microbiol 2009; 35: 221-270.
+
+Obiegala A, Woll D, Karnath C, Silaghi C, et al. Prevalence and genotype allocation of pathogenic Leptospira species in small mammals from various habitat types in Germany. PLoS Negl Trop Dis 2016; 10:e0004501.   
+Reil D, Imholt C, Eccard JA, Jacob J. Beech Fructification and Bank Vole Population Dynamics-Combined Analyses of Promoters of Human Puumala Virus Infections in Germany. PloS One 2015; 10:e0134124.   
+Reis RB, Ribeiro GS, Felzemburgh RD, Santana FS, et al. Impact of environment and social gradient on Leptospira infection in urban slums. PLoS Negl Trop Dis 2008; 2: e228.   
+Roczek A, Forster C, Raschel H, Hormansdorfer S, et al. Severe course of rat bite-associated Weil's disease in a patient diagnosed with a new Leptospira-specific real-time quantitative LUX-PCR. J Med Microbiol 2008; 57:658-663.   
+Schlegel M, Radosa L, Rosenfeld UM, Schmidt S, et al. Broad geographical distribution and high genetic diversity of shrew-borne Seewis hantavirus in Central Europe. Virus Genes 2012; 45:48-55.   
+Schmidt S, Essbauer SS, Mayer-Scholl A, Poppert S, et al. Multiple infections of rodents with zoonotic pathogens in Austria. Vector Borne Zoonotic Dis 2014; 14:467-475.   
+Schmidt S, Saxenhofer M, Drewes S, Schlegel M, et al. High genetic structuring of Tula hantavirus. Arch Virol 2016; 161: 1135-1149.   
+Sion ML, Hatzitolios AI, Armenaka MC, Toulis EN, et al. Acute renal failure caused by leptospirosis and Hantavirus infection in an urban hospital. Eur J Intern Med 2002; 13:264-268.
+
+Stoddard RA, Gee JE, Wilkins PP, McCaustland K, et al. Detection of pathogenic Leptospira spp. through TaqMan polymerase chain reaction targeting the LipL32 gene. Diagn Microbiol Infect Dis 2009; 64:247-255.   
+Tsai TF. Hemorrhagic fever with renal syndrome: Mode of transmission to humans. Lab Anim Sci 1987; 37:428-430.   
+Turk N, Milas Z, Margaletic J, Staresina V, et al. Molecular characterization of Leptospira spp. strains isolated from small rodents in Croatia. Epidemiol Infect 2003; 130:159-166.   
+Vijayachari P, Sugunan AP, Shriram AN. Leptospirosis: An emerging global public health problem. J Biosci 2008; 33: 557-569.   
+Woll D, Karnath C, Pfeffer M, Allgower R. Genetic characterization of Leptospira spp. from beavers found dead in south-west Germany. Vet Microbiol 2012; 158:232-234.   
+Yanagihara R, Amyx HL, Gajdusek DC. Experimental infection with Puumala virus, the etiologic agent of nephropathia epidemiica, in bank voles (Clethrionomys glareolus). J Virol 1985; 55:34-38.
+
+Address correspondence to:
+
+Anna Obiegala
+
+Institute of Animal Hygiene and Veterinary Public Health
+
+University of Leipzig
+
+An den Tierkliniken 1
+
+Leipzig D-04103
+
+Germany
+
+E-mail: anna.obiegala@vetmed.uni-leipzig.de

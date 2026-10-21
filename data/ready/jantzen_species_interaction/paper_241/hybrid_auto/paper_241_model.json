@@ -1,0 +1,2380 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.292,
+                0.055,
+                0.709
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.092,
+                0.04,
+                0.379,
+                0.054
+            ],
+            "angle": 0,
+            "content": "VECTOR-BORNE AND ZOONOTIC DISEASES"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.092,
+                0.054,
+                0.276,
+                0.065
+            ],
+            "angle": 0,
+            "content": "Volume XX, Number XX, 2018"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.092,
+                0.065,
+                0.242,
+                0.077
+            ],
+            "angle": 0,
+            "content": "\\(\\odot\\) Mary Ann Liebert, Inc."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.092,
+                0.077,
+                0.266,
+                0.088
+            ],
+            "angle": 0,
+            "content": "DOI: 10.1089/vbz.2017.2140"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.678,
+                0.041,
+                0.901,
+                0.06
+            ],
+            "angle": 0,
+            "content": "ORIGINAL ARTICLE"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.143,
+                0.141,
+                0.852,
+                0.194
+            ],
+            "angle": 0,
+            "content": "Leptospira Genospecies and Sequence Type Prevalence in Small Mammal Populations in Germany"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.098,
+                0.226,
+                0.895,
+                0.259
+            ],
+            "angle": 0,
+            "content": "Stefan Fischer,\\(^{1}\\) Anne Mayer-Scholl\\(^{2}\\), Christian Imholt\\(^{3}\\), Natasja G. Spierling\\(^{1}\\), Elisa Heuser\\(^{1}\\), Sabrina Schmidt\\(^{1}\\), Daniela Reil\\(^{3,*}\\), Ulrike M. Rosenfeld\\(^{1}\\), Jens Jacob\\(^{3}\\), Karsten Nockler\\(^{2}\\), and Rainer G. Ulrich\\(^{1}\\)"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.094,
+                0.31,
+                0.16,
+                0.324
+            ],
+            "angle": 0,
+            "content": "Abstract"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.337,
+                0.902,
+                0.626
+            ],
+            "angle": 0,
+            "content": "Leptospirosis is a worldwide emerging infectious disease caused by zoonotic bacteria of the genus Leptospira. Numerous mammals, including domestic and companion animals, can be infected by Leptospira spp., but rodents and other small mammals are considered the main reservoir. The annual number of recorded human leptospirosis cases in Germany (2001-2016) was 25-166. Field fever outbreaks in strawberry pickers, due to infection with Leptospira kirschneri serovar Grippotyphosa, were reported in 2007 and 2014. To identify the most commonly occurring Leptospira genomospecies, sequence types (STs), and their small mammal host specificity, a monitoring study was performed during 2010-2014 in four federal states of Germany. Initial screening of kidney tissues of 3,950 animals by PCR targeting the \\( \\text{lip}32 \\) gene revealed 435 rodents of 6 species and 89 shrews of three species positive for leptospiral DNA. PCR-based analyses resulted in the identification of the genomospecies L. kirschneri (62.7%), Leptospira interrogans (28.3%), and Leptospira borgpetersenii (9.0%), which are represented by four, one, and two STs, respectively. The average Leptospira prevalence was highest (\\( \\sim 30\\% \\)) in common voles (Microtus arvalis) and field voles (Microtus agrestis). Both species were exclusively infected with L. kirschneri. In contrast, in bank voles (Myodes glareolus) and yellow-necked mice (Apodemus flavicollis), DNA of all three genomospecies was detected, and in common shrews (Sorex araneus) DNA of L. kirschneri and L. borgpetersenii was identified. The association between individual infection status and demographic factors varied between species; infection status was always positively correlated to body weight. In conclusion, the study confirmed a broad geographical distribution of Leptospira in small mammals and suggested an important public health relevance of common and field voles as reservoirs of L. kirschneri. Furthermore, the investigations identified seasonal, habitat-related, as well as individual influences on Leptospira prevalence in small mammals that might impact public health."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.639,
+                0.833,
+                0.656
+            ],
+            "angle": 0,
+            "content": "Keywords: demography, Germany, habitat, Leptospira spp., leptospirosis, MLST, rodent, shrew, SLST"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.094,
+                0.687,
+                0.185,
+                0.7
+            ],
+            "angle": 0,
+            "content": "Introduction"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.714,
+                0.49,
+                0.84
+            ],
+            "angle": 0,
+            "content": "LEPTOSPIROSIS IS A widespread and potentially fatal zoo-nosis and is also a major cause of disease in both domestic and companion animals (Ayral et al. 2014). Currently, 22 Leptospira genomospecies are described, subdivided into a pathogenic, a nonpathogenic, and an intermediate group (Fouts et al. 2016). Serologically, the genomospecies are subdivided into more than 300 serovars, which, if antigenically related, are grouped into serogroups (Levett 2001, 2015, Mayer-Scholl et al. 2014). Severity of human disease varies"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.502,
+                0.687,
+                0.901,
+                0.812
+            ],
+            "angle": 0,
+            "content": "with host susceptibility and serovar (Lessa-Aquino et al. 2017). Most human Leptospira infections are mild and resolve spontaneously (Levett 2001, Victoriano et al. 2009). Severe leptospirosis is characterized by sudden onset of fever, chills, and headache and can progress to dysfunction of multiple organs such as kidney, liver, lungs, and brain (Faine 1999, Levett 2001, Watt 2010). The mortality in humans can reach \\(15\\%\\) when the disease is untreated (Ko et al. 1999, Yanagihara et al. 2007, Meerburg et al. 2009)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.503,
+                0.812,
+                0.901,
+                0.84
+            ],
+            "angle": 0,
+            "content": "Exposure may occur either through direct contact with infected animals or indirectly through contact with water or"
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.092,
+                0.86,
+                0.9,
+                0.885
+            ],
+            "angle": 0,
+            "content": "\\(^{1}\\)Institute of Novel and Emerging Infectious Diseases, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Greifswald-Insel Riems, Germany."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.108,
+                0.885,
+                0.703,
+                0.896
+            ],
+            "angle": 0,
+            "content": "\\(^{2}\\)Department for Biological Safety, German Federal Institute for Risk Assessment, Berlin, Germany."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.093,
+                0.896,
+                0.9,
+                0.919
+            ],
+            "angle": 0,
+            "content": "3Vertebrate Research, Institute for Plant Protection in Horticulture and Forests, Federal Research Centre for Cultivated Plants, Julius Kuhn-Institute, Munster, Germany."
+        },
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.108,
+                0.919,
+                0.821,
+                0.932
+            ],
+            "angle": 0,
+            "content": "*Current affiliation: Animal Ecology, Institute of Biochemistry and Biology, University of Potsdam, Potsdam, Germany."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.092,
+                0.86,
+                0.9,
+                0.932
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.492,
+                0.947,
+                0.502,
+                0.957
+            ],
+            "angle": 0,
+            "content": "1"
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.293,
+                0.054,
+                0.707
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.1,
+                0.044,
+                0.11,
+                0.054
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.784,
+                0.043,
+                0.902,
+                0.055
+            ],
+            "angle": 0,
+            "content": "FISCHER ET AL."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.074,
+                0.492,
+                0.211
+            ],
+            "angle": 0,
+            "content": "soil contaminated with urine from infected animals (Levett 2001, Watt 2010). Major leptospirosis outbreaks usually occur in tropical and subtropical regions. In contrast, in temperate areas, Leptospira usually may cause sporadic epidemics (Watt 2010). In Germany, the annual human incidence ranged during 2001-2016 from 0.06 to 0.22 per 100,000 inhabitants (Robert Koch-Institute 2016). The incidence increased in 2007 and 2014 due to disease clusters among strawberry pickers in North Rhine-Westphalia and Lower Saxony, respectively (Desai et al. 2009, Dreesman et al. 2016)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.212,
+                0.492,
+                0.336
+            ],
+            "angle": 0,
+            "content": "Worldwide, many epidemiological surveys have shown that rodents and other small mammals are the most common reservoirs for leptospires (Gamage et al. 2011, Perez et al. 2011, Calderon et al. 2014, Andersen-Ranberg et al. 2016). In Germany, studies have shown leptospires not only in wild and commensal rodents of different species, including voles, beavers, mice, and rats, but also in shrews (Mochmann 1957, Kocianova et al. 1993, Woll et al. 2012, Runge et al. 2013, Obiegala et al. 2016, 2017, Heuser et al. 2017)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.337,
+                0.492,
+                0.487
+            ],
+            "angle": 0,
+            "content": "Reasons for the occurrence of human leptospirosis clusters or outbreaks in temperate areas, especially in industrialized countries like Germany, remain to be investigated, because their knowledge is essential for the development of early warning systems and the application of appropriate public health measures. Therefore, this study aimed on evaluating the small mammal host specificity regarding Leptospira genomospecies and their sequence types (STs). Furthermore, the relationship between infection status and host demography as well as geographical, seasonal, and habitat-related influences on Leptospira prevalence was studied."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.503,
+                0.26,
+                0.515
+            ],
+            "angle": 0,
+            "content": "Materials and Methods"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.524,
+                0.352,
+                0.537
+            ],
+            "angle": 0,
+            "content": "Rodent trapping and sample collection"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.544,
+                0.492,
+                0.723
+            ],
+            "angle": 0,
+            "content": "Small mammals were trapped in spring, summer, and autumn from 2010 to 2014 in forest and grassland habitats at four locations in Germany (Reil et al. 2017) (Fig. 1). Per site and habitat, three plots were selected by conducting live and snap trapping, the latter according to the standard protocol of federal forest institutions (Reil et al. 2017). All animals found dead in live traps and from snap trapping were included in the study. Individuals were frozen at \\(-20^{\\circ}\\mathrm{C}\\) until dissection according to in-house standard protocols. During dissection, the entire kidney was collected and transferred into a \\(1.5\\mathrm{mL}\\) tube and stored at \\(-20^{\\circ}\\mathrm{C}\\) until further examination. Furthermore, tail and other tissue samples were collected and species, weight, sex, and reproductive status of the animals were recorded."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.738,
+                0.362,
+                0.752
+            ],
+            "angle": 0,
+            "content": "Detection and typing of Leptospira DNA"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.758,
+                0.492,
+                0.855
+            ],
+            "angle": 0,
+            "content": "DNA was isolated from a small piece of the kidney tissue sample using the QIAamp DNA Mini Kit (Qiagen, Hilden, Germany). The initial lipl32 PCR was used to detect Leptospira DNA in the kidney-derived DNA preparations (Mayer-Scholl et al. 2011). PCR-positive samples were further analyzed by single locus sequence typing (SLST) and multilocus sequence typing (MLST) (Victoria et al. 2008, Boonsilp et al. 2013)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.87,
+                0.37,
+                0.896
+            ],
+            "angle": 0,
+            "content": "Molecular species and sex determination of small mammals"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.1,
+                0.904,
+                0.492,
+                0.93
+            ],
+            "angle": 0,
+            "content": "For molecular confirmation of small mammal species and sex determination, DNA was isolated from tail or other"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.51,
+                0.072,
+                0.902,
+                0.501
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.51,
+                0.51,
+                0.902,
+                0.687
+            ],
+            "angle": 0,
+            "content": "FIG. 1. Location of the four trapping sites in Germany. Snap and live trapping were performed in spring, summer, and autumn 2010-2014 on three replicate plots per forest and grassland habitat. The plots were located near Jeeser (coordinates: latitude 54.160620, longitude 13.259261; district of Vorpommern-Rügen; MWP), Billerbeck (coordinates: latitude 51.988741, longitude 7.323869; district of Coesfeld; NRW), Gotha (coordinates: latitude 50.971375, longitude 10.653304; district of Gotha; TH), and Weissach (coordinates: latitude 48.833471, longitude 8.958623; district of Böblingen; BW). BW, Baden-Wuerttemberg; MWP, Mecklenburg-Western Pomerania; NRW, North Rhine-Westphalia; TH, Thuringia. © Map of Germany: Federal Agency for Cartography and Geodesy."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.703,
+                0.902,
+                0.855
+            ],
+            "angle": 0,
+            "content": "tissues using the GeneMATRIX Tissue DNA Purification Kit (Roboklon, Berlin, Germany) or a tail tissue lysis protocol (Schmidt et al. 2016). PCR-based cytochrome \\(b\\) analysis was used to confirm the species of Leptospira-positive small mammals and animals where the morphological determination was impossible because of a poor condition of the carcass (Schlegel et al. 2012). If sex determination was necessary, multiplex PCR approaches targeting the ZFX, ZFY, and Sry genes and the DBY1, DBY3, DBY7, UTY11, and Sry genes were applied for rodents and shrews, respectively (Aasen and Medrano 1990, Bryja and Konecny 2003, Yannic et al. 2008)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.883,
+                0.571,
+                0.895
+            ],
+            "angle": 0,
+            "content": "Statistics"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.904,
+                0.902,
+                0.93
+            ],
+            "angle": 0,
+            "content": "Analyses were designed to quantify factors related to individual infection status in different small mammal species."
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.293,
+                0.054,
+                0.708
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.096,
+                0.043,
+                0.525,
+                0.055
+            ],
+            "angle": 0,
+            "content": "LEPTOSPIRA PREVALENCE IN SMALL MAMMALS IN GERMANY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.888,
+                0.044,
+                0.899,
+                0.054
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.095,
+                0.074,
+                0.488,
+                0.281
+            ],
+            "angle": 0,
+            "content": "Individual infection status (positive or negative) was analyzed using a generalized linear mixed model (GLMM) approach for three objectives: first, the association between host species and Leptospira spp. prevalence was investigated, including the spatial design (federal state, habitat) of the study. Second, the influence of season and geographic region (federal state) in combination with demographic factors on the individual infection status was characterized. Third, seasonal change in Leptospira spp. prevalence and habitat effects on the combined small mammal community were assessed. In the models, binomial error distribution and a logit link function were used with random factors accounting for the nested spatial design of the study (site nested in federal state). All analyses were performed in R (version 3.3.2; R Core Team 2015). Level of significance was \\(\\alpha < 5\\%\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.281,
+                0.488,
+                0.419
+            ],
+            "angle": 0,
+            "content": "To determine host specificity, the individual infection status with Leptospira spp. and one of the genomospecies was used as the binomial dependent variable and modeled in relationship to the respective host species. To estimate species-specific infection probabilities, least square means were obtained from the lsmeans package to back transform estimates from logit scale based on the reference GLMM, resulting in infection probabilities that were then used to visualize host specificity. Only species with more than 10 trapped individuals were analyzed."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.42,
+                0.488,
+                0.558
+            ],
+            "angle": 0,
+            "content": "To analyze factors modulating the individual infection status, species-specific global models were constructed using individual demographic factors (sex, reproductive activity, and weight) and their respective two-way interactions, as well as the corresponding trapping season and federal state. Backward model simplification was performed using likelihood ratio tests. If season or federal state remained in the final model, within-subject contrasts were compared using pairwise \"Tukey\" comparisons of all levels using the glht function from the multcomp package."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.559,
+                0.488,
+                0.64
+            ],
+            "angle": 0,
+            "content": "On the level of the whole small mammal community, the variation in seasonal population dynamics might result in overall differences in Leptospira spp. prevalence between the two investigated habitat types (grassland versus forest). The Leptospira spp. prevalence data from all species were combined per habitat and compared for each season."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.096,
+                0.659,
+                0.151,
+                0.67
+            ],
+            "angle": 0,
+            "content": "Results"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.096,
+                0.679,
+                0.287,
+                0.692
+            ],
+            "angle": 0,
+            "content": "Collection of small mammals"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.096,
+                0.7,
+                0.488,
+                0.81
+            ],
+            "angle": 0,
+            "content": "A total of 4,023 rodents and other small mammals were collected at the 4 trapping sites in Germany from 2010 to 2014. Overall, 3,306 rodents of 4 murine species (family Muridae) and 4 vole species (family Cricetidae), 715 insectivores (families Soricidae and Talpidae), and 2 least weasels (Mustela nivalis) were collected Table 1. For 3,950 individuals, kidney tissue was available for subsequent Leptospira PCR analysis (Table 1)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.096,
+                0.828,
+                0.434,
+                0.854
+            ],
+            "angle": 0,
+            "content": "Prevalence of Leptospira infection, genomospecies, and ST determination"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.096,
+                0.862,
+                0.488,
+                0.932
+            ],
+            "angle": 0,
+            "content": "Using the screening lipl32 PCR, 524 of 3,950 \\((13.3\\%)\\) small mammals were tested positive for Leptospira-specific DNA. Leptospira DNA was detected in six rodent and all three Sorex shrew species (Table 2). Common and field voles were most often infected by Leptospira spp. \\((30.0\\%)\\) and"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.505,
+                0.073,
+                0.867,
+                0.929
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">Order</td><td rowspan=\"2\">Family</td><td rowspan=\"2\">Common name</td><td rowspan=\"2\">Scientific name</td><td rowspan=\"2\">Total no. of animals/kidney samples</td><td colspan=\"2\">MWP</td><td colspan=\"2\">NRW</td><td colspan=\"2\">TH</td><td colspan=\"2\">BW</td></tr><tr><td>Total investigated</td><td>Total investigated</td><td>Total investigated</td><td>Total investigated</td><td>Total investigated</td><td>Total investigated</td><td>Total investigated</td><td>Total</td></tr><tr><td rowspan=\"8\">Rodentia</td><td rowspan=\"4\">Muridae</td><td>Striped field mouse</td><td>Apodemus agrarius</td><td>45/44</td><td>36</td><td>35</td><td>0</td><td>0</td><td>9</td><td>9</td><td>0</td><td>0</td></tr><tr><td>Yellow-necked mouse</td><td>Apodemus flavicollis</td><td>930/925</td><td>219</td><td>219</td><td>139</td><td>139</td><td>297</td><td>296</td><td>275</td><td>271</td></tr><tr><td>Wood mouse</td><td>Apodemus sylvaticus</td><td>105/105</td><td>0</td><td>0</td><td>58</td><td>58</td><td>16</td><td>16</td><td>31</td><td>31</td></tr><tr><td>Eurasian harvest mouse</td><td>Micromys minutus</td><td>6/6</td><td>2</td><td>2</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td rowspan=\"4\">Cricetidae</td><td>Bank vole</td><td>Myodes glareolus</td><td>1,612/1,578</td><td>268</td><td>266</td><td>336</td><td>324</td><td>493</td><td>486</td><td>515</td><td>502</td></tr><tr><td>Common vole</td><td>Microtus arvalis</td><td>395/377</td><td>83</td><td>80</td><td>20</td><td>20</td><td>127</td><td>121</td><td>165</td><td>156</td></tr><tr><td>Field vole</td><td>Microtus agrestis</td><td>209/209</td><td>23</td><td>23</td><td>1</td><td>1</td><td>178</td><td>178</td><td>7</td><td>7</td></tr><tr><td>European water vole</td><td>Arvicola spp.</td><td>4/4</td><td>0</td><td>0</td><td>1</td><td>1</td><td>3</td><td>3</td><td>0</td><td>0</td></tr><tr><td rowspan=\"6\">Eulipotyphla</td><td rowspan=\"5\">Soricidae</td><td>Common shrew</td><td>Sorex araneus</td><td>530/521</td><td>232</td><td>226</td><td>20</td><td>20</td><td>254</td><td>251</td><td>24</td><td>24</td></tr><tr><td>Crowned shrew</td><td>Sorex coronatus</td><td>102/101</td><td>11</td><td>11</td><td>33</td><td>32</td><td>0</td><td>0</td><td>58</td><td>58</td></tr><tr><td>Eurasian pygmy shrew</td><td>Sorex minutus</td><td>77/73</td><td>20</td><td>19</td><td>9</td><td>8</td><td>17</td><td>16</td><td>31</td><td>30</td></tr><tr><td>Eurasian water shrew</td><td>Neomys fodiens</td><td>4/4</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Greater white-toothed shrew</td><td>Crocidura russula</td><td>1/1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Talpidae</td><td>European mole</td><td>Talpa europaea</td><td>1/0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Carnivora</td><td>Mustelidae</td><td>Least weasel</td><td>Mustela nivalis</td><td>2/2</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Total</td><td></td><td></td><td></td><td>4,023/3,950</td><td>899</td><td>886</td><td>622</td><td>608</td><td>1,396</td><td>1,377</td><td>1,106</td><td>1,079</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.873,
+                0.385,
+                0.89,
+                0.919
+            ],
+            "angle": 270,
+            "content": "BW, Baden-Wuerttemberg; MWP, Mecklenburg-Western Pomerania; NRW, North Rhine-Westphalia; TH, Thuringia."
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.292,
+                0.054,
+                0.709
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.1,
+                0.044,
+                0.11,
+                0.054
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.784,
+                0.044,
+                0.902,
+                0.055
+            ],
+            "angle": 0,
+            "content": "FISCHER ET AL."
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.175,
+                0.197,
+                0.192,
+                0.806
+            ],
+            "angle": 270,
+            "content": "TABLE 2. DETECTION OF LEPTOSPIRA SPP. DNA IN RODENT AND SHREW SPECIES IN GERMANY THROUGH LIPL32 PCR"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.2,
+                0.071,
+                0.396,
+                0.929
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">Federal state</td><td rowspan=\"2\">Total</td><td colspan=\"3\">Mouse</td><td colspan=\"3\">Vole</td><td colspan=\"3\">Shrew</td></tr><tr><td>Striped field</td><td>Yellow-necked</td><td>Wood</td><td>Field</td><td>Common</td><td>Bank</td><td>Common</td><td>Crowned</td><td>Eurasian pygmy</td></tr><tr><td>MWP</td><td>150/886 (16.9%)</td><td>5/35 (14.3%)</td><td>31/219 (14.2%)</td><td>—</td><td>4/23 (17.4%)</td><td>37/80 (46.3%)</td><td>16/266 (6.0%)</td><td>53/226 (23.5%)</td><td>0/11 (0.0%)</td><td>4/19 (21.1%)</td></tr><tr><td>NRW</td><td>129/608 (21.2%)</td><td>—</td><td>50/139 (36.0%)</td><td>8/58 (13.8%)</td><td>0/1 (0.0%)</td><td>2/20 (10.0%)</td><td>66/324 (20.4%)</td><td>1/20 (5.0%)</td><td>1/32 (3.1%)</td><td>1/8 (12.5%)</td></tr><tr><td>TH</td><td>170/1,377 (12.3%)</td><td>1/9 (11.1%)</td><td>27/296 (9.1%)</td><td>1/16 (6.3%)</td><td>58/178 (32.6%)</td><td>28/121 (23.1%)</td><td>28/486 (5.8%)</td><td>27/251 (10.8%)</td><td>—</td><td>0/16 (0.0%)</td></tr><tr><td>BW</td><td>75/1,079 (7.0%)</td><td>—</td><td>14/271 (5.2%)</td><td>0/31 (0.0%)</td><td>0/7 (0.0%)</td><td>46/156 (29.5%)</td><td>13/502 (2.6%)</td><td>0/24 (0.0%)</td><td>2/58 (3.4%)</td><td>0/30 (0.0%)</td></tr><tr><td>Total</td><td>524/3,950 (13.3%)</td><td>6/44 (13.6%)</td><td>122/925 (13.2%)</td><td>9/105 (8.6%)</td><td>62/209 (29.7%)</td><td>113/377 (30.0%)</td><td>123/1,578 (7.8%)</td><td>81/521 (15.5%)</td><td>3/101 (3.0%)</td><td>5/73 (6.8%)</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.404,
+                0.745,
+                0.419,
+                0.919
+            ],
+            "angle": 270,
+            "content": "—, No animal of this species trapped."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.074,
+                0.902,
+                0.1
+            ],
+            "angle": 0,
+            "content": "29.7%), followed by common shrews (15.5%) and yellow-necked mice (13.2%) (Table 2 and Fig. 2A)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.101,
+                0.903,
+                0.197
+            ],
+            "angle": 0,
+            "content": "The partial \\(secY\\) gene-based SLST was able to successfully identify the presence of Leptospira DNA in 279 \\((53\\%)\\) samples. The genomospecies identified were Leptospira kirschneri \\((62.7\\%)\\), Leptospira interrogans \\((28.3\\%)\\), and Leptospira borgpetersenii \\((9.0\\%)\\) (Fig. 2B and Supplementary Fig. S1A; Supplementary Data are available online at www.liebertpub.com/vbz)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.198,
+                0.903,
+                0.294
+            ],
+            "angle": 0,
+            "content": "The subsequent MLST resulted in the identification of 7 STs in 152 of 279 \\((55\\%)\\) samples (Fig. 3). L. kirschneri was represented by ST 110, ST 117, ST 136, and ST 230. L. borgpetersenii included ST 146 and ST 197, whereas L. interrogans was exclusively represented by ST 24. The serovars corresponding to the detected STs are shown in Table 3."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.309,
+                0.865,
+                0.323
+            ],
+            "angle": 0,
+            "content": "Host specificity of Leptospira genomospecies and STs"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.33,
+                0.903,
+                0.481
+            ],
+            "angle": 0,
+            "content": "The association of Leptospira genomospecies with small mammals showed multiple patterns: one to three Leptospira genomospecies were detected per host species (Supplementary Fig. S1A). Common and field voles were more frequently infected by \\( L \\) kirschneri than any other small mammal species (Fig. 2B). Similarly, striped field mouse, wood mouse, and crowned shrew were infected by \\( L \\) kirschneri, \\( L \\) interrogans, or \\( L \\) borgpetersenii. In contrast, bank voles, yellow-necked mice, and common shrews were infected with multiple Leptospira species (Fig. 2B and Supplementary Fig. S1A)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.482,
+                0.903,
+                0.647
+            ],
+            "angle": 0,
+            "content": "The subsequent MLST demonstrated that for five of eight small mammal species, each genomospecies was represented by a single ST (Fig. 3). L. kirschneri in field voles and yellow-necked mice was exclusively represented by ST 110 and in striped field mice by ST 117. In common voles, L. kirschneri was also mainly represented by ST 110, but ST 230 emerged in the common vole population in Baden-Wuerttemberg (Supplementary Fig. S2D). L. kirschneri in common shrews was represented by ST 110 and ST 136 and L. borgpetersenii in bank voles by ST 146 and ST 197 (Fig. 3). L. interrogans was represented in yellow-necked mice, wood mice, and bank voles exclusively by ST 24."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.663,
+                0.818,
+                0.689
+            ],
+            "angle": 0,
+            "content": "Geographical distribution and seasonal pattern of Leptospira infections"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.697,
+                0.903,
+                0.888
+            ],
+            "angle": 0,
+            "content": "The average percentage of Leptospira-positive animals in the federal states ranged between \\(7.0\\%\\) and \\(21.2\\%\\) (Table 2). The individual infection probability in common voles, yellow-necked mice, and bank voles differed significantly among some federal states \\((p \\leq 0.001 - 0.028)\\) (Table 4). Common and field voles were the main carriers of Leptospira spp. throughout the trapping sites with the highest prevalence in autumn \\((p < 0.001\\) and \\(p = 0.006\\), respectively; Table 4, Supplementary Fig. S3A, B). Leptospiral DNA was also found in yellow-necked mice and bank voles in all regions. Similarly, striped field mice were infected with Leptospira spp. in both regions they could be trapped. PCR-positive shrews were detected in all four regions with no differences between federal states (Table 4)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.891,
+                0.903,
+                0.931
+            ],
+            "angle": 0,
+            "content": "All three Leptospira genomospecies were detected in each federal state (Supplementary Fig. S1B-E). In common shrews (from two of four regions) and yellow-necked mice"
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.292,
+                0.054,
+                0.707
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.lieberpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.095,
+                0.043,
+                0.525,
+                0.055
+            ],
+            "angle": 0,
+            "content": "LEPTOSPIRA PREVALENCE IN SMALL MAMMALS IN GERMANY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.889,
+                0.044,
+                0.899,
+                0.054
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.307,
+                0.074,
+                0.895,
+                0.332
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.095,
+                0.268,
+                0.289,
+                0.457
+            ],
+            "angle": 0,
+            "content": "FIG. 2. Probability of Leptospira DNA detection (A) and detection of DNA of one of the three genomospecies Leptospira kirschneri, Leptospira interrogans, and Leptospira borgpetersenii (B). The lip32 PCR resulted in the detection of 515 Leptospira DNA-positive small mammals of 9 species (A). The secY PCR resulted in the identification of three genomospecies for 274 of 515 lip32-PCR-positive samples (B)."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.308,
+                0.35,
+                0.899,
+                0.647
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.684,
+                0.488,
+                0.809
+            ],
+            "angle": 0,
+            "content": "(from three of four regions), two to three genomospecies were detected (Supplementary Fig. S1B, D, E). ST 24 and ST 110 were detected in animals from all four regions (Supplementary Fig. S2A-D). In contrast, the STs in common shrews differed between the sites in Mecklenburg-Western Pomerania, North Rhine-Westphalia, and Thuringia (Supplementary Fig. S2A-C). The individual probability of Leptospira spp. infection in common shrews was higher in spring compared to summer and autumn (Table 4)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.097,
+                0.829,
+                0.324,
+                0.855
+            ],
+            "angle": 0,
+            "content": "Effects of habitat and demography on Leptospira infection"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.097,
+                0.863,
+                0.488,
+                0.931
+            ],
+            "angle": 0,
+            "content": "The influence of demographic factors on the individual infection status was species specific (Table 4). Body weight (proxy for age) was positively correlated to infection status in all species where demographic factors remained in the final model \\((p\\leq 0.001 - 0.005)\\). The positive estimate of weight"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.684,
+                0.899,
+                0.767
+            ],
+            "angle": 0,
+            "content": "indicated that there was a positive association between age and Leptospira infection across species. Sex and reproduction status remained in the final model for yellow-necked mice \\((p = 0.025)\\), while heavier males of bank voles had a significantly higher probability of Leptospira infection compared to females \\((p = 0.019)\\)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.769,
+                0.899,
+                0.822
+            ],
+            "angle": 0,
+            "content": "Furthermore, the analysis revealed that throughout the year, individuals caught in open grassland had a higher probability of carrying Leptospira DNA compared to individuals caught in forests \\((p\\leq 0.001 - 0.036)\\) (Table 5)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.507,
+                0.851,
+                0.586,
+                0.861
+            ],
+            "angle": 0,
+            "content": "Discussion"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.507,
+                0.871,
+                0.86,
+                0.882
+            ],
+            "angle": 0,
+            "content": "Genomospecies and ST association in small mammals"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.507,
+                0.891,
+                0.899,
+                0.931
+            ],
+            "angle": 0,
+            "content": "To our knowledge, this is the first study that investigated the Leptospira prevalence in small mammals in forest and grassland habitats throughout Germany, taking into account"
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.293,
+                0.054,
+                0.707
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.1,
+                0.044,
+                0.11,
+                0.054
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.784,
+                0.043,
+                0.902,
+                0.055
+            ],
+            "angle": 0,
+            "content": "FISCHER ET AL."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.099,
+                0.071,
+                0.904,
+                0.346
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.099,
+                0.355,
+                0.902,
+                0.395
+            ],
+            "angle": 0,
+            "content": "FIG. 3. ST distribution of \\( L \\) interrogans (ST 24), \\( L \\) kirschneri (ST 110, ST 117, ST 136, and ST 230), and \\( L \\) borgpetersenii (ST 146 and ST 197) in small mammal species in Germany as determined by MLST. MLST, multilocus sequence typing; ST, sequence type."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.424,
+                0.492,
+                0.493
+            ],
+            "angle": 0,
+            "content": "the small mammal host specificity regarding Leptospira genomospecies, their respective STs, and the relationship between infection status and host demography, as well as geographical, seasonal, and habitat-related influences on Leptospira prevalence over a period of 5 years."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.494,
+                0.492,
+                0.673
+            ],
+            "angle": 0,
+            "content": "In this study, we confirmed a broad distribution of Leptospira DNA in small mammals, such as rodents and shrews in Germany (Mochmann 1957, Woll et al. 2012, Mayer-Scholl et al. 2014, Obiegala et al. 2016, 2017, Heuser et al. 2017). Two patterns of Leptospira association were observed. Common and field voles were found in our study with the highest DNA prevalence of \\(\\sim 30\\%\\) in average (ranging between \\(10\\%\\) and \\(46\\%\\) across regions), a broad geographical distribution and an exclusive detection of the genomospecies L. kirschneri. The overall high Leptospira prevalence in common voles also resulted in the generally higher prevalence in open grassland (primary habitat of the common vole) (Jacob et al. 2014) compared to forest. In all field voles and"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.114,
+                0.711,
+                0.476,
+                0.773
+            ],
+            "angle": 0,
+            "content": "TABLE 3. MULTILOCUS SEQUENCE TYPE AND CORRESPONDING SEROVARS DETECTED IN COMMON, FIELD, AND BANK VOLE, YELLOW-NECKED, WOOD, AND STRIPED FIELD MOUSE, AND COMMON, CROWNED, AND EURASIAN PYGMY SHREW"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.098,
+                0.777,
+                0.494,
+                0.903
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Sequence type</td><td>Serovara</td></tr><tr><td>24</td><td>Bratislava/Jalna</td></tr><tr><td>110</td><td>Grippotyphosa/Vanderhoedeni/Valbuzzi</td></tr><tr><td>117</td><td>Mozdok</td></tr><tr><td>136</td><td>Undesignated</td></tr><tr><td>146</td><td>Poi/Javanica/Sorexjalna</td></tr><tr><td>197</td><td>Undesignated</td></tr><tr><td>230</td><td>Undesignated</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.113,
+                0.906,
+                0.486,
+                0.932
+            ],
+            "angle": 0,
+            "content": "\\(^{\\mathrm{a}}\\)http://pubmlst.org MLST scheme No. 1 (Boonsilp et al. 2013). MLST, multilocus sequence typing."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.424,
+                0.902,
+                0.658
+            ],
+            "angle": 0,
+            "content": "the majority of common voles, ST 110 was exclusively detected, except 13 cases of ST 230 at a single trapping site. These observations are similar to results of a pilot study with a high average prevalence of \\(13\\%\\) and the exclusive detection of L. kirschneri in common voles (Mayer-Scholl et al. 2014). In contrast to common and field voles, bank voles and yellow-necked mice did not only have a lower average prevalence \\((8 - 13\\%)\\) but also harbored L. interrogans ST 24, L. kirschneri ST 110, or L. borgpetersenii ST 197. A lower prevalence \\((4 - 6\\%)\\) was also observed in bank voles in previous investigations in Germany (Mayer-Scholl et al. 2014, Obiegala et al. 2016, 2017). Furthermore, common shrews were found for the first time to be associated with different STs (110 and 136) of L. kirschneri in different federal states. The observed high Leptospira spp. prevalence of \\(15\\%\\) confirms the findings of Obiegala et al. (2017), suggesting common shrews as additional reservoir."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.511,
+                0.676,
+                0.715,
+                0.703
+            ],
+            "angle": 0,
+            "content": "Pathogen-host association and trans-species transmission"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.71,
+                0.902,
+                0.875
+            ],
+            "angle": 0,
+            "content": "The pattern described above suggests two mechanisms of a potential pathogen-host association. On the one hand, the findings in field vole and common vole samples suggest a strong specificity to \\( L \\) kirschneri ST 110/ST 230 and the habitat grassland, at least for Germany. Similarly, Norway rats were exclusively found to be infected with \\( L \\) interrogans ST 17, which corresponds to serogroup Icterohaemorrhagiae that is responsible for human infections in urban areas (de Faria et al. 2008, Agudelo-Florez et al. 2009, Koizumi et al. 2009, Krojgaard et al. 2009, Scialfa et al. 2010, Theuerkauf et al. 2013, Ayral et al. 2015, Strand et al. 2015, Heuser et al. 2017)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.876,
+                0.902,
+                0.931
+            ],
+            "angle": 0,
+            "content": "On the other hand, the frequent detection of \\( L. \\) kirschneri ST 110 (with a \\( 63\\% \\) overall prevalence) in yellow-necked mice, bank voles, and common shrews sharing their habitat, may indicate a trans-species transmission. The same is obvious"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.039,
+                0.293,
+                0.053,
+                0.708
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.11,
+                0.043,
+                0.874,
+                0.93
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">Species</td><td colspan=\"14\">Source of variation (fixed effects)</td><td>Random</td><td></td></tr><tr><td>Intercept</td><td>Sex (m)</td><td>Reproduction (1)</td><td>Weight</td><td>Sex (m): reproduction (1)</td><td>Sex (m): weight (g)</td><td>Spring vs. autumn</td><td>Summer vs. autumn</td><td>Summer spring</td><td>MWP vs. BW</td><td>NRW vs. BW</td><td>TH vs. BW</td><td>NRW vs. MWP</td><td>TH vs. MWP</td><td>TH vs. NRW</td><td>State:site</td></tr><tr><td colspan=\"16\">Common vole (M. arvalis, N=353)</td><td></td></tr><tr><td>Estimate</td><td>-3.97</td><td></td><td></td><td>0.074</td><td></td><td></td><td>-1.179</td><td>-0.805</td><td>0.373</td><td>0.774</td><td>-1.56</td><td>-0.396</td><td>-2.334</td><td>1.17</td><td>1.164</td><td></td></tr><tr><td>SE</td><td>0.234</td><td></td><td></td><td>0.016</td><td></td><td></td><td>0.678</td><td>0.267</td><td>0.681</td><td>0.308</td><td>0.78</td><td>0.301</td><td>0.797</td><td>0.335</td><td>0.79</td><td></td></tr><tr><td>z-Value</td><td>-1.701</td><td></td><td></td><td>4.515</td><td></td><td></td><td>-1.738</td><td>-3.02</td><td>0.548</td><td>2.513</td><td>-1.999</td><td>-1.31</td><td>-2.927</td><td>-3.487</td><td>1.474</td><td></td></tr><tr><td>p</td><td>0.089</td><td></td><td></td><td>&lt;0.001</td><td></td><td></td><td>0.177</td><td>0.006</td><td>0.839</td><td>0.051</td><td>0.172</td><td>0.532</td><td>0.016</td><td>0.002</td><td>0.43</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td><td></td></tr><tr><td colspan=\"16\">Field vole (M. agrestis, N=207)</td><td></td></tr><tr><td>Estimate</td><td>-0.893</td><td></td><td></td><td>0.091</td><td></td><td></td><td>-2.033</td><td>-1.594</td><td>0.439</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td>0.402</td><td></td><td></td><td>0.023</td><td></td><td></td><td>1.255</td><td>0.388</td><td>1.257</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>z-Value</td><td>-2.22</td><td></td><td></td><td>4.02</td><td></td><td></td><td>-1.62</td><td>-4.11</td><td>0.349</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p</td><td>0.026</td><td></td><td></td><td>&lt;0.001</td><td></td><td></td><td>0.217</td><td>&lt;0.001</td><td>0.93</td><td></td><td></td><td></td><td></td><td></td><td>0.421</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.649</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"16\">Striped field mouse (A. agrarius, N=44)</td><td></td></tr><tr><td>Estimate</td><td>-3.178</td><td>2.148</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td>1.021</td><td>1.146</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>z-Value</td><td>-3.114</td><td>1.875</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p</td><td>0.002</td><td>0.061</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"16\">Yellow-necked mouse (A. flavicollis, N=905)</td><td></td></tr><tr><td>Estimate</td><td>-2.481</td><td>-0.976</td><td>-0.797</td><td>0.055</td><td>1.03</td><td></td><td></td><td></td><td></td><td>1.099</td><td>2.522</td><td>0.594</td><td>1.423</td><td>-0.505</td><td>-1.929</td><td></td></tr><tr><td>SE</td><td>0.329</td><td>0.284</td><td>0.346</td><td>0.015</td><td>0.46</td><td></td><td></td><td></td><td></td><td>0.395</td><td>0.389</td><td>0.4</td><td>0.33</td><td>0.348</td><td>0.343</td><td></td></tr><tr><td>z-Value</td><td>-7.549</td><td>-3.44</td><td>-2.301</td><td>3.769</td><td>2.241</td><td></td><td></td><td></td><td></td><td>2.779</td><td>6.487</td><td>1.49</td><td>4.278</td><td>-1.45</td><td>-5.623</td><td></td></tr><tr><td>p</td><td>&lt;0.001</td><td>&lt;0.001</td><td>0.021</td><td>&lt;0.001</td><td>0.025</td><td></td><td></td><td></td><td></td><td>0.028</td><td>&lt;0.001</td><td>0.445</td><td>&lt;0.001</td><td>0.466</td><td>&lt;0.001</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.061</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.247</td><td></td></tr><tr><td colspan=\"16\">Wood mouse (A. sylvaticus, N=102)</td><td></td></tr><tr><td>Estimate</td><td>-2.802</td><td></td><td></td><td>0.167</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td>0.518</td><td></td><td></td><td>0.059</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>z-Value</td><td>-5.413</td><td></td><td></td><td>2.824</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p</td><td>&lt;0.001</td><td></td><td></td><td>0.005</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.424</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.651</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(continued)</td><td></td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.492,
+                0.947,
+                0.504,
+                0.958
+            ],
+            "angle": 0,
+            "content": "7"
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.04,
+                0.293,
+                0.054,
+                0.709
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.181,
+                0.425,
+                0.197,
+                0.548
+            ],
+            "angle": 270,
+            "content": "TABLE 4. (CONTINUED)"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.202,
+                0.04,
+                0.784,
+                0.93
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">Species</td><td colspan=\"14\">Source of variation (fixed effects)</td><td>Random</td><td></td></tr><tr><td>Intercept</td><td>Sex (m)</td><td>Reproduction (1)</td><td>Weight</td><td>Sex (m): reproduction (1)</td><td>Sex (m): weight (g)</td><td>Spring vs. autumn</td><td>Summer vs. autumn</td><td>Summer spring</td><td>MWP vs. BW</td><td>NRW vs. BW</td><td>TH vs. BW</td><td>NRW vs. MWP</td><td>TH vs. MWP</td><td>TH vs. NRW</td><td>State:site</td></tr><tr><td colspan=\"16\">Bank vole (M. glareolus, N=1,537)</td><td></td></tr><tr><td>Estimate</td><td>-3.869</td><td>0.364</td><td></td><td>0.01</td><td></td><td>0.107</td><td></td><td></td><td></td><td>0.898</td><td>2.34</td><td>0.813</td><td>1.433</td><td>-0.085</td><td>-1.528</td><td></td></tr><tr><td>SE</td><td>0.307</td><td>0.201</td><td></td><td>0.03</td><td></td><td>0.046</td><td></td><td></td><td></td><td>0.385</td><td>0.318</td><td>0.348</td><td>0.297</td><td>0.33</td><td>0.249</td><td></td></tr><tr><td>z-Value</td><td>-12.587</td><td>1.812</td><td></td><td>0.318</td><td></td><td>2.351</td><td></td><td></td><td></td><td>2.33</td><td>7.35</td><td>2.339</td><td>4.861</td><td>-0.256</td><td>-6.125</td><td></td></tr><tr><td>p</td><td>&lt;0.001</td><td>0.069</td><td></td><td>0.75</td><td></td><td>0.019</td><td></td><td></td><td></td><td>0.087</td><td>&lt;0.001</td><td>0.086</td><td>&lt;0.001</td><td>0.994</td><td>&lt;0.001</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000</td><td></td></tr><tr><td colspan=\"16\">Common shrew (S. araneus, N=492)</td><td></td></tr><tr><td>Estimate</td><td>-2.148</td><td></td><td></td><td>0.357</td><td></td><td></td><td>0.965</td><td>0.353</td><td>-0.612</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td>0.277</td><td></td><td></td><td>0.098</td><td></td><td></td><td>0.338</td><td>0.324</td><td>0.355</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>z-Value</td><td>-7.752</td><td></td><td></td><td>3.656</td><td></td><td></td><td>2.854</td><td>1.089</td><td>-1.724</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p</td><td>&lt;0.001</td><td></td><td></td><td>&lt;0.001</td><td></td><td></td><td>0.012</td><td>0.52</td><td>0.196</td><td></td><td></td><td></td><td></td><td></td><td>0.249</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.499</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"16\">Crowned shrew (S. coronatus, N=101)</td><td></td></tr><tr><td>Estimate</td><td>-3.825</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td>1.169</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>z-Value</td><td>-3.271</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p</td><td>0.001</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>6.538</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.557</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"16\">Eurasian pygmy shrew (S. minutus, N=73)</td><td></td></tr><tr><td>Estimate</td><td>-2.607</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE</td><td>0.527</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>z-Value</td><td>-4.945</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>p</td><td>&lt;0.001</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.726</td><td></td></tr><tr><td>Variation (σ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.852</td><td></td></tr><tr><td>SD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.788,
+                0.474,
+                0.806,
+                0.919
+            ],
+            "angle": 270,
+            "content": "The nested spatial design was accounted for a random factor with a significance level of \\(\\alpha = 0.05\\)."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.807,
+                0.435,
+                0.821,
+                0.919
+            ],
+            "angle": 270,
+            "content": "1, Reproduction active; m, male; SD, standard deviation; SE, standard error; state:site, site nested in state."
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.821,
+                0.724,
+                0.835,
+                0.919
+            ],
+            "angle": 270,
+            "content": "Significant values are highlighted in bold."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.788,
+                0.435,
+                0.835,
+                0.919
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.496,
+                0.947,
+                0.507,
+                0.957
+            ],
+            "angle": 0,
+            "content": "8"
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.293,
+                0.054,
+                0.709
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.095,
+                0.042,
+                0.525,
+                0.055
+            ],
+            "angle": 0,
+            "content": "LEPTOSPIRA PREVALENCE IN SMALL MAMMALS IN GERMANY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.888,
+                0.043,
+                0.9,
+                0.055
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.147,
+                0.073,
+                0.845,
+                0.111
+            ],
+            "angle": 0,
+            "content": "TABLE 5. INDIVIDUAL INFECTION OF COMMON, FIELD, AND BANK VOLE, YELLOW-NECKED, WOOD, AND STRIPED FIELD MOUSE, COMMON, CROWNED, AND EURASIAN PYGMY SHREW WITH LEPTOSPIRA SPP. ON FOREST VERSUS GRASSLAND PER SEASON"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.093,
+                0.113,
+                0.902,
+                0.303
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"3\">Source of variation</td><td>Estimate</td><td>SE</td><td>z</td><td>p</td><td>Variance</td><td>SD</td></tr><tr><td rowspan=\"4\">Spring</td><td>Intercept</td><td></td><td>-1.154</td><td>0.514</td><td>2.244</td><td>0.025</td><td></td><td></td></tr><tr><td>Forest vs. grassland</td><td></td><td>-0.909</td><td>0.434</td><td>-2.096</td><td>0.036</td><td></td><td></td></tr><tr><td rowspan=\"2\">Random</td><td>Fed</td><td></td><td></td><td></td><td></td><td>0.396</td><td>0.630</td></tr><tr><td>Fed:site</td><td></td><td></td><td></td><td></td><td>0.515</td><td>0.718</td></tr><tr><td rowspan=\"4\">Summer</td><td>Intercept</td><td></td><td>-1.265</td><td>0.330</td><td>-3.833</td><td>&lt;0.001</td><td></td><td></td></tr><tr><td>Forest vs. grassland</td><td></td><td>-1.247</td><td>0.275</td><td>-4.527</td><td>&lt;0.001</td><td></td><td></td></tr><tr><td rowspan=\"2\">Random</td><td>Fed</td><td></td><td></td><td></td><td></td><td>0.169</td><td>0.411</td></tr><tr><td>Fed:site</td><td></td><td></td><td></td><td></td><td>0.251</td><td>0.501</td></tr><tr><td rowspan=\"4\">Autumn</td><td>Intercept</td><td></td><td>-1.326</td><td>0.251</td><td>-5.278</td><td>&lt;0.001</td><td></td><td></td></tr><tr><td>Forest vs. grassland</td><td></td><td>-0.977</td><td>0.325</td><td>-3.005</td><td>0.002</td><td></td><td></td></tr><tr><td rowspan=\"2\">Random</td><td>Fed</td><td></td><td></td><td></td><td></td><td>0.384</td><td>0.619</td></tr><tr><td>Fed:site</td><td></td><td></td><td></td><td></td><td>0.000</td><td>0.000</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.106,
+                0.306,
+                0.821,
+                0.332
+            ],
+            "angle": 0,
+            "content": "The model incorporates all species and the nested spatial design as a random factor with a significance level of \\(\\alpha = 0.05\\). Fed, federal state; fed:site, site nested in federal state."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.356,
+                0.49,
+                0.439
+            ],
+            "angle": 0,
+            "content": "for \\( L. \\) interrogans ST 24, which was found in rodents in forest habitats and \\( L. \\) borgpetersenii ST 146 detected in common and crowned shrews. \\( L. \\) interrogans ST 24 was also found in beavers from South West Germany (Woll et al. 2012), which also suggests an infection of the beavers by contact with forest-dwelling rodents or rodent-contaminated water."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.44,
+                0.49,
+                0.563
+            ],
+            "angle": 0,
+            "content": "In a previous study, \\( L. \\) interrogans and \\( L. \\) borgpetersenii were detected in field voles (Mayer-Scholl et al. 2014), questioning a simple \"one pathogen-one carrier\" pattern. Field voles mainly inhabit the contact zone between forest and grassland and can shift between both habitats (Borowski 2003, Fey et al. 2006). An interesting question is whether the field vole is involved in the transmission of Leptospira spp. between grassland and forest habitats, particularly for \\( L. \\) kirschneri ST 110."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.094,
+                0.578,
+                0.415,
+                0.607
+            ],
+            "angle": 0,
+            "content": "Influences of demographic factors and seasonal fluctuations on Leptospira prevalence"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.092,
+                0.612,
+                0.49,
+                0.932
+            ],
+            "angle": 0,
+            "content": "The role of common and field voles as the main hosts of \\( L. \\) kirschneri is also supported by the positive correlation of weight (age) and Leptospira prevalence. This was observed for most of the studied species, suggesting a persisting infection in the whole rodent and shrew community with prevalence related to time (age) rather than population abundance (Faine 1999, Levett 2001, Krojgaard et al. 2009, Perez et al. 2011, Benacer et al. 2013, Himsworth et al. 2013). However, it cannot be excluded that the correlation of weight (age) and Leptospira prevalence is caused by an age-dependent increase of the susceptibility to infection. Other demographic factors were not consistently associated with Leptospira infection across species. For example, in accordance with Mayer-Scholl et al. (2014), sex was not associated with Leptospira prevalence in Microtus species, which suggests that sex-specific inter-individual social contact such as fighting for territory and mates may not be as important as time (age) of exposure. This is in contrast to previous studies on urban rats, which detected an influence of sex on prevalence (Easterbrook et al. 2007, Benacer et al. 2013). Such an influence in some urban areas in other regions of the world, besides Europe, may indicate a stronger man-influenced effect on the respective rat populations in the investigated ar"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.502,
+                0.355,
+                0.902,
+                0.426
+            ],
+            "angle": 0,
+            "content": "eas, as the majority of published studies did not report an influence of sex on Leptospira prevalence (Collares-Pereira et al. 2000, Agudelo-Florez et al. 2009, Halliday et al. 2013, Costa et al. 2014, Mayer-Scholl et al. 2014, Heuser et al. 2017)."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.505,
+                0.44,
+                0.725,
+                0.455
+            ],
+            "angle": 0,
+            "content": "Implications for human infections"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.502,
+                0.459,
+                0.902,
+                0.71
+            ],
+            "angle": 0,
+            "content": "Finally, a prevalence of \\(30\\%\\) in common voles suggests the occurrence of several hundred infected individuals per hectare during vole outbreaks (Bryja et al. 2005, Cornulier et al. 2013). L. kirschneri ST 110 found in our and previous studies in common and field voles corresponds to the serovar Grippotyphosa, a serovar that was previously observed as causative for leptospirosis outbreaks in strawberry pickers in Germany (Desai et al. 2009, Dreesman et al. 2016). For these outbreaks, common voles were identified as the most likely source of human infections (Desai et al. 2009). In comparison to the years 2010-2013, the increased Leptospira prevalence in common and field voles during 2014 (Supplementary Fig. S3A, B) may explain the disease cluster in strawberry pickers in Lower Saxony in 2014. The potential involvement of larger animals in leptospirosis epidemiology could not be evaluated in our study, as only a single report from North Rhine-Westphalia detected Leptospira prevalence of \\(26\\%\\) in wild boar (Schönberg et al. 1999)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.502,
+                0.71,
+                0.902,
+                0.932
+            ],
+            "angle": 0,
+            "content": "Our study showed the highest peak in Leptospira prevalence in animals, respectively, common and field voles, in autumn. However, this does not seem to correlate with the increased incidence of human leptospirosis cases during summer reported by the Robert Koch-Institute in Germany (Robert Koch-Institute 2016). An increase of the number of recorded human leptospirosis cases during the summer months is most likely due to the increased human exposure through outdoor activities in agriculture and forestry, and for leisure. The observed discrepancies between Leptospira prevalence in common and field voles and the reported overall low number of human infections might be explained by an underreporting of human leptospirosis cases due to nonspecific and variable symptoms of the disease. The high seroprevalence of \\(14\\%\\) in forestry workers and \\(4\\%\\) in the general population from a randomized population-based"
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.293,
+                0.054,
+                0.706
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.1,
+                0.044,
+                0.118,
+                0.054
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.784,
+                0.044,
+                0.902,
+                0.054
+            ],
+            "angle": 0,
+            "content": "FISCHER ET AL."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.074,
+                0.492,
+                0.169
+            ],
+            "angle": 0,
+            "content": "cross-sectional study in Germany (Jurke et al. 2015, Brockmann et al. 2016) indicates that the Leptospira exposure and seroconversion are much more frequent than commonly assumed. Therefore, future studies are required to evaluate the occurrence of human Leptospira infections and potential associations with its reservoir species, as well as factors regarding human exposure."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.185,
+                0.18,
+                0.197
+            ],
+            "angle": 0,
+            "content": "Conclusion"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.205,
+                0.493,
+                0.425
+            ],
+            "angle": 0,
+            "content": "The study confirmed a broad geographical distribution of Leptospira across rodent and shrew species and underlines the relevance of common and field voles as potential reservoirs of \\( L. \\) kirschneri ST 110. The sharing of STs among different rodent and shrew species occurring in the same habitats and the emergence of a novel \\( L. \\) kirschneri ST 230 in common voles in Baden-Wuerttemberg highlight the need for further investigations by means of molecular typing to better understand the epidemiology of leptospires and their impact on public health. Further investigations should focus on population dynamics of common and field vole and their impact on Leptospira prevalence and its putative influence on the human infection risk. In addition, comparative studies are needed to evaluate if \\( L. \\) interrogans STs in commensal rats and forest rodents have an impact on public health in rural and urban regions, at least in outbreak scenarios."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.1,
+                0.441,
+                0.23,
+                0.453
+            ],
+            "angle": 0,
+            "content": "Acknowledgments"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.461,
+                0.493,
+                0.93
+            ],
+            "angle": 0,
+            "content": "We thank Dörte Kaufmann, Anke Mandelkow, Christin Trapp, Marie Luisa Schmidt, Hanan Sheikh Ali, Christian Kretzschmar, Konrad M. Wanka, Mathias Schlegel, Paul Dremsek, Henrik Gregersen, Sylvia Ferguson, Ute Wessels, Theres Wollny, Josephine Schlosser, Franziska Thomas, Katja Plifke, Grit Möwert, Nadja Lorenz, Kathrin Baumann, Annemarie Steiner, and Stephan Drewes for support of the small mammal dissections and cytochrome \\(b\\) analyses. Our special thanks go to Enno Luge and Cornelia Gollner for the support at the German Federal Institute for Risk Assessment and to Patrick Wysocki at the Friedrich-Loeffler-Institut. Collection of samples was done according to relevant legislation and by permission of the federal authorities (permits Regierungspräsidium Stuttgart 35-9185.82/0261, Landesamt für Natur, Umwelt und Verbraucherschutz Nordrhein-Westfalen 8.87-51.05.20.09.210, Landesamt für Landwirtschaft, Lebensmittelsicherheit und Fischerei Mecklenburg-Vorpommern 7221. 3-030/09, Thüringer Landesamt für Lebensmittelsicherheit und Verbraucherschutz 22-2684-04-15-107/09). Work was supported by projects funded by the Federal Environment Agency (UBA) within the Environment Research Plan of the German Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety (BMUB; FKZ 3709 41 401 and FKZ 3713 48 401 to J.J. and R.G.U.), and by the German Federal Ministry of Food, Agriculture and Consumer Protection (BMELV) through the Federal Institute for Agriculture and Nutrition (BLE), grant no. 07HS027 (contract no. 506122) and the Robert Koch-Institute with funds of the German Ministry of Public Health (grant Nos. 1362/1-924, 1362/1-980). In addition, this study was partially funded by EU grant FP7-261504 EDENext \"Biology and control of vector-borne infections in Europe\" (www.edenext.eu). The contents of this publication are the sole responsibility of the authors and do not necessarily reflect the views of the European Commission. The Leptospira"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.51,
+                0.074,
+                0.902,
+                0.155
+            ],
+            "angle": 0,
+            "content": "investigations were funded, in part, by the German Federal Ministry of Education and Research (BMBF) through the German Research Platform for Zoonoses (Network \"Rodentborne pathogens,\" FKZ 01KI1018 and 01KI1303), and the Federal Institute for Risk Assessment (grant no. 1329-546) to R.G.U."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.174,
+                0.715,
+                0.185
+            ],
+            "angle": 0,
+            "content": "Author Disclosure Statement"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.527,
+                0.195,
+                0.776,
+                0.207
+            ],
+            "angle": 0,
+            "content": "No competing financial interests exist."
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.51,
+                0.225,
+                0.59,
+                0.236
+            ],
+            "angle": 0,
+            "content": "References"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.244,
+                0.902,
+                0.284
+            ],
+            "angle": 0,
+            "content": "Aasen E, Medrano JF. Amplification of the ZFY and ZFX genes for sex identification in humans, cattle, sheep and goats. Biotechnology (NY) 1990; 8:1279-1281."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.285,
+                0.902,
+                0.336
+            ],
+            "angle": 0,
+            "content": "Agudelo-Florez P, Londono AF, Quiroz VH, Angel JC, et al. Prevalence of Leptospira spp. in urban rodents from a groceries trade center of Medellin, Colombia. Am J Trop Med Hyg 2009; 81:906-910."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.338,
+                0.902,
+                0.375
+            ],
+            "angle": 0,
+            "content": "Andersen-Ranberg EU, Pipper C, Jensen PM. Global patterns of Leptospira prevalence in vertebrate reservoir hosts. J Wildl Dis 2016; 52:468-477."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.377,
+                0.902,
+                0.428
+            ],
+            "angle": 0,
+            "content": "Ayral F, Zilber AL, Bicout DJ, Kodjo A, et al. Distribution of Leptospira interrogans by multispacer sequence typing in urban Norway rats (Rattus norvegicus): a survey in France in 2011-2013. PLoS One 2015; 10:e0139604."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.43,
+                0.902,
+                0.468
+            ],
+            "angle": 0,
+            "content": "Ayral FC, Bicout DJ, Pereira H, Artois M, et al. Distribution of Leptospira serogroups in cattle herds and dogs in France. Am J Trop Med Hyg 2014; 91:756-759."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.47,
+                0.902,
+                0.534
+            ],
+            "angle": 0,
+            "content": "Benacer D, Mohd Zain SN, Amran F, Galloway RL, et al. Isolation and molecular characterization of Leptospira interrogans and Leptospira borgpetersenii isolates from the urban rat populations of Kuala Lumpur, Malaysia. Am J Trop Med Hyg 2013; 88:704-709."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.536,
+                0.902,
+                0.586
+            ],
+            "angle": 0,
+            "content": "Boonsilp S, Thaipadungpanit J, Amornchai P, Wuthiekanun V, et al. A single multilocus sequence typing (MLST) scheme for seven pathogenic Leptospira species. PLoS Negl Trop Dis 2013; 7:e1954."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.588,
+                0.902,
+                0.626
+            ],
+            "angle": 0,
+            "content": "Borowski Z. Habitat selection and home range size of field voles Microtus agrestis in Slowinski National Park, Poland. Acta Theriol 2003; 48:325-333."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.628,
+                0.902,
+                0.667
+            ],
+            "angle": 0,
+            "content": "Brockmann SO, Ulrich L, Piechotowski I, Wagner-Wiening C, et al. Risk factors for human Leptospira seropositivity in South Germany. SpringerPlus 2016; 5:1796."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.668,
+                0.902,
+                0.705
+            ],
+            "angle": 0,
+            "content": "Bryja J, Konecy A. Fast sex identification in wild mammals using PCR amplification of the Sry gene. Folia Zool 2003; 52: 269-274."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.708,
+                0.902,
+                0.746
+            ],
+            "angle": 0,
+            "content": "Bryja J, Nesvadbova J, Heroldova M, Janova E, et al. Common vole (Microtus arvalis) population sex ratio: biases and process variation. Can J Zool 2005; 83:1391-1399."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.747,
+                0.902,
+                0.786
+            ],
+            "angle": 0,
+            "content": "Calderon A, Rodriguez V, Mattar S, Arrieta G. Leptospirosis in pigs, dogs, rodents, humans, and water in an area of the Colombian tropics. Trop Anim Health Prod 2014; 46:427-432."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.788,
+                0.902,
+                0.825
+            ],
+            "angle": 0,
+            "content": "Collares-Pereira M, Mathias ML, Santos-Reis M, Ramalhinho MG, et al. Rodents and Leptospira transmission risk in Terceira island (Azores). Eur J Epidemiol 2000; 16:1151-1157."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.827,
+                0.902,
+                0.864
+            ],
+            "angle": 0,
+            "content": "Cornulier T, Yoccoz NG, Bretagnolle V, Brommer JE, et al. Europe-wide dampening of population cycles in keystone herbivores. Science 2013; 340:63-66."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.866,
+                0.902,
+                0.929
+            ],
+            "angle": 0,
+            "content": "Costa F, Porter FH, Rodrigues G, Farias H, et al. Infections by Leptospira interrogans, Seoul virus, and Bartonella spp. among Norway rats (Rattus norvegicus) from the urban slum environment in Brazil. Vector Borne Zoonotic Dis 2014; 14:33-40."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.51,
+                0.244,
+                0.902,
+                0.929
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.291,
+                0.055,
+                0.707
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.094,
+                0.042,
+                0.525,
+                0.055
+            ],
+            "angle": 0,
+            "content": "LEPTOSPIRA PREVALENCE IN SMALL MAMMALS IN GERMANY"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.88,
+                0.043,
+                0.898,
+                0.054
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.074,
+                0.489,
+                0.127
+            ],
+            "angle": 0,
+            "content": "de Faria MT, Calderwood MS, Athanazio DA, McBride AJA, et al. Carriage of Leptospira interrogans among domestic rats from an urban setting highly endemic for leptospirosis in Brazil. Acta Trop 2008; 108:1-5."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.127,
+                0.489,
+                0.178
+            ],
+            "angle": 0,
+            "content": "Desai S, van Treeck U, Lierz M, Espelage W, et al. Resurgence of field fever in a temperate country: an epidemic of leptospirosis among seasonal strawberry harvesters in Germany in 2007. Clin Infect Dis 2009; 48:691-697."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.179,
+                0.489,
+                0.218
+            ],
+            "angle": 0,
+            "content": "Dreesman J, Hamschmidt L, Toikkanen S, Runge M, et al. Leptospirose-Ausbruch bei Saisonarbeitern in der Erdbeer- ernte in Niedersachsen, 2014. Gesundheitswesen 2016; 78."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.219,
+                0.489,
+                0.258
+            ],
+            "angle": 0,
+            "content": "Easterbrook JD, Kaplan JB, Vanasco NB, Reeves WK, et al. A survey of zoonotic pathogens carried by Norway rats in Baltimore, Maryland, USA. Epidemiol Infect 2007; 135:1192-1199."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.259,
+                0.489,
+                0.284
+            ],
+            "angle": 0,
+            "content": "Faine S. Leptospira and Leptospirosis. MediSci, Melbourne, 1999."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.285,
+                0.489,
+                0.337
+            ],
+            "angle": 0,
+            "content": "Fey K, Banks PB, Korpimäki E. Different microhabitat preferences of field and bank voles under manipulated predation risk from an alien predator. Ann Zool Fennici 2006; 43:9-16."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.338,
+                0.489,
+                0.389
+            ],
+            "angle": 0,
+            "content": "Fouts DE, Matthias MA, Adhikarla H, Adler B, et al. What makes a bacterial species pathogenic?: Comparative genomic analysis of the genus Leptospira. PLoS Negl Trop Dis 2016; 10:e0004403."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.39,
+                0.489,
+                0.442
+            ],
+            "angle": 0,
+            "content": "Gamage CD, Koizumi N, Muto M, Nwafor-Okoli C, et al. Prevalence and carrier status of leptospirosis in smallholder dairy cattle and peridomestic rodents in Kandy, Sri Lanka. Vector Borne Zoonotic Dis 2011; 11:1041-1047."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.443,
+                0.489,
+                0.508
+            ],
+            "angle": 0,
+            "content": "Halliday JE, Knobel DL, Allan KJ, de C. Bronsvoort M, et al. Urban leptospirosis in Africa: a cross-sectional survey of Leptospira infection in rodents in the Kibera urban settlement, Nairobi, Kenya. Am J Trop Med Hyg 2013; 89:1095-1102."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.509,
+                0.489,
+                0.55
+            ],
+            "angle": 0,
+            "content": "Heuser E, Fischer S, Ryll R, Mayer-Scholl A, et al. Survey for zoonotic pathogens in Norway rat populations from Europe. Pest Manag Sci 2017; 73:341-348."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.55,
+                0.489,
+                0.602
+            ],
+            "angle": 0,
+            "content": "Himsworth CG, Bidulka J, Parsons KL, Feng AY, et al. Ecology of Leptospira interrogans in Norway rats (Rattus norvegicus) in an inner-city neighborhood of Vancouver, Canada. PLoS Negl Trop Dis 2013; 7:e2270."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.602,
+                0.489,
+                0.655
+            ],
+            "angle": 0,
+            "content": "Jacob J, Manson P, Barfknecht R, Fredricks T. Common vole (Microtus arvalis) ecology and management: implications for risk assessment of plant protection products. Pest Manag Sci 2014; 70:869-878."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.655,
+                0.489,
+                0.747
+            ],
+            "angle": 0,
+            "content": "Jurke A, Bannert N, Brehm K, Fingerle V, et al. Serological survey of Bartonella spp., Borrelia burgdorferi, Brucella spp., Coxiella burnetii, Francisella tularensis, Leptospira spp., Echinococcus, Hanta-, TBE- and XMR-virus infection in employees of two forestry enterprises in North Rhine-Westphalia, Germany, 2011-2013. Int J Med Microbiol 2015; 305:652-662."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.747,
+                0.489,
+                0.799
+            ],
+            "angle": 0,
+            "content": "Ko AI, Galvao Reis M, Ribeiro Dourado CM, Johnson WD, Jr., et al. Urban epidemic of severe leptospirosis in Brazil. Salvador Leptospirosis Study Group. Lancet 1999; 354: 820-825."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.8,
+                0.489,
+                0.865
+            ],
+            "angle": 0,
+            "content": "Kocianova E, Kozuch O, Bakoss P, Rehacek J, et al. The prevalence of small terrestrial mammals infected with tickborne encephalitis virus and leptospiirae in the foothills of the southern Bavarian forest, Germany. Appl Parasitol 1993; 34: 283-290."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.093,
+                0.866,
+                0.489,
+                0.919
+            ],
+            "angle": 0,
+            "content": "Koizumi N, Muto M, Tanikawa T, Mizutani H, et al. Human leptospirosis cases and the prevalence of rats harbouring Leptospira interrogans in urban areas of Tokyo, Japan. J Med Microbiol 2009; 58:1227-1230."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.093,
+                0.074,
+                0.489,
+                0.919
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.074,
+                0.9,
+                0.113
+            ],
+            "angle": 0,
+            "content": "Krojgaard LH, Villumsen S, Markussen MD, Jensen JS, et al. High prevalence of Leptospira spp. in sewer rats (Rattus norvegicus). Epidemiol Infect 2009; 137:1586-1592."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.113,
+                0.9,
+                0.166
+            ],
+            "angle": 0,
+            "content": "Lessa-Aquino C, Lindow JC, Randall A, Wunder E, et al. Distinct antibody responses of patients with mild and severe leptospirosis determined by whole proteome microarray analysis. PLoS Negl Trop Dis 2017; 11:e0005349."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.166,
+                0.9,
+                0.192
+            ],
+            "angle": 0,
+            "content": "Levett PN. Leptospirosis. Clin Microbiol Rev 2001; 14:296-326."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.192,
+                0.9,
+                0.218
+            ],
+            "angle": 0,
+            "content": "Levett PN. Systematics of Leptospiraceae. Curr Top Microbiol Immunol 2015; 387:11-20."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.219,
+                0.9,
+                0.259
+            ],
+            "angle": 0,
+            "content": "Mayer-Scholl A, Draeger A, Luge E, Ulrich R, et al. Comparison of two PCR systems for the rapid detection of Leptospira spp. from kidney tissue. Curr Microbiol 2011; 62:1104-1106."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.259,
+                0.9,
+                0.298
+            ],
+            "angle": 0,
+            "content": "Mayer-Scholl A, Hammerl JA, Schmidt S, Ulrich RG, et al. Leptospira spp. in rodents and shrews in Germany. Int J Environ Res Public Health 2014; 11:7562-7574."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.299,
+                0.9,
+                0.337
+            ],
+            "angle": 0,
+            "content": "Meerburg BG, Singleton GR, Kijlstra A. Rodent-borne diseases and their risks for public health. Crit Rev Microbiol 2009; 35: 221-270."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.338,
+                0.9,
+                0.378
+            ],
+            "angle": 0,
+            "content": "Mochmann H. The role of the field hamster (Cricetus cricetus) as of a source of infection of the swamp-field fever [in German]. Z Hyg Infektionskr 1957; 143:327-333."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.378,
+                0.9,
+                0.43
+            ],
+            "angle": 0,
+            "content": "Obiegala A, Albrecht C, Dafalla M, Drewes S, et al. Leptospira spp. in small mammals from areas with low and high human hantavirus incidences in south-west Germany. Vector Borne Zoonotic Dis 2017; 17:312-318."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.43,
+                0.9,
+                0.483
+            ],
+            "angle": 0,
+            "content": "Obiegala A, Woll D, Karnath C, Silaghi C, et al. Prevalence and genotype allocation of pathogenic Leptospira species in small mammals from various habitat types in Germany. PLoS Negl Trop Dis 2016; 10:e0004501."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.484,
+                0.9,
+                0.536
+            ],
+            "angle": 0,
+            "content": "Perez J, Brescia F, Becam J, Mauron C, et al. Rodent abundance dynamics and leptospirosis carriage in an area of hyper-endemicity in New Caledonia. PLoS Negl Trop Dis 2011; 5:e1361."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.536,
+                0.9,
+                0.589
+            ],
+            "angle": 0,
+            "content": "R Core Team. R: A language and environment for statistical computing. Vienna: R Foundation for Statistical Computing. 2015. ISBN 3-900051-07-0. Available at www.R-project.org Accessed July 3, 2017."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.589,
+                0.9,
+                0.628
+            ],
+            "angle": 0,
+            "content": "Reil D, Rosenfeld UM, Imholt C, Schmidt S, et al. Puumala hantavirus infections in bank vole populations: host and virus dynamics in Central Europe. BMC Ecol 2017; 17:9."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.629,
+                0.9,
+                0.668
+            ],
+            "angle": 0,
+            "content": "Robert Koch-Institute. 6.29 Leptospirose, In: Infektionsepidemiologisches Jahrbuch meldepflichtiger Krankheiten für 2016. 2016; 144-146."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.668,
+                0.9,
+                0.72
+            ],
+            "angle": 0,
+            "content": "Runge M, von Keyserlingk M, Braune S, Becker D, et al. Distribution of rodenticide resistance and zoonotic pathogens in Norway rats in Lower Saxony and Hamburg, Germany. Pest Manag Sci 2013; 69:403-408."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.721,
+                0.9,
+                0.773
+            ],
+            "angle": 0,
+            "content": "Schlegel M, Ali HS, Stieger N, Groschup MH, et al. Molecular identification of small mammal species using novel cytochrome \\(B\\) gene-derived degenerated primers. Biochem Genet 2012; 50:440-447."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.773,
+                0.9,
+                0.813
+            ],
+            "angle": 0,
+            "content": "Schmidt S, Saxenhofer M, Drewes S, Schlegel M, et al. High genetic structuring of Tula hantavirus. Arch Virol 2016; 161: 1135-1149."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.813,
+                0.9,
+                0.853
+            ],
+            "angle": 0,
+            "content": "Schönberg A, Lutz W, Kämpe U. Untersuchung von Serumproben vom Schwarzwild (Sus scrofa L. 1758) auf Leptospirose. Z Jagdwiss 1999; 45:262-265."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.853,
+                0.9,
+                0.893
+            ],
+            "angle": 0,
+            "content": "Scialfa E, Bolpe J, Bardon JC, Ridao G, et al. Isolation of Leptospira interrogans from suburban rats in Tandil, Buenos Aires, Argentina. Rev Argent Microbiol 2010; 42:126-128."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.505,
+                0.893,
+                0.9,
+                0.919
+            ],
+            "angle": 0,
+            "content": "Slack AT, Symonds ML, Dohnt MF, Smythe LD. Identification of pathogenic Leptospira species by conventional or real-time"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.505,
+                0.074,
+                0.9,
+                0.919
+            ],
+            "angle": 0,
+            "content": null
+        }
+    ],
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.039,
+                0.292,
+                0.055,
+                0.709
+            ],
+            "angle": 270,
+            "content": "Downloaded by Guangxi University for Nationalities from online.liebertpub.com at 02/23/18. For personal use only."
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.1,
+                0.043,
+                0.119,
+                0.055
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.783,
+                0.042,
+                0.902,
+                0.055
+            ],
+            "angle": 0,
+            "content": "FISCHER ET AL."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.112,
+                0.074,
+                0.493,
+                0.1
+            ],
+            "angle": 0,
+            "content": "PCR and sequencing of the DNA gyrase subunit B encoding gene. BMC Microbiol 2006; 6:95."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.099,
+                0.101,
+                0.493,
+                0.152
+            ],
+            "angle": 0,
+            "content": "Strand TM, Lohmus M, Persson Vinnersten T, Rasback T, et al. Highly pathogenic Leptospira found in urban brown rats (Rattus norvegicus) in the largest cities of Sweden. Vector Borne Zoonotic Dis 2015; 15:779-781."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.099,
+                0.153,
+                0.493,
+                0.204
+            ],
+            "angle": 0,
+            "content": "Theuerkauf J, Perez J, Taugamo A, Niutoua I, et al. Leptospirosis risk increases with changes in species composition of rat populations. Naturwissenschaften 2013; 100: 385-388."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.1,
+                0.205,
+                0.493,
+                0.271
+            ],
+            "angle": 0,
+            "content": "Victoria B, Ahmed A, Zuerner RL, Ahmed N, Bulach DM, Quinteiro J, Hartskeerl RA. Conservation of the S10-spca-alpha locus within otherwise highly plastic genomes provides phylogenetic insight into the genus Leptospira. PLoS One 2008; 3:e2752."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.1,
+                0.272,
+                0.492,
+                0.311
+            ],
+            "angle": 0,
+            "content": "Victoriano AF, Smythe LD, Gloriani-Barzaga N, Cavinta LL, et al. Leptospirosis in the Asia Pacific region. BMC Infect Dis 2009; 9:147."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.1,
+                0.312,
+                0.492,
+                0.337
+            ],
+            "angle": 0,
+            "content": "Watt G. Leptospirosis. New York: Oxford University Press Inc., 2010; 1:874-879."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.1,
+                0.338,
+                0.493,
+                0.365
+            ],
+            "angle": 0,
+            "content": "Woll D, Karnath C, Pfeffer M, Allgower R. Genetic characterization of Leptospira spp. from beavers found"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.099,
+                0.074,
+                0.493,
+                0.365
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.522,
+                0.074,
+                0.903,
+                0.099
+            ],
+            "angle": 0,
+            "content": "dead in south-west Germany. Vet Microbiol 2012; 158: 232-234."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.101,
+                0.903,
+                0.139
+            ],
+            "angle": 0,
+            "content": "Yanagihara Y, Villanueva SY, Yoshida S, Okamoto Y, et al. Current status of leptospirosis in Japan and Philippines. Comp Immunol Microbiol Infect Dis 2007; 30:399-413."
+        },
+        {
+            "type": "ref_text",
+            "bbox": [
+                0.51,
+                0.141,
+                0.903,
+                0.193
+            ],
+            "angle": 0,
+            "content": "Yannic G, Basset P, Hausser J. A new perspective on the evolutionary history of western European Sorex araneus group revealed by paternal and maternal molecular markers. Mol Phylogenet Evol 2008; 47:237-250."
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.51,
+                0.074,
+                0.903,
+                0.193
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.719,
+                0.228,
+                0.903,
+                0.241
+            ],
+            "angle": 0,
+            "content": "Address correspondence to:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.787,
+                0.242,
+                0.903,
+                0.254
+            ],
+            "angle": 0,
+            "content": "Rainer G. Ulrich"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.557,
+                0.256,
+                0.903,
+                0.269
+            ],
+            "angle": 0,
+            "content": "Institute of Novel and Emerging Infectious Diseases"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.732,
+                0.27,
+                0.903,
+                0.283
+            ],
+            "angle": 0,
+            "content": "Friedrich-Loeffler-Institut"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.6,
+                0.284,
+                0.903,
+                0.296
+            ],
+            "angle": 0,
+            "content": "Federal Research Institute for Animal Health"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.828,
+                0.297,
+                0.903,
+                0.31
+            ],
+            "angle": 0,
+            "content": "Südufer 10"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.748,
+                0.311,
+                0.903,
+                0.324
+            ],
+            "angle": 0,
+            "content": "Greifswald-Insel Riems"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.84,
+                0.325,
+                0.903,
+                0.339
+            ],
+            "angle": 0,
+            "content": "Germany"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.718,
+                0.351,
+                0.903,
+                0.364
+            ],
+            "angle": 0,
+            "content": "E-mail: rainer.ulrich@fli.de"
+        }
+    ]
+]

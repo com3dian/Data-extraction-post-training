@@ -1,0 +1,1606 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Communication "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                122,
+                169,
+                135
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Identification of Dobrava-Belgrade Virus in Apodemus flavicollis from North-Eastern Italy during Enhanced Mortality "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                136,
+                919,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stefania Leopardi 1, Petra Drzewnioková 1 , Melissa Baggieri "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ } ^ { 2 } \\textcircled { \\mathbb { D } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Antonella Marchi 2, Paola Bucci 2, Marco Bregoli 1, Paola De Benedictis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf 1 } _ { \\mathbb { D } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Federica Gobbo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 1 } _ { \\mathbb { D } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Laura Bellinati "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 1 } _ { \\textcircled { 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Carlo Citterio 1 , Isabella Monne "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf 1 } _ { \\mathbb { D } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Ambra Pastori 1, Gianpiero Zamperin "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bf 1 } _ { \\mathbb { D } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Elisa Palumbo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 1 } _ { \\textcircled { 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Francesca Festa 1, Martina Castellan "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathbf { 1 } _ { \\textcircled { 1 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Maira Zorzan 1, Emilio D’Ugo "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ } ^ { 2 } \\textcircled { \\vert \\frac { } { \\vert D \\vert } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", Paolo Zucca 3 , Calogero Terregino 1,* and Fabio Magurano "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathfrak { 2 } } \\oplus \\oplus \\oplus"
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                196,
+                830,
+                274
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 OIE Collaborating Centre for Diseases at the Animal-Human Interface, Istituto Zooprofilattico Sperimentale delle Venezie, 35020 Legnaro, Italy; sleopardi@izsvenezie.it (S.L.); pdrzewniokova@izsvenezie.it (P.D.); mbregoli@izsvenezie.it (M.B.); pdebenedictis@izsvenezie.it (P.D.B.); fgobbo@izsvenezie.it (F.G.); lbellinati@izsvenezie.it (L.B.); ccitterio@izsvenezie.it (C.C.); imonne@izsvenezie.it (I.M.); apastori@izsvenezie.it (A.P.); gzamperin@izsvenezie.it (G.Z.); epalumbo@izsvenezie.it (E.P.); ffesta@izsvenezie.it (F.F.); mcastellan@izsvenezie.it (M.C.); mzorzan@izsvenezie.it (M.Z.) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 Department of Infectious Diseases, Istituto Superiore di Sanità, 00161 Rome, Italy; melissa.baggieri@iss.it (M.B.); antonella.marchi@iss.it (A.M.); paola.bucci@iss.it (P.B.); emilio.dugo@iss.it (E.D.); fabio.magurano@iss.it (F.M.) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 Biocrime Center, Central Directorate for Health, Social Policies and Disability, 34127 Trieste, Italy; zucca.paolo@regione.fvg.it "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "* Correspondence: cterregino@izsvenezie.it "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                294,
+                939,
+                449
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4d8885e9277686ff0510654eb429304b3c76f6c3df834530f17ec47eef6c296f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                462,
+                146,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Citation: Leopardi, S.; Drzewnioková, P.; Baggieri, M.; Marchi, A.; Bucci, P.; Bregoli, M.; De Benedictis, P.; Gobbo, F.; Bellinati, L.; Citterio, C.; et al. Identification of Dobrava-Belgrade Virus in Apodemus flavicollis from North-Eastern Italy during Enhanced Mortality. Viruses 2022, 14, 1241. https://doi.org/10.3390/v14061241 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                489,
+                253,
+                614
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Academic Editors: Hiroaki Kariwa and Kumiko Yoshimatsu "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                624,
+                240,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Received: 12 May 2022 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                659,
+                179,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Accepted: 6 June 2022 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                675,
+                174,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Published: 7 June 2022 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                689,
+                176,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                709,
+                255,
+                763
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eb99f8253d9f4f973b7bac23ea2865b382120122d8c8298652c4b0482af3dd7a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                55,
+                777,
+                154,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                808,
+                257,
+                919
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Abstract: Hantaviruses include several zoonotic pathogens that cause different syndromes in humans, with mortality rates ranging from 12 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Most commonly, humans get infected through the inhalation of aerosols or dust particles contaminated with virus-containing rodent excreta. Hantaviruses are specifically associated with the host species, and human cases depend on the presence and the dynamics of reservoir hosts. In this letter, we report the identification of Dobrava-Belgrade virus (DOBV) in the yellow-necked mouse (Apodemus flavicollis) from Italy. The virus was detected in the mountainous area of the province of Udine, bordering Austria and Slovenia, during an event of enhanced mortality in wild mice and voles. Despite serological evidence in rodents and humans that suggested the circulation of hantaviruses in Italy since 2000, this is the first virological confirmation of the infection. Phylogenetic analyses across the whole genome of the two detected viruses confirmed the host-specificity of DOBV sub-species and showed the highest identity with viruses identified in Slovenia and Croatia from both A. flavicollis and humans, with no signs of reassortment. These findings highlight the need for ecologists, veterinarians and medical doctors to come together in a coordinated approach in full compliance with the One Health concept. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                464,
+                941,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keywords: Hantavirus; Dobrava-Belgrade; Apodemus flavicollis; one health "
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                694,
+                773,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Introduction "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                275,
+                753,
+                394,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantaviruses are enveloped viruses belonging to the family Hantaviridae with segmented, negative sense, single-stranded RNA. The genus Orthohantavirus includes 23 species classified by the International Commission on the Taxonomy of Viruses (ICTV), plus about 30 other viruses for which a complete characterization is not available yet [1]. In contrast to other viruses of this family, hantaviruses are transmitted directly from animal reservoirs with no arthropod vectors involved. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                771,
+                941,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Most hantaviruses have been described in rodents (order Rodentia, families Cricetidae, Muridae, Nesomyidae and Sciuridae) and new species are increasingly found in bats (order Chiroptera) and insectivores (order Soricomorpha) [2]. Each species of Hantavirus seems to be specifically associated with its own reservoir host. In Europe, the main reservoir "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                860,
+                941,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                57,
+                55,
+                115,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "viruses "
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                66,
+                245,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "MDPI "
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                64,
+                937,
+                98
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241. https://doi.org/10.3390/v14061241 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                963,
+                403,
+                977
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "https://www.mdpi.com/journal/viruses "
+                    }
+                ]
+            },
+            "bbox": [
+                687,
+                963,
+                939,
+                977
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "species are the wild yellow-necked mouse (Apodemus flavicollis), the black-striped field mouse (Apodemus agrarius) and the bank vole (Myodes glareolus), maintaining two different strains of the Dobrava-Belgrade virus (DOBV) and Puumala virus (PUUV), respectively. In addition, the grey rat (Rattus norvegicus) potentially maintains Seoul virus (SEOV) globally, sporadically reported outside Asia, including a single identification in France [3]. "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                112,
+                939,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hantaviruses, particularly the several species associated with rodents, are known as zoonotic pathogens that cause acute febrile diseases in humans with a mortality rate ranging from "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 2 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "for haemorrhagic fever with renal syndrome (HFRS) to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "hantavirus cardiopulmonary syndrome (HCPS). Although most cases are reported from China, Europe notifies more than 9000 severe cases each year, with several others likely remaining undetected [4,5]. These cases are mainly related to Puumala and Dobrava-Belgrade viruses, with mortality usually lower than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and ranging from 5 to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", respectively [3,4,6]. As humans are exposed mostly by inhaling viral particles aerosolized from the saliva, urine and/or faeces of rodents, occupations and activities such as working in forestry, farming and road maintenance strongly increase the likelihood of viral infection [5]. In addition, the incidence of human cases seems to be highly correlated with the dynamics of the populations of the reservoir species [6]. In particular, the massive increase in population density caused by an abundance of food during the mast years of beech (Fagus sylvatica) and oak (Quercus robur) trees can enhance the circulation of hantaviruses in the wild during the following year and increase the risk of human exposure [6–9]. The fact that mast-seeding events are linked to environmental factors, such as higher temperatures and seasonal changes in rainfall, suggests that the burden of hantavirus disease might increase as a consequence of climate change [10]. In this context, there is a major need for an integrated approach between ecologists, veterinarians and medical doctors, in full compliance with the One Health concept [11,12]. "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                187,
+                939,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Italy, only eight cases of Hantavirus disease have been described, mostly from tourists or transboundary workers, suggesting they contracted the infection abroad. Among these, most had a clinical presentation of HFRS, but three cases related to infection with the new world hantavirus Sin Nombre virus, showed typical signs of HCPS [5]. To date, no native cases of hantavirus disease have been described in Italy, despite the proximity to endemic countries and the presence of both the wild yellow-necked mouse, the blackstriped field mouse and the bank vole [5]. However, antibodies neutralizing either PUVV or DOBV have been historically detected in both humans and rodents, particularly in the mountainous areas bordering Austria and Slovenia, suggesting that these pathogens are actively circulating at least in some parts of the country [5,12,13]. The present communication reports the first molecular finding of Dobrava-Belgrade orthohantavirus in Apodemus flavicollis from north-eastern Italy in Summer 2021. "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                485,
+                939,
+                663
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Materials and Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                278,
+                675,
+                472,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Between June and July 2021, the diagnostic laboratories at the Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe) received 35 rodent carcasses from the mountainous area bordering Austria and Slovenia, in the province of Udine, that were necropsied. Twenty-one samples consisting of pools of liver and lungs from one to five individuals were sent to the Department of Infectious Disease (IDD) at the Italian National Institute of Health (ISS) for molecular detection. Further analysis was conducted at the IZSVe on individual kidney samples to determine the percentage of positive samples using a nested RT-PCR [14] and to confirm the host species through sequencing of the cytochrome oxidase I, as described elsewhere [15]. All samples positive for the detection of Orthohantavirus spp. were initially characterized through Sanger sequencing before attempting whole genome sequencing of viruses from individual samples. No further analyses were performed on the pooled samples, because they included more than one positive individual that could have challenged correct reconstruction of the sequences. We used a target approach amplifying the three segments using four pairs (one for S, one for M and two for L) of DOBV specific primers modified from Taylor et al., [16] (Table 1). The reaction was performed in a two-step "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                694,
+                939,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                64,
+                183,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 of 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                904,
+                64,
+                941,
+                76
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RT-PCR reaction using SuperScript™ IV Reverse Transcriptase (Invitrogen, Waltham, MA, USA) and Platinum™ SuperFi II Green PCR Master Mix (Invitrogen). Positive samples were sequenced using next generation sequencing implemented in Illumina MiSeq with Reagent Nano Kit v2 (500 cycles). "
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                112,
+                939,
+                173
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f48cf23cf76d2631a827289890fb880903cbc3f2f3279c2c5c07ac4d6f8eb87d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1. Primers used for targetted amplification of the complete genome of DOBV. "
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Segment</td><td>Primer Orientation</td><td>Sequence (5&#x27;→3&#x27;)</td><td>bp</td></tr><tr><td>S</td><td>Sense Antisense</td><td>TAGTAGTAKRCTCCCTAAARAGCACTAYAC TAGTAGTAGRCTCCCTAAAAAGACATTCAGGAAGC</td><td>1673</td></tr><tr><td>M</td><td>Sense Antisense</td><td>TAGTAGTAGRCTCCGCAAGAAAYAG TAGTAGTAKGCTCCGCARGATATAG</td><td>3664</td></tr><tr><td>L1</td><td>Sense Antisense</td><td>TAGTAGTAGACTCCGGAAGAGACARAYTAC CATYCCKACACCRAAAAGAGATGAAC</td><td>3253</td></tr><tr><td>L2</td><td>Sense Antisense</td><td>GATAACTCAGCTAARTTYAGAAGRTRCAC TAGTAGTATGCTCCGGAAAATGAAAATRAAT</td><td>3351</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                275,
+                206,
+                939,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To obtain complete genomes for the viruses, we first assessed the quality of raw reads using FastQC v0.11.7 (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/, accessed on 26 January 2022) and removed the reads related to the Illumina Nextera XT adaptors (Illumina, San Diego, CA, USA) using scythe v0.991 (https://github.com/vsbuffalo/ scythe, accessed on 26 January 2022). We then used cutadapt "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { v } 2 . 1 0 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "to trim the adaptors, designed specifically for Hantavirus, and to filter the raw reads with a Q score below 30 and a length below 80 nucleotides [17]. Complete genomes were generated through a reference-based approach using BWA v0.7.12 (https://github.com/lh3/bwa, accessed on 26 January 2022) [18]. We then used loFreq v2.1.2 (https://github.com/CSB5/lofreq, accessed on 26 January 2022) [19] to call single nucleotide polymorphisms (SNPs) and applied an in-house script to obtain the consensus sequences, setting "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "as the minimum coverage and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "5 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "of allele frequency as the threshold for base calling. "
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                387,
+                941,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Viral sequences obtained in the study were aligned with reference strains using G-INS-1 and default parameters implemented in Mafft [20]. Maximum likelihood (ML) nucleotide phylogenetic trees were inferred using PhyML (version 3.0) implemented in Seaview employing the "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { G T R } { + } \\Gamma 4"
+                    },
+                    {
+                        "type": "text",
+                        "content": "substitution model, a heuristic SPR branch-swapping algorithm and 100 bootstrap reiterations [21]; the obtained trees were edited online for graphical display using iTOL (version 6.0) [22]. "
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                565,
+                941,
+                657
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Results "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                273,
+                667,
+                354,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Between June and July 2021, the diagnostic laboratories at the Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe) received 35 rodent carcasses collected from the mountainous area bordering Austria and Slovenia, in the province of Udine. Necropsies showed no significant macroscopic lesions. Genetic analyses classified the hosts as Apodemus flavicollis "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathbf { n } = 2 2 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ") or Myodes glareolus "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\mathbf { n } = 8 )"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", whereas five analyses provided no interpretable sequences, likely due to the advanced decay stage of the carcasses. Among the twenty-one liver-lung pools, two tested positive for Orthohantavirus spp. Further analysis conducted on individual kidney samples confirmed the positivity of four individuals of A. flavicollis, with a percentage of positivity of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 1 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in the yellow-necked mice. All voles tested negative. Sanger sequencing of the PCR product attributed the infection to Dobrava-Belgrade virus. "
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                684,
+                941,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Target next generation sequencing performed from individual samples provided the complete genomes of two viruses, with an average coverage ranging respectively between "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 9 6 7 \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 1 5 2 \\times"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". All consensus sequences were submitted to GenBank under accessions n. OM677634-OM677639, raw data were submitted to SRA with accession n. PRJNA807277, and BioSamples SAMN25965836 and SAMN25965837. Maximum likelihood phylogenetic reconstructions using whole genome sequences demonstrated that the Italian "
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                834,
+                941,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                64,
+                183,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 of 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                904,
+                64,
+                941,
+                76
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOBV clustered within variants found in A. flavicollis and humans from Croatia and Slovenia in all three segments (Figure 1A–C) and showed no signs of genetic reassortment. Highest identity was found with strains from A. flavicollis in Slovenia (SLO/Af BER, with an identity ofW "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 7 . 5 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in L and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 7 . 8 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in M) and Croatia (Croatia_Gerovo/Af968/2008, with5 of 8 an identity of "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "9 8 . 7 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": "in S and no sequences available for the remaining segments). "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                112,
+                942,
+                187
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/85e07b350d65605118a5bf0b99d6a74efcf2cb4968d81fb0c3ac62d69ea6fa0d.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1. ML phylogenetic trees of the whole sequences for segments L (A), M (B) and S (C). The red box shows the viruses belonging to the specie Dobrava-Belgrade orthohantavirus. Original sequences "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                278,
+                195,
+                800,
+                887
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                64,
+                183,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 of 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                902,
+                64,
+                941,
+                74
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "are marked with a star, and sequences from countries neighbouring the study area are indicated with arrows. Coloured boxes represent the host in which the strains were detected, namely A. flavicollis (yellow), A. ponticus (orange), A. agrarius (green) and human infections (pink). "
+                    }
+                ]
+            },
+            "bbox": [
+                275,
+                118,
+                939,
+                162
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Discussion and Conclusions "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                275,
+                173,
+                512,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The fact that hantaviruses are specifically associated with a certain host species makes the presence of these reservoirs the most relevant risk factor for human infection. Other than the grey rat, all rodents known as hantavirus reservoirs in Europe are present in north-eastern Italy, including both A. flavicollis and A. agrarius, that have been found to maintain different sub-species of Dobrava-Belgrade orthohantavirus [23]. In this short report, we describe the identification of DOBV in the yellow-necked mouse from the Italian mountainous area bordering Austria and Slovenia. Phylogenetic analyses confirmed that our sequences grouped only with variants from the yellow-necked mouse, confirming the host-specificity of DOBV sub-species [23]. Despite serological evidence in rodents and humans the suggested the circulation of hantaviruses in Italy since 2000, this is the first virological confirmation of the infection [5,13,24]. "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                191,
+                939,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Previous studies questioned why hantaviruses should be restricted to a limited portion of the distribution of their hosts [25]. Indeed, our findings suggest that negative findings in certain areas could be due to a lack of or ineffective surveillance rather than the true absence of the pathogen. Indeed, the number of rodents received from north-eastern Italy in 2021 is the highest reported from the laboratory over the past 5 years, with average submissions between 2017 and 2020 being about 15 individuals with 1 single sample analysed from the province of Udine before 2021. Such an increase in rodent diagnostic activity was associated with enhanced mortality reported from north-eastern Italy. In Italy, previous efforts in active surveillance were pivotal in supporting the circulation of both DOBV and PUVV using serology but failed to identify the virus for over 20 years. This is not new in the study of pathogens in their wild reservoir, where they often circulate at low prevalence, making serology the most effective tool for monitoring the infection in the absence of viral detection [26]. Periodic epidemic waves have been largely described for both PUVV and DOBV in the case of relevant variations in population dynamics [6–8,27]. In our case, positive findings could have been favoured by increased prevalence within the reservoir due to increased population density, likely associated with the high production of seed in 2020, reported as a mast year across Europe [28]. This hypothesis is consistent with the enhanced mortality of rodents experienced in the area that was likely associated with exceeding the carrying capacity for the species rather than to the viral infection. However, it is crucial to notice that all the samples collected in 2012 after a similar event tested negative, which further highlights the challenges related to the study of pathogens in wildlife and might suggest changes in the ecology of hantaviruses in Italy that can be only unravelled through longitudinal active and passive surveillance. In addition, genetic data from our investigation show that the increased mortality was not peculiar to mice but also involved voles, despite the absence of virus detected in M. glareoulus, the reservoir species for PUVV. Since serological evidence suggests that PUVV might circulate in the country as well [13,24], our negative result could indicate that the sample size of bank voles was too low to detect the virus, or it could be related to differences in the dynamics of the two viral species in the area. "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                356,
+                939,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Numerous studies have revealed that outbreaks of hantavirus disease in humans are often associated with a high prevalence of the pathogen within the reservoir [4,11,12]. In this context, Slovenia reported several cases of PUVV over spring-summer in 2021 and compatible syndromes were also recorded in the provinces of Trieste and Udine, with a single case confirmed by molecular approaches that had contracted the infection in neighbouring Slovenia. Our study, together with previous serological evidence [5,12,13], confirms the circulation of DOBV in the wild yellow-necked mice in north-eastern Italy. Data presented herein encourage both active and passive surveillance plans in wild mice, taking into account population dynamics to better understand hantavirus ecology in the "
+                    }
+                ]
+            },
+            "bbox": [
+                278,
+                788,
+                939,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241 "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                65,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 of 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                904,
+                65,
+                939,
+                76
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "areas bordering their putative distribution, with the final aim of mitigating the risk of infection in humans. Indeed, this first identification in the reservoir emphasizes the risk of occurrence in humans of mild and severe forms of hantavirus disease in Italy, HFRS and HCPS included. It also reveals the need to conduct further research on hantaviruses in Italy, and to increase the awareness of physicians and local populations regarding the transmission pathways of the viruses and the available diagnostic methods. Equally important is the need to implement and integrate effective surveillance systems. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                112,
+                939,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Author Contributions: Conceptualization, S.L., P.D.B., I.M., F.G., C.T. and F.M.; methodology, S.L., P.D., M.B. (Marco Bregoli), I.M., G.Z. and F.M.; software, A.P. and G.Z.; validation, P.D.; formal analysis, P.D., M.B. (Melissa Baggieri), A.M., P.B., M.B. (Marco Bregoli), L.B., A.P., G.Z., E.P., F.F., M.C., M.Z. and E.D.; investigation, S.L., M.B. (Marco Bregoli), P.D.B., F.G. and C.C.; resources, P.D.B., M.B. (Marco Bregoli), I.M., P.Z., C.T. and F.M.; data curation, S.L. and P.D.; writing—original draft preparation, S.L., P.D. and A.P.; writing—review & editing, C.C., I.M., M.B. (Marco Bregoli), P.Z., C.T. and F.M.; visualization, S.L.; supervision, C.T. and F.M. All authors have read and agreed to the published version of the manuscript. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                230,
+                941,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Funding: The study was performed within the framework of regional surveillance aimed at identifying the emergence of zoonotic pathogens from wildlife. The authors received no funding to perform the investigation described. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                349,
+                941,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data Availability Statement: All consensus sequences are deposited in GenBank under accessions n. OM677634-OM677639, and raw data can be found in SRA with accession n. PRJNA807277, BioSamples SAMN25965836 and SAMN25965837. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                398,
+                941,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Acknowledgments: The authors want to acknowledge the work of all personnel of the IZSVe and ISS involved in diagnostic activities that lead to the identification of DOBV, including its exclusion in other Italian regions during the enhanced mortality. In particular, we acknowledge the support of Letizia Ceglie, Alda Natale, Fabrizio Agnoletti, Luca Bano, Laura Viel, Giovanni Farina and Debora Dellamaria. In addition, we thank Laura Gagliazzo for retrieving historical data on rodent diagnostics, Adelaide Milani and Alice Fusaro for support and advice in sequencing and phylogenetic analyses and Francesca Ellero for language editing. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                447,
+                941,
+                544
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conflicts of Interest: The authors declare no conflict of interest. "
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                551,
+                702,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ethical Statement: The study raised no ethical concern. All animals included in the present report were found dead and analysed within the framework of passive surveillance. No cell lines or animal models have been used. "
+                    }
+                ]
+            },
+            "bbox": [
+                272,
+                571,
+                939,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "References "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                626,
+                144,
+                639
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. ICTV. Hantaviridae ICTV Taxonomy Release 2021; ICTV online 2021. Available online: https://talk.ictvonline.org/taxonomy/ (accessed on 1 June 2022). "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Milholland, M.T.; Castro-Arellano, I.; Suzán, G.; Garcia-Peña, G.E.; Lee, T.E.; Rohde, R.E.; Alonso Aguirre, A.; Mills, J.N. Global Diversity and Distribution of Hantaviruses and Their Hosts. EcoHealth 2018, 15, 163–208. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Heyman, P.; Plyusnina, A.; Berny, P.; Cochez, C.; Artois, M.; Zizi, M.; Pirnay, J.P.; Plyusnin, A. Seoul hantavirus in Europe: First demonstration of the virus genome in wild Rattus norvegicus captures in France. Eur. J. Clin. Microbiol. Infect. Dis. 2004, 23, 711–717. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Avšiˇc-Županc, T.; Saksida, A.; Korva, M. Hantavirus infections. Clin. Microbiol. Infect. 2019, 21, e6–e16. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Riccò, M.; Peruzzi, S.; Ranzieri, S.; Balzarini, F.; Valente, M.; Marchesi, F.; Bragazzi, N.L. Hantavirus infections in Italy: Not reported doesn’t mean inexistent. Acta Biomed. Atenei Parm. 2021, 92, 2021324. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Vapalahti, O.; Mustonen, J.; Lundkvist, Å.; Henttonen, H.; Plyusnin, A.; Vaheri, A. Hantavirus infections in Europe. Lancet Infect. Dis. 2003, 3, 653–661. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Tersago, K.; Verhagen, R.; Vapalahti, O.; Heyman, P.; Ducoffre, G.; Leirs, H. Hantavirus outbreak in Western Europe: Reservoir host infection dynamics related to human disease patterns. Epidemiol. Infect. 2011, 139, 381–390. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8. Reusken, C.; Heyman, P. Factors driving hantavirus emergence in Europe. Curr. Opin. Virol. 2013, 3, 92–99. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9. Prist, P.R.; Prado, A.; Tambosi, L.R.; Umetsu, F.; de Arruda Bueno, A.; Pardini, R.; Metzger, J.P. Moving to healthier landscapes: Forest restoration decreases the abundance of Hantavirus reservoir rodents in tropical forests. Sci. Total Environ. 2021, 752, 141967. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "10. Mittler, E.; Dieterle, M.E.; Kleinfelter, L.M.; Slough, M.M.; Chandran, K.; Jangra, R.K. Hantavirus entry: Perspectives and recent advances. Adv. Virus Res. 2019, 104, 185–224. [CrossRef] "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                644,
+                941,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                64,
+                183,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6 of 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                902,
+                64,
+                941,
+                76
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11. Yon, L.; Duff, J.P.; Ågren, E.O.; Erdélyi, K.; Ferroglio, E.; Godfroid, J.; Hars, J.; Hestvik, G.; Horton, D.; Kuiken, T.; et al. Recent changes in infectious diseases in european wildlife. J. Wildl. Dis. 2019, 55, 3–43. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. Rizzoli, A.; Tagliapietra, V.; Rosà, R.; Hauffe, H.C.; Marini, G.; Voutilainen, L.; Sironen, T.; Rossi, C.; Arnoldi, D.; Henttonen, H. Recent increase in prevalence of antibodies to Dobrava-Belgrade virus (DOBV) in yellow-necked mice in northern Italy. Epidemiol. Infect. 2015, 143, 2241–2244. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. Kallio-Kokko, H.; Laakkonen, J.; Rizzoli, A.; Tagliapietra, V.; Cattadori, I.; Perkins, S.E.; Hudson, P.J.; Cristofolini, A.; Versini, W.; Vapalahti, O.; et al. Hantavirus and arenavirus antibody prevalence in rodents and humans in Trentino, Northern Italy. Epidemiol. Infect. 2006, 134, 830–836. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. Klempa, B.; Fichet-Calvet, E.; Lecompte, E.; Auste, B.; Aniskin, V.; Meisel, H.; Denys, C.; Koivogui, L.; Ter Meulen, J.; Krüger, D.H. Hantavirus in African wood mouse, Guinea. Emerg. Infect. Dis. 2006, 12, 838–840. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "15. De Benedictis, P.; Leopardi, S.; Markotter, W.; Velasco-Villa, A. The importance of accurate host species identification in the framework of rabies surveillance, control and elimination. Viruses 2022, 14, 492. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "16. Taylor, M.K.; Williams, E.P.; Wongsurawat, T.; Jenjaroenpun, P.; Nookaew, I.; Jonsson, C.B. Amplicon-Based, Next-Generation Sequencing Approaches to Characterize Single Nucleotide Polymorphisms of Orthohantavirus Species. Front. Cell. Infect. Microbiol. 2020, 10, 565591. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "17. Martin, M. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet. J. 2011, 17, 10–12. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "18. Van der Auwera, G.A.; Carneiro, M.O.; Hartl, C.; Poplin, R.; del Angel, G.; Levy-Moonshine, A.; Jordan, T.; Shakir, K.; Roazen, D.; Thibault, J.; et al. From FastQ Data to High-Confidence Variant Calls: The Genome Analysis Toolkit Best Practices Pipeline. Curr. Protoc. Bioinform. 2013, 43, 11.10.1–11.10.33. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "19. Wilm, A.; Aw, P.P.K.; Bertrand, D.; Yeo, G.H.T.; Ong, S.H.; Wong, C.H.; Khor, C.C.; Petric, R.; Hibberd, M.L.; Nagarajan, N. LoFreq: A sequence-quality aware, ultra-sensitive variant caller for uncovering cell-population heterogeneity from high-throughput sequencing datasets. Nucleic Acids Res. 2012, 40, 11189–11201. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "20. Katoh, K.; Misawa, K.; Kuma, K.; Miyata, T. MAFFT: A novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002, 30, 3059–3066. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "21. Dereeper, A.; Guignon, V.; Blanc, G.; Audic, S.; Buffet, S.; Chevenet, F.; Dufayard, J.F.; Guindon, S.; Lefort, V.; Lescot, M.; et al. Phylogeny.fr: Robust phylogenetic analysis for the non-specialist. Nucleic Acids Res. 2008, 36, 465–469. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "22. Letunic, I.; Bork, P. Interactive tree of life (iTOL) v3: An online tool for the display and annotation of phylogenetic and other trees. Nucleic Acids Res. 2016, 44, W242–W245. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "23. Klempa, B.; Schmidt, H.A.; Ulrich, R.; Kaluz, S.; Labuda, M.; Meisel, H.; Hjelle, B.; Krüger, D.H. Genetic Interaction between Distinct Dobrava Hantavirus Subtypes in Apodemus agrarius and A. flavicollis in Nature. J. Virol. 2003, 77, 804–809. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "24. Cosseddu, G.M.; Sozio, G.; Valleriani, F.; Di Gennaro, A.; Pascucci, I.; Gavaudan, S.; Marianneau, P.; Monaco, F. Serological Survey of Hantavirus and Flavivirus among Wild Rodents in Central Italy. Vector-Borne Zoonotic Dis. 2017, 17, 777–779. [CrossRef] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "25. Olsson, G.E.; Leirs, H.; Henttonen, H. Hantaviruses and their hosts in Europe: Reservoirs here and there, but not everywhere? Vector-Borne Zoonotic Dis. 2010, 10, 549–561. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "26. Gilbert, A.T.; Fooks, A.R.; Hayman, D.T.S.; Horton, D.L.; Müller, T.; Plowright, R.; Peel, A.J.; Bowen, R.; Wood, J.L.N.; Mills, J.; et al. Deciphering serology to understand the ecology of infectious diseases in wildlife. EcoHealth 2013, 10, 298–313. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "27. Heyman, P.; Thoma, B.R.; Marié, J.-L.; Cochez, C.; Essbauer, S.S. In search for factors that drive hantavirus epidemics. Front. Physiol. 2012, 3, 237. [CrossRef] [PubMed] "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "28. Chianucci, F.; Tattoni, C.; Ferrara, C.; Ciolli, M.; Brogi, R.; Zanni, M.; Apollonio, M.; Cutini, A. Evaluating sampling schemes for quantifying seed production in beech (Fagus sylvatica) forests using ground quadrats. For. Ecol. Manag. 2021, 493, 119294. [CrossRef] "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                112,
+                942,
+                688
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Viruses 2022, 14, 1241 "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                64,
+                183,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7 of 7 "
+                    }
+                ]
+            },
+            "bbox": [
+                902,
+                64,
+                941,
+                76
+            ]
+        }
+    ]
+]
