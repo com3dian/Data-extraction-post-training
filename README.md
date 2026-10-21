@@ -1,21 +1,5 @@
-# HOWTO use this template
-
-This template is created in mind to use in collaborative environments.
-
-### To use it:
-* Create a forked repository
-* Adjust README, LICENSE, CODE_OF_CONDUCT, CONTRIBUTING based on your needs.
-* Search and replace/fill in all TODOs to replace/fill in all the gaps.
-* Feel free to remove/adjust the project structure.
-* For badges visit [shields.io](https://shields.io)
-
-This template is open for improvements!
-
-### ↑↑↑ DELETE EVERYTHING ABOVE THE LINE ↑↑↑
-----
-
-
 <div align="center">
+<img width="155" height="200" alt="image" src="https://github.com/user-attachments/assets/ea158530-0986-447a-a83c-ed5d4f674165" />
 
 # Title project
 [![arXiv](https://img.shields.io/badge/arXiv-TODO.svg)](TODO)
