@@ -1,207 +1,121 @@
-# Species Interaction Data Extraction
+# HOWTO use this template
 
-This project extracts Jantzen-standard ecological species interactions from research
-papers. One paper can produce zero, one, or many interaction records. Each interaction is
-validated with Pydantic and saved as one row in a CSV table.
+This template is created in mind to use in collaborative environments.
 
-## Environment setup with uv
+### To use it:
+* Create a forked repository
+* Adjust README, LICENSE, CODE_OF_CONDUCT, CONTRIBUTING based on your needs.
+* Search and replace/fill in all TODOs to replace/fill in all the gaps.
+* Feel free to remove/adjust the project structure.
+* For badges visit [shields.io](https://shields.io)
 
-The project requires Python 3.12 or newer and uses `uv` for dependency and environment
-management.
+This template is open for improvements!
 
-```bash
-uv sync
-cp .env.example .env
-```
+### ↑↑↑ DELETE EVERYTHING ABOVE THE LINE ↑↑↑
+----
 
-`uv sync` creates `.venv`, installs the application and development dependencies, and uses
-the committed `uv.lock` for reproducibility. Run commands with `uv run`; activating the
-environment is optional.
 
-Never commit `.env` or API keys.
+<div align="center">
 
-## Download the Jantzen papers
+# Title project
+[![arXiv](https://img.shields.io/badge/arXiv-TODO.svg)](TODO)
+![python](https://img.shields.io/badge/python-3.12%2B-blue)
+[![pytorch](https://img.shields.io/badge/PyTorch_2.0+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
+[![lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)](https://pytorchlightning.ai/)
+[![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/WUR-AI/aether/blob/main/LICENSE) <br>
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/WUR-AI/aether/pulls)
+[![Issues](https://img.shields.io/github/issues/vdplasthijs/aether)](https://github.com/WUR-AI/aether/issues)
+![GitHub Tag](https://img.shields.io/github/v/tag/vdplasthijs/aether)
+[![test-main](https://github.com/WUR-AI/aether/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/WUR-AI/aether/actions/workflows/test.yml)
+[![contributors](https://img.shields.io/github/contributors/WUR-AI/aether.svg)](https://github.com/WUR-AI/aether//graphs/contributors)
 
-The source inventory already contains `Paper ID`, DOI, publisher link, and full citation
-columns. The downloader uses these to find publicly available PDFs through
-[OpenAlex](https://help.openalex.org/api/get-single-entities/),
-[Unpaywall](https://data.unpaywall.org/products/api),
-[Semantic Scholar](https://api.semanticscholar.org/api-docs/), and
-[Crossref](https://www.crossref.org/documentation/retrieve-metadata/rest-api/), followed by
-the URL stored in the source CSV and the DOI resolver. If an institutional repository
-redirects to a public Figshare article, it checks the article identity and tries its direct
-PDF file URL. For papers with a verified author or repository PDF that is missing from
-metadata services, add a row to `data/ready/jantzen_pdf_urls.csv` with `Paper ID`, matching
-`Reference DOI`, and `PDF URL`. The checked URL is tried first. The file includes paper 17.
+</div>
+<br>
 
-OpenAlex works without an account. Set a real contact email in `.env` to also use Unpaywall:
+## 📝 Description
 
-```dotenv
-UNPAYWALL_EMAIL=your_email@example.org
-# Optional; improves Semantic Scholar rate limits for a large batch.
-SEMANTIC_SCHOLAR_API_KEY=
-```
+Provide a 2-3 sentence high-level summary of the project. Include informative figure if available!
 
-Preview the batch without making network requests:
+<br>
+
+## ⚙️ Installation
+
+### 1. Clone the Repository
 
 ```bash
-uv run download-papers --dry-run
-```
+git clone [https://github.com/WUR-AI/TODO.git](https://github.com/WUR-AI/TODO.git)
+cd TODO
+````
+<br>
 
-Try five papers first, then run the full list:
-
-```bash
-uv run download-papers --limit 5
-uv run download-papers
-```
-
-To retry one paper after adding a verified URL:
+### 2. Set up Environment
 
 ```bash
-uv run download-papers --paper-id 17
-```
 
-The equivalent standalone script is:
+```
+<br>
+
+## 🚀 Getting Started
+### Data Preparation
+
+Explain where to download the data and where to place it (e.g., in a data/ folder).
+
+<br>
+
+### Running: Training, analysing, etc.
 
 ```bash
-uv run python scripts/download_papers.py --limit 5
+
 ```
+<br>
 
-PDFs are saved under `data/papers/jantzen/`. After each paper, the downloader atomically
-updates `outputs/paper_downloads/download_status.csv` and
-`outputs/paper_downloads/not_downloaded.csv`. It checks the PDF file signature and rejects
-HTML login/error pages even if the server labels them as a PDF. Existing valid PDFs are
-skipped on rerun; pass `--overwrite` only when you want to fetch them again.
+## 📂 Project Structure
+Make use of `tree -L 2 -I ".gitignore"` to auto-generate the tree.
 
-The downloader only uses links made available by the source table and scholarly metadata
-services; it does not bypass publisher access controls. Papers that need institutional or
-manual access remain in `not_downloaded.csv` with the attempted URLs and errors.
-If you obtain one through a browser or library account, save it as
-`data/papers/jantzen/paper_<Paper ID>.pdf` (for example, `paper_14.pdf`). On the next run,
-the downloader checks the file, marks it as already downloaded, and removes it from
-`not_downloaded.csv`.
-
-For an interactive run, open
-[`notebooks/02-download-jantzen-papers.ipynb`](notebooks/02-download-jantzen-papers.ipynb).
-Its default `LIMIT = 5` provides a small trial; change it to `None` for all selected papers.
-
-## Providers and models
-
-The CLI supports two OpenAI-compatible providers.
-
-### CLI Proxy
-
-CLI Proxy is used to access OpenAI models. Configure:
-
-```dotenv
-LLM_PROVIDER=cliproxy
-LLM_MODEL=gpt6luna
-CLIPROXY_API_KEY=...
-CLIPROXY_API_BASE=https://cliproxy.sub2api-best.com/v1
+```plaintext
+.
+├── CODE_OF_CONDUCT.md                  
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── data                            # Dataset storage (git-ignored)
+│   ├── ready                       # Processed, final data
+│   └── source                      # Source data
+├── docs                            # Sphinx generated
+├── notebooks                       # Jupyter notebooks for exploration
+│   └── 01-GT-name_example.ipynb    # Naming: number-intials-name
+├── outputs                         # Model weighs/ouput results
+├── reports                         #
+├── requirements.txt                # Python environment requirements (.yaml/ pyproject.toml)
+├── scripts                         # Shell scripts for cluster execution
+│   └── schedule.sh
+├── src                             # Source code
+│   ├── data                        # Data acquistion, preprocessing, loading
+│   ├── model                       # Model architecture and training logic
+│   ├── train.py                    # Training calls
+│   ├── visualisations              # Visualisation functions for reproducable code
+│   └── utils                       # Helper functions
+└── tests                           # Unit tests
 ```
+<br>
 
-Built-in aliases:
+## 📈 Project Updates & News
+ 
+Presentations & releases
+* [2026-03-12]: Template released!
+<br>
 
-- `gpt6luna` -> `gpt-6-luna`
-- `gpt56luna` -> `gpt-5.6-luna`
+## 📚 Citation
 
-### SURF Willma
+If you use TODO in your research, please cite the [arXiv paper](TODO):
 
-Configure:
-
-```dotenv
-LLM_PROVIDER=surf
-LLM_MODEL=oss120b
-SURF_API_KEY=...
-SURF_API_BASE=https://willma.surf.nl/api/v0
-```
-
-Built-in aliases:
-
-- `oss120b` -> `openai/gpt-oss-120b`
-- `qwen35b` -> `Qwen/Qwen3.6-35B-A3B-FP8`
-- `gemma4` -> `RedHatAI/gemma-4-31B-it-NVFP4`
-
-You can pass a full provider model ID instead of an alias. SURF requests include the
-required `X-API-KEY` header. Provider availability can change; a listed alias does not prove
-that the remote model is currently loaded.
-
-## Extract MinerU output
-
-PDF parsing is deliberately not implemented in this repository. Process the downloaded
-PDFs with MinerU on the server, copy the resulting Markdown or plain-text files back, and
-give those files (or their directory) to the extraction command.
-
-First inspect the selected files without making an API request:
-
-```bash
-uv run extract-papers data/mineru --recursive --dry-run
-```
-
-Run with CLI Proxy:
-
-```bash
-uv run extract-papers data/mineru \
-  --recursive \
-  --provider cliproxy \
-  --model gpt6luna \
-  --output-dir outputs/cliproxy-gpt6luna
-```
-
-Run with SURF:
-
-```bash
-uv run extract-papers data/mineru \
-  --recursive \
-  --provider surf \
-  --model oss120b \
-  --output-dir outputs/surf-oss120b
-```
-
-Strict JSON Schema output is used by default. This follows OpenAI's
-[Structured Outputs guidance](https://developers.openai.com/api/docs/guides/structured-outputs):
-the Pydantic model is sent as the response schema and the returned object is validated
-locally. If an OpenAI-compatible provider does not implement strict JSON Schema, use
-`--response-mode json_object`; local Pydantic validation still applies.
-
-The complete paper text is sent in one request. The pipeline never silently truncates a
-paper. Use `--max-paper-chars N` to fail explicitly when a paper exceeds a limit selected
-for a provider/model context window.
-
-## Output layout
-
-Each run directory contains:
-
-```text
-outputs/<run>/
-├── config.json              # Non-secret provider and run settings
-├── records.csv              # Combined table; one row per interaction
-├── run_status.csv           # One status row per paper
-├── by_paper/
-│   └── <paper-id>.csv       # Per-paper table checkpoint
-└── raw/
-    └── <paper-id>.json      # Validated structured result
-```
-
-Per-paper JSON and CSV files are written atomically. Re-running the same command skips
-completed papers and rebuilds `records.csv` from the checkpoints. Use `--overwrite` to
-extract them again. Failed papers remain visible in `run_status.csv` and do not erase
-successful outputs.
-
-The combined table includes paper provenance plus the fields extracted from paper content:
-
-- evidence type;
-- source taxon, directional interaction type, and target taxon;
-- target part and interaction-specific occurrence period;
-- study locality, reported coordinates, and observation years;
-- paper-supported remarks.
-
-Taxonomic acceptance, GBIF IDs, ontology IRIs, DOI bookkeeping, and internal paper IDs are
-deliberately left for later enrichment rather than inferred by the LLM.
-
-## Development
-
-```bash
-uv run pytest
-uv run ruff check .
+```bibtex
+@misc{awesomeAINtemplate2026,
+      title={}, 
+      author={},
+      year={},
+      eprint={},
+      archivePrefix={},
+      url={}, 
+}
 ```
