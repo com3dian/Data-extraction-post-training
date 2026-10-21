@@ -1,5 +1,5 @@
 <div align="center">
-<img width="155" height="200" alt="image" src="https://github.com/user-attachments/assets/ea158530-0986-447a-a83c-ed5d4f674165" />
+<img width="310" height="400" alt="image" src="https://github.com/user-attachments/assets/ea158530-0986-447a-a83c-ed5d4f674165" />
 
 # Title project
 [![arXiv](https://img.shields.io/badge/arXiv-TODO.svg)](TODO)
