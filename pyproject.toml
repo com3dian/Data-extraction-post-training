@@ -1,0 +1,41 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "data-extraction-post-training"
+version = "0.1.0"
+description = "Structured species-interaction extraction from research papers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28,<1",
+    "openai>=2.7,<3",
+    "pydantic>=2.10,<3",
+    "python-dotenv>=1.0,<2",
+]
+
+[project.scripts]
+download-papers = "src.data.download:main"
+extract-papers = "src.cli:main"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6,<8",
+    "jupyterlab>=4,<5",
+    "pytest>=8,<9",
+    "ruff>=0.14,<1",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
