@@ -151,6 +151,10 @@ activemq-data/
 .env
 .envrc
 .venv
+outputs/*
+!outputs/.gitkeep
+data/papers/**/*.pdf
+data/papers/**/*.part
 env/
 venv/
 ENV/
