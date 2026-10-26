@@ -28,6 +28,7 @@ MODEL_ALIASES: dict[Provider, dict[str, str]] = {
     },
     "surf": {
         "gemma4": "RedHatAI/gemma-4-31B-it-NVFP4",
+        "qwen27b": "Qwen/Qwen3.6-27B-FP8",
         "qwen35b": "Qwen/Qwen3.6-35B-A3B-FP8",
         "oss120b": "openai/gpt-oss-120b",
     },
@@ -103,7 +104,10 @@ def _request_options(config: ProviderConfig, max_output_tokens: int) -> dict:
         options["reasoning_effort"] = "none"
     else:
         options["max_tokens"] = max_output_tokens
-        if config.model == MODEL_ALIASES["surf"]["qwen35b"]:
+        if config.model in {
+            MODEL_ALIASES["surf"]["qwen27b"],
+            MODEL_ALIASES["surf"]["qwen35b"],
+        }:
             options["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}}
     return options
 

@@ -14,6 +14,7 @@ from src.model.client import (
 
 def test_model_aliases_resolve() -> None:
     assert resolve_model("cliproxy", "gpt6luna") == "gpt-6-luna"
+    assert resolve_model("surf", "qwen27b") == "Qwen/Qwen3.6-27B-FP8"
     assert resolve_model("surf", "oss120b") == "openai/gpt-oss-120b"
     assert resolve_model("surf", "custom/model") == "custom/model"
 
@@ -21,6 +22,9 @@ def test_model_aliases_resolve() -> None:
 def test_provider_specific_request_options() -> None:
     cliproxy = ProviderConfig("cliproxy", "gpt-6-luna", "secret", "https://x", 30)
     surf_qwen = ProviderConfig("surf", MODEL_ALIASES["surf"]["qwen35b"], "secret", "https://x", 30)
+    surf_qwen27 = ProviderConfig(
+        "surf", MODEL_ALIASES["surf"]["qwen27b"], "secret", "https://x", 30
+    )
 
     assert _request_options(cliproxy, 100) == {
         "max_completion_tokens": 100,
@@ -30,6 +34,7 @@ def test_provider_specific_request_options() -> None:
         "max_tokens": 100,
         "extra_body": {"chat_template_kwargs": {"enable_thinking": False}},
     }
+    assert _request_options(surf_qwen27, 100) == _request_options(surf_qwen, 100)
 
 
 def test_openai_sdk_parses_the_pydantic_schema_without_network() -> None:

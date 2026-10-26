@@ -8,8 +8,8 @@ from pathlib import Path
 
 from src.data.documents import discover_documents
 from src.data.output import ExtractionOutput
-from src.extraction import run_extraction
 from src.model import MODEL_ALIASES, StructuredLLMClient, load_provider_config
+from src.zeroshot import PROMPT_FINGERPRINT, run_extraction
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -70,6 +70,7 @@ def main(argv: list[str] | None = None) -> int:
             "response_mode": args.response_mode,
             "max_output_tokens": args.max_output_tokens,
             "max_paper_chars": args.max_paper_chars,
+            "prompt_fingerprint": PROMPT_FINGERPRINT,
         }
     )
     client = StructuredLLMClient(config)

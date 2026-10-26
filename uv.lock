@@ -423,6 +423,7 @@ dependencies = [
     { name = "openai" },
     { name = "pydantic" },
     { name = "python-dotenv" },
+    { name = "tqdm" },
 ]
 
 [package.dev-dependencies]
@@ -439,6 +440,7 @@ requires-dist = [
     { name = "openai", specifier = ">=2.7,<3" },
     { name = "pydantic", specifier = ">=2.10,<3" },
     { name = "python-dotenv", specifier = ">=1.0,<2" },
+    { name = "tqdm", specifier = ">=4.66,<5" },
 ]
 
 [package.metadata.requires-dev]
